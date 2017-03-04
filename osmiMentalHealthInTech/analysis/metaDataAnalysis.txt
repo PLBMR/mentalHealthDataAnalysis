@@ -2,3 +2,13 @@ Meta-Data Analysis
 Description: Contains my notes detailing information on how the data was
     collected and its purpose
 Last Updated: 3/4/2017 11:59 AM EST
+-Open Sourcing Mental Illness (OSMI):
+    --Site Link: https://osmihelp.org
+    --Provides resources and education to "support mental wellness in tech and
+        open source communities"
+-The Survey:
+    --Intended to "colelct information about mental health in the IT/tech
+        community"
+    --response are anonymous
+    --Question: How was this survey distributed? Who was offered the chance
+        to take the survey?
