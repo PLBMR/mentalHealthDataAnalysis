@@ -1,0 +1,4 @@
+Meta-Data Analysis
+Description: Contains my notes detailing information on how the data was
+    collected and its purpose
+Last Updated: 3/4/2017 11:59 AM EST
