@@ -1,0 +1,144 @@
+"roleType","workState","companySize","workPosString","age","diagnosedWithMHD","gender","workCountry","isUSA","predictions"
+"technical","","6-25","Back-end Developer",38,0,"M","United Kingdom",0,0
+"both","Illinois","6-25","Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer",43,1,"F","United States of America",1,1
+"technical","","1-5","Back-end Developer",33,1,"M","Canada",0,0
+"technical","Washington","26-100","Back-end Developer",44,1,"M","United States of America",1,1
+"technical","","100-500","Front-end Developer",29,0,"M","United Kingdom",0,0
+"non-technical","Massachusetts","More than 1000","Other",31,0,"F","United States of America",1,1
+"technical","","26-100","DevOps/SysAdmin",27,1,"M","United Kingdom",0,0
+"technical","","1-5","Front-end Developer|Back-end Developer",40,1,"M","Netherlands",0,0
+"both","Indiana","Self-Employed","One-person shop|Front-end Developer|Back-end Developer",31,1,"M","United States of America",1,0
+"non-technical","New York","More than 1000","Supervisor/Team Lead",34,1,"F","United States of America",1,1
+"non-technical","Indiana","26-100","Executive Leadership|Supervisor/Team Lead",51,0,"M","United States of America",1,1
+"both","","Self-Employed","Other|Executive Leadership|Supervisor/Team Lead|Back-end Developer",38,0,"M","Netherlands",0,0
+"non-technical","Illinois","26-100","Other",44,0,"F","United States of America",1,1
+"both","Illinois","26-100","Supervisor/Team Lead|Front-end Developer",26,0,"F","United States of America",1,1
+"technical","","26-100","Front-end Developer",21,1,"M","United Kingdom",0,0
+"non-technical","California","100-500","Other",37,0,"M","United States of America",1,1
+"technical","Ohio","More than 1000","Back-end Developer|Front-end Developer",45,0,"M","United States of America",1,1
+"non-technical","","6-25","Other",31,0,"M","United Kingdom",0,0
+"technical","","100-500","DevOps/SysAdmin",37,0,"M","United Kingdom",0,0
+"non-technical","","500-1000","Other",28,0,"M","Germany",0,0
+"both","","1-5","Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer",30,1,"F","United Kingdom",0,1
+"technical","","26-100","Back-end Developer",37,0,"M","Canada",0,0
+"non-technical","New York","6-25","Other",37,1,"F","United States of America",1,1
+"non-technical","Michigan","26-100","Supervisor/Team Lead",30,1,"F","United States of America",1,1
+"non-technical","California","500-1000","Executive Leadership",37,1,"F","United States of America",1,1
+"both","","26-100","Back-end Developer|Dev Evangelist/Advocate",38,0,"M","United Kingdom",0,0
+"technical","Michigan","26-100","Front-end Developer",31,1,"F","United States of America",1,1
+"non-technical","Michigan","26-100","Other",28,0,"F","United States of America",1,1
+"technical","","6-25","Front-end Developer|Back-end Developer",26,1,"M","Germany",0,0
+"technical","Michigan","26-100","Front-end Developer",36,0,"M","United States of America",1,1
+"both","Florida","More than 1000","Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin",27,0,"M","United States of America",1,0
+"technical","Virginia","6-25","Back-end Developer",54,1,"M","United States of America",1,1
+"both","Illinois","6-25","Supervisor/Team Lead|Back-end Developer|Front-end Developer",35,1,"M","United States of America",1,0
+"non-technical","","6-25","Executive Leadership",55,0,"F","Canada",0,1
+"non-technical","","6-25","Other",27,1,"M","Canada",0,0
+"technical","","Self-Employed","Back-end Developer",37,1,"M","Netherlands",0,0
+"both","","1-5","Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer|Front-end Developer",35,1,"M","Netherlands",0,0
+"technical","","Self-Employed","Front-end Developer|Back-end Developer|DevOps/SysAdmin",39,0,"M","Denmark",0,0
+"both","Pennsylvania","26-100","Support|Back-end Developer",28,1,"F","United States of America",1,1
+"non-technical","","More than 1000","Other",21,0,"F","Australia",0,1
+"both","California","More than 1000","Dev Evangelist/Advocate|DevOps/SysAdmin",37,1,"M","United States of America",1,1
+"both","","6-25","Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin",30,1,"M","Netherlands",0,0
+"both","","Self-Employed","Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Other",27,1,"F","United Kingdom",0,1
+"technical","","26-100","Back-end Developer|DevOps/SysAdmin",26,1,"O","Germany",0,1
+"technical","California","100-500","Back-end Developer",23,0,"F","United States of America",1,1
+"non-technical","California","26-100","HR|Dev Evangelist/Advocate|Sales",26,1,"F","United States of America",1,1
+"technical","New York","6-25","Front-end Developer|Back-end Developer",22,0,"F","United States of America",1,1
+"technical","","6-25","Front-end Developer|Back-end Developer",22,0,"M","Vietnam",0,0
+"technical","Minnesota","6-25","Back-end Developer",23,1,"M","United States of America",1,0
+"technical","Nebraska","100-500","Front-end Developer|Back-end Developer",32,1,"M","United States of America",1,1
+"both","","Self-Employed","Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead",33,0,"M","Australia",0,0
+"non-technical","California","Self-Employed","Other|Dev Evangelist/Advocate|One-person shop",28,0,"M","United States of America",1,1
+"technical","","Self-Employed","Back-end Developer",29,0,"M","United Kingdom",0,0
+"technical","","6-25","Back-end Developer|Front-end Developer",20,0,"M","Canada",0,0
+"technical","","26-100","Back-end Developer|Front-end Developer",29,0,"M","Brazil",0,0
+"non-technical","","26-100","Other",46,1,"M","United Kingdom",0,0
+"non-technical","Colorado","100-500","Dev Evangelist/Advocate",32,1,"M","United States of America",1,1
+"technical","California","100-500","DevOps/SysAdmin",32,1,"M","United States of America",1,1
+"both","North Carolina","More than 1000","Back-end Developer|One-person shop",62,1,"F","United States of America",1,1
+"both","South Dakota","26-100","Support|Back-end Developer",32,0,"M","United States of America",1,0
+"both","Texas","Self-Employed","One-person shop|Front-end Developer",48,1,"F","United States of America",1,1
+"non-technical","Kansas","More than 1000","Other",25,0,"M","United States of America",1,1
+"non-technical","Kansas","500-1000","Executive Leadership|Supervisor/Team Lead",34,0,"M","United States of America",1,0
+"technical","","6-25","Back-end Developer",26,0,"M","United Kingdom",0,0
+"technical","Virginia","1-5","Front-end Developer",27,0,"M","United States of America",1,0
+"non-technical","Vermont","Self-Employed","One-person shop",55,0,"F","United States of America",1,1
+"technical","","6-25","Front-end Developer|Back-end Developer|DevOps/SysAdmin",27,0,"M","Sweden",0,0
+"non-technical","","Self-Employed","One-person shop",30,0,"M","United Kingdom",0,0
+"non-technical","Oregon","26-100","Other",28,0,"M","United States of America",1,0
+"technical","","Self-Employed","DevOps/SysAdmin",37,0,"M","United Kingdom",0,0
+"technical","","1-5","Front-end Developer",28,0,"M","Canada",0,0
+"technical","California","More than 1000","Back-end Developer",29,1,"M","United States of America",1,1
+"technical","","More than 1000","Front-end Developer",37,0,"M","Canada",0,0
+"both","Connecticut","Self-Employed","Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support",33,1,"F","United States of America",1,1
+"both","Texas","26-100","Supervisor/Team Lead|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate",35,0,"M","United States of America",1,0
+"technical","Texas","26-100","Designer",42,1,"F","United States of America",1,1
+"both","","Self-Employed","DevOps/SysAdmin|Support|Back-end Developer|One-person shop",45,1,"M","Other",0,0
+"technical","Illinois","6-25","Back-end Developer",26,0,"M","United States of America",1,0
+"technical","Oregon","More than 1000","Back-end Developer",28,0,"M","United States of America",1,1
+"non-technical","","Self-Employed","One-person shop",42,0,"M","United Kingdom",0,0
+"both","","100-500","Dev Evangelist/Advocate|Front-end Developer|Back-end Developer|DevOps/SysAdmin",28,0,"M","Australia",0,0
+"non-technical","Texas","100-500","Dev Evangelist/Advocate",38,1,"M","United States of America",1,1
+"non-technical","North Dakota","Self-Employed","One-person shop",51,1,"F","United States of America",1,1
+"non-technical","","Self-Employed","One-person shop",39,0,"M","New Zealand",0,0
+"technical","Oklahoma","100-500","Back-end Developer",40,1,"M","United States of America",1,1
+"non-technical","","Self-Employed","Support",27,0,"M","Romania",0,0
+"non-technical","California","More than 1000","Support",39,1,"M","United States of America",1,1
+"both","Nebraska","26-100","Supervisor/Team Lead|Back-end Developer|Front-end Developer",34,1,"M","United States of America",1,0
+"technical","Texas","More than 1000","Back-end Developer|Front-end Developer",39,0,"M","United States of America",1,1
+"both","California","Self-Employed","Dev Evangelist/Advocate|One-person shop|Back-end Developer|Support|DevOps/SysAdmin",37,1,"M","United States of America",1,1
+"non-technical","","1-5","Other|Dev Evangelist/Advocate|Support",32,0,"M","Iran",0,0
+"non-technical","","100-500","Other",28,1,"F","Germany",0,1
+"both","","Self-Employed","Front-end Developer|Back-end Developer|Supervisor/Team Lead",29,0,"M","Switzerland",0,0
+"technical","Minnesota","500-1000","Front-end Developer|Designer",38,1,"M","United States of America",1,0
+"non-technical","","More than 1000","Other",34,1,"M","Hungary",0,0
+"technical","Texas","26-100","Front-end Developer",28,1,"M","United States of America",1,0
+"technical","","100-500","Front-end Developer|Back-end Developer",33,1,"M","Israel",0,0
+"technical","Utah","100-500","Back-end Developer",34,0,"M","United States of America",1,1
+"both","Texas","100-500","Supervisor/Team Lead|Back-end Developer",35,1,"M","United States of America",1,0
+"technical","Washington","100-500","Back-end Developer|Front-end Developer",30,0,"M","United States of America",1,0
+"technical","New York","100-500","Front-end Developer",32,0,"F","United States of America",1,1
+"technical","Wisconsin","More than 1000","Back-end Developer|Front-end Developer",40,1,"F","United States of America",1,1
+"non-technical","","More than 1000","Supervisor/Team Lead",47,0,"F","United Kingdom",0,1
+"non-technical","Missouri","More than 1000","Supervisor/Team Lead",52,0,"M","United States of America",1,1
+"non-technical","","6-25","Executive Leadership",40,0,"M","United Kingdom",0,0
+"technical","","6-25","Front-end Developer",24,0,"M","United Kingdom",0,0
+"non-technical","","Self-Employed","One-person shop",30,1,"M","United Kingdom",0,0
+"non-technical","","100-500","Executive Leadership",44,1,"M","Australia",0,0
+"technical","Wisconsin","More than 1000","DevOps/SysAdmin|Back-end Developer",37,1,"M","United States of America",1,1
+"technical","","6-25","Front-end Developer",22,1,"M","Brazil",0,0
+"technical","","More than 1000","Front-end Developer|Back-end Developer",37,0,"M","Germany",0,0
+"both","","6-25","Supervisor/Team Lead|Back-end Developer|Front-end Developer",28,0,"M","Netherlands",0,0
+"technical","","1-5","Back-end Developer",33,1,"M","Finland",0,0
+"technical","Ohio","More than 1000","Front-end Developer",31,1,"F","United States of America",1,1
+"technical","Pennsylvania","26-100","Back-end Developer",40,1,"M","United States of America",1,1
+"both","Texas","26-100","Supervisor/Team Lead|Support|Back-end Developer|Front-end Developer",39,1,"M","United States of America",1,0
+"technical","Georgia","26-100","Back-end Developer",33,1,"F","United States of America",1,1
+"technical","Illinois","26-100","DevOps/SysAdmin|Back-end Developer|Front-end Developer",26,0,"M","United States of America",1,0
+"both","","100-500","Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead",37,0,"M","Germany",0,0
+"both","","Self-Employed","Support|Sales|Back-end Developer|Front-end Developer|Designer|One-person shop",24,1,"M","Sweden",0,0
+"technical","Colorado","100-500","Back-end Developer",39,1,"M","United States of America",1,1
+"technical","North Carolina","26-100","Back-end Developer|Front-end Developer",30,1,"M","United States of America",1,0
+"non-technical","Utah","More than 1000","Other",50,1,"F","United States of America",1,1
+"both","","Self-Employed","Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer",21,0,"M","United Kingdom",0,0
+"technical","Colorado","6-25","Front-end Developer",27,1,"M","United States of America",1,0
+"non-technical","","Self-Employed","Other",45,0,"M","United Kingdom",0,0
+"both","New York","Self-Employed","One-person shop|Designer|Sales|Executive Leadership",26,0,"M","United States of America",1,0
+"non-technical","New York","More than 1000","Supervisor/Team Lead",29,1,"F","United States of America",1,1
+"non-technical","California","Self-Employed","Other",49,1,"F","United States of America",1,1
+"non-technical","","100-500","Supervisor/Team Lead",35,1,"M","Germany",0,0
+"technical","","More than 1000","Front-end Developer",33,1,"M","United Kingdom",0,0
+"both","","1-5","DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support",28,0,"M","United Kingdom",0,0
+"technical","Oregon","More than 1000","DevOps/SysAdmin|Back-end Developer|Front-end Developer",39,0,"M","United States of America",1,1
+"non-technical","Pennsylvania","More than 1000","Executive Leadership",30,1,"M","United States of America",1,1
+"non-technical","California","26-100","Supervisor/Team Lead",24,1,"F","United States of America",1,1
+"technical","","More than 1000","Back-end Developer|Front-end Developer",37,1,"M","United Kingdom",0,0
+"technical","California","26-100","Back-end Developer",35,0,"M","United States of America",1,1
+"both","Virginia","More than 1000","Other|Back-end Developer",22,1,"O","United States of America",1,1
+"technical","New York","1-5","Back-end Developer",23,1,"M","United States of America",1,0
+"both","California","100-500","Other|Back-end Developer",28,1,"M","United States of America",1,0
+"technical","","26-100","Back-end Developer|DevOps/SysAdmin",31,1,"M","Netherlands",0,0
+"technical","","26-100","Back-end Developer",39,1,"M","United Kingdom",0,0
+"non-technical","","Self-Employed","Support",56,1,"M","Afghanistan",0,0
