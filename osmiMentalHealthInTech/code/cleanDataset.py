@@ -27,4 +27,4 @@ if __name__ == "__main__":
     rawDataFilename = "../data/raw/osmi-survey-2016_data.csv"
     rawDataFrame = pd.read_csv(rawDataFilename)
     procDataFrame = processData(rawDataFrame)
-    procDataFrame.to_csv("../data/processed/procDataset.csv")
+    procDataFrame.to_csv("../data/processed/procDataset.csv",index = False)

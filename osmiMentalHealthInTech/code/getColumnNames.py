@@ -7,6 +7,6 @@ import pandas as pd
 
 #run method
 
-responseFrame = pd.read_csv("../data/osmi-survey-2016_data.csv")
+responseFrame = pd.read_csv("../data/raw/osmi-survey-2016_data.csv")
 for columnName in responseFrame.columns:
     print columnName
