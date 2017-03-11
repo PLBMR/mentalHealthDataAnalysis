@@ -1,0 +1,1 @@
+diagnosedWithMHD ~ age+factor(gender)+factor(roleType)+factor(isUSA)+age:factor(gender)
