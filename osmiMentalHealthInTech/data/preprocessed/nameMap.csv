@@ -1,0 +1,9 @@
+oldName,newName
+"Have you been diagnosed with a mental health condition by a medical professional?",diagnosedWithMHD
+"What is your age?",age
+"What is your gender?",gender
+"What country do you work in?",workCountry
+"What US state or territory do you work in?",workState
+"Which of the following best describes your work position?",workPosString
+roleType,roleType
+"How many employees does your company or organization have?",companySize
