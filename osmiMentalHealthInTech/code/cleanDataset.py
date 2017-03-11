@@ -43,6 +43,8 @@ def mapGender(dataFrame,genderMap):
     #helper for mapping gender in our data frame
     genderVec = dataFrame["What is your gender?"]
     dataFrame["What is your gender?"] = genderVec.map(genderMap)
+    #drop null observations
+    dataFrame = dataFrame[dataFrame["What is your gender?"].notnull()]
     return dataFrame
 
 def recodeWorkplaceSize(dataFrame):
