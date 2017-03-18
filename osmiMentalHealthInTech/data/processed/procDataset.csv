@@ -3,21 +3,21 @@ technical,,26-100,Back-end Developer,39,Yes,M,United Kingdom
 technical,Illinois,6-25,Back-end Developer|Front-end Developer,29,Yes,M,United States of America
 technical,,6-25,Back-end Developer,38,No,M,United Kingdom
 non-technical,,Self-Employed,Supervisor/Team Lead,43,Yes,M,United Kingdom
-both,Illinois,6-25,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,43,Yes,F,United States of America
+both,Illinois,6-25,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,43,Yes,W,United States of America
 both,,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,42,No,M,United Kingdom
 technical,Tennessee,26-100,Back-end Developer,30,No,M,United States of America
-both,Virginia,More than 1000,Dev Evangelist/Advocate|Back-end Developer,37,Yes,F,United States of America
-both,California,26-100,Support|Back-end Developer|One-person shop,44,Yes,F,United States of America
+both,Virginia,More than 1000,Dev Evangelist/Advocate|Back-end Developer,37,Yes,W,United States of America
+both,California,26-100,Support|Back-end Developer|One-person shop,44,Yes,W,United States of America
 both,Kentucky,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,30,Yes,M,United States of America
 technical,Oregon,26-100,Front-end Developer,28,Yes,M,United States of America
 non-technical,Pennsylvania,100-500,Executive Leadership,34,Yes,M,United States of America
-both,New Jersey,100-500,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,30,Yes,F,United States of America
+both,New Jersey,100-500,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,30,Yes,W,United States of America
 technical,,100-500,DevOps/SysAdmin|Back-end Developer|Front-end Developer,44,No,M,Canada
 technical,Georgia,100-500,Designer,35,Yes,M,United States of America
 non-technical,Oregon,100-500,Other|Executive Leadership,52,Yes,M,United States of America
-technical,,26-100,Front-end Developer,32,Yes,F,Canada
+technical,,26-100,Front-end Developer,32,Yes,W,Canada
 technical,,500-1000,Back-end Developer,34,No,M,United Kingdom
-non-technical,Washington,Self-Employed,One-person shop,25,Yes,F,United States of America
+non-technical,Washington,Self-Employed,One-person shop,25,Yes,W,United States of America
 technical,New York,100-500,Back-end Developer|Front-end Developer,31,Yes,M,United States of America
 technical,New York,6-25,Back-end Developer,26,No,M,United States of America
 non-technical,Indiana,More than 1000,Other,35,No,M,United States of America
@@ -27,7 +27,7 @@ non-technical,New York,Self-Employed,Supervisor/Team Lead,38,No,M,United States 
 both,,100-500,Supervisor/Team Lead|Support|Back-end Developer,42,No,M,Germany
 both,,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,27,Yes,M,Netherlands
 technical,,100-500,Back-end Developer,35,No,M,Germany
-non-technical,,500-1000,Other,34,No,F,United Kingdom
+non-technical,,500-1000,Other,34,No,W,United Kingdom
 both,,6-25,Other|Supervisor/Team Lead|Support|Back-end Developer|Designer,32,Yes,O,United Kingdom
 technical,,100-500,Back-end Developer,32,Yes,O,Germany
 both,New York,100-500,Supervisor/Team Lead|Back-end Developer,30,Yes,M,United States of America
@@ -41,23 +41,23 @@ technical,,100-500,Back-end Developer,29,Yes,M,United Kingdom
 non-technical,,More than 1000,Support|Other,44,No,M,Canada
 both,Georgia,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin,34,No,M,United States of America
 non-technical,Minnesota,100-500,Other,40,No,M,United States of America
-non-technical,,More than 1000,Supervisor/Team Lead|Other,46,No,F,Netherlands
+non-technical,,More than 1000,Supervisor/Team Lead|Other,46,No,W,Netherlands
 technical,,Self-Employed,DevOps/SysAdmin|Back-end Developer,28,No,M,Lithuania
 technical,Georgia,More than 1000,Back-end Developer,41,No,M,United States of America
 both,Kentucky,6-25,Supervisor/Team Lead|Back-end Developer|Front-end Developer,33,Yes,M,United States of America
 non-technical,Ohio,Self-Employed,Other,32,Yes,M,United States of America
 technical,Virginia,6-25,DevOps/SysAdmin|Back-end Developer|Front-end Developer,45,No,M,United States of America
 non-technical,,Self-Employed,Other,43,Yes,M,United Kingdom
-non-technical,California,6-25,Supervisor/Team Lead,37,Yes,F,United States of America
+non-technical,California,6-25,Supervisor/Team Lead,37,Yes,W,United States of America
 non-technical,,26-100,Executive Leadership,37,Yes,M,Australia
 technical,California,6-25,Front-end Developer|Back-end Developer|Executive Leadership,27,No,M,United States of America
 both,,Self-Employed,Supervisor/Team Lead|Back-end Developer|Front-end Developer|One-person shop,31,No,M,Netherlands
 both,California,More than 1000,Supervisor/Team Lead|DevOps/SysAdmin,36,Yes,M,United States of America
 technical,Florida,500-1000,DevOps/SysAdmin|Back-end Developer,34,Yes,M,United States of America
-non-technical,Massachusetts,More than 1000,Other,31,No,F,United States of America
+non-technical,Massachusetts,More than 1000,Other,31,No,W,United States of America
 technical,Oregon,26-100,Back-end Developer|Front-end Developer,30,Yes,M,United States of America
 non-technical,,100-500,Supervisor/Team Lead,32,No,M,Canada
-technical,North Dakota,6-25,Back-end Developer|Front-end Developer,40,No,F,United States of America
+technical,North Dakota,6-25,Back-end Developer|Front-end Developer,40,No,W,United States of America
 technical,Tennessee,100-500,Back-end Developer,40,No,M,United States of America
 technical,,More than 1000,Back-end Developer,41,No,M,France
 technical,,26-100,DevOps/SysAdmin,27,Yes,M,United Kingdom
@@ -65,7 +65,7 @@ non-technical,New York,26-100,Supervisor/Team Lead,30,No,M,United States of Amer
 technical,,Self-Employed,Front-end Developer|Back-end Developer,29,No,M,Venezuela
 non-technical,,Self-Employed,Other,38,No,M,United Kingdom
 both,,Self-Employed,Supervisor/Team Lead|Back-end Developer|One-person shop,35,No,M,Netherlands
-non-technical,Indiana,6-25,Supervisor/Team Lead,35,Yes,F,United States of America
+non-technical,Indiana,6-25,Supervisor/Team Lead,35,Yes,W,United States of America
 technical,Texas,More than 1000,Back-end Developer,29,Yes,M,United States of America
 technical,New York,100-500,Front-end Developer,28,No,M,United States of America
 technical,,26-100,Back-end Developer,27,Yes,M,Netherlands
@@ -76,7 +76,7 @@ technical,,1-5,Front-end Developer|Back-end Developer,40,Yes,M,Netherlands
 both,Tennessee,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,37,No,M,United States of America
 technical,,26-100,Front-end Developer|Back-end Developer|DevOps/SysAdmin,41,No,M,Netherlands
 technical,,Self-Employed,Back-end Developer,19,No,M,France
-technical,,6-25,Front-end Developer,38,No,F,Netherlands
+technical,,6-25,Front-end Developer,38,No,W,Netherlands
 technical,District of Columbia,26-100,Front-end Developer,33,No,M,United States of America
 both,Tennessee,26-100,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer,33,Yes,M,United States of America
 technical,,1-5,Back-end Developer|DevOps/SysAdmin,21,No,M,United Kingdom
@@ -88,47 +88,47 @@ technical,Michigan,6-25,DevOps/SysAdmin|Back-end Developer|Front-end Developer,4
 both,,26-100,Back-end Developer|Supervisor/Team Lead,41,No,M,Canada
 technical,,26-100,Back-end Developer,35,Yes,M,United Kingdom
 both,Texas,Self-Employed,Front-end Developer|Back-end Developer|Sales|Executive Leadership,30,Yes,M,United States of America
-technical,Illinois,26-100,Back-end Developer,24,Yes,F,United States of America
+technical,Illinois,26-100,Back-end Developer,24,Yes,W,United States of America
 non-technical,,100-500,Other,33,Yes,M,Brazil
 technical,Washington,More than 1000,Back-end Developer,35,Yes,M,United States of America
 non-technical,,6-25,Supervisor/Team Lead,26,No,M,United Kingdom
 technical,,6-25,Front-end Developer,17,No,M,Brazil
-technical,North Dakota,6-25,Front-end Developer,29,Yes,F,United States of America
+technical,North Dakota,6-25,Front-end Developer,29,Yes,W,United States of America
 technical,California,100-500,Back-end Developer,26,Yes,M,United States of America
-technical,Vermont,26-100,Front-end Developer,36,No,F,United States of America
+technical,Vermont,26-100,Front-end Developer,36,No,W,United States of America
 technical,Illinois,26-100,Back-end Developer|DevOps/SysAdmin,46,No,M,United States of America
 both,,Self-Employed,One-person shop|Back-end Developer|Sales|Support|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership|Other,39,No,M,Netherlands
-technical,California,100-500,Back-end Developer,28,Yes,F,United States of America
+technical,California,100-500,Back-end Developer,28,Yes,W,United States of America
 technical,Washington,500-1000,DevOps/SysAdmin,40,No,M,United States of America
 technical,Pennsylvania,100-500,Back-end Developer,23,Yes,M,United States of America
 technical,North Carolina,6-25,Back-end Developer,30,No,M,United States of America
-technical,Illinois,26-100,Designer,28,No,F,United States of America
+technical,Illinois,26-100,Designer,28,No,W,United States of America
 both,,26-100,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,27,No,M,Netherlands
 both,Indiana,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,31,Yes,M,United States of America
-technical,North Carolina,26-100,Back-end Developer,39,No,F,United States of America
-non-technical,New York,More than 1000,Supervisor/Team Lead,34,Yes,F,United States of America
+technical,North Carolina,26-100,Back-end Developer,39,No,W,United States of America
+non-technical,New York,More than 1000,Supervisor/Team Lead,34,Yes,W,United States of America
 both,North Carolina,6-25,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,30,Yes,M,United States of America
 technical,,Self-Employed,Front-end Developer|Back-end Developer|Executive Leadership,30,Yes,M,Denmark
 technical,Missouri,100-500,Designer,31,No,M,United States of America
 technical,California,26-100,Back-end Developer,30,Yes,M,United States of America
 technical,Kansas,More than 1000,Front-end Developer,32,No,M,United States of America
 technical,,Self-Employed,Back-end Developer|Front-end Developer,22,No,M,Czech Republic
-technical,,Self-Employed,Back-end Developer,37,Yes,F,Belgium
+technical,,Self-Employed,Back-end Developer,37,Yes,W,Belgium
 non-technical,Indiana,26-100,Executive Leadership|Supervisor/Team Lead,51,No,M,United States of America
 technical,Tennessee,26-100,Back-end Developer|Front-end Developer,26,Yes,M,United States of America
-technical,Minnesota,26-100,Front-end Developer,41,Yes,F,United States of America
-technical,District of Columbia,100-500,Back-end Developer,39,Yes,F,United States of America
+technical,Minnesota,26-100,Front-end Developer,41,Yes,W,United States of America
+technical,District of Columbia,100-500,Back-end Developer,39,Yes,W,United States of America
 technical,Tennessee,6-25,DevOps/SysAdmin|Back-end Developer,43,Yes,M,United States of America
 both,,500-1000,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,30,No,M,United Kingdom
-technical,Illinois,26-100,Designer,24,No,F,United States of America
+technical,Illinois,26-100,Designer,24,No,W,United States of America
 both,,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin,30,Yes,M,Netherlands
-technical,,26-100,Back-end Developer|Front-end Developer,28,Yes,F,Germany
-both,Washington,Self-Employed,One-person shop|Designer|Front-end Developer|Support,48,Yes,F,United States of America
-both,Nevada,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin,55,No,F,United States of America
-non-technical,Indiana,1-5,Other,36,No,F,United States of America
+technical,,26-100,Back-end Developer|Front-end Developer,28,Yes,W,Germany
+both,Washington,Self-Employed,One-person shop|Designer|Front-end Developer|Support,48,Yes,W,United States of America
+both,Nevada,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin,55,No,W,United States of America
+non-technical,Indiana,1-5,Other,36,No,W,United States of America
 both,,Self-Employed,Other|Executive Leadership|Supervisor/Team Lead|Back-end Developer,38,No,M,Netherlands
 technical,,100-500,Front-end Developer,34,No,M,France
-non-technical,Illinois,26-100,Other,44,No,F,United States of America
+non-technical,Illinois,26-100,Other,44,No,W,United States of America
 technical,Georgia,More than 1000,Back-end Developer,45,Yes,M,United States of America
 technical,Oregon,6-25,Back-end Developer|Front-end Developer,45,Yes,M,United States of America
 technical,Utah,500-1000,Back-end Developer,30,Yes,M,United States of America
@@ -137,13 +137,13 @@ technical,Connecticut,More than 1000,Back-end Developer|Front-end Developer,37,N
 technical,Tennessee,More than 1000,DevOps/SysAdmin,38,No,M,United States of America
 technical,Virginia,26-100,Front-end Developer,31,Yes,M,United States of America
 non-technical,Florida,26-100,Other,33,No,M,United States of America
-non-technical,New York,100-500,Other,29,Yes,F,United States of America
+non-technical,New York,100-500,Other,29,Yes,W,United States of America
 technical,California,100-500,Back-end Developer,35,Yes,M,United States of America
-both,,1-5,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|Front-end Developer,42,Yes,F,Canada
-both,Illinois,26-100,Supervisor/Team Lead|Front-end Developer,26,No,F,United States of America
-technical,Maryland,500-1000,Front-end Developer,36,Yes,F,United States of America
+both,,1-5,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|Front-end Developer,42,Yes,W,Canada
+both,Illinois,26-100,Supervisor/Team Lead|Front-end Developer,26,No,W,United States of America
+technical,Maryland,500-1000,Front-end Developer,36,Yes,W,United States of America
 technical,,26-100,Front-end Developer,21,Yes,M,United Kingdom
-non-technical,Washington,26-100,Supervisor/Team Lead,34,Yes,F,United States of America
+non-technical,Washington,26-100,Supervisor/Team Lead,34,Yes,W,United States of America
 technical,,Self-Employed,Back-end Developer,40,No,M,Germany
 both,Indiana,26-100,Other|Back-end Developer|Front-end Developer|Designer,35,Yes,M,United States of America
 technical,Oregon,6-25,Executive Leadership|DevOps/SysAdmin|Back-end Developer,44,No,M,United States of America
@@ -151,21 +151,21 @@ technical,,6-25,Front-end Developer,35,Yes,O,Canada
 non-technical,Michigan,More than 1000,Other,45,No,M,United States of America
 non-technical,Illinois,More than 1000,Supervisor/Team Lead,42,Yes,M,United States of America
 both,Colorado,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin,40,Yes,M,United States of America
-non-technical,Michigan,Self-Employed,One-person shop,50,Yes,F,United States of America
+non-technical,Michigan,Self-Employed,One-person shop,50,Yes,W,United States of America
 technical,New York,100-500,Back-end Developer,36,No,M,United States of America
-both,Minnesota,Self-Employed,Other|Supervisor/Team Lead|Back-end Developer|One-person shop,31,Yes,F,United States of America
+both,Minnesota,Self-Employed,Other|Supervisor/Team Lead|Back-end Developer|One-person shop,31,Yes,W,United States of America
 technical,Oregon,26-100,Back-end Developer,29,No,M,United States of America
 non-technical,California,100-500,Other,37,No,M,United States of America
 non-technical,California,26-100,Dev Evangelist/Advocate|Support,31,Yes,M,United States of America
 both,,More than 1000,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,42,No,M,Canada
 non-technical,Indiana,500-1000,Support,25,No,M,United States of America
 non-technical,California,6-25,Executive Leadership,27,Yes,M,United States of America
-technical,Ohio,More than 1000,Back-end Developer,41,Yes,F,United States of America
-non-technical,California,100-500,Executive Leadership,41,No,F,United States of America
-non-technical,California,More than 1000,HR,55,No,F,United States of America
+technical,Ohio,More than 1000,Back-end Developer,41,Yes,W,United States of America
+non-technical,California,100-500,Executive Leadership,41,No,W,United States of America
+non-technical,California,More than 1000,HR,55,No,W,United States of America
 non-technical,California,More than 1000,Dev Evangelist/Advocate,21,No,M,United States of America
 non-technical,,More than 1000,Supervisor/Team Lead,37,No,M,Netherlands
-technical,,More than 1000,Front-end Developer,34,No,F,Netherlands
+technical,,More than 1000,Front-end Developer,34,No,W,Netherlands
 technical,,More than 1000,Back-end Developer,40,No,M,United Kingdom
 both,,Self-Employed,Support|Back-end Developer|One-person shop,25,No,M,Netherlands
 non-technical,,More than 1000,Other,36,No,M,Germany
@@ -175,8 +175,8 @@ technical,North Carolina,6-25,Back-end Developer,37,No,M,United States of Americ
 technical,Ohio,More than 1000,Back-end Developer|Front-end Developer,45,No,M,United States of America
 technical,Oregon,6-25,Front-end Developer,26,Yes,M,United States of America
 technical,Illinois,26-100,Front-end Developer,23,No,M,United States of America
-technical,Oregon,26-100,Front-end Developer,22,Yes,F,United States of America
-technical,Illinois,26-100,Back-end Developer,46,Yes,F,United States of America
+technical,Oregon,26-100,Front-end Developer,22,Yes,W,United States of America
+technical,Illinois,26-100,Back-end Developer,46,Yes,W,United States of America
 non-technical,,6-25,Other,31,No,M,United Kingdom
 both,California,100-500,Dev Evangelist/Advocate|Back-end Developer|Support,27,Yes,M,United States of America
 technical,,6-25,Back-end Developer|DevOps/SysAdmin,37,No,M,United Kingdom
@@ -186,20 +186,20 @@ technical,,500-1000,Back-end Developer,23,No,M,Netherlands
 both,Ohio,26-100,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,40,Yes,M,United States of America
 technical,,1-5,Back-end Developer|DevOps/SysAdmin,29,No,M,Denmark
 both,California,100-500,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,37,Yes,M,United States of America
-non-technical,California,100-500,Other|HR,34,No,F,United States of America
+non-technical,California,100-500,Other|HR,34,No,W,United States of America
 both,Iowa,More than 1000,Support|Back-end Developer,40,Yes,M,United States of America
 both,California,500-1000,Supervisor/Team Lead|Back-end Developer,39,Yes,M,United States of America
 technical,Washington,500-1000,Back-end Developer,28,Yes,M,United States of America
 technical,,Self-Employed,Back-end Developer,28,No,M,Belgium
 technical,,26-100,Back-end Developer,27,No,M,Germany
 non-technical,,Self-Employed,Other,48,No,M,United Kingdom
-both,Connecticut,More than 1000,DevOps/SysAdmin|Support,49,Yes,F,United States of America
+both,Connecticut,More than 1000,DevOps/SysAdmin|Support,49,Yes,W,United States of America
 technical,,26-100,Back-end Developer,35,Yes,M,United Kingdom
 both,,100-500,Supervisor/Team Lead|Back-end Developer,35,Yes,M,Sweden
 non-technical,,Self-Employed,Dev Evangelist/Advocate,38,Yes,M,United Kingdom
 non-technical,California,500-1000,Executive Leadership|Supervisor/Team Lead,32,Yes,M,United States of America
 both,Ohio,More than 1000,Supervisor/Team Lead|Back-end Developer,42,Yes,M,United States of America
-non-technical,Texas,100-500,Support,33,No,F,United States of America
+non-technical,Texas,100-500,Support,33,No,W,United States of America
 both,,26-100,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,35,No,M,United Kingdom
 technical,,500-1000,Front-end Developer|Back-end Developer,24,No,M,Russia
 non-technical,California,500-1000,Other,29,Yes,O,United States of America
@@ -211,7 +211,7 @@ non-technical,Indiana,6-25,Support,44,Yes,M,United States of America
 non-technical,,100-500,Dev Evangelist/Advocate,37,No,M,United Kingdom
 non-technical,,500-1000,Other,28,No,M,Germany
 non-technical,South Dakota,100-500,Supervisor/Team Lead,42,Yes,M,United States of America
-both,,1-5,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,30,Yes,F,United Kingdom
+both,,1-5,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,30,Yes,W,United Kingdom
 non-technical,,100-500,Support,36,No,M,Russia
 technical,,500-1000,Back-end Developer,30,No,M,Russia
 technical,Nevada,6-25,Back-end Developer,29,No,M,United States of America
@@ -222,17 +222,17 @@ technical,,More than 1000,Back-end Developer,25,No,M,Russia
 non-technical,,26-100,Executive Leadership|Supervisor/Team Lead,31,Yes,M,Denmark
 technical,,26-100,Back-end Developer,37,No,M,Canada
 technical,California,100-500,Back-end Developer,35,No,M,United States of America
-technical,,6-25,Front-end Developer|Back-end Developer,26,Yes,F,Spain
+technical,,6-25,Front-end Developer|Back-end Developer,26,Yes,W,Spain
 technical,,100-500,Back-end Developer|DevOps/SysAdmin,31,No,M,United Kingdom
-non-technical,Hawaii,500-1000,Support|Other,29,No,F,United States of America
+non-technical,Hawaii,500-1000,Support|Other,29,No,W,United States of America
 technical,,26-100,Back-end Developer,33,Yes,M,France
 non-technical,,26-100,Supervisor/Team Lead,30,No,M,India
 technical,Florida,26-100,Back-end Developer,30,No,M,United States of America
-non-technical,California,100-500,Other,29,Yes,F,United States of America
-non-technical,California,26-100,HR,25,Yes,F,United States of America
+non-technical,California,100-500,Other,29,Yes,W,United States of America
+non-technical,California,26-100,HR,25,Yes,W,United States of America
 technical,Nebraska,More than 1000,Back-end Developer,27,No,M,United States of America
 non-technical,,500-1000,Executive Leadership,26,No,M,Germany
-non-technical,Maine,500-1000,Other,38,No,F,United States of America
+non-technical,Maine,500-1000,Other,38,No,W,United States of America
 non-technical,Missouri,More than 1000,Other,49,Yes,M,United States of America
 non-technical,Arizona,26-100,Dev Evangelist/Advocate,30,No,M,United States of America
 technical,,Self-Employed,Front-end Developer|Back-end Developer,34,No,M,France
@@ -241,34 +241,34 @@ both,California,Self-Employed,Front-end Developer|Back-end Developer|Sales|DevOp
 technical,,100-500,Back-end Developer,31,No,M,Germany
 technical,,100-500,Front-end Developer,34,No,M,Germany
 both,Oklahoma,6-25,Front-end Developer|Back-end Developer|Support,28,No,M,United States of America
-both,,Self-Employed,One-person shop|Back-end Developer|Supervisor/Team Lead,35,Yes,F,United Kingdom
+both,,Self-Employed,One-person shop|Back-end Developer|Supervisor/Team Lead,35,Yes,W,United Kingdom
 technical,,500-1000,Back-end Developer,27,No,M,Germany
 both,,Self-Employed,Supervisor/Team Lead|Back-end Developer,33,No,M,Germany
-non-technical,New York,6-25,Other,37,Yes,F,United States of America
+non-technical,New York,6-25,Other,37,Yes,W,United States of America
 both,,More than 1000,Supervisor/Team Lead|DevOps/SysAdmin,45,Yes,M,United Kingdom
-technical,Wisconsin,6-25,Front-end Developer|Designer,31,Yes,F,United States of America
+technical,Wisconsin,6-25,Front-end Developer|Designer,31,Yes,W,United States of America
 technical,Arizona,More than 1000,Back-end Developer|Front-end Developer,36,No,M,United States of America
 non-technical,California,500-1000,Other|Support,30,Yes,M,United States of America
-non-technical,,More than 1000,Dev Evangelist/Advocate,33,Yes,F,United Arab Emirates
-non-technical,,500-1000,HR,45,Yes,F,Canada
-non-technical,Michigan,26-100,Supervisor/Team Lead,30,Yes,F,United States of America
+non-technical,,More than 1000,Dev Evangelist/Advocate,33,Yes,W,United Arab Emirates
+non-technical,,500-1000,HR,45,Yes,W,Canada
+non-technical,Michigan,26-100,Supervisor/Team Lead,30,Yes,W,United States of America
 both,Michigan,26-100,Supervisor/Team Lead|Front-end Developer,30,Yes,M,United States of America
 both,Illinois,Self-Employed,DevOps/SysAdmin|One-person shop|Front-end Developer|Back-end Developer,29,Yes,M,United States of America
 technical,,1-5,DevOps/SysAdmin|Executive Leadership,36,No,M,Mexico
 technical,Michigan,26-100,Front-end Developer,28,Yes,M,United States of America
 technical,Michigan,26-100,Front-end Developer,36,Yes,M,United States of America
-non-technical,California,500-1000,Executive Leadership,37,Yes,F,United States of America
+non-technical,California,500-1000,Executive Leadership,37,Yes,W,United States of America
 technical,Michigan,26-100,Front-end Developer,29,No,M,United States of America
 technical,Michigan,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,25,Yes,M,United States of America
-non-technical,Michigan,26-100,Supervisor/Team Lead,34,No,F,United States of America
+non-technical,Michigan,26-100,Supervisor/Team Lead,34,No,W,United States of America
 non-technical,,More than 1000,Support,37,No,M,Canada
-non-technical,Washington,More than 1000,Executive Leadership|Dev Evangelist/Advocate,40,Yes,F,United States of America
+non-technical,Washington,More than 1000,Executive Leadership|Dev Evangelist/Advocate,40,Yes,W,United States of America
 technical,Texas,100-500,DevOps/SysAdmin,32,No,M,United States of America
 both,,26-100,Back-end Developer|Dev Evangelist/Advocate,38,No,M,United Kingdom
-technical,Michigan,26-100,Front-end Developer,31,Yes,F,United States of America
-non-technical,Michigan,26-100,Other,28,No,F,United States of America
-non-technical,,100-500,Other,27,Yes,F,United Kingdom
-technical,Michigan,26-100,Front-end Developer,28,Yes,F,United States of America
+technical,Michigan,26-100,Front-end Developer,31,Yes,W,United States of America
+non-technical,Michigan,26-100,Other,28,No,W,United States of America
+non-technical,,100-500,Other,27,Yes,W,United Kingdom
+technical,Michigan,26-100,Front-end Developer,28,Yes,W,United States of America
 technical,,6-25,Front-end Developer|Back-end Developer,26,Yes,M,Germany
 non-technical,Michigan,26-100,Support|HR|Supervisor/Team Lead|Executive Leadership,40,No,M,United States of America
 non-technical,Washington,More than 1000,Dev Evangelist/Advocate,42,Yes,M,United States of America
@@ -278,14 +278,14 @@ technical,Michigan,500-1000,Back-end Developer,24,Yes,M,United States of America
 both,Kansas,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,44,No,M,United States of America
 non-technical,Washington,More than 1000,Dev Evangelist/Advocate,31,Yes,M,United States of America
 both,Washington,Self-Employed,One-person shop|Back-end Developer,49,No,M,United States of America
-technical,California,26-100,Back-end Developer|Front-end Developer,27,No,F,United States of America
+technical,California,26-100,Back-end Developer|Front-end Developer,27,No,W,United States of America
 both,Florida,More than 1000,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,27,No,M,United States of America
 both,California,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,28,Yes,M,United States of America
-technical,California,6-25,Back-end Developer|Front-end Developer,20,Yes,F,United States of America
+technical,California,6-25,Back-end Developer|Front-end Developer,20,Yes,W,United States of America
 both,,Self-Employed,Back-end Developer|Front-end Developer|One-person shop,41,No,M,Germany
 technical,,100-500,Back-end Developer,38,Yes,M,Australia
 non-technical,California,100-500,Other,29,No,M,United States of America
-non-technical,Oregon,100-500,Supervisor/Team Lead,44,Yes,F,United States of America
+non-technical,Oregon,100-500,Supervisor/Team Lead,44,Yes,W,United States of America
 technical,California,500-1000,Back-end Developer,31,No,M,United States of America
 technical,Virginia,6-25,Back-end Developer,54,Yes,M,United States of America
 technical,,500-1000,Back-end Developer,33,No,M,Germany
@@ -293,60 +293,60 @@ technical,,6-25,Back-end Developer,29,No,M,Netherlands
 technical,,26-100,DevOps/SysAdmin|Back-end Developer,26,Yes,O,United Kingdom
 technical,,26-100,Back-end Developer,26,No,M,United Kingdom
 non-technical,,Self-Employed,One-person shop,34,No,M,United Kingdom
-technical,New Jersey,100-500,Back-end Developer,38,Yes,F,United States of America
+technical,New Jersey,100-500,Back-end Developer,38,Yes,W,United States of America
 technical,,100-500,Back-end Developer,30,Yes,M,United Kingdom
 both,,Self-Employed,Front-end Developer|Back-end Developer|Supervisor/Team Lead,34,Yes,M,United Kingdom
-non-technical,,More than 1000,Support,47,Yes,F,Australia
-technical,,100-500,Back-end Developer,33,Yes,F,Switzerland
+non-technical,,More than 1000,Support,47,Yes,W,Australia
+technical,,100-500,Back-end Developer,33,Yes,W,Switzerland
 technical,,More than 1000,Front-end Developer,22,No,M,United Kingdom
 technical,,6-25,Front-end Developer,28,No,O,United Kingdom
 non-technical,,500-1000,Support,31,Yes,M,United Kingdom
 technical,,1-5,DevOps/SysAdmin,56,Yes,M,Australia
-technical,,Self-Employed,Back-end Developer,57,Yes,F,Australia
+technical,,Self-Employed,Back-end Developer,57,Yes,W,Australia
 technical,New York,100-500,Back-end Developer,39,No,M,United States of America
 both,,1-5,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,21,Yes,M,United Kingdom
-non-technical,,500-1000,Dev Evangelist/Advocate,31,No,F,Russia
+non-technical,,500-1000,Dev Evangelist/Advocate,31,No,W,Russia
 both,New York,Self-Employed,DevOps/SysAdmin|Back-end Developer|One-person shop|Front-end Developer,63,Yes,M,United States of America
 technical,,Self-Employed,Designer,46,Yes,M,Australia
-technical,,6-25,Back-end Developer,32,Yes,F,United Kingdom
+technical,,6-25,Back-end Developer,32,Yes,W,United Kingdom
 both,,Self-Employed,One-person shop|DevOps/SysAdmin|Executive Leadership,35,Yes,M,United Kingdom
 non-technical,,100-500,Supervisor/Team Lead,34,No,M,United Kingdom
 both,Illinois,6-25,Supervisor/Team Lead|Back-end Developer|Front-end Developer,35,Yes,M,United States of America
 non-technical,,26-100,Executive Leadership,31,No,M,Norway
-technical,Washington,Self-Employed,Back-end Developer,35,Yes,F,United States of America
+technical,Washington,Self-Employed,Back-end Developer,35,Yes,W,United States of America
 non-technical,Indiana,26-100,Supervisor/Team Lead,36,No,M,United States of America
 technical,Minnesota,26-100,Back-end Developer,50,Yes,M,United States of America
 non-technical,Indiana,6-25,Supervisor/Team Lead,31,Yes,M,United States of America
 both,Vermont,100-500,Dev Evangelist/Advocate|Back-end Developer,47,Yes,M,United States of America
-both,,6-25,Front-end Developer|Back-end Developer|Supervisor/Team Lead,32,No,F,Canada
-technical,,26-100,Designer,23,Yes,F,Canada
-non-technical,,6-25,Sales,43,Yes,F,Canada
-technical,,6-25,Designer,26,No,F,Canada
-non-technical,,26-100,Other,26,No,F,Canada
-non-technical,,6-25,Executive Leadership,55,No,F,Canada
+both,,6-25,Front-end Developer|Back-end Developer|Supervisor/Team Lead,32,No,W,Canada
+technical,,26-100,Designer,23,Yes,W,Canada
+non-technical,,6-25,Sales,43,Yes,W,Canada
+technical,,6-25,Designer,26,No,W,Canada
+non-technical,,26-100,Other,26,No,W,Canada
+non-technical,,6-25,Executive Leadership,55,No,W,Canada
 non-technical,,6-25,Other,27,Yes,M,Canada
 non-technical,,100-500,Other,34,No,M,Argentina
 technical,,26-100,Back-end Developer,25,No,M,India
 both,Indiana,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,35,No,M,United States of America
 technical,,Self-Employed,Back-end Developer,37,Yes,M,Netherlands
-non-technical,Illinois,26-100,Other,38,Yes,F,United States of America
+non-technical,Illinois,26-100,Other,38,Yes,W,United States of America
 technical,,26-100,Front-end Developer,29,No,M,Canada
 technical,,500-1000,Designer,28,No,M,United Kingdom
 both,Washington,6-25,Supervisor/Team Lead|Back-end Developer|Front-end Developer,29,Yes,M,United States of America
 non-technical,New York,More than 1000,Dev Evangelist/Advocate,40,No,M,United States of America
-both,Michigan,26-100,Front-end Developer|Supervisor/Team Lead,25,Yes,F,United States of America
+both,Michigan,26-100,Front-end Developer|Supervisor/Team Lead,25,Yes,W,United States of America
 technical,,Self-Employed,Back-end Developer,29,No,M,Sweden
-both,Minnesota,26-100,Supervisor/Team Lead|DevOps/SysAdmin,29,Yes,F,United States of America
+both,Minnesota,26-100,Supervisor/Team Lead|DevOps/SysAdmin,29,Yes,W,United States of America
 both,,1-5,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer|Front-end Developer,35,Yes,M,Netherlands
 technical,New York,Self-Employed,Back-end Developer|Front-end Developer,25,No,M,United States of America
 technical,Virginia,26-100,DevOps/SysAdmin,43,Yes,M,United States of America
 technical,,6-25,Front-end Developer|Back-end Developer|DevOps/SysAdmin,26,No,M,Ireland
 technical,,100-500,Back-end Developer,31,No,M,Germany
-non-technical,Illinois,100-500,Other,31,No,F,United States of America
-technical,Texas,More than 1000,DevOps/SysAdmin|Back-end Developer,45,Yes,F,United States of America
+non-technical,Illinois,100-500,Other,31,No,W,United States of America
+technical,Texas,More than 1000,DevOps/SysAdmin|Back-end Developer,45,Yes,W,United States of America
 technical,,More than 1000,Front-end Developer|Back-end Developer|DevOps/SysAdmin,23,No,M,Italy
 non-technical,Rhode Island,6-25,Supervisor/Team Lead,39,No,M,United States of America
-non-technical,Illinois,26-100,Other,27,No,F,United States of America
+non-technical,Illinois,26-100,Other,27,No,W,United States of America
 technical,Illinois,100-500,Back-end Developer|Front-end Developer,28,Yes,M,United States of America
 both,Pennsylvania,500-1000,Dev Evangelist/Advocate|DevOps/SysAdmin,36,No,M,United States of America
 technical,,100-500,Back-end Developer,22,No,M,Germany
@@ -355,53 +355,53 @@ technical,,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin,
 both,Oregon,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,36,No,M,United States of America
 both,Kansas,More than 1000,DevOps/SysAdmin|Support,28,Yes,M,United States of America
 both,Illinois,100-500,Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer,40,No,M,United States of America
-both,Minnesota,26-100,Supervisor/Team Lead|Back-end Developer,35,Yes,F,United States of America
+both,Minnesota,26-100,Supervisor/Team Lead|Back-end Developer,35,Yes,W,United States of America
 non-technical,California,100-500,Supervisor/Team Lead,38,Yes,M,United States of America
 technical,California,100-500,Back-end Developer,29,No,M,United States of America
 technical,,Self-Employed,Designer,43,No,M,Netherlands
-technical,Oregon,500-1000,Back-end Developer,31,Yes,F,United States of America
+technical,Oregon,500-1000,Back-end Developer,31,Yes,W,United States of America
 non-technical,Vermont,100-500,Other,45,No,M,United States of America
 both,Texas,100-500,Other|Dev Evangelist/Advocate|Sales|Back-end Developer|Front-end Developer,26,No,M,United States of America
 both,Maryland,100-500,DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership,42,No,M,United States of America
-non-technical,New York,100-500,Support,28,No,F,United States of America
+non-technical,New York,100-500,Support,28,No,W,United States of America
 non-technical,,6-25,One-person shop,28,No,M,United Kingdom
-technical,California,100-500,Back-end Developer,39,Yes,F,United States of America
+technical,California,100-500,Back-end Developer,39,Yes,W,United States of America
 both,New York,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer,34,Yes,M,United States of America
-both,Pennsylvania,26-100,Support|Back-end Developer,28,Yes,F,United States of America
-non-technical,California,500-1000,Supervisor/Team Lead,35,No,F,United States of America
+both,Pennsylvania,26-100,Support|Back-end Developer,28,Yes,W,United States of America
+non-technical,California,500-1000,Supervisor/Team Lead,35,No,W,United States of America
 non-technical,,6-25,HR|Supervisor/Team Lead|Executive Leadership,42,No,M,Canada
 non-technical,Michigan,6-25,Supervisor/Team Lead,99,Yes,O,United States of America
 technical,,Self-Employed,Back-end Developer,29,Yes,M,United Kingdom
 both,,Self-Employed,Other|Front-end Developer|Back-end Developer|Sales|DevOps/SysAdmin|Dev Evangelist/Advocate,34,Yes,M,Finland
 technical,,26-100,Front-end Developer|Back-end Developer,28,No,M,Canada
-non-technical,,500-1000,Other,22,No,F,Russia
-technical,California,26-100,Back-end Developer,28,Yes,F,United States of America
-non-technical,Illinois,Self-Employed,One-person shop,26,Yes,F,United States of America
-non-technical,,More than 1000,Other,21,No,F,Australia
+non-technical,,500-1000,Other,22,No,W,Russia
+technical,California,26-100,Back-end Developer,28,Yes,W,United States of America
+non-technical,Illinois,Self-Employed,One-person shop,26,Yes,W,United States of America
+non-technical,,More than 1000,Other,21,No,W,Australia
 technical,,26-100,Back-end Developer,38,Yes,M,Netherlands
 technical,California,More than 1000,DevOps/SysAdmin,33,Yes,M,United States of America
-technical,California,100-500,Back-end Developer,28,No,F,United States of America
+technical,California,100-500,Back-end Developer,28,No,W,United States of America
 non-technical,California,26-100,Dev Evangelist/Advocate,32,Yes,M,United States of America
-technical,,1-5,Front-end Developer,24,Yes,F,Australia
+technical,,1-5,Front-end Developer,24,Yes,W,Australia
 non-technical,California,500-1000,Other,35,Yes,M,United States of America
 non-technical,,Self-Employed,Supervisor/Team Lead,41,No,M,Turkey
-non-technical,New Jersey,Self-Employed,HR,38,No,F,United States of America
-technical,New York,More than 1000,Back-end Developer,24,Yes,F,United States of America
+non-technical,New Jersey,Self-Employed,HR,38,No,W,United States of America
+technical,New York,More than 1000,Back-end Developer,24,Yes,W,United States of America
 technical,Illinois,100-500,Back-end Developer,30,Yes,M,United States of America
-non-technical,California,100-500,Sales,47,No,F,United States of America
-technical,Washington,More than 1000,Front-end Developer,26,No,F,United States of America
+non-technical,California,100-500,Sales,47,No,W,United States of America
+technical,Washington,More than 1000,Front-end Developer,26,No,W,United States of America
 both,Florida,100-500,DevOps/SysAdmin|Supervisor/Team Lead,32,Yes,M,United States of America
 technical,California,100-500,Back-end Developer,32,No,M,United States of America
 non-technical,New York,500-1000,Supervisor/Team Lead,37,Yes,M,United States of America
 technical,,Self-Employed,Front-end Developer,33,No,M,Netherlands
-non-technical,,6-25,Sales,28,No,F,United Kingdom
+non-technical,,6-25,Sales,28,No,W,United Kingdom
 technical,,26-100,Back-end Developer,22,No,M,Netherlands
 non-technical,California,500-1000,Dev Evangelist/Advocate,30,No,M,United States of America
-non-technical,California,Self-Employed,Other,42,Yes,F,United States of America
+non-technical,California,Self-Employed,Other,42,Yes,W,United States of America
 technical,California,100-500,Back-end Developer|DevOps/SysAdmin,34,No,M,United States of America
 technical,California,6-25,Back-end Developer,32,Yes,M,United States of America
 non-technical,,100-500,Support,37,Yes,M,United Kingdom
-both,California,Self-Employed,One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,31,Yes,F,United States of America
+both,California,Self-Employed,One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,31,Yes,W,United States of America
 both,California,26-100,Dev Evangelist/Advocate|Support|Back-end Developer,31,Yes,M,United States of America
 technical,,26-100,Front-end Developer,26,No,M,Colombia
 non-technical,California,Self-Employed,One-person shop,30,No,M,United States of America
@@ -410,24 +410,24 @@ technical,California,100-500,Back-end Developer,38,Yes,M,United States of Americ
 technical,Alabama,26-100,Back-end Developer|Front-end Developer,24,Yes,M,United States of America
 technical,California,100-500,Back-end Developer,26,No,M,United States of America
 both,California,More than 1000,Dev Evangelist/Advocate|DevOps/SysAdmin,37,Yes,M,United States of America
-technical,,26-100,Designer,27,Yes,F,United Kingdom
+technical,,26-100,Designer,27,Yes,W,United Kingdom
 both,,Self-Employed,One-person shop|Back-end Developer|Sales|DevOps/SysAdmin|Executive Leadership,32,Yes,M,Switzerland
 technical,,26-100,Back-end Developer,32,No,M,Netherlands
 both,,6-25,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,30,Yes,M,Netherlands
-non-technical,,26-100,Dev Evangelist/Advocate,26,Yes,F,Germany
-both,,Self-Employed,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Other,27,Yes,F,United Kingdom
+non-technical,,26-100,Dev Evangelist/Advocate,26,Yes,W,Germany
+both,,Self-Employed,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Other,27,Yes,W,United Kingdom
 non-technical,,Self-Employed,One-person shop,27,Yes,M,Netherlands
 technical,,26-100,Back-end Developer,29,No,M,Colombia
 technical,,26-100,Back-end Developer|DevOps/SysAdmin,26,Yes,O,Germany
-technical,California,100-500,Back-end Developer,23,No,F,United States of America
+technical,California,100-500,Back-end Developer,23,No,W,United States of America
 non-technical,California,100-500,Supervisor/Team Lead|Support,30,Yes,M,United States of America
 non-technical,Indiana,More than 1000,Supervisor/Team Lead,40,Yes,M,United States of America
 non-technical,California,100-500,Supervisor/Team Lead|Support,46,Yes,M,United States of America
 technical,Colorado,26-100,Back-end Developer,26,No,M,United States of America
 technical,California,More than 1000,DevOps/SysAdmin,30,No,M,United States of America
-technical,California,100-500,Back-end Developer,27,No,F,United States of America
+technical,California,100-500,Back-end Developer,27,No,W,United States of America
 non-technical,Indiana,Self-Employed,Executive Leadership,35,Yes,M,United States of America
-non-technical,California,26-100,HR|Dev Evangelist/Advocate|Sales,26,Yes,F,United States of America
+non-technical,California,26-100,HR|Dev Evangelist/Advocate|Sales,26,Yes,W,United States of America
 technical,,100-500,Back-end Developer,35,No,M,Australia
 technical,,26-100,DevOps/SysAdmin|Back-end Developer,29,No,M,Netherlands
 both,,100-500,Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,34,No,M,United Kingdom
@@ -438,42 +438,42 @@ non-technical,,500-1000,Supervisor/Team Lead,31,Yes,M,Czech Republic
 both,,26-100,Supervisor/Team Lead|Front-end Developer|Back-end Developer,26,No,M,United Kingdom
 technical,North Carolina,26-100,Back-end Developer,44,No,M,United States of America
 technical,California,100-500,Back-end Developer,27,No,M,United States of America
-technical,Iowa,100-500,Back-end Developer|Front-end Developer|Designer,57,Yes,F,United States of America
+technical,Iowa,100-500,Back-end Developer|Front-end Developer|Designer,57,Yes,W,United States of America
 non-technical,Illinois,Self-Employed,Executive Leadership,34,No,M,United States of America
 both,Ohio,Self-Employed,One-person shop|Back-end Developer|Other,38,Yes,M,United States of America
 both,Illinois,Self-Employed,One-person shop|Back-end Developer,55,Yes,M,United States of America
 both,,Self-Employed,One-person shop|Back-end Developer,28,No,M,Costa Rica
 both,Michigan,More than 1000,Supervisor/Team Lead|DevOps/SysAdmin,35,No,M,United States of America
 technical,New York,100-500,Back-end Developer,26,Yes,M,United States of America
-technical,New York,6-25,Front-end Developer|Back-end Developer,22,No,F,United States of America
+technical,New York,6-25,Front-end Developer|Back-end Developer,22,No,W,United States of America
 technical,California,100-500,Back-end Developer,31,No,M,United States of America
 technical,,26-100,Back-end Developer,31,No,M,United Kingdom
 non-technical,,Self-Employed,Executive Leadership,40,No,M,Germany
 both,New York,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,26,Yes,M,United States of America
 non-technical,Georgia,1-5,One-person shop,36,No,M,United States of America
 both,Illinois,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,33,Yes,M,United States of America
-technical,New York,500-1000,Back-end Developer|Front-end Developer,24,Yes,F,United States of America
+technical,New York,500-1000,Back-end Developer|Front-end Developer,24,Yes,W,United States of America
 technical,,6-25,Front-end Developer|Back-end Developer,22,No,M,Vietnam
 both,Indiana,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Support,33,Yes,M,United States of America
-non-technical,California,More than 1000,Support,37,Yes,F,United States of America
+non-technical,California,More than 1000,Support,37,Yes,W,United States of America
 both,Ohio,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,29,No,M,United States of America
 technical,Tennessee,1-5,Back-end Developer,38,No,M,United States of America
 technical,Minnesota,1-5,DevOps/SysAdmin|Back-end Developer,33,No,M,United States of America
-non-technical,,1-5,Executive Leadership,44,Yes,F,Canada
+non-technical,,1-5,Executive Leadership,44,Yes,W,Canada
 technical,Minnesota,6-25,Back-end Developer,23,Yes,M,United States of America
 non-technical,Nebraska,Self-Employed,One-person shop,30,No,M,United States of America
 technical,Tennessee,More than 1000,Back-end Developer|Front-end Developer,30,Yes,M,United States of America
 technical,Nebraska,26-100,Back-end Developer,28,No,M,United States of America
 technical,West Virginia,26-100,Back-end Developer|Front-end Developer,39,No,M,United States of America
-technical,California,6-25,Front-end Developer,24,Yes,F,United States of America
+technical,California,6-25,Front-end Developer,24,Yes,W,United States of America
 both,,Self-Employed,Other|Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|One-person shop,27,Yes,M,United Kingdom
 both,Tennessee,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,35,Yes,M,United States of America
 technical,Nebraska,6-25,Front-end Developer,23,No,M,United States of America
 non-technical,Tennessee,More than 1000,Other,37,No,M,United States of America
 technical,Tennessee,6-25,DevOps/SysAdmin|Front-end Developer|Back-end Developer,35,No,M,United States of America
 both,Tennessee,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,27,No,M,United States of America
-technical,Nevada,1-5,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,27,No,F,United States of America
-technical,Nebraska,More than 1000,Front-end Developer,27,No,F,United States of America
+technical,Nevada,1-5,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,27,No,W,United States of America
+technical,Nebraska,More than 1000,Front-end Developer,27,No,W,United States of America
 technical,Nebraska,6-25,Front-end Developer|Back-end Developer,42,Yes,M,United States of America
 technical,Illinois,6-25,Front-end Developer,32,No,M,United States of America
 technical,,6-25,DevOps/SysAdmin|Back-end Developer|Front-end Developer,26,Yes,M,Finland
@@ -482,14 +482,14 @@ technical,Nebraska,6-25,Front-end Developer,28,No,M,United States of America
 technical,Nebraska,100-500,Front-end Developer|Back-end Developer,32,Yes,M,United States of America
 technical,Texas,Self-Employed,Front-end Developer|Back-end Developer,43,No,M,United States of America
 technical,Indiana,26-100,Back-end Developer,34,Yes,M,United States of America
-non-technical,Colorado,6-25,Other,61,No,F,United States of America
+non-technical,Colorado,6-25,Other,61,No,W,United States of America
 technical,Oregon,Self-Employed,Back-end Developer,50,Yes,M,United States of America
 both,,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Other,38,Yes,M,India
 technical,,6-25,Front-end Developer,51,Yes,M,Germany
 non-technical,,Self-Employed,Executive Leadership,38,Yes,M,Ireland
 technical,Pennsylvania,500-1000,Front-end Developer|Designer,34,Yes,M,United States of America
 technical,Maryland,6-25,Front-end Developer|Back-end Developer,43,Yes,M,United States of America
-technical,California,100-500,DevOps/SysAdmin,43,No,F,United States of America
+technical,California,100-500,DevOps/SysAdmin,43,No,W,United States of America
 technical,California,6-25,DevOps/SysAdmin,44,Yes,M,United States of America
 technical,California,100-500,DevOps/SysAdmin,35,Yes,M,United States of America
 technical,Texas,26-100,Back-end Developer,50,No,M,United States of America
@@ -499,33 +499,33 @@ both,,500-1000,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,36
 both,,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,33,No,M,Australia
 non-technical,,Self-Employed,One-person shop,50,Yes,M,Australia
 technical,Virginia,More than 1000,DevOps/SysAdmin,46,Yes,M,United States of America
-non-technical,,Self-Employed,One-person shop,44,Yes,F,New Zealand
+non-technical,,Self-Employed,One-person shop,44,Yes,W,New Zealand
 technical,Oregon,More than 1000,DevOps/SysAdmin,23,No,O,United States of America
 both,Washington,6-25,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,41,Yes,M,United States of America
 technical,,More than 1000,Front-end Developer,31,No,M,Canada
 technical,Illinois,1-5,DevOps/SysAdmin,55,Yes,M,United States of America
 both,Michigan,26-100,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,34,No,M,United States of America
-technical,Michigan,6-25,Back-end Developer|Front-end Developer,28,No,F,United States of America
+technical,Michigan,6-25,Back-end Developer|Front-end Developer,28,No,W,United States of America
 technical,Florida,6-25,DevOps/SysAdmin|Back-end Developer,33,Yes,M,United States of America
 both,California,100-500,Supervisor/Team Lead|Back-end Developer,29,Yes,M,United States of America
-both,Tennessee,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,33,Yes,F,United States of America
+both,Tennessee,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,33,Yes,W,United States of America
 non-technical,California,Self-Employed,Other|Dev Evangelist/Advocate|One-person shop,28,No,M,United States of America
 non-technical,California,More than 1000,Dev Evangelist/Advocate,28,Yes,M,United States of America
 technical,California,26-100,DevOps/SysAdmin,32,No,M,United States of America
-technical,Oregon,6-25,Front-end Developer,36,No,F,United States of America
+technical,Oregon,6-25,Front-end Developer,36,No,W,United States of America
 both,,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,45,No,M,United Kingdom
 technical,,Self-Employed,Back-end Developer,29,No,M,United Kingdom
 non-technical,,More than 1000,Support,23,No,M,France
-non-technical,,Self-Employed,One-person shop,54,Yes,F,Canada
-both,California,Self-Employed,Other|Back-end Developer|Front-end Developer|One-person shop,61,Yes,F,United States of America
-technical,Illinois,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,29,Yes,F,United States of America
+non-technical,,Self-Employed,One-person shop,54,Yes,W,Canada
+both,California,Self-Employed,Other|Back-end Developer|Front-end Developer|One-person shop,61,Yes,W,United States of America
+technical,Illinois,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,29,Yes,W,United States of America
 technical,,26-100,Back-end Developer,31,Yes,M,Australia
 both,California,Self-Employed,Other|One-person shop|Back-end Developer|Sales|Support|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,37,No,M,United States of America
 technical,,6-25,Back-end Developer,29,Yes,M,Germany
 both,,Self-Employed,Back-end Developer|One-person shop,28,No,M,United Kingdom
 technical,,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,30,No,M,United Kingdom
 technical,,More than 1000,Front-end Developer,55,Yes,M,United Kingdom
-technical,Massachusetts,6-25,Back-end Developer|Front-end Developer,38,Yes,F,United States of America
+technical,Massachusetts,6-25,Back-end Developer|Front-end Developer,38,Yes,W,United States of America
 technical,,6-25,Back-end Developer|Front-end Developer,20,No,M,Canada
 both,California,100-500,Support|Back-end Developer|Front-end Developer,25,Yes,M,United States of America
 non-technical,,Self-Employed,One-person shop,22,No,M,Spain
@@ -534,15 +534,15 @@ technical,Indiana,26-100,Designer|Front-end Developer|Back-end Developer|DevOps/
 both,Tennessee,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,24,Yes,M,United States of America
 both,,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|Sales|Support|DevOps/SysAdmin,39,Yes,M,Australia
 technical,,26-100,Back-end Developer|Front-end Developer,29,No,M,Brazil
-both,Texas,26-100,Supervisor/Team Lead|Back-end Developer,40,Yes,F,United States of America
+both,Texas,26-100,Supervisor/Team Lead|Back-end Developer,40,Yes,W,United States of America
 technical,Georgia,1-5,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,30,Yes,M,United States of America
 both,,26-100,DevOps/SysAdmin|Supervisor/Team Lead,32,No,M,Canada
 both,,Self-Employed,DevOps/SysAdmin|Back-end Developer|One-person shop,34,No,M,Germany
-both,,6-25,Other|Back-end Developer,35,Yes,F,Canada
+both,,6-25,Other|Back-end Developer,35,Yes,W,Canada
 both,Illinois,Self-Employed,DevOps/SysAdmin|Support|Sales|One-person shop|Designer|Front-end Developer|Back-end Developer,30,No,M,United States of America
 technical,,6-25,Back-end Developer,36,No,M,United Kingdom
 technical,,26-100,Back-end Developer|DevOps/SysAdmin,26,No,M,Sweden
-non-technical,,500-1000,Other,31,Yes,F,Netherlands
+non-technical,,500-1000,Other,31,Yes,W,Netherlands
 technical,,26-100,Front-end Developer|Back-end Developer|DevOps/SysAdmin,33,No,M,South Africa
 non-technical,,Self-Employed,Executive Leadership,30,Yes,M,United Kingdom
 non-technical,,26-100,Other,46,Yes,M,United Kingdom
@@ -556,25 +556,25 @@ technical,California,100-500,DevOps/SysAdmin|Back-end Developer|Front-end Develo
 technical,California,100-500,DevOps/SysAdmin,32,Yes,M,United States of America
 technical,California,100-500,DevOps/SysAdmin,29,No,M,United States of America
 both,,1-5,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,22,No,M,United Kingdom
-technical,Florida,More than 1000,Back-end Developer,32,Yes,F,United States of America
-technical,Florida,More than 1000,Front-end Developer,19,No,F,United States of America
+technical,Florida,More than 1000,Back-end Developer,32,Yes,W,United States of America
+technical,Florida,More than 1000,Front-end Developer,19,No,W,United States of America
 both,,6-25,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,30,No,M,South Africa
 both,Washington,6-25,Other|Back-end Developer,32,Yes,O,United States of America
 technical,California,More than 1000,Front-end Developer,22,No,M,United States of America
 both,,Self-Employed,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,30,No,M,Poland
 technical,,6-25,Back-end Developer,33,No,M,Slovakia
-technical,,6-25,Front-end Developer,48,Yes,F,United Kingdom
+technical,,6-25,Front-end Developer,48,Yes,W,United Kingdom
 non-technical,,More than 1000,Other,45,No,M,Germany
 technical,,26-100,Back-end Developer,28,Yes,M,United Kingdom
 technical,Oregon,100-500,Back-end Developer,44,No,M,United States of America
 both,Washington,6-25,Supervisor/Team Lead|Front-end Developer|Back-end Developer,31,No,M,United States of America
-technical,Pennsylvania,26-100,Back-end Developer,31,Yes,F,United States of America
+technical,Pennsylvania,26-100,Back-end Developer,31,Yes,W,United States of America
 technical,New York,More than 1000,DevOps/SysAdmin,29,No,M,United States of America
 both,Texas,More than 1000,Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,26,No,M,United States of America
-technical,Indiana,100-500,Front-end Developer|Designer,35,Yes,F,United States of America
+technical,Indiana,100-500,Front-end Developer|Designer,35,Yes,W,United States of America
 both,,Self-Employed,Back-end Developer|One-person shop,44,No,M,Austria
 non-technical,North Carolina,6-25,Dev Evangelist/Advocate,45,Yes,M,United States of America
-both,North Carolina,6-25,Executive Leadership|Supervisor/Team Lead|HR|DevOps/SysAdmin|Support|Sales|Back-end Developer|One-person shop|Designer|Front-end Developer,22,Yes,F,United States of America
+both,North Carolina,6-25,Executive Leadership|Supervisor/Team Lead|HR|DevOps/SysAdmin|Support|Sales|Back-end Developer|One-person shop|Designer|Front-end Developer,22,Yes,W,United States of America
 technical,Michigan,100-500,Back-end Developer|Front-end Developer,34,No,M,United States of America
 both,,26-100,Supervisor/Team Lead|Front-end Developer,35,No,M,United Kingdom
 non-technical,Illinois,Self-Employed,Other,39,Yes,M,United States of America
@@ -588,12 +588,12 @@ non-technical,,500-1000,Supervisor/Team Lead,41,Yes,M,Australia
 technical,South Carolina,More than 1000,DevOps/SysAdmin,21,Yes,M,United States of America
 technical,,100-500,Back-end Developer,33,Yes,M,Bangladesh
 both,,More than 1000,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Dev Evangelist/Advocate,32,No,M,India
-both,North Carolina,More than 1000,Back-end Developer|One-person shop,62,Yes,F,United States of America
+both,North Carolina,More than 1000,Back-end Developer|One-person shop,62,Yes,W,United States of America
 technical,Pennsylvania,26-100,Back-end Developer,37,Yes,M,United States of America
 both,South Dakota,26-100,Support|Back-end Developer,32,No,M,United States of America
 non-technical,Illinois,More than 1000,Supervisor/Team Lead|Executive Leadership,31,No,M,United States of America
 technical,California,6-25,Front-end Developer|Back-end Developer,28,Yes,M,United States of America
-both,Texas,Self-Employed,One-person shop|Front-end Developer,48,Yes,F,United States of America
+both,Texas,Self-Employed,One-person shop|Front-end Developer,48,Yes,W,United States of America
 technical,Minnesota,Self-Employed,Front-end Developer,40,Yes,M,United States of America
 both,,26-100,Other|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,29,Yes,M,Norway
 technical,,26-100,Back-end Developer,33,No,M,Germany
@@ -603,11 +603,11 @@ both,,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOp
 non-technical,Maryland,1-5,Dev Evangelist/Advocate,42,No,M,United States of America
 both,,26-100,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,28,No,M,United Kingdom
 both,,500-1000,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,40,Yes,M,Canada
-non-technical,Washington,More than 1000,Dev Evangelist/Advocate,32,Yes,F,United States of America
+non-technical,Washington,More than 1000,Dev Evangelist/Advocate,32,Yes,W,United States of America
 technical,Colorado,Self-Employed,Front-end Developer|Back-end Developer,33,Yes,M,United States of America
 non-technical,Washington,Self-Employed,One-person shop,40,Yes,M,United States of America
 technical,Kansas,6-25,DevOps/SysAdmin|Back-end Developer,26,Yes,M,United States of America
-both,California,100-500,Dev Evangelist/Advocate|Support|Back-end Developer|Front-end Developer,39,Yes,F,United States of America
+both,California,100-500,Dev Evangelist/Advocate|Support|Back-end Developer|Front-end Developer,39,Yes,W,United States of America
 both,,500-1000,DevOps/SysAdmin|Supervisor/Team Lead,38,No,M,United Kingdom
 technical,Colorado,More than 1000,Back-end Developer,34,No,M,United States of America
 technical,,26-100,Back-end Developer|DevOps/SysAdmin,44,Yes,M,Netherlands
@@ -620,13 +620,13 @@ both,Michigan,Self-Employed,One-person shop|Back-end Developer|Sales|Support|Sup
 technical,New York,6-25,Back-end Developer,29,Yes,O,United States of America
 both,Missouri,More than 1000,Front-end Developer|Back-end Developer|Support,27,No,M,United States of America
 both,Michigan,More than 1000,DevOps/SysAdmin|Support,29,Yes,M,United States of America
-non-technical,Maryland,Self-Employed,One-person shop,43,No,F,United States of America
+non-technical,Maryland,Self-Employed,One-person shop,43,No,W,United States of America
 technical,Illinois,100-500,Designer,31,Yes,O,United States of America
 technical,,6-25,Back-end Developer|Front-end Developer,27,No,M,Norway
 technical,,6-25,DevOps/SysAdmin,29,Yes,M,United Kingdom
 technical,,6-25,Back-end Developer,29,No,M,United Kingdom
 non-technical,Massachusetts,More than 1000,Supervisor/Team Lead,42,Yes,M,United States of America
-technical,Illinois,6-25,Front-end Developer|Back-end Developer,26,No,F,United States of America
+technical,Illinois,6-25,Front-end Developer|Back-end Developer,26,No,W,United States of America
 technical,,6-25,Front-end Developer|Back-end Developer|DevOps/SysAdmin,26,Yes,M,Switzerland
 technical,,Self-Employed,Front-end Developer,34,Yes,M,United Kingdom
 non-technical,Kansas,100-500,Other,24,No,M,United States of America
@@ -643,47 +643,47 @@ technical,Colorado,6-25,DevOps/SysAdmin,26,Yes,M,United States of America
 both,,More than 1000,Front-end Developer|Back-end Developer|Supervisor/Team Lead,39,Yes,M,United Kingdom
 technical,Kansas,26-100,Back-end Developer,32,No,M,United States of America
 both,,Self-Employed,Designer|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Supervisor/Team Lead,46,Yes,M,United Kingdom
-non-technical,Oregon,Self-Employed,One-person shop,52,No,F,United States of America
+non-technical,Oregon,Self-Employed,One-person shop,52,No,W,United States of America
 both,,500-1000,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer,33,Yes,O,United Kingdom
 technical,Minnesota,26-100,Back-end Developer,58,No,M,United States of America
 technical,,6-25,Front-end Developer|Designer,30,Yes,M,Canada
 technical,,Self-Employed,DevOps/SysAdmin|Back-end Developer|Front-end Developer,46,No,M,Sweden
 technical,Washington,More than 1000,Front-end Developer,45,Yes,M,United States of America
-technical,,1-5,Front-end Developer,26,Yes,F,Canada
+technical,,1-5,Front-end Developer,26,Yes,W,Canada
 both,Pennsylvania,100-500,DevOps/SysAdmin|Support,22,Yes,M,United States of America
 technical,Kansas,6-25,Back-end Developer,21,No,M,United States of America
 technical,,More than 1000,Back-end Developer,3,Yes,M,Canada
 non-technical,Kansas,500-1000,Executive Leadership|Supervisor/Team Lead,34,No,M,United States of America
-technical,Kansas,26-100,Back-end Developer,25,No,F,United States of America
+technical,Kansas,26-100,Back-end Developer,25,No,W,United States of America
 non-technical,Illinois,6-25,Executive Leadership|Supervisor/Team Lead|Sales,27,Yes,M,United States of America
-technical,Washington,26-100,Back-end Developer,25,Yes,F,United States of America
+technical,Washington,26-100,Back-end Developer,25,Yes,W,United States of America
 both,,500-1000,Other|Front-end Developer|Designer,33,Yes,M,United Kingdom
-technical,,Self-Employed,Front-end Developer,26,Yes,F,Canada
-non-technical,Oklahoma,6-25,Other,36,No,F,United States of America
+technical,,Self-Employed,Front-end Developer,26,Yes,W,Canada
+non-technical,Oklahoma,6-25,Other,36,No,W,United States of America
 technical,,6-25,Back-end Developer,26,No,M,United Kingdom
 both,Minnesota,6-25,Supervisor/Team Lead|Back-end Developer,34,No,M,United States of America
 technical,Oklahoma,26-100,Back-end Developer|Front-end Developer,34,Yes,M,United States of America
 technical,Pennsylvania,More than 1000,Back-end Developer|Front-end Developer,25,Yes,M,United States of America
-both,Illinois,Self-Employed,One-person shop|Designer|Front-end Developer|Supervisor/Team Lead,33,No,F,United States of America
-technical,,26-100,Front-end Developer,27,No,F,Canada
-technical,,26-100,Designer|Front-end Developer,24,No,F,Canada
-both,Washington,More than 1000,DevOps/SysAdmin|One-person shop,47,Yes,F,United States of America
+both,Illinois,Self-Employed,One-person shop|Designer|Front-end Developer|Supervisor/Team Lead,33,No,W,United States of America
+technical,,26-100,Front-end Developer,27,No,W,Canada
+technical,,26-100,Designer|Front-end Developer,24,No,W,Canada
+both,Washington,More than 1000,DevOps/SysAdmin|One-person shop,47,Yes,W,United States of America
 both,Indiana,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,37,No,M,United States of America
 both,Illinois,More than 1000,Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Other,35,Yes,O,United States of America
 non-technical,Pennsylvania,100-500,Support,30,Yes,M,United States of America
 both,Tennessee,More than 1000,Other|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,42,No,M,United States of America
-technical,Indiana,Self-Employed,Designer,36,Yes,F,United States of America
+technical,Indiana,Self-Employed,Designer,36,Yes,W,United States of America
 technical,Pennsylvania,100-500,Back-end Developer,31,No,M,United States of America
-technical,Massachusetts,100-500,Back-end Developer|Front-end Developer,28,Yes,F,United States of America
-non-technical,Indiana,26-100,Other,36,Yes,F,United States of America
-non-technical,Tennessee,6-25,Other,36,Yes,F,United States of America
+technical,Massachusetts,100-500,Back-end Developer|Front-end Developer,28,Yes,W,United States of America
+non-technical,Indiana,26-100,Other,36,Yes,W,United States of America
+non-technical,Tennessee,6-25,Other,36,Yes,W,United States of America
 technical,,26-100,Front-end Developer,32,Yes,M,Canada
 non-technical,Missouri,Self-Employed,One-person shop,42,No,M,United States of America
-both,Colorado,100-500,Supervisor/Team Lead|Front-end Developer,41,No,F,United States of America
+both,Colorado,100-500,Supervisor/Team Lead|Front-end Developer,41,No,W,United States of America
 non-technical,,26-100,Executive Leadership,36,No,M,Sweden
 technical,Wisconsin,26-100,Back-end Developer,23,Yes,M,United States of America
-non-technical,Texas,More than 1000,Other,54,Yes,F,United States of America
-non-technical,Illinois,26-100,Other,34,No,F,United States of America
+non-technical,Texas,More than 1000,Other,54,Yes,W,United States of America
+non-technical,Illinois,26-100,Other,34,No,W,United States of America
 technical,,6-25,Back-end Developer|DevOps/SysAdmin,36,No,M,Netherlands
 technical,Virginia,1-5,Front-end Developer,27,No,M,United States of America
 technical,Rhode Island,100-500,Designer,32,Yes,M,United States of America
@@ -692,11 +692,11 @@ non-technical,Michigan,1-5,Other,44,No,M,United States of America
 both,Minnesota,26-100,Supervisor/Team Lead|Back-end Developer,33,No,M,United States of America
 non-technical,,More than 1000,Supervisor/Team Lead|Support,38,Yes,M,United Kingdom
 both,,More than 1000,DevOps/SysAdmin|Other,38,No,M,Ireland
-technical,Ohio,Self-Employed,Designer,38,No,F,United States of America
-non-technical,,1-5,Other,22,No,F,Brazil
-both,Florida,Self-Employed,Other|Executive Leadership|Supervisor/Team Lead|HR|Support|Sales|Designer|One-person shop,33,Yes,F,United States of America
-technical,,More than 1000,Front-end Developer,27,No,F,Canada
-non-technical,Vermont,Self-Employed,One-person shop,55,No,F,United States of America
+technical,Ohio,Self-Employed,Designer,38,No,W,United States of America
+non-technical,,1-5,Other,22,No,W,Brazil
+both,Florida,Self-Employed,Other|Executive Leadership|Supervisor/Team Lead|HR|Support|Sales|Designer|One-person shop,33,Yes,W,United States of America
+technical,,More than 1000,Front-end Developer,27,No,W,Canada
+non-technical,Vermont,Self-Employed,One-person shop,55,No,W,United States of America
 technical,Maine,6-25,Front-end Developer,66,Yes,M,United States of America
 both,New Jersey,1-5,Back-end Developer|Support|DevOps/SysAdmin,25,No,M,United States of America
 technical,,26-100,Front-end Developer|Back-end Developer|DevOps/SysAdmin,22,No,M,Netherlands
@@ -706,23 +706,23 @@ technical,,6-25,Front-end Developer|Back-end Developer|DevOps/SysAdmin,27,No,M,S
 technical,Tennessee,6-25,Front-end Developer,44,Yes,M,United States of America
 non-technical,,Self-Employed,One-person shop,38,No,M,Bulgaria
 both,New Hampshire,6-25,Supervisor/Team Lead|Designer|Front-end Developer|Support,32,No,M,United States of America
-non-technical,Ohio,500-1000,Support,59,No,F,United States of America
+non-technical,Ohio,500-1000,Support,59,No,W,United States of America
 both,,Self-Employed,Back-end Developer|Front-end Developer|One-person shop,43,No,M,Sweden
-technical,,Self-Employed,Front-end Developer,55,Yes,F,Germany
+technical,,Self-Employed,Front-end Developer,55,Yes,W,Germany
 non-technical,California,More than 1000,Other,32,Yes,M,United States of America
 technical,,More than 1000,Front-end Developer,41,No,M,United Kingdom
-technical,Washington,1-5,Front-end Developer|Back-end Developer,38,Yes,F,United States of America
+technical,Washington,1-5,Front-end Developer|Back-end Developer,38,Yes,W,United States of America
 both,Colorado,Self-Employed,Executive Leadership|One-person shop|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,46,Yes,M,United States of America
 non-technical,,More than 1000,Supervisor/Team Lead,43,Yes,M,United Kingdom
-non-technical,Pennsylvania,100-500,Other,29,Yes,F,United States of America
+non-technical,Pennsylvania,100-500,Other,29,Yes,W,United States of America
 technical,Missouri,Self-Employed,Back-end Developer,42,No,M,United States of America
-technical,Colorado,100-500,Back-end Developer|Front-end Developer,25,No,F,United States of America
+technical,Colorado,100-500,Back-end Developer|Front-end Developer,25,No,W,United States of America
 both,,26-100,Executive Leadership|Supervisor/Team Lead|Designer,49,Yes,M,Afghanistan
 non-technical,Florida,26-100,Other,36,Yes,M,United States of America
 non-technical,,Self-Employed,One-person shop,30,No,M,United Kingdom
 non-technical,Oregon,26-100,Other,28,No,M,United States of America
 both,Texas,More than 1000,Support|Front-end Developer|Designer,37,Yes,M,United States of America
-both,Ohio,6-25,Other|Support|Back-end Developer|Front-end Developer|Designer,23,Yes,F,United States of America
+both,Ohio,6-25,Other|Support|Back-end Developer|Front-end Developer|Designer,23,Yes,W,United States of America
 technical,,Self-Employed,DevOps/SysAdmin,37,No,M,United Kingdom
 both,,Self-Employed,One-person shop|Designer|Front-end Developer|Back-end Developer,42,Yes,M,Netherlands
 non-technical,Minnesota,More than 1000,Other,32,Yes,M,United States of America
@@ -730,17 +730,17 @@ technical,,1-5,Front-end Developer,28,No,M,Canada
 technical,,More than 1000,Back-end Developer,28,Yes,M,United Kingdom
 technical,California,More than 1000,Back-end Developer,29,Yes,M,United States of America
 non-technical,Georgia,100-500,Supervisor/Team Lead,35,Yes,M,United States of America
-technical,Wisconsin,Self-Employed,Back-end Developer,31,Yes,F,United States of America
-non-technical,California,Self-Employed,One-person shop,46,Yes,F,United States of America
+technical,Wisconsin,Self-Employed,Back-end Developer,31,Yes,W,United States of America
+non-technical,California,Self-Employed,One-person shop,46,Yes,W,United States of America
 both,Massachusetts,Self-Employed,Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Support,19,Yes,M,United States of America
 both,,500-1000,Other|Designer|Front-end Developer,35,No,M,Sweden
 technical,,More than 1000,Back-end Developer,31,No,M,United Kingdom
 non-technical,Florida,Self-Employed,Executive Leadership,31,No,M,United States of America
 technical,,More than 1000,Front-end Developer,37,No,M,Canada
-non-technical,Oklahoma,6-25,Support,34,Yes,F,United States of America
-both,California,26-100,Other|Front-end Developer,39,Yes,F,United States of America
-both,Washington,Self-Employed,Front-end Developer|One-person shop,29,No,F,United States of America
-technical,Pennsylvania,100-500,Back-end Developer,29,Yes,F,United States of America
+non-technical,Oklahoma,6-25,Support,34,Yes,W,United States of America
+both,California,26-100,Other|Front-end Developer,39,Yes,W,United States of America
+both,Washington,Self-Employed,Front-end Developer|One-person shop,29,No,W,United States of America
+technical,Pennsylvania,100-500,Back-end Developer,29,Yes,W,United States of America
 technical,Maryland,More than 1000,Back-end Developer,63,No,M,United States of America
 both,,Self-Employed,Designer|Front-end Developer|Back-end Developer|Sales|Supervisor/Team Lead,45,Yes,M,Australia
 both,,Self-Employed,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,35,No,M,Greece
@@ -748,56 +748,56 @@ both,,Self-Employed,Back-end Developer|One-person shop,32,Yes,M,United Kingdom
 non-technical,California,Self-Employed,One-person shop,44,No,M,United States of America
 non-technical,,More than 1000,Support,28,Yes,O,United Kingdom
 technical,,Self-Employed,DevOps/SysAdmin,39,No,M,Ireland
-non-technical,California,Self-Employed,One-person shop,55,No,F,United States of America
-both,Connecticut,Self-Employed,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,33,Yes,F,United States of America
+non-technical,California,Self-Employed,One-person shop,55,No,W,United States of America
+both,Connecticut,Self-Employed,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,33,Yes,W,United States of America
 both,,6-25,Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,19,No,M,India
 non-technical,California,More than 1000,Other,40,No,M,United States of America
-non-technical,Illinois,More than 1000,Supervisor/Team Lead,49,Yes,F,United States of America
-technical,,6-25,Front-end Developer,27,No,F,Australia
+non-technical,Illinois,More than 1000,Supervisor/Team Lead,49,Yes,W,United States of America
+technical,,6-25,Front-end Developer,27,No,W,Australia
 technical,Missouri,More than 1000,Designer,39,Yes,M,United States of America
 non-technical,,More than 1000,Support,35,Yes,M,United Kingdom
 both,Texas,26-100,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,35,No,M,United States of America
-technical,Texas,26-100,Designer,42,Yes,F,United States of America
+technical,Texas,26-100,Designer,42,Yes,W,United States of America
 non-technical,,6-25,One-person shop,35,No,M,Canada
-both,Texas,100-500,Support|Back-end Developer,31,Yes,F,United States of America
+both,Texas,100-500,Support|Back-end Developer,31,Yes,W,United States of America
 technical,,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin,44,Yes,M,United Kingdom
 both,Georgia,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer,39,No,M,United States of America
 both,,Self-Employed,DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,32,No,M,Canada
 non-technical,,More than 1000,Supervisor/Team Lead,45,No,M,New Zealand
 technical,Texas,Self-Employed,Designer,31,No,M,United States of America
-both,New York,Self-Employed,One-person shop|Designer,47,Yes,F,United States of America
+both,New York,Self-Employed,One-person shop|Designer,47,Yes,W,United States of America
 technical,Maryland,26-100,Back-end Developer,29,No,M,United States of America
 technical,Oklahoma,6-25,Back-end Developer,20,Yes,M,United States of America
 non-technical,Washington,100-500,Other,34,No,M,United States of America
 both,,500-1000,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,33,Yes,O,United Kingdom
-both,Florida,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,56,No,F,United States of America
+both,Florida,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,56,No,W,United States of America
 non-technical,,Self-Employed,One-person shop,35,No,M,Canada
 technical,California,100-500,DevOps/SysAdmin,31,Yes,M,United States of America
 non-technical,Texas,More than 1000,Executive Leadership,36,Yes,M,United States of America
 non-technical,California,100-500,Support,30,No,M,United States of America
-non-technical,Texas,More than 1000,Support,44,Yes,F,United States of America
-technical,Texas,1-5,Front-end Developer|Designer,23,Yes,F,United States of America
+non-technical,Texas,More than 1000,Support,44,Yes,W,United States of America
+technical,Texas,1-5,Front-end Developer|Designer,23,Yes,W,United States of America
 non-technical,Missouri,More than 1000,Support,46,No,M,United States of America
-technical,Maine,100-500,Front-end Developer,33,Yes,F,United States of America
-non-technical,California,500-1000,Other,32,Yes,F,United States of America
+technical,Maine,100-500,Front-end Developer,33,Yes,W,United States of America
+non-technical,California,500-1000,Other,32,Yes,W,United States of America
 both,,Self-Employed,DevOps/SysAdmin|Support|Back-end Developer|One-person shop,45,Yes,M,Other
 technical,Illinois,6-25,Back-end Developer,26,No,M,United States of America
-technical,New Mexico,Self-Employed,DevOps/SysAdmin|Back-end Developer,32,No,F,United States of America
+technical,New Mexico,Self-Employed,DevOps/SysAdmin|Back-end Developer,32,No,W,United States of America
 technical,Oregon,More than 1000,Back-end Developer,28,No,M,United States of America
 both,Wisconsin,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,44,No,M,United States of America
 non-technical,,Self-Employed,One-person shop,42,No,M,United Kingdom
 technical,California,More than 1000,Back-end Developer,30,No,M,United States of America
-technical,Washington,6-25,Front-end Developer|Designer,28,Yes,F,United States of America
+technical,Washington,6-25,Front-end Developer|Designer,28,Yes,W,United States of America
 non-technical,,100-500,Supervisor/Team Lead,31,Yes,M,Canada
 technical,Ohio,100-500,Back-end Developer,29,No,M,United States of America
 technical,Texas,26-100,Back-end Developer,33,No,M,United States of America
-non-technical,Maryland,More than 1000,Executive Leadership,43,Yes,F,United States of America
+non-technical,Maryland,More than 1000,Executive Leadership,43,Yes,W,United States of America
 both,,100-500,Dev Evangelist/Advocate|Front-end Developer|Back-end Developer|DevOps/SysAdmin,28,No,M,Australia
 technical,California,Self-Employed,DevOps/SysAdmin|Back-end Developer|Front-end Developer,42,No,O,United States of America
 non-technical,Texas,100-500,Dev Evangelist/Advocate,38,Yes,M,United States of America
 both,Wisconsin,6-25,DevOps/SysAdmin|Support|One-person shop,30,Yes,M,United States of America
-non-technical,North Dakota,Self-Employed,One-person shop,51,Yes,F,United States of America
-non-technical,Kansas,26-100,Executive Leadership,48,No,F,United States of America
+non-technical,North Dakota,Self-Employed,One-person shop,51,Yes,W,United States of America
+non-technical,Kansas,26-100,Executive Leadership,48,No,W,United States of America
 non-technical,,Self-Employed,One-person shop,39,No,M,New Zealand
 both,,6-25,Designer|Support|Supervisor/Team Lead,28,No,M,Australia
 technical,Colorado,100-500,Front-end Developer|Designer,37,Yes,M,United States of America
@@ -806,28 +806,28 @@ technical,,6-25,Front-end Developer,21,No,M,Australia
 both,California,26-100,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer|One-person shop,25,Yes,M,United States of America
 non-technical,,Self-Employed,Other,15,No,M,Canada
 technical,Oklahoma,100-500,Back-end Developer,40,Yes,M,United States of America
-technical,,100-500,Front-end Developer,30,Yes,F,Canada
+technical,,100-500,Front-end Developer,30,Yes,W,Canada
 non-technical,,Self-Employed,Support,27,No,M,Romania
 technical,,1-5,Back-end Developer|Front-end Developer,25,No,M,India
 both,,More than 1000,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,38,No,M,Germany
 both,,100-500,Support|Designer,24,No,M,United Kingdom
 technical,,6-25,Back-end Developer,23,No,M,United Kingdom
-non-technical,,Self-Employed,One-person shop|Other,39,Yes,F,United Kingdom
+non-technical,,Self-Employed,One-person shop|Other,39,Yes,W,United Kingdom
 both,Colorado,6-25,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,26,No,M,United States of America
 non-technical,,More than 1000,Support,43,No,M,United Kingdom
 both,,6-25,Executive Leadership|Supervisor/Team Lead|Front-end Developer|Back-end Developer,30,No,M,New Zealand
 both,,Self-Employed,Designer|Front-end Developer|Back-end Developer|Executive Leadership|Other,35,Yes,M,Germany
 both,,26-100,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,40,No,M,United Kingdom
-both,,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Designer|One-person shop,33,No,F,United Kingdom
+both,,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Designer|One-person shop,33,No,W,United Kingdom
 non-technical,,Self-Employed,One-person shop,35,No,M,Brunei
 both,,6-25,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,22,No,M,United Kingdom
 technical,Ohio,100-500,Back-end Developer,28,Yes,M,United States of America
 non-technical,California,More than 1000,Support,39,Yes,M,United States of America
 non-technical,Indiana,100-500,Support,33,No,M,United States of America
-both,,Self-Employed,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,25,No,F,United Kingdom
+both,,Self-Employed,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,25,No,W,United Kingdom
 both,Minnesota,6-25,Executive Leadership|Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,37,No,M,United States of America
-technical,,500-1000,Front-end Developer,41,Yes,F,France
-technical,Kansas,More than 1000,Back-end Developer,30,Yes,F,United States of America
+technical,,500-1000,Front-end Developer,41,Yes,W,France
+technical,Kansas,More than 1000,Back-end Developer,30,Yes,W,United States of America
 non-technical,Texas,More than 1000,Supervisor/Team Lead,42,No,M,United States of America
 both,Minnesota,6-25,Support|Front-end Developer|Back-end Developer,52,No,M,United States of America
 technical,California,26-100,Back-end Developer,30,No,M,United States of America
@@ -842,9 +842,9 @@ both,Minnesota,6-25,Dev Evangelist/Advocate|Back-end Developer|Front-end Develop
 both,South Dakota,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,35,Yes,M,United States of America
 both,Nebraska,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer,34,Yes,M,United States of America
 technical,,More than 1000,Back-end Developer,38,No,M,United Kingdom
-non-technical,North Carolina,100-500,Support,26,Yes,F,United States of America
+non-technical,North Carolina,100-500,Support,26,Yes,W,United States of America
 technical,,6-25,Back-end Developer,24,No,M,Bulgaria
-both,New York,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,27,Yes,F,United States of America
+both,New York,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,27,Yes,W,United States of America
 non-technical,Oklahoma,6-25,One-person shop,25,No,M,United States of America
 both,Massachusetts,Self-Employed,One-person shop|Designer|Front-end Developer|Back-end Developer|Sales|Support,37,No,M,United States of America
 both,,More than 1000,Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Designer|Front-end Developer,33,No,M,Canada
@@ -852,38 +852,38 @@ non-technical,New York,26-100,Support,34,Yes,M,United States of America
 technical,,26-100,Designer,27,Yes,M,Canada
 non-technical,New Hampshire,100-500,Support,33,Yes,M,United States of America
 technical,Minnesota,6-25,DevOps/SysAdmin,50,Yes,M,United States of America
-non-technical,New York,Self-Employed,One-person shop,54,Yes,F,United States of America
-non-technical,,More than 1000,Supervisor/Team Lead|Sales,32,Yes,F,Canada
+non-technical,New York,Self-Employed,One-person shop,54,Yes,W,United States of America
+non-technical,,More than 1000,Supervisor/Team Lead|Sales,32,Yes,W,Canada
 technical,,6-25,Front-end Developer,39,No,M,Canada
 technical,Minnesota,6-25,Back-end Developer|Front-end Developer|Designer,36,No,M,United States of America
 technical,,100-500,Front-end Developer,34,No,M,Canada
-technical,New York,100-500,Front-end Developer,31,No,F,United States of America
+technical,New York,100-500,Front-end Developer,31,No,W,United States of America
 technical,Texas,More than 1000,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,36,Yes,M,United States of America
 both,Minnesota,More than 1000,Other|DevOps/SysAdmin|Support|Back-end Developer,48,No,M,United States of America
 technical,Maine,6-25,Back-end Developer,31,Yes,M,United States of America
 non-technical,Pennsylvania,1-5,Other,32,No,M,United States of America
 both,Oregon,100-500,Supervisor/Team Lead|Back-end Developer|Support|DevOps/SysAdmin,32,No,M,United States of America
 both,Oregon,Self-Employed,One-person shop|Front-end Developer,31,Yes,M,United States of America
-technical,Kansas,1-5,Designer,28,Yes,F,United States of America
+technical,Kansas,1-5,Designer,28,Yes,W,United States of America
 both,,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,28,Yes,M,United Kingdom
-technical,Pennsylvania,26-100,Back-end Developer,33,Yes,F,United States of America
+technical,Pennsylvania,26-100,Back-end Developer,33,Yes,W,United States of America
 technical,Oregon,Self-Employed,Designer,33,Yes,M,United States of America
 technical,Arizona,Self-Employed,Designer,59,Yes,M,United States of America
 non-technical,Oregon,Self-Employed,Executive Leadership,33,Yes,M,United States of America
 technical,Florida,100-500,DevOps/SysAdmin|Back-end Developer,37,Yes,M,United States of America
-technical,,6-25,Back-end Developer|Front-end Developer,27,Yes,F,Germany
+technical,,6-25,Back-end Developer|Front-end Developer,27,Yes,W,Germany
 technical,Texas,More than 1000,Back-end Developer|Front-end Developer,39,No,M,United States of America
 technical,,Self-Employed,DevOps/SysAdmin,50,No,M,Germany
-technical,Texas,More than 1000,Front-end Developer,34,No,F,United States of America
+technical,Texas,More than 1000,Front-end Developer,34,No,W,United States of America
 both,,Self-Employed,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,50,No,M,Germany
-non-technical,,6-25,Support|Other,31,No,F,Other
+non-technical,,6-25,Support|Other,31,No,W,Other
 both,Maryland,More than 1000,Supervisor/Team Lead|Back-end Developer,39,Yes,M,United States of America
 both,District of Columbia,26-100,Support|Back-end Developer|Front-end Developer,46,Yes,M,United States of America
 technical,Tennessee,More than 1000,Front-end Developer,28,No,M,United States of America
 technical,,26-100,Back-end Developer,32,No,M,France
-technical,Oregon,Self-Employed,Front-end Developer|Back-end Developer,65,Yes,F,United States of America
+technical,Oregon,Self-Employed,Front-end Developer|Back-end Developer,65,Yes,W,United States of America
 both,California,Self-Employed,Dev Evangelist/Advocate|One-person shop|Back-end Developer|Support|DevOps/SysAdmin,37,Yes,M,United States of America
-non-technical,District of Columbia,Self-Employed,Other|One-person shop,41,No,F,United States of America
+non-technical,District of Columbia,Self-Employed,Other|One-person shop,41,No,W,United States of America
 non-technical,New York,Self-Employed,Executive Leadership|Other,38,Yes,M,United States of America
 non-technical,North Carolina,26-100,Supervisor/Team Lead,51,Yes,M,United States of America
 technical,Illinois,500-1000,Back-end Developer,29,No,M,United States of America
@@ -893,28 +893,28 @@ non-technical,,1-5,Other|Dev Evangelist/Advocate|Support,32,No,M,Iran
 technical,,Self-Employed,Front-end Developer|Back-end Developer,31,Yes,M,Sweden
 both,,More than 1000,Support|Designer|Front-end Developer,52,No,M,Switzerland
 both,,Self-Employed,Designer|One-person shop,31,Yes,M,Switzerland
-non-technical,,Self-Employed,One-person shop,38,No,F,United Kingdom
+non-technical,,Self-Employed,One-person shop,38,No,W,United Kingdom
 non-technical,Illinois,More than 1000,Other|Dev Evangelist/Advocate|Support,35,Yes,M,United States of America
 both,Oklahoma,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin,29,No,M,United States of America
 non-technical,Minnesota,Self-Employed,One-person shop,63,No,M,United States of America
-non-technical,New York,Self-Employed,One-person shop|Other,47,Yes,F,United States of America
+non-technical,New York,Self-Employed,One-person shop|Other,47,Yes,W,United States of America
 technical,,Self-Employed,DevOps/SysAdmin,43,Yes,M,Austria
 both,,26-100,Designer|Supervisor/Team Lead,38,No,M,Ireland
 both,Washington,6-25,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,27,No,M,United States of America
-non-technical,Oregon,6-25,Other,40,No,F,United States of America
+non-technical,Oregon,6-25,Other,40,No,W,United States of America
 technical,,500-1000,Front-end Developer,32,No,M,South Africa
-both,Wisconsin,Self-Employed,Front-end Developer|Support,43,No,F,United States of America
-non-technical,,100-500,Other,28,Yes,F,Germany
+both,Wisconsin,Self-Employed,Front-end Developer|Support,43,No,W,United States of America
+non-technical,,100-500,Other,28,Yes,W,Germany
 both,,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin,46,No,M,United Kingdom
 technical,California,More than 1000,Front-end Developer,42,No,M,United States of America
 both,New York,1-5,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,31,Yes,M,United States of America
-non-technical,Pennsylvania,Self-Employed,Executive Leadership,37,Yes,F,United States of America
+non-technical,Pennsylvania,Self-Employed,Executive Leadership,37,Yes,W,United States of America
 technical,,6-25,Designer,35,Yes,M,Canada
-both,Minnesota,Self-Employed,One-person shop|Designer|Front-end Developer,30,No,F,United States of America
+both,Minnesota,Self-Employed,One-person shop|Designer|Front-end Developer,30,No,W,United States of America
 technical,,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,35,Yes,M,Australia
 technical,California,26-100,Back-end Developer,24,Yes,M,United States of America
 technical,,6-25,Back-end Developer,23,No,M,India
-technical,,Self-Employed,Front-end Developer,39,Yes,F,United Kingdom
+technical,,Self-Employed,Front-end Developer,39,Yes,W,United Kingdom
 non-technical,,6-25,Executive Leadership,38,No,M,France
 technical,,Self-Employed,Front-end Developer,28,Yes,M,United Kingdom
 both,,Self-Employed,Supervisor/Team Lead|Back-end Developer,30,No,M,United Kingdom
@@ -922,29 +922,29 @@ non-technical,,Self-Employed,One-person shop,38,No,M,United Kingdom
 technical,,26-100,Back-end Developer,33,No,M,France
 technical,,26-100,Back-end Developer,35,No,M,United Kingdom
 non-technical,,Self-Employed,Other,54,No,M,United Kingdom
-non-technical,,100-500,Other,30,No,F,Germany
-technical,,Self-Employed,Front-end Developer|Designer,32,No,F,United Kingdom
+non-technical,,100-500,Other,30,No,W,Germany
+technical,,Self-Employed,Front-end Developer|Designer,32,No,W,United Kingdom
 technical,North Carolina,500-1000,Front-end Developer,28,No,M,United States of America
 both,,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,39,Yes,M,Germany
 technical,New Jersey,1-5,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,21,Yes,O,United States of America
 both,,6-25,Front-end Developer|Back-end Developer|Supervisor/Team Lead,31,No,M,Germany
 both,Washington,More than 1000,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,30,No,M,United States of America
-non-technical,Pennsylvania,26-100,Other,25,No,F,United States of America
+non-technical,Pennsylvania,26-100,Other,25,No,W,United States of America
 technical,,6-25,Back-end Developer,26,No,M,United Kingdom
 both,Pennsylvania,26-100,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,30,No,M,United States of America
 technical,,500-1000,Back-end Developer,30,No,M,Italy
 both,,100-500,Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,31,No,M,Bulgaria
 technical,North Carolina,100-500,Back-end Developer|Front-end Developer,32,Yes,M,United States of America
-technical,,26-100,Back-end Developer,45,Yes,F,United Kingdom
+technical,,26-100,Back-end Developer,45,Yes,W,United Kingdom
 both,,Self-Employed,Front-end Developer|Back-end Developer|Supervisor/Team Lead,29,No,M,Switzerland
 technical,Pennsylvania,26-100,Front-end Developer|Back-end Developer,27,No,M,United States of America
-technical,,26-100,Front-end Developer,28,No,F,United Kingdom
+technical,,26-100,Front-end Developer,28,No,W,United Kingdom
 technical,Michigan,500-1000,Back-end Developer|DevOps/SysAdmin,38,No,M,United States of America
 technical,Minnesota,500-1000,Front-end Developer|Designer,38,Yes,M,United States of America
 non-technical,,More than 1000,Other,34,Yes,M,Hungary
 both,,Self-Employed,Executive Leadership|Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,36,Yes,M,Netherlands
 technical,,6-25,Back-end Developer,23,No,M,France
-non-technical,Texas,100-500,Other,40,Yes,F,United States of America
+non-technical,Texas,100-500,Other,40,Yes,W,United States of America
 technical,Michigan,Self-Employed,Back-end Developer,39,Yes,M,United States of America
 technical,Texas,26-100,Front-end Developer,28,Yes,M,United States of America
 technical,Tennessee,6-25,Front-end Developer|Back-end Developer,33,No,M,United States of America
@@ -953,12 +953,12 @@ non-technical,Minnesota,More than 1000,Other,32,Yes,M,United States of America
 both,Colorado,More than 1000,Other|DevOps/SysAdmin|Back-end Developer,27,Yes,M,United States of America
 technical,,100-500,Front-end Developer|Back-end Developer,33,Yes,M,Israel
 both,,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer,34,No,M,Japan
-non-technical,,Self-Employed,Supervisor/Team Lead,38,Yes,F,India
+non-technical,,Self-Employed,Supervisor/Team Lead,38,Yes,W,India
 both,Illinois,More than 1000,Supervisor/Team Lead|Back-end Developer,35,No,M,United States of America
 both,Maryland,26-100,Other|Back-end Developer|Supervisor/Team Lead,39,No,M,United States of America
 non-technical,Minnesota,More than 1000,Supervisor/Team Lead,35,No,M,United States of America
 technical,Utah,100-500,Back-end Developer,34,No,M,United States of America
-both,Massachusetts,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,44,Yes,F,United States of America
+both,Massachusetts,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,44,Yes,W,United States of America
 non-technical,Massachusetts,500-1000,Supervisor/Team Lead,42,No,M,United States of America
 technical,Florida,6-25,Front-end Developer|Designer,30,No,M,United States of America
 both,Illinois,26-100,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,55,No,M,United States of America
@@ -966,16 +966,16 @@ technical,California,26-100,Back-end Developer,46,Yes,M,United States of America
 technical,Massachusetts,100-500,DevOps/SysAdmin|Back-end Developer,33,Yes,M,United States of America
 both,Massachusetts,26-100,Supervisor/Team Lead|Support|Back-end Developer,30,Yes,M,United States of America
 non-technical,,26-100,Supervisor/Team Lead,30,Yes,M,United Kingdom
-technical,Massachusetts,More than 1000,Back-end Developer|Front-end Developer,31,No,F,United States of America
+technical,Massachusetts,More than 1000,Back-end Developer|Front-end Developer,31,No,W,United States of America
 technical,,More than 1000,DevOps/SysAdmin,38,Yes,M,Ireland
-both,,100-500,Support|Back-end Developer,30,No,F,United Kingdom
+both,,100-500,Support|Back-end Developer,30,No,W,United Kingdom
 technical,Utah,500-1000,Back-end Developer,32,Yes,M,United States of America
 non-technical,,More than 1000,Supervisor/Team Lead,32,Yes,M,United Kingdom
 both,Utah,26-100,Supervisor/Team Lead|Back-end Developer,47,Yes,M,United States of America
 technical,,6-25,DevOps/SysAdmin,39,No,M,United Kingdom
 both,Texas,100-500,Supervisor/Team Lead|Back-end Developer,35,Yes,M,United States of America
 non-technical,Massachusetts,100-500,Supervisor/Team Lead,36,Yes,M,United States of America
-technical,Michigan,100-500,Front-end Developer,38,No,F,United States of America
+technical,Michigan,100-500,Front-end Developer,38,No,W,United States of America
 technical,Washington,100-500,Back-end Developer|Front-end Developer,30,No,M,United States of America
 technical,Michigan,26-100,Back-end Developer,33,No,M,United States of America
 technical,Massachusetts,6-25,Front-end Developer,22,No,M,United States of America
@@ -986,7 +986,7 @@ both,Michigan,Self-Employed,Sales|Support|DevOps/SysAdmin|Executive Leadership,4
 both,,100-500,Supervisor/Team Lead|Back-end Developer|Front-end Developer,37,Yes,M,Bulgaria
 technical,,1-5,Executive Leadership|Back-end Developer|Front-end Developer,43,No,M,Switzerland
 technical,Illinois,Self-Employed,Back-end Developer,20,Yes,M,United States of America
-technical,Minnesota,500-1000,Back-end Developer|Front-end Developer,30,Yes,F,United States of America
+technical,Minnesota,500-1000,Back-end Developer|Front-end Developer,30,Yes,W,United States of America
 technical,Washington,More than 1000,Front-end Developer,32,No,M,United States of America
 non-technical,Minnesota,More than 1000,Other,35,No,M,United States of America
 technical,Pennsylvania,26-100,Back-end Developer,29,No,M,United States of America
@@ -1004,21 +1004,21 @@ both,California,100-500,Supervisor/Team Lead|Front-end Developer,36,Yes,O,United
 non-technical,,Self-Employed,One-person shop,34,Yes,M,United Kingdom
 technical,Colorado,26-100,Front-end Developer,35,Yes,M,United States of America
 both,Ohio,6-25,Supervisor/Team Lead|Support|Front-end Developer|Back-end Developer,25,No,M,United States of America
-non-technical,,100-500,Other,32,Yes,F,Sweden
-technical,New York,100-500,Front-end Developer,32,No,F,United States of America
+non-technical,,100-500,Other,32,Yes,W,Sweden
+technical,New York,100-500,Front-end Developer,32,No,W,United States of America
 technical,California,Self-Employed,Front-end Developer|Executive Leadership,37,Yes,M,United States of America
 technical,,100-500,Back-end Developer,28,No,M,Germany
-technical,,500-1000,Back-end Developer,34,No,F,United Kingdom
-technical,Wisconsin,More than 1000,Back-end Developer|Front-end Developer,40,Yes,F,United States of America
+technical,,500-1000,Back-end Developer,34,No,W,United Kingdom
+technical,Wisconsin,More than 1000,Back-end Developer|Front-end Developer,40,Yes,W,United States of America
 non-technical,Washington,More than 1000,Other|Dev Evangelist/Advocate,45,Yes,M,United States of America
 both,,100-500,Back-end Developer|Supervisor/Team Lead|Other,31,No,M,Sweden
 technical,Washington,More than 1000,Back-end Developer|Front-end Developer|Designer,30,Yes,M,United States of America
-non-technical,,More than 1000,Supervisor/Team Lead,47,No,F,United Kingdom
+non-technical,,More than 1000,Supervisor/Team Lead,47,No,W,United Kingdom
 both,,100-500,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,48,No,M,United Kingdom
 non-technical,Ohio,Self-Employed,One-person shop,44,No,M,United States of America
 non-technical,Colorado,More than 1000,Other|Support,29,Yes,M,United States of America
 non-technical,Missouri,More than 1000,Supervisor/Team Lead,52,No,M,United States of America
-non-technical,,100-500,Other,34,No,F,Sweden
+non-technical,,100-500,Other,34,No,W,Sweden
 non-technical,,100-500,Other,34,No,M,Netherlands
 technical,Washington,More than 1000,Back-end Developer,27,No,M,United States of America
 technical,,More than 1000,Front-end Developer,30,No,M,Russia
@@ -1026,13 +1026,13 @@ non-technical,,6-25,Executive Leadership,40,No,M,United Kingdom
 both,California,Self-Employed,DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership,26,No,M,United States of America
 both,,Self-Employed,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Executive Leadership,36,No,M,United Kingdom
 technical,,26-100,DevOps/SysAdmin,35,No,M,United Kingdom
-non-technical,,More than 1000,Supervisor/Team Lead,43,No,F,United Kingdom
-technical,,26-100,Back-end Developer,36,Yes,F,United Kingdom
-both,Georgia,100-500,Other|Supervisor/Team Lead|Front-end Developer,32,No,F,United States of America
-non-technical,,Self-Employed,Executive Leadership,36,No,F,Ireland
+non-technical,,More than 1000,Supervisor/Team Lead,43,No,W,United Kingdom
+technical,,26-100,Back-end Developer,36,Yes,W,United Kingdom
+both,Georgia,100-500,Other|Supervisor/Team Lead|Front-end Developer,32,No,W,United States of America
+non-technical,,Self-Employed,Executive Leadership,36,No,W,Ireland
 non-technical,,More than 1000,Other,38,Yes,M,New Zealand
 non-technical,California,More than 1000,Other|Supervisor/Team Lead,35,No,M,United States of America
-technical,,100-500,DevOps/SysAdmin|Designer,35,Yes,F,Australia
+technical,,100-500,DevOps/SysAdmin|Designer,35,Yes,W,Australia
 technical,California,More than 1000,DevOps/SysAdmin,45,Yes,M,United States of America
 both,,Self-Employed,Front-end Developer|One-person shop,47,No,M,New Zealand
 non-technical,Colorado,100-500,Supervisor/Team Lead,27,No,M,United States of America
@@ -1044,14 +1044,14 @@ technical,Illinois,More than 1000,Front-end Developer,34,No,M,United States of A
 technical,,100-500,Back-end Developer,43,No,M,Sweden
 non-technical,,26-100,Supervisor/Team Lead,33,Yes,M,United Kingdom
 non-technical,,Self-Employed,One-person shop,37,No,M,Australia
-technical,,26-100,Back-end Developer,27,Yes,F,United Kingdom
-non-technical,California,Self-Employed,Other,54,Yes,F,United States of America
+technical,,26-100,Back-end Developer,27,Yes,W,United Kingdom
+non-technical,California,Self-Employed,Other,54,Yes,W,United States of America
 technical,,More than 1000,DevOps/SysAdmin,38,No,M,Italy
 technical,,More than 1000,Back-end Developer,42,Yes,M,Germany
 technical,,26-100,Designer|Front-end Developer,30,No,M,United Kingdom
 both,,500-1000,Supervisor/Team Lead|DevOps/SysAdmin|HR,43,Yes,M,Australia
 non-technical,,Self-Employed,Supervisor/Team Lead,33,Yes,M,Netherlands
-technical,,1-5,DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,37,No,F,Australia
+technical,,1-5,DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,37,No,W,Australia
 technical,Virginia,100-500,DevOps/SysAdmin,25,Yes,M,United States of America
 technical,,More than 1000,Front-end Developer|Back-end Developer|DevOps/SysAdmin,27,Yes,M,Australia
 technical,,Self-Employed,Back-end Developer,27,Yes,M,Canada
@@ -1078,34 +1078,34 @@ technical,New Mexico,Self-Employed,DevOps/SysAdmin,24,No,O,United States of Amer
 non-technical,,100-500,Executive Leadership,44,Yes,M,Australia
 technical,Wisconsin,More than 1000,DevOps/SysAdmin|Back-end Developer,37,Yes,M,United States of America
 technical,,6-25,Front-end Developer,22,Yes,M,Brazil
-technical,Tennessee,26-100,Front-end Developer,31,Yes,F,United States of America
-technical,,26-100,Back-end Developer,36,No,F,Bulgaria
+technical,Tennessee,26-100,Front-end Developer,31,Yes,W,United States of America
+technical,,26-100,Back-end Developer,36,No,W,Bulgaria
 technical,,Self-Employed,Back-end Developer,28,Yes,M,Romania
-technical,Iowa,500-1000,Back-end Developer|Front-end Developer,25,No,F,United States of America
+technical,Iowa,500-1000,Back-end Developer|Front-end Developer,25,No,W,United States of America
 both,Kentucky,Self-Employed,One-person shop|Designer|Front-end Developer,49,No,M,United States of America
-both,New Jersey,1-5,Other|Back-end Developer,22,Yes,F,United States of America
+both,New Jersey,1-5,Other|Back-end Developer,22,Yes,W,United States of America
 both,Massachusetts,Self-Employed,One-person shop|Designer|Front-end Developer,43,Yes,M,United States of America
 non-technical,Indiana,Self-Employed,Executive Leadership,33,Yes,M,United States of America
-non-technical,Kentucky,500-1000,Other,36,Yes,F,United States of America
-non-technical,California,26-100,Dev Evangelist/Advocate,26,Yes,F,United States of America
+non-technical,Kentucky,500-1000,Other,36,Yes,W,United States of America
+non-technical,California,26-100,Dev Evangelist/Advocate,26,Yes,W,United States of America
 non-technical,Tennessee,More than 1000,Other,43,Yes,M,United States of America
 both,New York,Self-Employed,Executive Leadership|Supervisor/Team Lead|Support|Sales|Designer|Front-end Developer|Back-end Developer,21,No,M,United States of America
 both,,More than 1000,Other|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,39,Yes,M,Australia
 both,,More than 1000,Other|Front-end Developer|Designer|One-person shop,46,Yes,M,United Kingdom
 non-technical,,1-5,Supervisor/Team Lead|Executive Leadership,32,No,M,United Kingdom
 technical,,Self-Employed,Designer,31,No,M,United Kingdom
-technical,,Self-Employed,Designer,39,Yes,F,United Kingdom
+technical,,Self-Employed,Designer,39,Yes,W,United Kingdom
 technical,,100-500,Front-end Developer,44,Yes,M,Sweden
 technical,California,More than 1000,Back-end Developer|Front-end Developer,36,Yes,M,United States of America
-non-technical,,More than 1000,Support,31,No,F,United Kingdom
+non-technical,,More than 1000,Support,31,No,W,United Kingdom
 non-technical,Colorado,Self-Employed,Other,30,Yes,O,United States of America
 technical,Idaho,100-500,DevOps/SysAdmin,36,Yes,M,United States of America
 both,New Mexico,Self-Employed,Front-end Developer|Designer|One-person shop,31,No,M,United States of America
 technical,,1-5,Front-end Developer,23,No,M,Canada
 non-technical,,26-100,Other,23,Yes,M,Canada
-both,Washington,Self-Employed,DevOps/SysAdmin|Support|Sales|Front-end Developer|Designer|One-person shop,30,Yes,F,United States of America
+both,Washington,Self-Employed,DevOps/SysAdmin|Support|Sales|Front-end Developer|Designer|One-person shop,30,Yes,W,United States of America
 both,,Self-Employed,DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,34,No,M,Canada
-both,Georgia,6-25,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,49,No,F,United States of America
+both,Georgia,6-25,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,49,No,W,United States of America
 technical,,6-25,Back-end Developer,25,No,M,Bosnia and Herzegovina
 both,,6-25,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,39,No,M,United Kingdom
 technical,,More than 1000,Front-end Developer|Back-end Developer,37,No,M,Germany
@@ -1113,27 +1113,27 @@ technical,California,26-100,Back-end Developer,26,No,M,United States of America
 technical,Michigan,100-500,Back-end Developer,41,Yes,M,United States of America
 both,,6-25,Supervisor/Team Lead|Back-end Developer|Front-end Developer,28,No,M,Netherlands
 technical,,100-500,Front-end Developer|Back-end Developer,33,Yes,M,Sweden
-both,California,100-500,Support|Back-end Developer,74,No,F,United States of America
+both,California,100-500,Support|Back-end Developer,74,No,W,United States of America
 technical,,100-500,Back-end Developer,28,Yes,M,Netherlands
 non-technical,Illinois,6-25,Other,47,Yes,M,United States of America
 non-technical,,100-500,Supervisor/Team Lead,25,No,M,Bosnia and Herzegovina
 non-technical,Massachusetts,100-500,Supervisor/Team Lead,51,Yes,M,United States of America
 technical,California,More than 1000,Back-end Developer,26,Yes,M,United States of America
 technical,Ohio,26-100,Front-end Developer|Back-end Developer,24,No,M,United States of America
-non-technical,North Carolina,Self-Employed,Executive Leadership,33,Yes,F,United States of America
-technical,North Carolina,26-100,Designer,32,Yes,F,United States of America
+non-technical,North Carolina,Self-Employed,Executive Leadership,33,Yes,W,United States of America
+technical,North Carolina,26-100,Designer,32,Yes,W,United States of America
 non-technical,North Carolina,6-25,Executive Leadership,57,No,M,United States of America
 both,North Carolina,More than 1000,Supervisor/Team Lead|Back-end Developer|Front-end Developer,39,Yes,M,United States of America
-non-technical,Illinois,6-25,Other,26,Yes,F,United States of America
+non-technical,Illinois,6-25,Other,26,Yes,W,United States of America
 technical,Colorado,100-500,DevOps/SysAdmin,38,No,M,United States of America
 technical,,1-5,Back-end Developer,33,Yes,M,Finland
 technical,Ohio,6-25,Front-end Developer|Designer,30,No,M,United States of America
-technical,Illinois,100-500,Back-end Developer,25,Yes,F,United States of America
+technical,Illinois,100-500,Back-end Developer,25,Yes,W,United States of America
 non-technical,Michigan,26-100,Other,40,Yes,M,United States of America
-technical,Illinois,More than 1000,Front-end Developer,26,Yes,F,United States of America
+technical,Illinois,More than 1000,Front-end Developer,26,Yes,W,United States of America
 non-technical,South Dakota,More than 1000,Support,34,Yes,M,United States of America
-technical,Michigan,More than 1000,Front-end Developer,46,Yes,F,United States of America
-technical,Ohio,More than 1000,Front-end Developer,31,Yes,F,United States of America
+technical,Michigan,More than 1000,Front-end Developer,46,Yes,W,United States of America
+technical,Ohio,More than 1000,Front-end Developer,31,Yes,W,United States of America
 non-technical,,Self-Employed,Other|Supervisor/Team Lead,42,Yes,M,Ireland
 both,Michigan,More than 1000,Back-end Developer|Dev Evangelist/Advocate,30,No,M,United States of America
 both,Indiana,Self-Employed,Other|One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,26,Yes,O,United States of America
@@ -1145,25 +1145,25 @@ both,Michigan,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer
 technical,Virginia,26-100,Front-end Developer|Back-end Developer,27,No,M,United States of America
 technical,Alabama,26-100,Back-end Developer,45,No,M,United States of America
 both,Michigan,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,29,No,M,United States of America
-non-technical,Michigan,26-100,Other,47,No,F,United States of America
+non-technical,Michigan,26-100,Other,47,No,W,United States of America
 both,Oklahoma,100-500,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,33,No,M,United States of America
 technical,Washington,26-100,Back-end Developer,32,No,M,United States of America
 both,Michigan,26-100,DevOps/SysAdmin|Support|Back-end Developer,29,No,M,United States of America
 technical,Michigan,26-100,Back-end Developer,36,Yes,M,United States of America
-technical,Oklahoma,6-25,Front-end Developer|Back-end Developer,35,No,F,United States of America
+technical,Oklahoma,6-25,Front-end Developer|Back-end Developer,35,No,W,United States of America
 technical,Alaska,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,40,No,M,United States of America
 non-technical,Delaware,26-100,Other,36,Yes,M,United States of America
-technical,Oklahoma,More than 1000,Back-end Developer|Front-end Developer,39,No,F,United States of America
+technical,Oklahoma,More than 1000,Back-end Developer|Front-end Developer,39,No,W,United States of America
 technical,Alaska,26-100,Back-end Developer,38,No,M,United States of America
 both,Oklahoma,1-5,DevOps/SysAdmin|Support|Back-end Developer,23,Yes,M,United States of America
 both,Oklahoma,500-1000,Supervisor/Team Lead|DevOps/SysAdmin|Support,29,No,M,United States of America
 both,Michigan,100-500,Other|Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer,38,No,M,United States of America
-non-technical,Ohio,More than 1000,Supervisor/Team Lead,34,Yes,F,United States of America
+non-technical,Ohio,More than 1000,Supervisor/Team Lead,34,Yes,W,United States of America
 non-technical,,More than 1000,Other,28,Yes,M,Brazil
 non-technical,,6-25,Dev Evangelist/Advocate,38,Yes,M,New Zealand
-technical,North Carolina,26-100,Back-end Developer|Front-end Developer,25,No,F,United States of America
-non-technical,Michigan,More than 1000,Other,36,Yes,F,United States of America
-non-technical,Colorado,More than 1000,Other,57,Yes,F,United States of America
+technical,North Carolina,26-100,Back-end Developer|Front-end Developer,25,No,W,United States of America
+non-technical,Michigan,More than 1000,Other,36,Yes,W,United States of America
+non-technical,Colorado,More than 1000,Other,57,Yes,W,United States of America
 non-technical,,More than 1000,Executive Leadership,46,Yes,M,Ireland
 both,California,More than 1000,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,49,Yes,M,United States of America
 both,North Carolina,More than 1000,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,34,Yes,M,United States of America
@@ -1174,11 +1174,11 @@ both,,More than 1000,Back-end Developer|One-person shop,24,No,O,Sweden
 technical,California,More than 1000,Back-end Developer|Front-end Developer,33,Yes,M,United States of America
 technical,,1-5,Front-end Developer|Back-end Developer|DevOps/SysAdmin,28,No,M,Finland
 non-technical,,More than 1000,Dev Evangelist/Advocate,48,Yes,M,Germany
-technical,Georgia,26-100,Back-end Developer,33,Yes,F,United States of America
+technical,Georgia,26-100,Back-end Developer,33,Yes,W,United States of America
 both,New Jersey,100-500,Supervisor/Team Lead|Front-end Developer,40,No,M,United States of America
 non-technical,California,Self-Employed,One-person shop,22,Yes,M,United States of America
-technical,Texas,100-500,Back-end Developer,22,Yes,F,United States of America
-both,Washington,100-500,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,23,Yes,F,United States of America
+technical,Texas,100-500,Back-end Developer,22,Yes,W,United States of America
+both,Washington,100-500,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,23,Yes,W,United States of America
 both,,More than 1000,Back-end Developer|One-person shop,33,Yes,M,Germany
 technical,,6-25,Back-end Developer,29,Yes,M,Netherlands
 non-technical,Washington,More than 1000,Dev Evangelist/Advocate,32,Yes,M,United States of America
@@ -1188,42 +1188,42 @@ technical,,More than 1000,Back-end Developer,44,No,M,Sweden
 non-technical,Vermont,Self-Employed,One-person shop,29,No,M,United States of America
 technical,,26-100,Front-end Developer|Back-end Developer,27,No,M,Canada
 both,North Dakota,6-25,Support|Back-end Developer|Front-end Developer,30,No,M,United States of America
-non-technical,California,1-5,Other,43,No,F,United States of America
-technical,Minnesota,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,30,Yes,F,United States of America
-both,Ohio,26-100,Other|Back-end Developer|Front-end Developer|Designer,33,Yes,F,United States of America
-technical,Texas,Self-Employed,Back-end Developer,27,Yes,F,United States of America
-technical,Minnesota,6-25,Front-end Developer,26,No,F,United States of America
+non-technical,California,1-5,Other,43,No,W,United States of America
+technical,Minnesota,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,30,Yes,W,United States of America
+both,Ohio,26-100,Other|Back-end Developer|Front-end Developer|Designer,33,Yes,W,United States of America
+technical,Texas,Self-Employed,Back-end Developer,27,Yes,W,United States of America
+technical,Minnesota,6-25,Front-end Developer,26,No,W,United States of America
 both,,100-500,One-person shop|Front-end Developer|Back-end Developer,47,Yes,M,Ireland
 technical,Minnesota,6-25,Front-end Developer|Designer,30,No,M,United States of America
 technical,Oregon,6-25,DevOps/SysAdmin,39,No,M,United States of America
 technical,California,100-500,Front-end Developer,36,No,M,United States of America
 non-technical,,6-25,Supervisor/Team Lead,34,No,M,United Kingdom
-technical,Minnesota,26-100,Front-end Developer,25,Yes,F,United States of America
+technical,Minnesota,26-100,Front-end Developer,25,Yes,W,United States of America
 technical,,26-100,Back-end Developer|DevOps/SysAdmin,28,No,M,Finland
 technical,Indiana,More than 1000,DevOps/SysAdmin|Back-end Developer|Front-end Developer,38,Yes,M,United States of America
 non-technical,Massachusetts,100-500,Supervisor/Team Lead,39,No,M,United States of America
 both,Minnesota,6-25,Supervisor/Team Lead|Designer,32,No,M,United States of America
-technical,New York,26-100,Back-end Developer|Front-end Developer,27,No,F,United States of America
-technical,Pennsylvania,500-1000,Front-end Developer,31,Yes,F,United States of America
-both,,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer,30,No,F,United Kingdom
+technical,New York,26-100,Back-end Developer|Front-end Developer,27,No,W,United States of America
+technical,Pennsylvania,500-1000,Front-end Developer,31,Yes,W,United States of America
+both,,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer,30,No,W,United Kingdom
 technical,,Self-Employed,Back-end Developer,34,No,M,United Kingdom
 technical,Illinois,26-100,DevOps/SysAdmin|Back-end Developer|Front-end Developer,26,No,M,United States of America
-technical,,100-500,Back-end Developer,27,Yes,F,United Kingdom
+technical,,100-500,Back-end Developer,27,Yes,W,United Kingdom
 technical,Minnesota,26-100,Back-end Developer,29,No,M,United States of America
-technical,,Self-Employed,Front-end Developer|Back-end Developer,37,No,F,Canada
-both,Maryland,Self-Employed,Support|Back-end Developer|Front-end Developer|One-person shop,49,Yes,F,United States of America
+technical,,Self-Employed,Front-end Developer|Back-end Developer,37,No,W,Canada
+both,Maryland,Self-Employed,Support|Back-end Developer|Front-end Developer|One-person shop,49,Yes,W,United States of America
 technical,New York,More than 1000,Front-end Developer,39,No,M,United States of America
 non-technical,,Self-Employed,Supervisor/Team Lead,42,No,M,China
 technical,New York,500-1000,Front-end Developer,28,Yes,M,United States of America
 non-technical,Texas,Self-Employed,Executive Leadership,33,No,M,United States of America
-non-technical,,Self-Employed,Executive Leadership,30,No,F,United Kingdom
+non-technical,,Self-Employed,Executive Leadership,30,No,W,United Kingdom
 both,California,26-100,Dev Evangelist/Advocate|Back-end Developer,70,Yes,M,United States of America
 technical,,6-25,Back-end Developer,25,Yes,M,Germany
 technical,,26-100,Back-end Developer,45,Yes,M,United Kingdom
-technical,North Carolina,More than 1000,Back-end Developer,63,Yes,F,United States of America
+technical,North Carolina,More than 1000,Back-end Developer,63,Yes,W,United States of America
 technical,Colorado,26-100,Back-end Developer|Front-end Developer,40,No,M,United States of America
 technical,Florida,26-100,Back-end Developer,39,Yes,M,United States of America
-technical,Wisconsin,6-25,Front-end Developer|Designer,31,Yes,F,United States of America
+technical,Wisconsin,6-25,Front-end Developer|Designer,31,Yes,W,United States of America
 technical,California,26-100,Back-end Developer,34,No,M,United States of America
 non-technical,,Self-Employed,One-person shop,44,Yes,M,United Kingdom
 technical,,500-1000,Back-end Developer,45,No,M,Ireland
@@ -1232,7 +1232,7 @@ both,Tennessee,26-100,Back-end Developer|Supervisor/Team Lead,29,No,M,United Sta
 non-technical,Texas,100-500,Dev Evangelist/Advocate,27,Yes,O,United States of America
 both,New Mexico,100-500,Supervisor/Team Lead|Back-end Developer|Front-end Developer,37,Yes,M,United States of America
 technical,Wisconsin,100-500,Front-end Developer|Designer,41,Yes,O,United States of America
-technical,California,26-100,Front-end Developer,30,Yes,F,United States of America
+technical,California,26-100,Front-end Developer,30,Yes,W,United States of America
 non-technical,Maryland,26-100,Supervisor/Team Lead,28,Yes,M,United States of America
 technical,Oregon,More than 1000,Back-end Developer,28,No,M,United States of America
 non-technical,,Self-Employed,One-person shop,39,Yes,M,Switzerland
@@ -1244,11 +1244,11 @@ both,,100-500,Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,37
 technical,Texas,100-500,Back-end Developer,42,No,M,United States of America
 non-technical,,6-25,Other,31,Yes,M,United Kingdom
 both,Oregon,Self-Employed,Other|One-person shop|Designer|Front-end Developer,34,Yes,M,United States of America
-both,Maryland,Self-Employed,Support|Back-end Developer|Front-end Developer|One-person shop,49,Yes,F,United States of America
+both,Maryland,Self-Employed,Support|Back-end Developer|Front-end Developer|One-person shop,49,Yes,W,United States of America
 technical,,26-100,Back-end Developer|Front-end Developer,29,No,M,Canada
 technical,Iowa,More than 1000,Back-end Developer,40,Yes,M,United States of America
-non-technical,,26-100,Executive Leadership,46,Yes,F,Netherlands
-both,Minnesota,Self-Employed,One-person shop|Designer|Sales|Support|Supervisor/Team Lead,31,Yes,F,United States of America
+non-technical,,26-100,Executive Leadership,46,Yes,W,Netherlands
+both,Minnesota,Self-Employed,One-person shop|Designer|Sales|Support|Supervisor/Team Lead,31,Yes,W,United States of America
 technical,,100-500,Back-end Developer,43,No,M,Denmark
 both,,Self-Employed,Back-end Developer|Front-end Developer|One-person shop,45,No,M,Germany
 both,,6-25,DevOps/SysAdmin|Support|Back-end Developer|One-person shop|Front-end Developer,32,No,M,United Kingdom
@@ -1258,22 +1258,22 @@ technical,,26-100,DevOps/SysAdmin,38,Yes,M,Germany
 technical,,100-500,Back-end Developer,32,Yes,M,United Kingdom
 both,,More than 1000,DevOps/SysAdmin|Support,37,No,M,Mexico
 both,,Self-Employed,Support|Sales|Back-end Developer|Front-end Developer|Designer|One-person shop,24,Yes,M,Sweden
-both,Ohio,Self-Employed,One-person shop|Designer,25,No,F,United States of America
+both,Ohio,Self-Employed,One-person shop|Designer,25,No,W,United States of America
 both,Minnesota,6-25,Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,24,No,M,United States of America
-non-technical,Ohio,More than 1000,Other,34,No,F,United States of America
+non-technical,Ohio,More than 1000,Other,34,No,W,United States of America
 non-technical,Pennsylvania,Self-Employed,One-person shop,55,Yes,M,United States of America
 technical,Minnesota,100-500,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,32,Yes,M,United States of America
 technical,,1-5,Front-end Developer|Back-end Developer,29,No,M,Romania
 both,Massachusetts,More than 1000,Other|DevOps/SysAdmin|Back-end Developer,20,No,M,United States of America
 non-technical,Utah,More than 1000,Supervisor/Team Lead,41,No,M,United States of America
-non-technical,California,6-25,Dev Evangelist/Advocate,33,Yes,F,United States of America
+non-technical,California,6-25,Dev Evangelist/Advocate,33,Yes,W,United States of America
 technical,California,26-100,Back-end Developer|DevOps/SysAdmin,25,Yes,M,United States of America
 non-technical,,Self-Employed,Supervisor/Team Lead,29,No,M,United Kingdom
 both,California,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,24,Yes,O,United States of America
 technical,Colorado,100-500,Back-end Developer,39,Yes,M,United States of America
 non-technical,,500-1000,Executive Leadership,39,No,M,United Kingdom
 non-technical,,Self-Employed,One-person shop,44,No,M,United Kingdom
-non-technical,,Self-Employed,Other|Dev Evangelist/Advocate,30,Yes,F,Netherlands
+non-technical,,Self-Employed,Other|Dev Evangelist/Advocate,30,Yes,W,Netherlands
 technical,,6-25,Back-end Developer,31,No,M,Denmark
 both,,1-5,Supervisor/Team Lead|Back-end Developer|One-person shop,37,Yes,M,United Kingdom
 technical,,6-25,DevOps/SysAdmin,42,Yes,M,United Kingdom
@@ -1282,15 +1282,15 @@ technical,North Carolina,26-100,Back-end Developer|Front-end Developer,30,Yes,M,
 technical,,More than 1000,Front-end Developer,30,No,M,Canada
 both,Illinois,26-100,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,33,No,M,United States of America
 non-technical,Illinois,More than 1000,Other,31,No,M,United States of America
-both,Ohio,More than 1000,Supervisor/Team Lead|Front-end Developer|Designer,39,Yes,F,United States of America
+both,Ohio,More than 1000,Supervisor/Team Lead|Front-end Developer|Designer,39,Yes,W,United States of America
 technical,,26-100,Back-end Developer,27,No,M,Germany
 both,,Self-Employed,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,34,Yes,M,United Kingdom
 both,Florida,6-25,Support|Front-end Developer|Back-end Developer,31,No,M,United States of America
-non-technical,California,More than 1000,Other|Supervisor/Team Lead,30,Yes,F,United States of America
+non-technical,California,More than 1000,Other|Supervisor/Team Lead,30,Yes,W,United States of America
 technical,Illinois,26-100,Back-end Developer,34,Yes,M,United States of America
 technical,,6-25,Back-end Developer,20,No,O,Canada
 non-technical,Wisconsin,Self-Employed,One-person shop,39,Yes,M,United States of America
-non-technical,Utah,More than 1000,Other,50,Yes,F,United States of America
+non-technical,Utah,More than 1000,Other,50,Yes,W,United States of America
 non-technical,California,1-5,Sales,22,No,M,United States of America
 non-technical,,100-500,Executive Leadership,41,No,M,Spain
 technical,,26-100,DevOps/SysAdmin,37,No,M,Germany
@@ -1299,95 +1299,95 @@ technical,,Self-Employed,Designer|Front-end Developer,26,Yes,M,Austria
 technical,,6-25,Back-end Developer,38,No,M,Netherlands
 both,,Self-Employed,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer,21,No,M,United Kingdom
 technical,Colorado,6-25,Front-end Developer,27,Yes,M,United States of America
-non-technical,Louisiana,1-5,Support,37,Yes,F,United States of America
+non-technical,Louisiana,1-5,Support,37,Yes,W,United States of America
 non-technical,,Self-Employed,Other,45,No,M,United Kingdom
 both,New York,Self-Employed,One-person shop|Designer|Sales|Executive Leadership,26,No,M,United States of America
-technical,New York,6-25,Back-end Developer,30,No,F,United States of America
+technical,New York,6-25,Back-end Developer,30,No,W,United States of America
 non-technical,Tennessee,More than 1000,Other,21,Yes,M,United States of America
 non-technical,New York,More than 1000,Other,21,Yes,M,United States of America
 both,,Self-Employed,DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,29,No,M,Germany
 technical,Missouri,More than 1000,DevOps/SysAdmin,46,No,M,United States of America
 both,California,500-1000,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,28,Yes,M,United States of America
-both,Connecticut,Self-Employed,Supervisor/Team Lead|Support|One-person shop|Designer|Front-end Developer|Sales,37,Yes,F,United States of America
+both,Connecticut,Self-Employed,Supervisor/Team Lead|Support|One-person shop|Designer|Front-end Developer|Sales,37,Yes,W,United States of America
 non-technical,Ohio,More than 1000,Support,44,No,M,United States of America
-both,California,Self-Employed,One-person shop|Designer|Support,45,Yes,F,United States of America
-technical,Massachusetts,1-5,Front-end Developer,35,No,F,United States of America
+both,California,Self-Employed,One-person shop|Designer|Support,45,Yes,W,United States of America
+technical,Massachusetts,1-5,Front-end Developer,35,No,W,United States of America
 technical,Michigan,26-100,Back-end Developer,39,Yes,M,United States of America
-technical,Connecticut,More than 1000,Back-end Developer,37,Yes,F,United States of America
+technical,Connecticut,More than 1000,Back-end Developer,37,Yes,W,United States of America
 both,Florida,100-500,Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,35,No,M,United States of America
-non-technical,New York,More than 1000,Supervisor/Team Lead,29,Yes,F,United States of America
-non-technical,California,Self-Employed,Other,49,Yes,F,United States of America
+non-technical,New York,More than 1000,Supervisor/Team Lead,29,Yes,W,United States of America
+non-technical,California,Self-Employed,Other,49,Yes,W,United States of America
 technical,Virginia,26-100,Back-end Developer|Front-end Developer,21,Yes,M,United States of America
-both,Michigan,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer,26,Yes,F,United States of America
+both,Michigan,26-100,Supervisor/Team Lead|Back-end Developer|Front-end Developer,26,Yes,W,United States of America
 non-technical,,100-500,Supervisor/Team Lead,35,Yes,M,Germany
 both,Missouri,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,56,Yes,M,United States of America
-both,Oregon,Self-Employed,Other|Front-end Developer|Designer|One-person shop,53,Yes,F,United States of America
-non-technical,Colorado,Self-Employed,Executive Leadership,48,Yes,F,United States of America
+both,Oregon,Self-Employed,Other|Front-end Developer|Designer|One-person shop,53,Yes,W,United States of America
+non-technical,Colorado,Self-Employed,Executive Leadership,48,Yes,W,United States of America
 technical,,26-100,Back-end Developer,24,No,M,United Kingdom
 technical,,More than 1000,Back-end Developer,37,No,M,Ireland
-technical,Pennsylvania,26-100,Designer,27,Yes,F,United States of America
-technical,Pennsylvania,1-5,Back-end Developer|Front-end Developer,39,Yes,F,United States of America
+technical,Pennsylvania,26-100,Designer,27,Yes,W,United States of America
+technical,Pennsylvania,1-5,Back-end Developer|Front-end Developer,39,Yes,W,United States of America
 both,,Self-Employed,One-person shop|Designer|Front-end Developer|Support|Dev Evangelist/Advocate,31,No,M,Finland
 technical,Colorado,100-500,Back-end Developer|Front-end Developer,34,No,M,United States of America
 technical,,More than 1000,Front-end Developer,33,Yes,M,United Kingdom
 technical,,1-5,Front-end Developer,22,No,M,United Kingdom
-both,,6-25,Front-end Developer|Supervisor/Team Lead,25,No,F,United Kingdom
+both,,6-25,Front-end Developer|Supervisor/Team Lead,25,No,W,United Kingdom
 technical,,More than 1000,Front-end Developer|Back-end Developer,34,No,M,United Kingdom
 technical,,6-25,Front-end Developer,30,No,M,United Kingdom
 technical,,26-100,Front-end Developer,37,Yes,M,United Kingdom
 technical,,6-25,Front-end Developer,26,No,M,Chile
-technical,Texas,More than 1000,Front-end Developer,29,Yes,F,United States of America
+technical,Texas,More than 1000,Front-end Developer,29,Yes,W,United States of America
 technical,,6-25,Designer|Front-end Developer,29,No,M,Chile
 technical,,26-100,Front-end Developer|Designer,27,Yes,M,United Kingdom
-technical,,6-25,Front-end Developer,27,Yes,F,Chile
+technical,,6-25,Front-end Developer,27,Yes,W,Chile
 technical,Massachusetts,More than 1000,Back-end Developer|Front-end Developer,23,No,M,United States of America
-technical,Massachusetts,More than 1000,Front-end Developer,24,No,F,United States of America
+technical,Massachusetts,More than 1000,Front-end Developer,24,No,W,United States of America
 both,,Self-Employed,Designer|Front-end Developer|Back-end Developer|Other,22,Yes,M,Guatemala
 both,,1-5,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,28,No,M,United Kingdom
 technical,Iowa,6-25,Front-end Developer|Designer,22,Yes,M,United States of America
 technical,Massachusetts,26-100,Front-end Developer,32,No,M,United States of America
-technical,Oregon,6-25,DevOps/SysAdmin,35,Yes,F,United States of America
+technical,Oregon,6-25,DevOps/SysAdmin,35,Yes,W,United States of America
 technical,California,26-100,Back-end Developer,26,Yes,M,United States of America
-technical,,More than 1000,Front-end Developer,31,Yes,F,United Kingdom
+technical,,More than 1000,Front-end Developer,31,Yes,W,United Kingdom
 both,Colorado,Self-Employed,Executive Leadership|Supervisor/Team Lead|Front-end Developer,32,Yes,M,United States of America
 non-technical,,100-500,Supervisor/Team Lead,37,Yes,M,Pakistan
 technical,,6-25,Front-end Developer|Back-end Developer,24,Yes,M,United Kingdom
 technical,California,26-100,Back-end Developer,33,No,M,United States of America
 technical,Massachusetts,100-500,DevOps/SysAdmin,28,Yes,M,United States of America
-technical,Virginia,More than 1000,Back-end Developer|Front-end Developer,22,No,F,United States of America
+technical,Virginia,More than 1000,Back-end Developer|Front-end Developer,22,No,W,United States of America
 technical,,100-500,Back-end Developer,46,Yes,M,Germany
 non-technical,Michigan,26-100,Dev Evangelist/Advocate,30,No,M,United States of America
 technical,North Carolina,26-100,Back-end Developer,29,Yes,M,United States of America
 technical,Virginia,100-500,Back-end Developer|Front-end Developer,22,No,M,United States of America
-technical,Washington,Self-Employed,Designer,24,Yes,F,United States of America
-technical,Washington,Self-Employed,Front-end Developer,29,No,F,United States of America
+technical,Washington,Self-Employed,Designer,24,Yes,W,United States of America
+technical,Washington,Self-Employed,Front-end Developer,29,No,W,United States of America
 technical,District of Columbia,More than 1000,DevOps/SysAdmin,30,Yes,M,United States of America
 both,Pennsylvania,Self-Employed,One-person shop|DevOps/SysAdmin,25,No,M,United States of America
 technical,Oregon,More than 1000,DevOps/SysAdmin|Back-end Developer|Front-end Developer,39,No,M,United States of America
 both,,Self-Employed,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,31,No,M,Serbia
 technical,Illinois,Self-Employed,Front-end Developer,25,Yes,M,United States of America
 technical,District of Columbia,500-1000,Back-end Developer,39,No,M,United States of America
-non-technical,Texas,More than 1000,Dev Evangelist/Advocate,31,Yes,F,United States of America
+non-technical,Texas,More than 1000,Dev Evangelist/Advocate,31,Yes,W,United States of America
 technical,California,100-500,DevOps/SysAdmin,35,No,M,United States of America
 both,Illinois,Self-Employed,Support|Back-end Developer|Front-end Developer|One-person shop,31,Yes,O,United States of America
 technical,California,More than 1000,Front-end Developer|Back-end Developer,23,Yes,M,United States of America
 non-technical,Pennsylvania,More than 1000,Executive Leadership,30,Yes,M,United States of America
 non-technical,,6-25,Other,28,No,M,France
-both,,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,23,Yes,F,Ireland
-technical,District of Columbia,26-100,Front-end Developer,26,Yes,F,United States of America
-non-technical,California,26-100,Supervisor/Team Lead,24,Yes,F,United States of America
+both,,More than 1000,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,23,Yes,W,Ireland
+technical,District of Columbia,26-100,Front-end Developer,26,Yes,W,United States of America
+non-technical,California,26-100,Supervisor/Team Lead,24,Yes,W,United States of America
 non-technical,Washington,More than 1000,Supervisor/Team Lead,32,No,M,United States of America
 non-technical,California,Self-Employed,One-person shop,35,Yes,M,United States of America
 technical,,100-500,Back-end Developer,30,No,M,Estonia
 technical,Texas,26-100,Front-end Developer|Designer,32,Yes,M,United States of America
 technical,Missouri,6-25,Back-end Developer,35,Yes,M,United States of America
-both,California,26-100,Supervisor/Team Lead|Back-end Developer,26,Yes,F,United States of America
-non-technical,Nebraska,100-500,Other,30,Yes,F,United States of America
+both,California,26-100,Supervisor/Team Lead|Back-end Developer,26,Yes,W,United States of America
+non-technical,Nebraska,100-500,Other,30,Yes,W,United States of America
 both,California,26-100,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,29,No,M,United States of America
 both,,More than 1000,Back-end Developer|Supervisor/Team Lead,39,No,M,Canada
 technical,,More than 1000,Back-end Developer|Front-end Developer,37,Yes,M,United Kingdom
 technical,California,26-100,Back-end Developer,35,No,M,United States of America
-non-technical,Illinois,1-5,Other,25,Yes,F,United States of America
+non-technical,Illinois,1-5,Other,25,Yes,W,United States of America
 both,Virginia,More than 1000,Other|Back-end Developer,22,Yes,O,United States of America
 technical,,26-100,DevOps/SysAdmin,33,Yes,M,United Kingdom
 technical,New York,1-5,Back-end Developer,23,Yes,M,United States of America
@@ -1395,22 +1395,22 @@ non-technical,,Self-Employed,Executive Leadership,29,Yes,M,Brazil
 technical,Pennsylvania,26-100,Front-end Developer,28,Yes,M,United States of America
 technical,New York,More than 1000,Back-end Developer|Front-end Developer,30,Yes,M,United States of America
 both,California,100-500,Other|Back-end Developer,28,Yes,M,United States of America
-non-technical,Pennsylvania,6-25,Dev Evangelist/Advocate,28,Yes,F,United States of America
+non-technical,Pennsylvania,6-25,Dev Evangelist/Advocate,28,Yes,W,United States of America
 both,Massachusetts,More than 1000,Supervisor/Team Lead|Back-end Developer,37,Yes,M,United States of America
 technical,Idaho,26-100,DevOps/SysAdmin,30,Yes,M,United States of America
 technical,,6-25,Front-end Developer|Back-end Developer,27,Yes,M,India
 both,,Self-Employed,One-person shop|Designer|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,29,Yes,M,Canada
 technical,,More than 1000,Back-end Developer,28,Yes,M,Poland
-both,,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,26,Yes,F,Ireland
+both,,6-25,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,26,Yes,W,Ireland
 both,Arizona,100-500,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,29,Yes,M,United States of America
 non-technical,,Self-Employed,One-person shop,34,No,M,Germany
 non-technical,,100-500,Executive Leadership,36,Yes,M,United Kingdom
 non-technical,,26-100,Other|Supervisor/Team Lead|Dev Evangelist/Advocate,38,Yes,M,Belgium
-non-technical,New York,6-25,Other,22,Yes,F,United States of America
+non-technical,New York,6-25,Other,22,Yes,W,United States of America
 non-technical,Colorado,1-5,Other,24,No,M,United States of America
-technical,Texas,100-500,Front-end Developer,24,Yes,F,United States of America
-non-technical,New York,500-1000,HR,36,Yes,F,United States of America
-technical,Wisconsin,More than 1000,Front-end Developer|Back-end Developer,24,Yes,F,United States of America
+technical,Texas,100-500,Front-end Developer,24,Yes,W,United States of America
+non-technical,New York,500-1000,HR,36,Yes,W,United States of America
+technical,Wisconsin,More than 1000,Front-end Developer|Back-end Developer,24,Yes,W,United States of America
 technical,Arizona,500-1000,Front-end Developer,24,No,M,United States of America
 technical,,26-100,Back-end Developer|DevOps/SysAdmin,31,Yes,M,Netherlands
 technical,,26-100,Back-end Developer,39,Yes,M,United Kingdom
@@ -1419,12 +1419,12 @@ both,,Self-Employed,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Exec
 both,,26-100,Front-end Developer|Back-end Developer|Supervisor/Team Lead,37,No,M,Estonia
 technical,Indiana,26-100,Front-end Developer,30,No,M,United States of America
 technical,,100-500,Back-end Developer,24,No,M,Canada
-technical,,100-500,Back-end Developer|Front-end Developer,22,Yes,F,Canada
+technical,,100-500,Back-end Developer|Front-end Developer,22,Yes,W,Canada
 both,,100-500,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,24,No,M,Canada
-non-technical,,100-500,Other,26,Yes,F,Canada
-non-technical,Illinois,500-1000,Support,38,Yes,F,United States of America
-non-technical,New York,Self-Employed,Other,34,No,F,United States of America
+non-technical,,100-500,Other,26,Yes,W,Canada
+non-technical,Illinois,500-1000,Support,38,Yes,W,United States of America
+non-technical,New York,Self-Employed,Other,34,No,W,United States of America
 non-technical,,Self-Employed,Support,56,Yes,M,Afghanistan
 technical,Georgia,100-500,Back-end Developer,52,Yes,M,United States of America
-technical,Nebraska,100-500,DevOps/SysAdmin,30,Yes,F,United States of America
+technical,Nebraska,100-500,DevOps/SysAdmin,30,Yes,W,United States of America
 non-technical,,100-500,Other,25,No,O,Canada

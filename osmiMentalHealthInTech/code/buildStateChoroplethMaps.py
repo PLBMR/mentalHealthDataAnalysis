@@ -154,28 +154,4 @@ if __name__ == "__main__":
                  "Proportion of Respondents Diagnosed with Mental Health "
                  + "Disorder<br>By State",
                  "propDiagnosesByState",stateFrame)
-# df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv')
-# 
-# for col in df.columns:
-#     df[col] = df[col].astype(str)
-# print df["code"]
-# 
-# 
-# df['text'] = df['state'] + '<br>' +\
-#     'Beef '+df['beef']+' Dairy '+df['dairy']+'<br>'+\
-#     'Fruits '+df['total fruits']+' Veggies ' + df['total veggies']+'<br>'+\
-#     'Wheat '+df['wheat']+' Corn '+df['corn']
-# 
 
-# 
-# layout = dict(
-#         title = '2011 US Agriculture Exports by State<br>(Hover for breakdown)',
-#         geo = dict(
-#             scope='usa',
-#             projection=dict( type='albers usa' ),
-#             showlakes = True,
-#             lakecolor = 'rgb(255, 255, 255)'),
-#              )
-#     
-# fig = dict( data=data, layout=layout )
-# py.iplot(fig,filename = "d3-choropleth-map")
