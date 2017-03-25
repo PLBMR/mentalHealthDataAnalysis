@@ -5,7 +5,33 @@
 
 #helpers
 
-processRawData = function(rawFrame,colMapFrame){
+makeDiscreteEncodings = function(rawFrame,exceptionVec){
+    #helper to make discrete encodings for all columns except the ones in
+    #exceptionVec
+    #first make directory for encoding
+    desiredDir = "../data/preprocessed/discreteEncodings"
+    if (!dir.exists(desiredDir)){ #make it
+        dir.create(desiredDir)
+    }
+    for (colName in colnames(rawFrame)){
+        #check if in exception
+        if (!colName %in% exceptionVec){
+            #can get unique levels
+            levels = unique(rawFrame[,colName])
+            #make encoding
+            rawFrame[,colName] = match(rawFrame[,colName],
+                                      unique(rawFrame[,colName]))
+            #then make encoding frame
+            encodingFrame = data.frame(level = levels,
+                                       encoding = 1:length(levels))
+            encodingFilename = paste0(desiredDir,"/",colName,".csv")
+            write.csv(encodingFrame,encodingFilename,row.names = FALSE)
+        }
+    }
+    return(rawFrame)
+}
+
+processRawData = function(rawFrame,colMapFrame,exceptionVec){
     #helper that processes our raw dataset to prepare for clustering
     #clear out self-employed individuals
     rawFrame = rawFrame[which(rawFrame$Are.you.self.employed. != 1),]
@@ -27,6 +53,8 @@ processRawData = function(rawFrame,colMapFrame){
     rawFrame = rawFrame[,!names(rawFrame) %in% deleteColumnNames]
     #then rename our columns
     colnames(rawFrame) = newColNameVec
+    #then re-encode
+    rawFrame = makeDiscreteEncodings(rawFrame,exceptionVec)
     return(rawFrame)
 }
 
@@ -36,10 +64,12 @@ processRawData = function(rawFrame,colMapFrame){
 rawFilename = "../data/raw/osmi-survey-2016_data.csv"
 procFilename = "../data/processed/clusterDataset.csv"
 mapFilename = "../data/preprocessed/clusterColumnMap.csv"
+noDiscreteEncodingFilename = "../data/preprocessed/noDiscEncoding.txt"
 #load in our data
 rawFrame = read.csv(rawFilename)
 colMapFrame = read.csv(mapFilename)
+exceptionVec = scan(noDiscreteEncodingFilename,what = character())
 #process our data
-procFrame = processRawData(rawFrame,colMapFrame)
+procFrame = processRawData(rawFrame,colMapFrame,exceptionVec)
 #then export
 write.csv(procFrame,procFilename,row.names = FALSE)

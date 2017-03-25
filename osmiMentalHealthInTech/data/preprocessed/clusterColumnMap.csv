@@ -2,7 +2,7 @@ origColName,newColName
 "Are you self-employed?",
 "How many employees does your company or organization have?",
 "Is your employer primarily a tech company/organization?",empPrimTech
-"Is your primary role within your company related to tech/IT?",primRoleTech
+"Is your primary role within your company related to tech/IT?",
 "Does your employer provide mental health benefits as part of healthcare coverage?",empProvideMHB
 "Do you know the options for mental health care available under your employer-provided coverage?",knowMHB
 "Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?",empDiscMH
