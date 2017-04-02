@@ -1,6 +1,6 @@
 origColName,newColName
 "Are you self-employed?",
-"How many employees does your company or organization have?",
+"How many employees does your company or organization have?",companySize
 "Is your employer primarily a tech company/organization?",empPrimTech
 "Is your primary role within your company related to tech/IT?",
 "Does your employer provide mental health benefits as part of healthcare coverage?",empProvideMHB
@@ -54,11 +54,11 @@ origColName,newColName
 "Have you ever sought treatment for a mental health issue from a mental health professional?",
 "If you have a mental health issue, do you feel that it interferes with your work when being treated effectively?",
 "If you have a mental health issue, do you feel that it interferes with your work when NOT being treated effectively?",
-"What is your age?",
-"What is your gender?",
+"What is your age?",age
+"What is your gender?",gender
 "What country do you live in?",
 "What US state or territory do you live in?",
-"What country do you work in?",
+"What country do you work in?",country
 "What US state or territory do you work in?",
 "Which of the following best describes your work position?",
 "Do you work remotely?",

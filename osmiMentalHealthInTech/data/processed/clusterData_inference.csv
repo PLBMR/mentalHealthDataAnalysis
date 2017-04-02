@@ -1,574 +1,587 @@
-"empPrimTech","empProvideMHB","knowMHB","empDiscMH","empResourceMH","anonProtected","askLeaveDiff","negConsDiscMH","negConsDiscPH","coworkComfMHD","superComfMHD","empSeriousMH","heardNegConsMH","discInterviewPH","discInterviewMH","hurtCareerMH","teamNegMH","observeBadResponseMH"
-1,3,4,1,3,1,2,2,2,1,2,3,1,2,2,3,4,2
-2,3,4,3,2,1,5,2,2,3,3,1,1,3,2,3,4,2
-1,4,3,3,3,1,2,1,1,1,1,1,1,1,2,1,2,2
-1,4,3,1,3,1,2,2,1,1,2,1,1,1,1,5,2,3
-1,2,4,1,1,1,4,3,2,3,3,3,2,2,2,5,1,3
-1,2,4,1,1,1,6,3,1,3,3,1,1,2,1,3,4,2
-1,2,4,1,1,1,3,1,1,3,3,1,1,1,2,1,1,1
-1,3,2,1,3,1,1,1,1,1,1,2,1,1,1,1,1,1
-1,4,4,1,1,2,1,1,1,1,1,2,1,1,1,1,1,4
-2,4,3,1,1,1,2,1,1,1,2,2,2,2,1,1,3,2
-2,3,3,2,2,3,4,3,1,1,3,3,1,3,2,3,4,2
-2,2,4,1,1,1,3,2,2,3,3,1,1,2,1,3,4,4
-2,3,3,1,1,1,5,1,1,3,2,1,1,1,2,2,2,1
-2,3,2,2,2,1,2,1,1,1,1,2,1,1,2,3,2,2
-2,3,3,1,3,1,2,1,1,3,1,2,1,1,1,1,4,1
-2,4,4,2,2,2,6,1,2,3,1,2,1,1,2,1,2,2
-1,3,2,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1
-1,2,1,1,1,1,4,1,2,1,1,1,1,3,2,3,4,2
-2,3,2,1,2,3,1,3,1,3,3,3,1,3,2,3,4,4
-1,3,4,1,1,1,3,1,1,2,1,1,1,1,2,3,4,1
-1,3,3,2,1,1,2,2,1,1,2,1,1,1,2,1,1,4
-1,2,1,1,1,1,2,1,1,1,1,2,1,3,2,4,2,4
-1,1,1,1,1,1,5,3,3,3,1,1,1,3,2,5,4,3
-1,4,3,2,2,2,1,1,1,1,2,2,1,3,2,2,1,1
-1,4,3,1,3,3,3,2,2,3,2,1,1,1,1,1,2,1
-1,4,4,1,3,1,5,3,2,3,3,1,1,3,2,1,4,2
-1,3,4,3,3,1,6,2,1,3,2,1,1,1,2,3,4,2
-1,4,4,2,1,1,1,2,1,3,3,2,1,3,2,1,5,1
-2,2,1,1,1,1,5,2,3,3,3,3,1,2,1,3,1,1
-1,3,2,2,2,1,2,1,1,1,1,2,1,3,2,1,1,4
-1,3,2,1,2,2,1,1,1,1,1,2,1,3,2,2,5,3
-1,3,3,2,3,1,5,2,1,1,2,3,1,1,2,1,1,3
-1,4,4,1,3,1,5,2,2,3,3,1,1,3,2,3,4,2
-1,3,3,3,2,1,1,1,1,1,2,2,1,3,2,1,1,1
-1,3,3,1,1,2,5,2,1,1,2,1,1,1,2,1,4,5
-1,3,2,3,3,3,5,3,1,1,1,3,1,1,2,5,2,3
-1,2,4,1,1,3,2,3,2,2,2,3,2,2,3,5,2,3
-1,3,2,1,2,2,4,3,2,1,2,3,1,2,2,1,1,3
-1,4,1,2,2,2,1,1,1,2,1,2,1,1,2,2,1,1
-1,3,3,3,3,1,1,1,1,2,1,2,1,2,1,4,5,1
-2,4,4,1,1,1,3,2,1,1,3,1,1,2,1,1,1,1
-1,4,3,1,3,1,2,1,1,1,2,1,1,1,1,1,1,1
-1,2,4,1,1,1,3,1,1,1,2,2,1,3,2,3,2,1
-1,4,3,2,3,1,1,1,1,2,2,1,1,3,2,3,4,1
-1,3,2,2,2,2,2,1,1,2,1,2,1,1,1,3,2,3
-2,4,3,1,1,1,5,2,1,1,2,1,1,1,2,3,4,2
-1,2,1,1,1,1,4,3,1,3,3,3,1,1,2,3,4,2
-1,3,4,1,2,1,1,1,1,1,1,2,1,2,3,3,1,1
-1,3,4,1,3,1,5,3,2,1,3,3,1,1,2,3,4,4
-2,2,2,1,1,1,5,2,1,1,2,3,2,2,2,3,4,3
-1,3,3,1,3,3,4,3,2,1,3,3,2,1,2,3,4,4
-1,2,2,2,1,3,6,2,1,1,1,2,1,1,2,3,4,2
-1,3,2,3,2,2,6,2,2,1,2,2,1,3,2,3,2,4
-1,3,2,2,2,2,1,2,1,2,1,1,2,3,2,4,5,4
-1,1,3,1,3,1,5,2,2,2,2,3,1,1,1,3,1,1
-1,2,4,1,3,1,3,1,1,2,1,1,1,1,1,1,2,1
-1,1,1,1,1,1,5,3,2,3,3,1,1,3,2,1,2,2
-1,3,2,2,2,1,5,3,2,1,3,3,1,3,2,3,4,2
-1,3,4,1,1,1,5,2,2,1,3,3,2,3,2,5,2,3
-1,3,2,2,2,2,5,3,1,2,1,3,1,3,2,2,4,4
-1,4,3,3,3,1,1,1,1,2,1,1,1,1,1,1,2,5
-1,3,3,1,1,2,1,1,1,3,3,2,1,2,1,2,1,5
-1,3,2,1,1,1,5,2,1,3,2,1,1,2,2,3,4,4
-1,1,1,1,3,1,4,3,2,1,2,1,1,3,2,3,4,1
-1,2,4,1,1,1,1,1,1,1,1,2,1,2,3,1,1,2
-1,4,3,3,3,1,3,1,2,2,1,2,1,2,3,2,1,1
-2,4,3,1,3,1,3,1,1,3,2,1,1,1,2,1,2,1
-1,1,3,2,1,2,1,1,1,2,1,2,1,3,2,2,1,1
-1,2,3,1,1,1,5,2,1,3,2,3,1,2,2,1,2,1
-1,3,4,1,2,2,6,2,1,3,3,1,1,1,2,3,2,1
-1,3,3,2,1,1,1,1,1,2,1,1,1,1,2,2,5,1
-1,4,3,1,3,1,1,1,1,2,1,2,1,2,1,1,2,4
-1,4,4,1,1,1,3,2,2,3,3,2,1,1,1,1,1,5
-1,4,4,1,1,1,6,3,1,1,1,3,1,1,2,3,2,1
-1,4,3,1,2,2,5,2,2,1,2,3,1,3,2,1,2,3
-2,4,4,1,1,1,4,2,1,3,3,1,1,3,2,3,4,2
-1,2,1,2,3,1,3,1,1,1,1,2,1,2,1,1,2,2
-1,4,4,1,2,3,5,2,2,3,3,3,1,3,2,3,4,2
-1,2,1,1,1,3,4,3,1,3,3,1,1,3,2,5,3,3
-2,3,2,3,2,2,1,1,1,1,2,2,1,1,1,1,1,2
-2,4,4,1,3,2,2,1,1,2,2,3,1,2,2,1,2,4
-2,4,4,1,1,1,5,2,1,3,1,3,1,1,2,5,2,3
-2,3,2,2,2,2,3,2,1,2,1,1,2,1,2,5,3,3
-1,3,3,2,2,1,6,2,1,1,2,3,1,1,2,3,4,3
-1,2,4,1,1,2,4,3,3,3,3,3,1,3,2,3,4,2
-2,2,4,2,2,1,2,2,1,3,3,1,1,2,3,1,1,1
-1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1
-2,4,3,2,1,1,2,1,1,2,1,2,1,2,3,5,5,3
-1,4,2,1,2,2,1,1,1,3,1,1,1,1,1,2,1,1
-1,2,2,1,1,1,5,1,1,1,2,1,1,2,3,1,2,4
-1,4,4,1,3,1,6,2,1,3,2,1,1,1,1,1,2,1
-1,2,1,1,1,1,4,3,2,3,3,3,2,3,2,3,4,4
-1,3,2,1,1,2,1,1,1,1,1,2,1,1,2,1,1,1
-1,3,4,2,1,2,1,1,1,1,1,2,1,1,2,3,2,2
-2,3,2,2,2,2,1,2,1,1,1,1,1,1,1,2,1,1
-2,4,4,1,1,1,5,3,2,3,3,3,1,3,2,3,4,5
-1,1,1,1,3,3,2,1,1,2,1,2,1,3,2,3,2,4
-1,3,2,2,2,2,2,1,1,1,2,2,2,1,1,1,2,3
-2,4,4,1,1,1,2,1,1,2,1,2,1,2,1,1,1,1
-1,3,2,1,3,1,1,2,1,1,2,2,1,3,2,5,2,2
-2,1,3,3,3,1,3,2,2,1,3,1,1,2,3,1,2,4
-1,3,2,2,1,3,1,1,1,2,1,2,1,2,3,4,5,1
-1,4,2,1,1,1,3,2,1,1,3,3,1,2,1,1,2,2
-1,3,2,1,3,1,6,3,1,3,3,1,1,3,2,3,4,2
-1,2,4,1,1,1,6,3,1,3,3,1,2,3,2,5,3,4
-1,2,3,1,1,1,2,2,1,2,1,3,1,2,2,3,2,1
-1,4,3,1,3,1,3,2,2,1,2,1,1,1,1,1,2,1
-1,2,4,2,1,1,1,2,1,3,2,2,1,1,2,3,3,1
-1,3,3,1,1,1,6,3,2,3,2,1,1,3,2,3,4,4
-1,3,4,1,1,3,2,2,1,3,2,2,1,1,2,3,4,1
-1,4,3,1,3,1,6,1,1,1,2,2,1,2,1,1,2,1
-1,1,4,1,1,2,3,2,1,2,3,1,1,2,2,3,4,5
-1,3,2,2,2,2,2,1,1,2,1,2,1,1,1,1,1,3
-1,4,4,1,3,1,1,1,1,1,2,2,1,3,2,3,2,2
-1,4,3,1,3,1,2,2,1,1,2,1,1,1,1,1,1,1
-1,3,2,1,2,1,2,2,1,1,3,1,1,2,2,3,2,2
-1,3,2,3,2,1,3,2,2,1,2,1,1,3,2,3,4,1
-1,3,3,1,3,1,6,2,1,1,2,1,1,1,2,1,2,1
-1,2,4,1,1,3,5,2,2,1,2,1,1,3,2,5,4,1
-2,1,1,1,1,1,4,3,1,3,2,3,1,2,1,3,4,2
-1,3,2,1,3,1,3,2,1,1,3,1,1,2,2,1,2,2
-1,4,3,1,3,1,5,2,1,3,3,3,1,2,2,1,2,1
-1,4,4,1,3,1,1,1,1,3,3,2,1,3,2,1,2,1
-1,2,3,1,1,1,4,3,2,3,3,3,2,1,2,3,4,4
-2,3,3,2,2,2,2,2,2,3,3,1,1,2,1,3,4,2
-2,2,4,1,1,3,3,3,2,3,3,1,1,3,2,3,4,4
-1,2,4,1,1,1,5,3,2,3,3,1,1,1,2,3,4,3
-1,3,2,1,1,1,6,1,1,1,1,1,1,1,1,5,2,3
-1,3,2,1,1,1,3,1,1,2,1,2,1,1,1,1,1,4
-1,3,3,2,1,2,5,3,1,2,1,3,2,2,2,1,5,3
-1,3,2,2,1,2,3,2,2,1,2,3,2,1,2,5,3,3
-1,3,2,1,2,2,3,3,2,1,2,3,1,1,2,5,3,3
-1,3,2,2,2,2,3,2,1,1,2,3,1,2,1,3,2,2
-1,4,3,1,1,1,3,1,1,2,1,1,1,2,3,1,2,1
-2,2,1,1,2,2,1,1,1,2,1,3,1,2,1,1,2,3
-1,3,2,3,3,2,1,1,1,2,1,2,1,2,1,1,1,1
-1,3,2,2,2,3,4,3,1,1,3,3,1,3,2,3,4,2
-1,4,4,1,3,1,5,2,2,3,2,1,1,1,2,1,2,1
-1,3,4,2,3,2,4,2,2,1,3,1,1,1,1,1,2,2
-1,4,3,1,3,1,1,1,1,3,2,1,1,3,2,1,2,1
-1,4,4,1,3,1,6,3,2,3,2,1,1,3,2,3,2,2
-1,4,3,1,1,1,3,3,3,3,3,3,1,3,2,3,4,4
-1,4,3,1,3,1,2,1,1,2,1,2,1,2,3,4,2,3
-1,2,4,1,1,1,6,3,2,3,3,1,1,1,1,3,2,5
-1,3,3,3,3,2,1,1,1,1,2,2,1,2,3,1,5,2
-1,2,3,1,1,1,2,2,2,2,1,1,1,1,1,1,2,1
-1,3,2,1,1,1,1,1,1,2,1,1,1,2,2,2,1,1
-1,4,3,1,3,1,2,1,1,1,2,3,1,3,2,4,5,1
-1,3,4,1,1,2,2,1,1,2,1,2,1,3,2,1,1,3
-2,2,1,1,1,1,3,3,1,3,3,1,2,3,2,5,4,4
-2,3,2,1,2,2,2,2,2,2,1,2,1,1,2,1,2,2
-1,3,2,1,1,2,1,2,1,3,3,3,1,3,2,3,2,1
-1,2,2,1,1,3,2,2,1,1,2,1,1,2,1,1,2,4
-1,3,2,1,3,1,1,1,1,2,1,1,1,2,2,4,2,1
-1,3,3,1,3,1,2,2,1,2,1,2,1,1,1,1,2,1
-1,4,4,1,1,1,1,1,1,3,3,1,1,3,2,2,1,2
-1,3,3,1,2,1,1,2,2,3,3,1,1,3,2,5,1,5
-1,3,2,3,3,2,2,1,1,2,1,1,1,1,1,4,5,3
-1,3,2,1,1,1,6,1,1,1,2,1,1,3,2,2,1,1
-1,1,1,1,1,2,3,2,1,1,2,1,1,1,2,2,2,1
-1,3,3,1,3,1,3,1,1,1,2,1,1,2,2,2,2,1
-2,4,3,1,1,1,3,1,1,1,1,1,1,1,1,1,2,5
-1,3,2,1,2,1,6,3,2,3,3,1,2,3,2,5,2,2
-1,3,3,1,2,1,5,2,1,3,3,1,1,3,2,1,4,1
-2,3,2,1,1,1,6,2,1,3,3,1,1,1,2,3,4,1
-1,3,2,1,1,2,5,3,1,1,2,1,1,3,2,5,2,1
-1,1,3,1,1,1,5,2,1,1,2,3,1,1,2,1,2,2
-1,3,3,3,2,1,2,2,1,1,2,2,1,1,1,1,2,1
-1,3,3,1,1,2,5,2,1,1,3,1,1,1,2,1,2,2
-1,3,3,2,1,1,3,3,1,3,3,2,1,1,1,3,2,1
-2,4,4,3,2,2,6,3,2,3,3,1,1,3,2,3,4,2
-1,3,2,1,1,1,2,1,1,2,2,1,1,3,2,1,1,1
-2,2,1,2,2,1,2,1,1,1,1,3,1,2,1,1,2,3
-1,3,3,1,1,2,2,1,1,1,1,1,2,3,2,1,1,2
-1,3,2,1,2,1,6,2,1,1,2,1,1,2,1,1,2,2
-1,4,3,2,3,2,6,1,1,3,3,2,1,1,1,1,1,1
-1,3,4,3,3,1,3,2,1,3,3,1,1,3,2,3,4,5
-1,3,2,2,2,1,5,2,1,2,1,2,1,1,1,4,1,1
-1,3,4,1,2,1,6,3,1,3,3,1,1,3,2,3,4,3
-1,4,4,1,3,1,2,2,2,1,2,1,1,2,1,2,1,1
-1,4,3,1,3,1,6,1,1,2,1,1,1,3,2,1,1,1
-2,3,2,1,1,2,5,3,3,3,3,3,1,3,2,3,4,4
-1,3,2,2,2,1,2,1,1,2,1,2,1,1,1,1,5,3
-1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1
-2,3,4,2,2,1,1,1,1,2,1,2,1,1,1,1,5,1
-1,3,2,1,2,2,1,1,1,1,1,2,1,2,2,3,2,3
-1,3,2,3,3,2,2,2,2,1,1,2,1,3,2,3,4,4
-1,3,4,1,1,1,5,2,1,3,2,3,1,1,2,1,2,1
-1,3,2,1,1,3,4,3,3,1,3,3,1,1,1,1,2,2
-1,3,4,1,3,2,4,2,1,3,3,3,2,2,2,3,4,3
-1,3,4,1,3,1,6,2,1,1,1,2,1,1,1,3,4,2
-1,2,4,1,1,1,2,1,1,1,1,1,1,2,2,1,1,1
-2,4,3,1,1,1,5,2,1,1,1,1,1,1,2,3,2,2
-1,3,3,1,2,2,1,1,1,2,1,3,1,2,1,1,2,1
-1,3,2,1,1,1,2,2,1,3,2,1,1,3,2,1,2,2
-1,3,2,1,3,1,2,1,1,3,1,2,1,3,2,3,2,1
-1,3,2,1,1,2,1,1,1,2,1,2,1,2,3,4,5,1
-1,3,4,1,1,1,4,3,1,1,3,1,1,2,2,3,4,4
-1,3,2,3,2,2,1,1,1,2,1,2,1,1,1,1,1,2
-1,4,3,2,2,1,1,1,1,1,1,2,1,1,2,1,1,1
-1,4,4,1,3,1,5,3,2,1,2,1,1,3,2,3,2,1
-1,3,4,1,3,1,4,3,1,3,2,1,1,3,2,3,4,1
-1,4,1,1,3,2,1,1,1,2,1,1,1,2,3,2,1,1
-1,4,3,1,3,2,2,1,1,1,1,2,1,2,3,2,1,1
-1,4,3,3,3,1,1,2,2,3,3,1,1,3,2,3,4,1
-2,3,2,3,2,1,2,2,1,1,1,2,1,1,2,5,1,4
-1,2,4,3,3,3,4,3,1,1,3,3,1,1,1,1,3,4
-1,1,1,1,3,1,2,1,1,1,1,2,1,3,2,1,2,4
-1,2,4,1,1,2,1,2,1,2,2,1,1,1,2,1,1,1
-1,4,3,1,1,1,2,2,2,3,3,1,1,3,2,3,4,1
-2,3,2,2,2,2,1,1,2,1,1,3,2,3,2,1,2,1
-1,2,2,1,1,3,4,2,2,3,3,1,1,3,2,3,4,3
-2,1,3,2,2,2,6,3,2,3,2,1,1,3,2,3,4,4
-2,3,3,3,2,2,1,1,1,1,1,1,1,1,1,1,2,1
-1,3,4,1,3,1,1,2,1,1,2,1,1,2,2,3,4,2
-1,4,3,1,3,3,2,3,1,3,3,1,1,1,3,1,1,1
-1,3,3,1,2,1,5,2,2,3,2,3,1,1,2,3,2,2
-1,2,3,1,1,1,3,2,1,1,3,1,1,1,1,1,1,2
-2,1,1,2,1,2,3,1,1,2,1,2,1,1,2,1,2,1
-2,3,4,2,2,2,2,2,1,3,2,2,1,1,2,3,4,4
-1,4,4,2,1,1,1,1,1,2,1,1,1,1,1,3,1,1
-1,3,2,1,1,2,1,1,1,2,2,1,1,3,2,1,2,1
-2,4,3,2,2,2,3,1,1,2,1,2,1,2,3,2,5,2
-1,3,4,1,1,1,2,2,1,3,3,1,1,3,2,3,4,2
-1,1,4,1,3,1,4,3,2,3,2,3,2,1,1,5,4,4
-1,1,3,1,1,1,2,2,1,1,3,1,1,1,2,1,1,4
-1,4,3,1,3,1,6,1,1,2,1,2,1,3,2,3,4,4
-1,2,4,1,1,1,6,2,1,1,3,3,1,1,2,1,2,2
-1,2,1,1,1,3,4,3,3,3,3,1,1,1,2,3,4,2
-2,3,2,2,2,2,3,2,2,1,2,2,2,1,2,3,2,4
-1,2,1,1,1,2,6,2,1,1,3,1,1,1,1,1,2,2
-1,4,3,1,3,1,1,1,1,1,2,1,1,3,2,3,4,4
-2,3,2,1,3,2,2,1,1,2,1,1,1,1,2,2,5,1
-2,2,4,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1
-1,3,2,2,2,2,1,1,1,2,1,2,1,2,3,1,1,1
-1,4,4,1,1,1,2,2,1,3,3,3,1,3,2,1,4,2
-1,4,4,3,3,1,5,1,1,1,1,1,1,1,2,1,1,2
-1,3,2,2,2,1,1,1,1,2,1,2,1,2,3,2,1,1
-1,3,2,1,1,2,3,1,1,2,1,1,1,1,2,2,1,1
-1,4,3,1,3,1,2,1,1,2,1,1,1,3,2,1,1,5
-2,3,3,3,2,2,3,3,2,3,3,2,1,2,2,3,2,1
-1,4,3,1,1,1,1,2,1,3,2,3,1,3,2,1,2,1
-1,3,2,2,2,2,2,1,1,2,1,1,1,2,1,1,1,3
-1,4,4,1,2,1,3,2,1,3,2,2,1,3,2,3,4,2
-1,4,4,1,1,1,5,2,1,3,3,1,1,3,2,2,1,1
-2,3,2,1,2,1,6,2,1,3,3,1,1,1,2,1,2,1
-1,3,2,1,3,2,2,3,2,2,1,3,2,3,2,5,3,3
-1,2,4,1,1,1,2,2,2,2,1,1,1,1,1,5,2,4
-1,3,4,2,1,2,2,2,1,2,1,2,1,3,2,3,4,1
-2,1,1,2,2,2,3,2,1,2,2,2,1,3,1,3,2,1
-2,4,3,2,2,2,1,1,1,2,1,2,1,3,2,3,2,1
-1,1,1,1,1,1,5,2,1,1,2,1,1,1,1,3,4,2
-2,4,3,1,1,1,6,2,1,3,2,3,1,2,2,3,4,1
-1,3,2,1,2,2,6,2,2,1,2,3,1,1,1,1,2,2
-1,2,1,1,1,1,4,2,1,1,2,1,1,1,2,5,2,3
-1,3,4,1,3,2,2,1,1,1,1,2,1,2,1,2,2,1
-1,3,4,1,1,1,2,2,1,2,1,3,1,3,2,3,2,1
-1,3,4,1,1,1,6,1,1,2,1,2,1,3,2,2,1,1
-1,2,4,1,2,1,2,2,1,3,3,1,2,3,2,3,4,1
-1,3,2,1,3,1,1,1,1,1,1,2,1,2,1,1,1,1
-1,2,2,1,1,1,2,1,1,2,1,2,1,1,1,1,4,4
-1,3,3,2,2,1,5,1,1,3,2,2,1,2,1,1,1,4
-2,3,2,1,3,1,6,2,2,3,2,3,1,2,1,2,1,2
-1,3,3,3,2,2,3,3,3,3,3,1,1,1,2,3,4,2
-1,3,4,2,2,1,6,1,1,2,1,2,1,3,2,3,2,1
-1,2,4,1,1,1,1,2,2,3,2,3,1,3,2,5,3,1
-1,3,4,1,1,1,4,3,2,1,2,1,1,1,2,3,4,1
-1,3,4,1,1,1,3,1,1,1,2,2,1,1,2,3,2,1
-1,4,4,1,3,1,6,1,1,2,1,1,1,1,1,1,1,1
-1,3,2,1,1,1,1,2,2,1,3,1,1,1,1,1,1,1
-1,4,3,1,1,1,3,2,2,3,3,2,1,1,1,3,1,1
-1,2,4,1,1,3,6,2,1,3,3,3,1,2,2,1,2,2
-1,2,1,1,1,1,2,1,1,3,2,2,1,3,2,1,2,4
-1,4,4,1,3,2,6,2,2,3,3,1,1,3,2,3,2,1
-1,1,1,1,1,1,3,2,1,1,3,1,1,1,2,3,1,5
-1,1,4,1,1,1,4,2,1,1,2,3,1,2,2,5,1,3
-1,2,4,1,1,1,5,3,2,3,2,1,1,1,2,3,4,1
-1,3,3,2,2,1,3,2,2,3,3,1,1,2,2,3,4,4
-1,3,2,1,1,2,6,2,1,1,2,3,1,3,2,1,1,1
-1,3,4,1,1,1,1,2,1,1,2,3,2,2,2,5,2,3
-1,3,3,1,1,1,5,2,1,3,2,1,1,2,1,1,4,2
-1,3,2,1,3,2,1,1,1,1,2,2,1,1,1,2,2,1
-1,4,4,1,1,2,1,1,1,1,1,2,1,3,2,1,2,1
-1,4,3,1,1,1,5,2,1,1,1,2,1,2,2,1,2,2
-1,4,3,1,1,1,3,2,2,3,2,1,1,1,2,3,4,2
-1,3,4,2,2,2,3,1,1,1,1,3,1,3,2,3,4,4
-2,4,4,2,2,2,2,1,1,1,1,2,2,1,3,3,4,5
-2,3,3,2,3,1,2,2,1,3,2,1,1,2,2,3,4,2
-1,4,1,3,3,1,6,1,1,1,2,1,1,1,1,1,2,1
-2,4,4,1,2,2,3,1,1,2,1,1,1,2,1,3,2,2
-1,4,4,1,1,1,6,3,3,3,3,1,1,3,2,3,4,1
-1,3,2,1,1,2,3,1,1,1,1,1,1,3,2,1,2,2
-1,3,4,1,1,1,4,2,1,2,2,2,1,2,2,3,4,2
-1,3,4,1,3,2,3,2,2,2,2,1,1,1,1,3,4,3
-1,1,3,3,3,1,5,3,1,1,2,1,2,1,2,1,2,3
-1,4,4,2,2,2,2,1,1,2,1,2,1,2,3,1,1,1
-1,4,4,2,1,2,5,3,3,3,3,3,2,1,2,3,2,4
-1,3,3,1,1,1,5,2,2,3,2,1,1,1,1,2,1,1
-2,3,3,2,2,2,6,2,2,1,2,1,1,1,2,2,2,3
-2,3,2,1,2,2,3,2,1,1,1,3,1,1,2,1,1,2
-1,2,3,2,1,1,5,2,1,3,2,1,1,3,2,5,2,4
-1,4,3,1,3,1,3,2,1,3,3,3,1,1,2,2,1,5
-1,2,2,1,1,3,3,3,2,3,3,3,2,3,2,3,4,4
-1,1,3,1,3,1,4,3,3,3,3,3,2,3,2,3,4,4
-1,2,1,1,1,1,5,3,2,3,3,1,1,2,1,3,4,5
-2,4,3,3,3,1,6,2,1,3,2,1,1,2,1,3,2,1
-2,2,4,1,1,1,5,2,1,3,1,3,2,1,2,3,4,4
-1,3,2,1,1,2,2,1,1,1,1,2,1,1,1,1,1,3
-1,3,2,1,1,2,3,2,1,2,1,3,1,3,2,3,4,4
-1,3,4,1,1,2,4,3,2,3,3,1,1,3,2,3,4,1
-1,3,3,2,2,1,3,1,1,1,1,3,1,1,1,3,4,2
-1,1,1,2,2,1,5,3,1,3,3,3,1,3,2,3,4,1
-1,1,4,1,1,3,5,3,1,1,2,2,1,3,2,1,2,1
-1,3,2,1,3,2,5,3,2,3,3,1,1,1,2,3,4,2
-1,2,1,1,1,1,6,2,2,3,3,3,1,2,3,1,2,1
-2,3,4,1,2,2,6,2,1,1,1,1,1,3,2,3,2,4
-1,2,4,1,1,3,4,3,1,3,3,3,1,1,2,3,4,3
-1,2,4,1,1,1,6,2,2,2,2,2,1,3,2,1,2,1
-1,3,3,1,3,1,1,1,1,2,1,2,1,1,1,1,1,4
-1,3,4,1,1,1,6,2,1,1,3,2,1,1,1,1,2,2
-1,2,1,1,1,1,2,2,2,3,3,1,1,3,2,5,2,2
-1,4,4,1,1,1,5,2,2,3,3,1,1,1,2,1,2,2
-1,1,1,3,3,1,1,1,1,2,1,2,1,1,2,2,5,1
-1,3,2,1,1,2,2,1,1,2,1,3,1,2,3,1,5,2
-1,2,3,1,1,1,5,3,1,1,1,3,1,2,2,3,2,4
-1,1,2,1,1,1,2,2,1,1,2,3,1,1,1,3,2,2
-1,2,1,1,1,3,6,3,2,3,3,3,1,3,2,5,2,4
-1,3,2,2,2,2,3,1,1,1,3,2,1,1,2,3,4,4
-1,1,1,1,1,1,3,2,1,1,2,1,1,1,2,1,2,4
-2,3,2,2,3,1,3,1,1,2,1,2,1,3,2,1,1,1
-1,3,2,2,2,1,1,1,1,2,1,2,1,1,2,3,2,1
-2,3,2,2,2,2,3,1,2,1,3,2,1,1,2,1,2,2
-2,3,3,1,1,1,4,3,3,3,3,3,2,1,2,3,4,2
-1,4,4,1,3,1,5,1,1,1,2,1,1,1,2,1,1,2
-1,3,2,1,1,2,1,1,1,3,1,2,1,3,2,3,1,1
-1,2,3,1,1,1,2,3,1,1,1,2,1,3,2,3,4,1
-1,3,3,1,1,1,2,1,1,2,1,2,1,1,1,2,1,1
-2,3,2,2,2,2,6,2,1,3,2,2,1,1,1,2,1,1
-1,3,4,1,3,1,4,2,1,1,2,1,1,1,2,5,4,2
-1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,2
-1,4,4,1,1,1,5,1,1,3,3,1,1,1,2,3,4,2
-1,3,3,1,3,2,3,2,1,1,2,3,1,2,1,2,1,1
-1,2,4,1,1,3,5,3,1,3,3,3,1,1,2,3,4,4
-1,4,3,1,1,1,1,1,1,1,2,2,1,1,1,1,2,1
-2,4,3,1,3,1,4,2,2,3,2,1,1,3,2,1,2,1
-2,3,2,1,3,1,4,2,1,1,2,3,1,3,2,3,4,3
-1,2,1,1,1,3,5,2,2,3,3,3,1,2,2,1,2,5
-1,4,3,1,3,1,2,1,1,1,2,1,1,1,1,1,2,4
-1,2,4,1,1,1,6,1,1,1,2,1,1,1,2,3,4,1
-1,1,1,2,3,1,1,1,1,2,1,2,1,1,2,3,1,3
-1,1,1,1,1,1,3,2,2,1,2,1,1,1,2,3,4,2
-2,3,4,2,2,2,5,3,2,3,3,2,1,1,1,3,4,2
-1,3,2,1,1,2,1,2,1,3,1,2,1,3,2,3,1,3
-1,1,1,1,1,2,2,1,1,2,1,2,1,3,2,3,4,4
-1,3,4,2,3,2,1,1,1,2,1,2,1,1,1,2,1,1
-2,3,2,1,1,2,5,2,1,1,2,3,1,3,2,3,4,3
-1,3,2,2,2,2,5,1,1,1,2,1,1,3,2,4,2,1
-1,2,3,1,1,1,2,3,2,3,3,1,1,3,2,5,2,2
-1,4,4,3,3,1,1,2,2,2,1,1,1,3,1,1,1,1
-1,3,3,2,2,2,1,1,1,2,1,1,1,3,2,2,1,1
-1,3,2,2,2,2,1,1,1,3,2,2,1,1,2,3,4,2
-1,4,4,1,1,1,2,2,2,3,3,1,2,1,2,3,4,4
-1,2,4,1,3,1,1,1,1,2,1,1,1,2,3,1,1,1
-1,3,3,3,2,2,2,2,1,3,3,1,1,2,2,3,4,1
-2,2,1,1,1,1,5,2,2,1,2,1,1,3,2,3,2,4
-2,2,2,1,3,2,1,1,1,3,1,2,1,3,2,1,4,1
-1,3,2,2,2,2,1,1,1,1,2,2,1,3,2,1,2,4
-1,3,3,1,1,1,2,1,1,1,1,3,1,2,3,2,2,4
-2,4,3,2,2,1,1,2,1,3,1,2,1,1,1,1,1,1
-2,3,4,1,1,1,2,2,1,2,1,1,1,2,3,1,2,2
-1,4,4,3,3,1,3,2,1,1,2,1,1,1,2,3,2,1
-1,2,1,1,1,1,5,2,1,3,3,3,1,3,2,3,1,1
-1,1,1,1,1,3,5,1,1,3,1,1,1,1,1,1,1,2
-2,3,3,2,3,1,3,2,1,2,2,1,1,2,2,1,2,2
-1,3,2,1,1,1,5,3,1,3,3,3,1,1,2,3,4,2
-1,3,2,3,3,1,5,2,1,1,2,1,1,1,2,5,2,3
-1,2,3,1,1,1,4,3,2,3,2,3,1,1,2,3,4,2
-1,4,4,2,3,1,2,2,1,2,2,1,1,2,2,3,4,1
-1,2,4,1,3,1,5,3,1,3,3,1,1,2,2,3,4,1
-1,4,3,3,3,1,6,3,1,1,3,1,1,1,1,1,2,5
-1,1,1,2,2,2,1,1,1,2,1,2,1,1,2,2,1,1
-1,4,4,2,3,1,2,1,1,2,1,2,1,1,2,1,2,1
-1,1,1,1,1,1,3,2,2,1,2,2,1,1,2,1,1,1
-2,3,3,1,1,1,1,1,1,2,2,3,1,1,2,2,1,1
-2,3,2,3,3,1,5,3,2,3,3,1,2,1,2,3,4,4
-1,3,2,1,2,2,2,2,1,1,2,1,1,1,2,1,2,4
-2,2,3,1,3,1,1,1,1,2,1,2,1,2,3,2,1,1
-1,2,4,1,1,1,6,3,2,3,3,1,1,3,2,3,4,1
-1,3,3,1,1,1,4,2,2,1,3,3,1,1,2,5,4,4
-2,1,1,2,2,2,1,1,1,3,1,2,1,2,1,1,2,1
-2,2,3,1,3,3,4,3,2,3,3,3,1,3,2,3,4,4
-1,2,1,2,1,2,2,1,1,2,1,2,1,2,3,1,2,1
-2,3,3,1,2,3,3,1,1,2,1,2,1,1,1,2,1,1
-1,3,2,3,3,2,2,1,1,1,1,2,1,1,1,2,1,1
-1,3,3,2,2,1,4,2,1,3,3,1,2,3,2,3,4,2
-1,4,3,1,1,1,2,1,1,2,1,1,1,2,3,1,1,1
-2,4,4,2,1,1,4,3,2,2,3,1,1,1,2,1,2,4
-1,4,3,1,2,1,3,1,1,3,1,2,1,2,3,1,2,1
-1,3,2,2,2,2,1,1,1,2,1,2,1,2,1,4,5,5
-1,3,2,1,2,2,1,1,1,1,1,1,1,3,2,1,2,4
-1,1,1,1,1,3,2,1,1,1,2,2,1,1,1,2,1,5
-1,3,3,1,2,2,1,1,1,2,2,2,1,2,3,1,2,3
-1,3,2,1,1,2,2,1,1,2,1,2,1,1,2,1,2,2
-1,3,4,1,3,2,2,1,1,2,1,2,1,2,1,1,1,3
-2,3,3,2,2,1,2,2,1,1,1,1,1,1,1,1,2,2
-2,1,2,1,1,2,5,3,1,3,3,1,2,3,2,3,4,4
-1,3,2,1,1,1,3,1,1,3,3,1,1,1,2,1,2,1
-2,4,3,1,1,1,4,3,1,1,2,3,1,2,1,3,4,2
-2,3,2,1,1,2,5,1,1,2,1,2,1,1,2,3,5,1
-1,1,1,1,1,1,2,1,1,1,2,1,1,2,2,1,1,1
-1,4,3,3,3,2,2,1,1,1,1,2,1,2,3,2,1,1
-2,3,4,1,1,2,6,3,3,3,3,3,2,3,2,3,4,4
-1,3,4,1,2,1,5,2,1,1,2,1,1,1,1,2,2,1
-1,1,3,2,2,2,3,1,1,1,2,3,1,2,1,1,2,2
-1,3,2,1,1,3,2,1,1,1,2,3,1,1,2,1,1,2
-1,3,2,2,2,2,3,1,1,2,2,1,1,1,3,4,5,5
-2,1,1,2,1,1,1,1,1,3,3,2,1,3,2,2,2,1
-1,3,2,1,1,1,5,3,1,3,3,3,1,3,2,3,2,2
-1,2,4,1,1,3,6,2,2,3,3,3,2,1,1,3,2,4
-1,3,3,1,1,2,2,2,2,1,2,2,1,3,2,4,2,1
-1,4,4,1,2,1,3,2,1,3,2,1,2,3,2,3,4,4
-2,2,4,1,1,3,4,3,3,3,3,3,1,3,2,3,4,4
-1,1,3,1,1,1,2,2,1,2,1,2,1,2,1,3,1,5
-1,3,3,1,1,2,1,3,3,3,3,2,1,3,2,3,4,4
-1,3,3,2,3,1,6,2,1,1,1,1,1,1,2,3,4,4
-2,3,4,2,2,1,5,2,2,2,1,1,1,3,2,1,1,1
-1,3,2,1,2,1,1,2,1,1,3,1,1,2,2,3,4,1
-1,4,3,1,3,1,6,1,1,2,1,1,1,1,1,1,1,1
-1,1,4,1,3,1,5,2,1,3,3,1,1,2,2,3,4,2
-1,2,4,1,1,1,2,1,1,1,2,1,1,1,1,1,2,1
-1,3,2,2,2,3,1,2,1,1,1,3,1,2,1,1,2,1
-2,3,2,1,3,1,5,2,2,1,2,2,1,3,2,3,4,2
-1,3,2,2,2,2,2,1,1,2,1,2,1,2,3,2,1,1
-1,2,4,1,1,1,2,2,1,3,2,1,1,3,2,1,2,2
-1,4,3,1,3,1,2,1,1,2,1,1,1,2,1,1,1,1
-2,4,2,2,2,1,5,3,2,3,1,2,1,1,2,3,4,1
-2,3,2,1,1,2,2,3,2,1,3,3,1,1,2,3,4,2
-1,4,3,1,1,1,6,1,1,1,2,1,1,1,1,1,2,1
-2,3,3,1,1,2,5,2,2,3,2,3,1,3,2,1,2,2
-1,2,3,1,1,1,2,2,2,2,3,1,1,3,2,3,2,1
-2,2,3,1,3,1,5,2,2,3,3,3,1,3,2,3,4,5
-2,3,4,3,2,1,5,2,2,3,3,3,1,3,2,1,2,4
-1,3,3,1,3,2,1,1,1,1,1,2,1,2,3,2,1,2
-2,4,4,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1
-1,3,3,1,3,1,1,2,1,2,1,1,1,1,1,1,2,2
-1,3,3,1,1,1,3,2,1,3,2,1,2,2,2,1,2,2
-2,2,3,1,1,1,3,1,1,1,2,1,1,1,1,1,1,5
-1,3,2,1,2,1,1,1,1,2,1,2,1,1,1,4,1,1
-2,3,3,3,2,2,3,2,1,3,2,2,1,1,2,3,4,4
-1,3,3,2,1,1,1,1,1,1,2,2,1,3,2,1,2,1
-1,1,4,2,1,1,2,2,2,1,1,1,1,3,2,1,2,1
-1,1,1,1,1,1,5,1,1,1,1,3,1,2,1,3,1,1
-1,4,3,2,3,2,1,1,1,2,1,2,1,2,1,1,1,1
-1,3,3,1,2,1,6,2,1,3,3,1,2,2,2,5,3,3
-1,3,2,1,1,2,6,2,1,3,2,1,1,2,2,1,2,1
-2,3,4,1,2,1,2,2,1,3,2,2,1,3,1,3,4,1
-1,2,4,1,1,3,5,2,2,3,3,1,1,1,2,3,4,1
-1,4,4,1,3,1,5,3,2,3,3,2,1,3,2,3,4,4
-1,3,2,2,2,2,2,2,1,1,3,1,1,3,2,3,2,4
-1,1,2,1,1,3,5,3,1,3,3,1,1,3,2,3,4,1
-2,3,2,1,1,2,3,1,1,1,2,2,1,2,1,1,1,2
-1,3,4,1,1,1,4,3,2,1,2,3,2,1,2,5,1,3
-2,1,3,1,3,1,4,2,1,1,3,1,1,1,2,1,1,2
-1,2,1,1,1,1,3,2,1,1,1,2,1,2,3,3,2,4
-1,2,1,1,1,3,5,2,1,1,2,1,1,1,1,1,3,3
-1,4,3,1,3,1,6,2,1,1,2,1,1,1,2,1,1,1
-1,3,4,3,1,1,3,2,1,1,2,1,1,3,2,3,4,2
-1,3,2,2,3,1,1,1,1,1,1,2,1,1,2,1,1,1
-1,4,4,1,1,1,2,2,1,3,3,3,1,1,2,1,1,1
-1,3,2,2,2,2,2,2,1,1,2,1,1,2,2,1,2,1
-1,3,3,2,3,2,1,1,1,2,1,2,1,2,1,2,2,1
-1,4,3,1,2,1,1,2,1,2,1,2,1,1,1,1,2,1
-2,3,4,1,3,1,1,2,2,2,1,2,1,1,1,3,2,1
-1,3,3,1,1,1,6,2,1,1,2,3,1,1,1,2,1,1
-1,2,1,1,1,1,1,1,1,2,1,2,1,2,1,1,2,1
-1,4,3,1,3,2,2,1,1,1,1,2,1,2,1,2,1,1
-1,2,4,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1
-1,2,4,2,1,1,4,1,1,2,1,2,1,2,2,3,1,1
-1,3,4,1,1,2,2,2,1,3,3,3,2,3,2,3,4,3
-1,3,2,1,2,1,5,1,1,1,1,2,1,3,2,2,1,2
-1,4,3,2,3,1,2,1,1,3,1,1,1,3,2,3,1,1
-1,3,2,1,2,1,4,3,1,3,3,3,1,1,2,3,4,3
-1,4,4,1,3,1,5,2,1,3,2,1,1,1,1,1,4,1
-2,2,4,1,1,3,4,3,3,3,3,1,1,3,2,5,3,1
-1,4,3,1,1,1,2,1,1,2,1,1,1,2,3,1,1,5
-2,2,4,1,1,3,1,1,1,2,1,2,1,1,1,1,5,1
-1,1,1,1,3,1,3,2,1,3,2,1,1,2,2,3,4,3
-1,3,2,1,1,1,5,2,2,2,1,1,1,1,1,1,2,4
-1,4,4,3,3,1,2,1,1,2,1,1,1,1,1,1,2,2
-1,3,2,1,1,1,3,3,2,1,3,3,1,1,1,1,1,2
-2,3,2,2,1,2,5,2,1,1,1,3,1,2,1,1,2,1
-1,4,3,3,1,1,6,2,2,1,2,1,1,1,2,3,4,1
-1,3,2,2,2,2,1,1,1,1,1,2,1,1,1,3,2,4
-1,2,1,1,2,1,6,3,1,2,1,3,2,3,2,3,4,4
-1,3,2,1,2,2,4,3,3,2,3,3,1,2,2,3,1,1
-2,3,2,2,2,2,1,3,2,3,3,2,1,1,2,3,4,1
-1,4,3,3,3,1,3,1,1,1,1,2,1,3,2,1,2,1
-1,4,4,1,1,1,5,2,1,1,2,3,1,2,2,3,2,1
-1,3,3,2,2,2,2,2,2,1,1,2,1,1,2,1,2,2
-2,3,3,3,2,1,2,1,1,1,1,3,1,1,1,3,2,4
-1,4,3,1,3,1,6,1,1,1,2,1,1,2,2,1,1,2
-2,4,4,1,1,1,5,2,2,3,3,3,1,1,2,3,4,2
-1,3,2,3,2,1,2,2,2,1,2,3,1,3,2,3,4,3
-2,3,2,3,2,2,2,2,1,1,1,1,1,3,2,1,2,1
-2,3,2,1,3,1,5,3,1,3,3,3,1,3,2,3,4,1
-1,2,1,1,1,1,1,1,1,2,1,3,1,2,3,1,2,1
-1,3,2,1,1,2,4,2,1,1,1,1,1,2,1,1,2,1
-1,3,4,1,3,1,1,1,1,2,1,2,1,1,1,2,2,1
-2,1,1,1,1,3,1,1,1,1,2,3,1,2,3,1,1,1
-1,3,3,2,2,2,3,2,1,1,1,1,1,3,2,1,2,1
-1,3,2,1,1,1,4,3,3,1,2,2,1,1,1,1,3,3
-1,4,4,1,3,1,2,1,1,2,1,1,1,2,3,1,2,1
-1,3,2,1,3,2,4,1,1,2,2,3,1,1,2,3,2,2
-1,4,3,1,1,2,2,1,1,1,2,2,1,3,2,1,2,1
-1,4,3,1,3,2,6,2,1,3,3,3,1,3,2,1,2,2
-1,4,4,1,1,1,1,3,1,2,1,1,1,3,2,3,2,1
-1,2,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1
-2,4,3,1,1,1,4,2,2,3,3,2,1,3,2,3,4,5
-1,3,3,1,2,1,1,1,1,2,1,2,1,2,2,1,2,3
-1,4,4,1,3,1,3,2,2,3,3,1,1,1,2,1,2,1
-2,4,4,1,3,1,2,1,1,2,1,1,1,2,3,1,2,2
-2,3,2,1,1,2,4,3,1,3,3,1,1,1,2,3,4,2
-1,4,3,1,3,1,2,1,1,2,1,1,1,3,2,1,2,1
-2,3,2,2,2,1,2,1,1,1,1,2,1,2,2,1,4,2
-1,1,1,2,2,2,1,1,1,2,1,2,1,2,3,1,2,3
-1,4,3,1,3,1,2,2,2,3,2,2,1,2,1,1,2,2
-2,3,4,2,2,2,3,1,1,3,2,1,1,3,2,3,2,1
-1,4,3,1,1,1,6,2,1,1,1,1,1,3,2,1,1,1
-2,3,4,1,2,1,5,2,2,1,1,1,1,1,2,1,4,2
-1,3,3,1,3,2,2,1,1,1,1,3,1,1,1,2,1,2
-1,4,3,1,3,2,3,2,1,3,3,2,1,2,1,3,2,1
-1,3,3,1,3,3,5,3,3,1,3,3,1,3,2,5,3,3
-1,2,2,2,2,1,5,3,3,3,2,3,1,3,2,3,4,3
-2,3,3,1,2,2,1,1,1,1,2,1,1,3,2,1,1,4
-1,3,2,1,1,1,4,3,3,3,3,3,1,3,2,3,4,2
-2,3,2,1,1,1,6,2,1,1,2,1,1,1,2,3,2,1
-1,1,1,1,2,2,1,1,1,1,1,2,1,3,2,2,1,1
-2,3,3,3,2,1,2,2,1,2,2,1,1,1,2,1,2,4
-1,3,4,1,1,1,4,3,2,3,3,3,1,1,2,3,4,4
-1,3,2,1,1,1,3,1,1,1,2,1,1,2,2,1,2,1
-1,3,4,1,1,1,6,2,1,3,3,1,1,3,2,3,2,4
-1,3,3,1,3,1,5,2,1,2,1,2,1,1,2,3,2,1
-1,4,4,1,1,1,6,2,1,2,1,3,1,2,3,3,2,2
-2,4,3,1,2,1,5,2,1,1,1,3,1,1,2,2,1,3
-1,2,3,1,1,3,2,2,2,2,2,3,1,1,2,3,4,4
-1,1,1,1,1,1,6,2,1,2,2,1,1,1,1,1,2,1
-1,4,4,1,2,1,2,1,1,2,1,2,1,1,1,1,1,3
-2,2,3,1,1,3,5,2,1,3,3,3,1,3,2,3,4,1
-1,2,3,1,1,1,5,3,1,1,2,3,2,3,2,1,2,2
-2,3,2,1,2,2,6,3,1,1,1,1,1,1,1,3,2,5
-1,4,4,1,3,1,3,1,1,1,1,1,1,1,2,1,2,1
-1,3,3,2,2,2,2,1,1,2,1,2,1,3,2,5,2,1
-1,3,2,2,1,3,2,1,1,1,1,2,1,3,2,3,3,2
-1,4,4,1,1,1,2,1,1,3,2,1,1,1,1,1,2,1
-1,3,2,1,3,2,2,2,1,1,1,2,1,1,1,3,2,1
-1,1,1,1,1,2,2,1,1,2,1,2,1,2,3,1,2,1
-2,3,2,1,2,1,2,1,1,1,2,2,1,1,1,2,2,1
-2,3,3,1,3,2,3,2,1,1,3,3,1,3,2,3,4,2
-1,3,2,1,3,2,3,1,1,1,1,1,1,1,1,1,2,1
-2,4,4,2,2,1,2,2,2,3,3,2,1,3,2,3,4,1
-2,3,3,1,2,2,2,1,1,2,1,1,1,1,1,2,1,4
-1,4,4,1,3,1,2,2,1,2,2,3,1,1,1,1,1,1
-1,3,2,3,3,1,3,1,1,1,2,3,1,2,2,1,2,3
-1,4,4,2,3,1,3,1,1,1,1,2,1,3,2,2,1,2
-1,3,2,1,3,1,2,3,2,3,2,3,1,1,2,3,2,1
-1,4,3,1,1,1,5,3,2,3,3,3,2,3,2,3,4,4
-1,4,4,1,3,1,3,3,1,3,3,1,1,1,2,3,2,1
-1,3,2,1,1,1,6,2,1,3,2,1,1,2,2,3,4,3
-1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
-1,4,3,1,1,1,2,2,2,3,3,3,1,1,1,1,1,3
-1,2,2,1,1,1,2,2,1,1,2,2,1,3,2,1,2,1
-1,3,4,1,2,3,3,3,3,1,3,3,2,3,2,3,2,3
-1,3,2,1,1,1,1,1,1,2,1,3,2,3,2,1,2,4
+"companySize","empPrimTech","empProvideMHB","knowMHB","empDiscMH","empResourceMH","anonProtected","askLeaveDiff","negConsDiscMH","negConsDiscPH","coworkComfMHD","superComfMHD","empSeriousMH","heardNegConsMH","discInterviewPH","explanationPH","discInterviewMH","explanationMH","hurtCareerMH","teamNegMH","observeBadResponseMH","age","gender","country"
+"6-25",1,4,4,1,3,1,6,1,1,2,1,1,1,1,"",1,"",1,1,1,33,"male","United States of America"
+"More than 1000",2,3,4,2,2,1,5,2,2,2,1,1,1,3,"It's too early - I don't want to discuss potential deal breakers until they've decided they want me. ",2,"Same reasons. ",1,1,1,31,"Woman","United States of America"
+"6-25",1,4,3,1,1,1,3,1,1,2,1,1,1,2,"If it's relevant to the position ",3,"If it was relevant to the position. ",1,2,1,30,"Male","United States of America"
+"26-100",1,2,4,1,1,3,4,3,1,3,3,3,1,1,"I want to be seen as an asset, not a burden ",2,"Fear of discrimination ",3,4,3,25,"Male","Ecuador"
+"6-25",1,4,4,1,1,2,5,2,1,1,3,1,1,2,"honesty",3,"honesty",3,2,2,27,"male","France"
+"100-500",2,3,2,1,1,2,5,2,1,1,2,3,1,3,"",2,"",3,4,3,28,"female","Germany"
+"26-100",1,3,3,1,3,2,2,2,2,1,3,1,1,1,"I wouldn't want it to affect my ability to get the position",2,"I feel it would negatively effect my ability to get the position",3,2,1,23,"Male","United States of America"
+"26-100",1,3,2,1,1,1,6,3,1,3,3,1,1,3,"Afraid of seeming weak.",2,"Too much stigma, no way I would get the job.",1,4,1,32,"Female ","United States of America"
+"100-500",1,3,2,2,2,2,2,2,1,1,1,1,2,1,"Depends on relevance to work ",2,"Too personal ",3,2,2,37,"Male","United States of America"
+"6-25",1,2,4,1,1,1,6,3,1,3,3,1,2,3,"Your not get the job",2,"Your not get the Job",5,3,4,32,"M","United Kingdom"
+"6-25",1,3,2,1,1,2,5,3,1,1,2,1,1,3,"It's not relevant.",2,"It's not relevant.",5,2,1,36,"Female","United States of America"
+"100-500",1,2,1,1,1,1,2,2,1,3,2,3,2,1,"Interviews are a process of elimination. I don't want to give the employer a reason to eliminate me.
+If the physical issue were something with clear protections under the law (eg vision impairment, mobility issues), then I would disclose.",2,"Because I think that it would put me as a candidate into the ""too hard basket"". It is much to easy to justify not employing someone on other criteria when the mental illness was actually a significant factor thereby avoiding accusations of discrimination.",3,2,4,44,"Male","Australia"
+"26-100",1,4,1,1,3,2,1,1,1,2,1,1,1,2,"It's best to be up front about stuff if possible - if the employer is aware, then it is easier to judge their attitude towards it (positive or negative) before accepting a position.",3,"Same as physical health reason really. Coupled with the fact that nowadays I feel it's even more important to highlight mental health issues rather than sweeping under the carpet.",2,1,1,35,"Male","United Kingdom"
+"100-500",1,4,4,1,1,1,2,2,1,1,2,1,1,1,"",2,"",1,5,4,35,"Male","Sweden"
+"6-25",1,1,1,1,1,1,2,2,2,1,2,2,1,2,"It's often easier to talk about. Less stigma associated with it.",2,"Stigma",1,2,2,34,"Male","United Kingdom"
+"100-500",2,3,4,1,1,2,6,3,3,3,3,3,2,3,"You cannot enforce respect for any group of individuals. Every place I have worked care about performance and social integration. ",2,"It is illegal to not hire someone for having a mental disorder, but it is perfectly legal, from what I understand,  to not hire them for indirect effects of their disorder. I would not have gotten my current job if I briught up my mental illnesses. ",3,4,4,26,"","United States of America"
+"1-5",1,4,3,2,3,2,1,1,1,2,1,2,1,2,"It would be important that both I and my employer understand the requirements demanded by physical health issues.",1,"I might not bring up a mental health issue if it did not have any affect on my current work.",1,1,1,23,"Male","United States of America"
+"More than 1000",2,4,3,1,1,1,3,3,1,3,2,3,1,2,"Things like Asthma or access to buildings are socially 'acceptable' to mention in these situations.",2,"A general lack of understanding or sufficient social norms to appropriately respond to such issues.",5,3,3,37,"Male","United Kingdom"
+"100-500",1,3,3,1,3,2,2,1,1,1,1,3,1,1,"For me, it depends on how the interview is going - if it's clear that it's a dead end, I would not bring it up.",1,"For me, it depends on how the interview is going - if it's clear that it's a dead end, I would not bring it up.",2,1,2,40,"male","United States of America"
+"100-500",1,4,3,1,3,1,5,2,1,1,2,1,1,1,"Depends whether it would be relevant to my performance or cause significant outages. ",2,"This seems like it would be disqualifying myself or bringing up trouble that my employer likely wouldn't want to deal with. ",3,2,4,25,"Female ","United States of America"
+"26-100",1,3,2,1,1,2,5,2,1,3,3,3,1,1,"",1,"",3,2,4,22,"Female","United States of America"
+"More than 1000",2,2,4,2,2,2,5,1,1,2,2,3,1,3,"There isn't a physical health issue that would affect the sort of work I do without stopping me working altogether.",1,"It depends on how the interview is going, and how the condition may/may not affect the role.",3,1,4,43,"Male","United Kingdom"
+"26-100",1,3,3,1,1,1,4,3,3,3,3,3,2,3,"I have multiple chronic illnesses and have been advised by lawyers to never bring them up in interview situations as discrimination is difficult to prove. ",2,"Social stigma, lack of protection under the law and difficulties proving discrimination",3,4,2,26,"female","United States of America"
+"26-100",1,3,2,1,3,2,1,1,1,1,2,2,1,1,"",1,"It's a rather private manner, which one might not wish to share with everyone if they are in a position where you may not be a part of their team any way.
+
+If an interview succeeds should in most cases not be based on any lingering mental state, and as such one would open up and become vulnerable in a negative way.",2,2,1,29,"Male","Norway"
+"100-500",2,3,2,1,3,2,2,1,1,2,1,1,1,1,"I would probably not bring up a physical health issue because it's most likely not relevant to my ability to perform my job.",2,"I would not bring up a mental health issue in an interview because I would not want it to negatively affect the hiring decision. It is something that I am open about with employers, especially when I need care or personal days, but not something I would bring attention to during an interview.",2,5,1,24,"female","United States of America"
+"6-25",1,2,1,1,1,2,1,1,1,2,1,2,1,2,"I have a (small) physical disability which sometimes affects my work. I guess it's an effective litmus test of the prospective employer's culture.",3,"If a prospective employer is unable to answer questions about their mental health services then you probably don't want to work there. That said, I acknowledge that that's a fairly privileged position to take and many people don't have that choice.",5,1,3,38,"Male","New Zealand"
+"More than 1000",2,3,3,1,3,2,3,2,1,1,3,3,1,3,"Should not be relevant to hiring deicition",2,"Would not want to bring up anything like this as it could negatively influence hiring decision",3,4,2,44,"F","United States of America"
+"100-500",1,3,2,3,2,2,1,1,1,1,1,2,1,2,"I would not want to work for an employer that reacted negatively to a physical health issue. I think it's a good test to ensure that they're the kind of employer I'd want to work for. ",3,"I would not want to work for an employer that reacted negatively to a mental health issue. I think it's a good test to ensure that they're the kind of employer I'd want to work for. ",1,1,2,31,"female","United States of America"
+"6-25",1,4,4,2,1,2,5,3,3,3,3,3,2,1,"If it impacted my work or would require special accommodations, I would mention it.",2,"Employers don't typically make accommodations for mental health, so no point in bringing it up",3,2,4,26,"female","United States of America"
+"500-1000",2,3,3,1,1,1,1,1,1,2,2,3,1,1,"It seems like it would influence decisionmaking, even subconsciously.",2,"I'm fairly certain that would influence decisionmaking. There are so many ways to get away with discriminating on that basis, they can just chalk it up to 'cultural fit'",2,1,1,42,"M","United States of America"
+"26-100",1,4,4,1,3,1,2,1,1,1,1,2,1,2,"",2,"",3,1,1,25,"male","United States of America"
+"100-500",2,3,2,1,1,2,5,1,1,2,1,2,1,1,"fear of losing out",2,"feel it would negetivly impact my canidacy",3,5,1,33,"male","United States of America"
+"6-25",1,2,1,1,1,1,3,2,1,1,2,1,1,2,"They would provable need to know, to Judge if I can do my job or not. ",3,"Stigma, mainly. ",1,2,2,38,"Male ","United Kingdom"
+"More than 1000",2,3,4,1,2,1,2,2,1,3,2,2,1,3,"It would have no bearing on my ability to do the job",1,"Possibility that this would have a bearing on doing the job",3,4,1,43,"Female","United Kingdom"
+"More than 1000",2,3,2,1,3,1,5,3,2,1,2,3,1,1,"",1,"",3,4,2,35,"Male","United States of America"
+"26-100",1,3,2,1,1,1,5,2,1,1,3,3,1,1,"if it were serious, I'd worry that it would prevent my being hired",1,"I don't have anything diagnosed specifically wrt my anxiety and depression.  Sometimes I don't take it as seriously because of that.",1,2,2,39,"f","United States of America"
+"6-25",1,4,2,1,1,1,2,1,1,3,2,2,2,3,"",1,"",1,1,1,26,"Male","Germany"
+"More than 1000",2,3,2,2,2,2,1,1,1,1,1,2,1,2,"I prefer to keep nothing hidden",3,"I prefer to keep nothing hidden",1,2,4,27,"Male","United States of America"
+"More than 1000",1,3,2,2,2,3,4,3,1,1,3,3,1,3,"Cultural bias and potential elimination from consideration.",2,"Feel it would prevent hire. Only if asked point blank.",3,4,2,49,"Male","United States of America"
+"More than 1000",1,4,3,1,3,1,5,3,3,1,3,3,1,3,"Only after I received a job offer, to ensure protection for my physical disability. ",2,"Mental illness is not a protected class from discrimination and disclosing it publicly could affect my immigration status",3,4,2,24,"Female","United States of America"
+"6-25",1,3,3,2,2,2,1,1,1,2,1,1,1,3,"We're interviewing for skills, not personal issues.",2,"Everyone's got shit to deal with. I'm there to interview technically and figure out if it'd be a good fit. I'll ask questions and see what their stance is.
+
+I wouldn't tell someone one a first date that I'm depressed or have bad knees, plenty of other more positive and more interesting topics to talk about.",2,1,1,29,"Human","United States of America"
+"500-1000",2,3,2,1,1,2,2,3,2,1,3,3,1,1,"Potential discrimination",2,"Potential discrimination",3,4,2,32,"female","United States of America"
+"26-100",1,3,3,1,1,2,2,1,1,1,2,1,1,2,"Employer should know about physical health issues that could impact quality of work somehow.",1,"There is a stigma associated with mental health issues, at least with some. It is a difficult thing to be transparent about.",2,2,2,36,"Male","United States of America"
+"100-500",2,3,3,1,1,1,2,1,1,1,1,1,1,3,"personal info should not be part of interview process",2,"Interview is not the place/time for personal info",1,2,1,57,"Female","United States of America"
+"More than 1000",2,3,2,1,3,1,5,2,2,1,2,2,1,3,"They might think I'm a hypochondriac",2,"They might think I'm a complainer",3,4,2,41,"Female","United States of America"
+"More than 1000",2,4,4,1,1,1,4,2,2,3,1,3,1,1,"",1,"",3,4,4,27,"f","Canada"
+"6-25",1,4,4,1,3,1,5,2,1,3,2,1,1,1,"I wouldn't want it to be the reason I was not hired.",1,"I feel it might color the opinion of everything I said or did.",1,4,1,39,"Male","United States of America"
+"100-500",2,3,2,2,3,1,3,1,1,2,1,2,1,3,"i've had previous employers that responded negatively to that",2,"you never know who is interviewing you",1,1,1,35,"f","United States of America"
+"26-100",1,4,3,3,3,1,1,2,2,3,3,1,1,3,"I prefer to use the interview as an opportunity to learn more about a potential employer and to showcase my skills.",2,"Same answer as before. I prefer to use an interview as an opportunity to learn more about a potential employer and to showcase my skills. I wouldn't want to waste that valuable time on the minutiae of my health.",3,4,1,28,"fm","United States of America"
+"100-500",1,3,2,1,2,2,5,2,1,1,1,2,1,1,"I wouldn't bring it up unless absolutely necessary for my day-to-day job function, out of fear of discrimination or not being hired.",2,"I wouldn't bring it up unless absolutely necessary for my day-to-day job function, out of fear of discrimination or not being hired.",3,4,2,33,"female","United States of America"
+"6-25",1,1,1,1,1,3,2,1,1,1,2,2,1,1,"if it wasn't relevant",1,"if it wasn't relevant",2,1,5,24,"Male","United Kingdom"
+"100-500",1,3,4,1,3,1,2,2,2,2,1,1,1,2,"",1,"",3,1,1,37,"Male","United States of America"
+"More than 1000",2,3,2,3,3,2,3,2,1,1,1,3,1,1,"It would depend upon if it would have any direct or indirect bearing on my position. If it was applicable, I would bring it up. If not, I'd not bring it up unless prompted.",1,"It would depend upon if it would have any direct or indirect bearing on my position. If it was applicable, I would bring it up. If not, I'd not bring it up unless prompted, same as a physical issue.",1,2,2,35,"male","United States of America"
+"100-500",1,4,3,1,1,1,2,2,2,1,3,3,1,1,"",2,"",3,2,2,36,"male","United States of America"
+"More than 1000",1,3,3,1,2,2,1,1,1,2,1,3,1,2,"If I have a physical health issue, the new employer needs to be aware of it before hiring me.",1,"It would depend on the type of MH iddue.",1,2,1,63,"Male","United States of America"
+"More than 1000",1,4,3,3,2,1,6,2,1,1,2,3,1,1,"",2,"",1,2,1,27,"Male","United States of America"
+"26-100",2,2,1,1,1,1,5,2,2,1,2,1,1,3,"Not relevant to the interview process.",2,"Not relevant to the interview process.",3,2,4,36,"Female","United Kingdom"
+"26-100",1,4,4,1,3,1,6,2,2,1,2,1,1,1,"",1,"",1,2,5,35,"M","United States of America"
+"100-500",1,3,2,1,3,1,2,1,1,3,1,2,1,3,"",2,"",3,2,1,32,"Male","United States of America"
+"500-1000",1,3,2,2,2,1,2,1,1,2,1,3,1,2,"I've previously been punished for taking care of my physical health after a bike accident. I do not want to be in that situation again, so I would bring up any issues I had while interviewing.",1,"Many people still disbelieve that adult ADHD is a thing — if I suspected a  potential employer had problems I might try to suss them out before taking a job.",1,1,2,28,"cis man","United States of America"
+"More than 1000",1,4,4,3,3,1,2,3,2,3,3,1,1,1,"It seems like it would generally be useless information but may lend towards casual conversation. Like ice breaking.",2,"The tech field seems highly reliant on mental capabilities. So I would fear that any issues disclosed here might negatively impact my standing (justified or not).",1,2,1,30,"male","United States of America"
+"6-25",1,4,4,1,3,1,1,1,1,1,1,1,1,3,"I feel like it would effect my chances of getting a job. It's also none of their business unless it effects my performance.",2,"I feel like it would effect my chances of getting a job. It's also none of their business unless it effects my performance.",1,3,1,31,"male","United States of America"
+"26-100",2,2,2,1,3,2,1,1,1,3,1,2,1,3,"It should not effect they way how I work. So it should not have any negative things for the new boss",2,"It should not effect they way how I work. So it should not have any negative things for the new boss",1,4,1,27,"Male","Netherlands"
+"26-100",1,4,3,1,1,1,3,1,1,1,2,3,2,1,"",2,"No need to disclose so early as it may not be an issue. Don't want to give them a reason not to pick me!",1,2,2,27,"Female","United Kingdom"
+"More than 1000",1,1,1,2,2,2,1,3,1,1,2,2,1,1,"If it looked like you'd take a lot of time off or die soon",2,"Because they wouldn't employ you",5,1,3,45,"Male","United Kingdom"
+"26-100",1,2,4,1,1,1,2,1,1,2,1,3,1,1,"maybe this physical health issue will not change the way I work",1,"Yes, this shit can crack my workflow, you know? ",2,2,2,29,"male","Brazil"
+"500-1000",2,2,3,1,3,1,1,1,1,2,1,2,1,2,"",3,"",2,1,1,29,"male","United States of America"
+"26-100",1,4,3,1,2,1,1,2,1,2,1,2,1,1,"Comfort discussing personal issues with someone who I've presumably only recently met.",1,"Comfort discussing personal issues with someone who I've presumably only recently met.",1,2,1,27,"Male","United States of America"
+"100-500",2,3,2,1,3,1,5,3,1,3,3,3,1,3,"It isn't relevant to my ability as a programmer.",2,"It isn't relevant to my ability as a programmer.",3,4,1,34,"Male","United States of America"
+"100-500",1,3,2,1,1,1,5,2,1,3,2,1,1,2,"",2,"Feel like they would potentially not hire because of mental health issues",3,4,4,29,"female","United States of America"
+"6-25",1,3,3,3,3,2,1,1,1,1,2,2,1,2,"I want to make sure both parties can make an informed decision - leaving something important unsaid would foster frustrated expectations.",3,"I want to make sure both parties can make an informed decision - leaving something important unsaid would foster frustrated expectations",1,5,2,35,"F","Canada"
+"26-100",1,4,3,2,3,1,2,1,1,3,1,1,1,3,"",2,"",3,1,1,32,"male","United States of America"
+"More than 1000",1,3,4,3,2,1,5,2,2,2,1,2,1,3,"Fear it would negatively bias myself",2,"Fear it would negatively bias me",1,2,1,30,"Male","United States of America"
+"100-500",1,4,3,1,3,1,6,2,2,3,2,3,1,1,"",2,"",3,1,1,36,"m","Russia"
+"26-100",1,3,2,1,1,2,2,1,1,1,1,2,1,1,"If it was going to effect my position, I would bring it up.",1,"If it was going to effect my position, I would bring it up.",1,1,3,23,"Female","Canada"
+"More than 1000",1,3,3,1,2,1,5,2,1,1,2,1,1,3,"if it did not affect my job performance i would not discuss it",2,"i would be afraid of bias in their decision making",1,2,2,42,"Male","United States of America"
+"6-25",1,3,2,2,2,3,1,2,1,1,1,3,1,2,"I have a long-term chronic/constant headache and, well, it impedes my work from time to time. They need to be aware/okay with that.",1,"I don't suffer from any mental health issues that warrant discussion - so I'm not sure!",1,2,1,31,"male","Germany"
+"100-500",1,4,4,1,3,1,5,1,1,1,1,2,1,3,"Don't want to be discriminated against",2,"Do not want to be discriminated against",3,4,3,31,"female","United States of America"
+"26-100",1,4,3,1,3,1,6,2,2,1,2,1,1,3,"I guess if I had an issue hard enough that it would affect my work, I'd be worried about the perception I could not do the job.  ",2,"Mental health too stigmatized, don't know the prospective employer well enough to determine whether it would be negative (and it usually is) ",3,2,4,30,"male","United States of America"
+"More than 1000",2,3,3,2,2,2,6,2,2,1,2,1,1,1,"If they had a medical screening process that would be the appropriate time ",2,"Medical screening process would be more appropriate (even though some of them only ask for diagnosed mental illnesses) ",2,2,3,21,"Female ","Australia"
+"100-500",1,3,3,3,2,1,6,2,1,1,2,1,1,2,"",1,"",1,1,2,28,"Male","United States of America"
+"6-25",1,3,3,1,1,1,2,1,1,1,1,1,1,1,"It depends on if it was relevant or affected my job in any way. Also, if I felt like I could trust the person in my interview.",1,"See above answer - related to trust.",1,2,5,35,"Male","United States of America"
+"100-500",1,3,2,3,3,2,2,1,1,1,1,2,1,1,"It would depend on the issue, and whether or not I think it would impact the work I do",1,"Depends on whether or not I feel it would impact my ability to do the work on a regular basis.",2,1,1,42,"Male","United States of America"
+"6-25",1,3,2,2,2,2,2,1,1,2,1,2,1,2,"If it impacted my ability to do my job or even if I was going to need to take time to visit a doctor or time to recover then I would need to coordinate with them.",3,"I am at the point in my life where my mental health needs to be part of the conversation. If a company cannot even start to have that conversation with me, then how can I possibly be confident that they will be able to support me when I need to address mental health issues that come up.",4,5,3,31,"Male","United States of America"
+"26-100",2,3,4,1,1,1,2,2,1,2,1,1,1,2,"I should be honest because if in anytime I find any issues related to this physical health issue, I need to be clear about it right from the beginning.",3,"Same as physical health issues.",1,2,2,30,"Male","Brazil"
+"26-100",1,4,4,1,3,1,2,1,1,2,1,1,1,2,"It should be known if they are going to hire you",3,"Same answer",1,2,1,26,"Male","United States of America"
+"More than 1000",2,4,3,2,2,1,1,1,1,1,1,2,1,3,"I don't know",2,"Depends who the employer is, whether public or private sector",2,1,1,31,"female","United Kingdom"
+"26-100",1,3,2,1,2,1,2,1,1,2,1,2,1,1,"",1,"",1,1,1,30,"Male","United States of America"
+"26-100",1,3,4,1,1,1,4,3,2,3,3,3,1,1,"the world isn't an ideal place, sometimes it is more important to get in the door and ask for forgiveness later than permission up front",2,"massive stigmatization in the ""cult of smart""",3,4,4,35,"M","United States of America"
+"26-100",1,4,4,1,1,2,1,1,1,1,1,2,1,1,"Would depend on physical health issue and how it might affect things.",1,"Would depend on issue.",1,1,4,43,"Male","United Kingdom"
+"6-25",1,2,4,1,1,1,1,1,1,1,2,2,1,1,"Depends what it was and how it affected my ability to do the job, no change in ability, no discussion.",1,"",2,1,1,34,"male","United Kingdom"
+"6-25",1,2,4,1,1,3,5,3,1,3,3,3,1,1,"",2,"I wouldn't get the job",3,4,4,26,"Transgender woman","Ireland"
+"500-1000",2,4,4,2,2,2,6,1,2,3,1,2,1,1,"As a matter of privacy, I would not.",2,"As a matter of privacy.",1,2,2,34,"m","United States of America"
+"26-100",1,2,1,1,1,1,2,2,2,3,3,1,1,3,"",2,"",5,2,2,37,"M","Australia"
+"100-500",2,4,4,1,3,2,2,1,1,2,2,3,1,2,"If my potential employer needs to know (that it may affect my work) I feel its best to be honest so they know what they are getting if I joined their company",2,"Not everyone regards mental health as realistic; its kind of an enigma as to treatment options",1,2,4,34,"Male","United States of America"
+"100-500",1,3,4,1,3,1,6,3,2,1,3,1,1,3,"i currently do not have any physical issues. ",2,"the stigma of mental illness and how i fear it would impact the job.",1,2,2,35,"m","United States of America"
+"26-100",1,4,4,1,1,1,2,2,2,3,3,1,2,1,"I would think they don't care about it",2,"I imagine they will dismiss my application",3,4,4,33,"M","France"
+"More than 1000",2,3,3,3,2,2,3,3,2,3,3,2,1,2,"doesnt carry the same stigma",2,"stigma",3,2,1,36,"male","United States of America"
+"100-500",1,3,4,1,2,3,3,3,3,1,3,3,2,3,"I believe that would bias the interview against me for ""culture"" reasons. ",2,"Same as physical. ",3,2,3,29,"Male","United States of America"
+"6-25",1,1,1,2,1,1,2,1,1,2,1,2,1,1,"May not be relevant. ",1,"Concern about it's impact on hiring",1,2,2,29,"Male","United States of America"
+"26-100",1,3,2,1,1,1,3,2,1,2,1,3,1,2,"Because it's common",1,"Not sure. That would depend a lot on the company I would be interviewing with.",3,4,1,30,"M","United States of America"
+"6-25",2,4,4,1,1,1,4,3,3,1,1,1,1,3,"I would be worried that the employer would consider the problem a liability",2,"I would be worried that the employer would consider the problem a liability",3,4,3,30,"Female","United States of America"
+"More than 1000",1,3,4,2,1,2,2,2,1,2,1,2,1,3,"It's never come up.",2,"More Taboo.",3,4,1,32,"male","United States of America"
+"More than 1000",1,2,2,2,2,1,5,3,3,3,2,3,1,3,"they might think that i am not capable to work. I am also a migrant and this is adds up.",2,"Employers don't offer jobs to people with mental health issues due to stigma",3,4,3,31,"female","United Kingdom"
+"More than 1000",2,3,3,1,2,2,1,1,1,1,2,1,1,3,"It isn't something they should use to determine if I'm a good candidate for the job",2,"It isn't a reason they should use to determine if I'm qualified for the job",1,1,4,35,"male","United States of America"
+"100-500",1,3,4,1,1,2,1,1,1,2,1,2,1,2,"I would discuss issue because health is what make your work process effective ",3,"I will bring up because it is the main process of body",2,1,1,24,"male","Pakistan"
+"100-500",1,4,4,1,3,1,1,1,1,3,3,2,1,3,"",2,"",1,2,1,29,"male","United States of America"
+"26-100",1,3,4,1,3,1,4,2,1,3,3,1,1,1,"might affect chances of getting the job",1,"if I felt they would understand I would, otherwise I wouldn't for fear of being discriminated against",1,2,1,25,"female","United States of America"
+"26-100",2,2,4,1,1,1,5,2,1,3,1,3,2,1,"Would very much depend on the issue and what impact I thought it would have on the role I was interviewing for.",2,"I don't think enough people are aware of mental health issues, so it is more likely to just have a negative impact",3,4,4,26,"Male","United Kingdom"
+"500-1000",1,2,4,1,1,1,3,1,1,1,2,2,1,3,"",2,"",3,2,1,28,"Male","Germany"
+"100-500",1,3,2,3,2,2,5,1,1,2,1,2,1,1,"Depending on how strong my position as interviewee is, I might prefer to wait until the offer stage rather than bring it up at interview",2,"I would likely prefer to wait until the offer stage to discuss mental health issue / accommodations, rather than in the interview",1,2,2,34,"female","United States of America"
+"500-1000",1,3,2,1,3,2,3,1,1,1,1,1,1,1,"Yes, If relevant to the duties of the position. Otherwise, not necessary. ",1,"Less likely, simply because the general perception and knowledge about mental illnesses is less widely understood. For instance, Adult ADD might be simple to explain, whereas Bipolar II would be a longer discussion and may be avoided in an interview.",1,2,1,35,"Male","United States of America"
+"500-1000",1,3,4,1,3,1,1,2,1,1,2,1,1,2,"",2,"Wouldn't want marks against me",3,4,2,39,"Male","United States of America"
+"6-25",1,3,2,2,2,2,1,1,1,1,1,2,1,1,"It would depend on the nature of the job and the physical health issue - if there would be a direct impact on my ability to work because of the issue.  If not relevant, I would not disclose.",1,"Only if I had a firm belief that there would be no negative consequences.",3,2,4,55,"Female","Canada"
+"More than 1000",1,3,3,1,3,2,1,2,1,1,1,3,1,1,"Shouldn't generally be relevant",1,"Shouldn't generally be relevant",1,2,1,38,"Male","Ireland"
+"100-500",1,4,3,3,3,1,1,1,1,2,1,1,1,1,"I would bring it up if I found it relevant for my ability to do my job. Otherwise I would not.",1,"I would bring it up if I felt it would impact my ability to do my job.",1,2,5,31,"Male","Sweden"
+"6-25",1,1,1,1,1,1,3,2,1,1,3,1,1,1,"Fear that I would not make it through the interview process. Would tell after being hired.",2,"Fear of not making it through interview process due to stigma.",3,1,5,20,"female-bodied; no feelings about gender","Canada"
+"100-500",1,3,4,1,3,1,1,2,1,3,2,1,1,1,"They might not be willing to give me a shot. That's how I feel.",2,"In my experience, many people see mental health as a lesser issue than physical health, and one that can fixed if they ""man up"" or grow up. I worry that mentioning a chronic mental health issue would be viewed as a detriment and a weakness to my work.",3,4,2,33,"Male","United States of America"
+"More than 1000",1,3,4,1,3,1,4,3,1,3,2,1,1,3,"",2,"",3,4,1,34,"Male","United States of America"
+"500-1000",2,3,2,1,1,1,6,2,1,1,2,1,1,1,"Because, if it were a physical health issue that might affect my job performance, it'd be difficult to hide and a potential might resent the fact that I wasn't forthcoming about it in an interview.",2,"Because, if it were a mental health issue that might affect my job performance, it may be easy to hide, while being forthcoming about it might impact my likelihood to get the job in the first place.",3,2,1,34,"Male","United States of America"
+"26-100",1,4,3,2,2,2,1,1,1,1,1,2,1,1,"",1,"",2,1,2,28,"Male","United Kingdom"
+"6-25",1,4,3,1,1,1,2,2,2,3,3,1,1,3,"",2,"",3,4,1,42,"m","United States of America"
+"6-25",2,3,2,1,1,3,3,3,2,1,3,3,1,1,"Depending on the interview stage and whether I required an accommodation, I would",2,"I don't know",3,2,3,43,"Female","United States of America"
+"26-100",1,3,2,1,1,1,4,2,1,1,2,3,1,2,"There isn't stigma",2,"Worried about not getting a job",3,4,4,24,"Female","United States of America"
+"6-25",1,3,2,1,3,3,2,1,1,2,1,2,1,1,"Any health issue is potentially a liability, so I would hesitate to mention it unless it had direct bearing on the job responsibilities.",2,"As above, but with added stigma that mental health issues are seen as not serious (and therefore bringing it up is itself would be considered a problem), or as incurable and therefore at least as big a liability as a physical problem.",3,2,2,44,"Male","United States of America"
+"500-1000",1,4,3,1,3,1,2,2,1,1,3,3,1,1,"Some parts of tech require you to lift things, for example.",2,"Quick way to not get the job.",1,4,2,35,"male","United States of America"
+"100-500",1,4,4,1,3,1,5,3,2,3,3,1,1,3,"It's my problem, not theirs.",2,"It's my problem, not theirs.",1,4,2,29,"male","United States of America"
+"More than 1000",1,2,3,1,1,1,4,3,2,3,3,3,2,1,"It would depend on the tone of the interviewer and the attitude of the individual that was interviewing me",2,"I feel that it would indefinitely compromise my chance of being hired",3,4,4,23,"male","United States of America"
+"500-1000",1,3,2,1,2,1,6,2,1,1,2,1,1,2,"no stigma, high probability of sympathy/understanding",1,"uncertainty about their reaction",1,2,2,30,"M","United States of America"
+"26-100",2,2,3,1,1,1,1,2,1,1,2,1,1,1,"I don't know",2,"Privacy",5,2,1,26,"male","Colombia"
+"100-500",1,3,3,2,3,1,2,1,1,3,2,3,1,1,"It depends on the type of issue. If it was something common, then I would be more likely as I feel as though they would be more willing to accommodate me.",2,"I don't think it's very transparent to many employers how mental health issues might affect a person's workplace efficacy, and I wouldn't want to lose a potential position because of that thought (whether or not the interviewer made that decision consciously or not).",1,2,1,24,"Male","Canada"
+"26-100",1,4,3,1,3,1,5,2,1,3,3,3,1,1,"",1,"I would be worried that it might affect my job application even though I am aware that they are not legally allowed to do so. However, it would be difficult to determine / prove if that was the case or not.",5,3,3,35,"Male","United Kingdom"
+"100-500",1,4,4,1,3,1,2,1,1,1,1,3,1,1,"Only if it would require immediate accommodation.",1,"Only if it required immediate accommodation.",2,2,1,35,"Male","United States of America"
+"6-25",2,2,4,1,1,1,3,3,1,3,1,1,1,2,"",2,"because i'd be scared they dismiss me politely ",5,2,1,27,"female","Chile"
+"More than 1000",2,4,3,1,3,1,3,1,1,3,2,1,1,1,"",2,"",1,2,1,28,"M","United Kingdom"
+"More than 1000",2,3,2,3,2,2,3,1,1,2,1,1,1,3,"They don't need to know unless/until it affects my work ",2,"They don't need to know unless/until it affects my work.",2,1,2,63,"F","United States of America"
+"26-100",1,2,3,1,1,1,5,2,1,3,2,3,1,2,"There are many laws that protect applicants from discrimination based on physical ability so I wouldn't feel too concerned about bringing up a physical health issue in an interview.",2,"I feel like it would hurt my chances of getting the job. I'm not aware of any laws that protect applicants from discrimination based on mental health as there are with physical health.",1,2,1,29,"M","United States of America"
+"100-500",1,3,2,1,1,1,1,1,1,2,1,3,2,3,"",2,"",1,2,4,33,"female","United States of America"
+"26-100",1,3,2,1,1,1,1,1,1,1,1,1,1,1,"Yes if it would impact my work",1,"If it meant that I needed a flex schedule or similar accomodation",2,2,1,39,"Woman","United States of America"
+"1-5",1,1,3,1,1,1,5,2,1,1,2,3,1,1,"if it does not influence my work, why should i bring it up",2,"i am not obligated to",1,2,2,29,"male","Austria"
+"100-500",1,3,3,2,2,2,1,1,1,1,1,1,1,3,"If it didn't affect my job, I would wait until after I was hired to discuss it with my manager",2,"If it didn't affect my job, I would discuss it with my manager after I was hired",3,4,2,28,"Female","United States of America"
+"6-25",2,4,4,1,3,1,5,2,1,3,1,1,1,1,"I would bring it up if I required special equipment to do my job, or if I felt the need to explain how I can do my job despite the physical issue.",2,"I'm not comfortable enough explaining or discussing mental health. I feel that it may ""make it weird"" in the interview.",2,2,2,27,"Male","United States of America"
+"More than 1000",2,4,4,1,1,1,4,3,1,3,3,3,1,1,"I've seen people with physical health issues previously accommodated for",2,"To avoid the stigma that it brings.",3,4,4,28,"male","United Kingdom"
+"More than 1000",1,3,3,2,2,1,3,1,1,1,1,3,1,1,"if the physical issue is obvious at work, it's better not to try to hide.",1,"same thing: If it has impact or if it's visible at work, why trying to hide.",3,4,2,41,"man","France"
+"More than 1000",1,3,2,1,2,1,1,2,1,1,3,1,1,2,"Being open usually is the best",2,"Bad experience",3,4,1,40,"Male","Netherlands"
+"100-500",1,4,3,1,3,1,2,2,2,1,2,1,1,3,"Worries about discrimination",2,"Worried about discrimination",3,2,1,31,"Male","United States of America"
+"More than 1000",1,1,4,3,3,1,1,1,1,1,2,1,1,3,"I don't feel that its relevant to my getting hired",2,"I don't feel like it's relevant to getting hired",2,1,1,20,"Male","United States of America"
+"6-25",1,4,4,1,1,2,2,3,3,2,1,3,1,3,"I feel that an interview is not enough time for an employer to make a rational judgement about whether or not the candidate can still do the job they're asking. I would not disclose my mental health condition to employers during an interview but perhaps prior to accepting an offering.",2,"Same as above,",3,2,3,31,"male","United Kingdom"
+"More than 1000",2,3,2,2,2,2,1,3,2,3,3,2,1,1,"They may not hire me thinking I might take time off from work. ",2,"Supervisors don't like to deal with those sort of issues.",3,4,1,55,"F","United States of America"
+"1-5",2,2,3,1,1,1,4,2,2,1,2,3,2,2,"Because I'd die if I had to physically work beyond my capacity.",1,"Mental health is not seen as an issue by most employers.",3,4,4,56,"m","Australia"
+"500-1000",1,3,2,1,1,1,4,2,2,1,2,3,1,2,"Physical health issues are more socially/culturally acceptable and would not reflect as poorly on the interviewee as a mental health issue.",2,"",1,2,2,24,"Male","United States of America"
+"100-500",1,3,2,1,3,1,5,3,1,3,3,3,1,1,"Because despite all of the laws governing non discrimination, employers will go with what's easiest and come up with a different reason as to why they're not hiring you. Employees are ultimately resources to be leveraged, and companies don't want to get less for their money. ",2,"Never. Absolutely never. This would be stigmatized to hell. ",1,2,2,29,"female","United States of America"
+"More than 1000",2,1,1,1,3,1,4,3,2,3,3,3,1,3,"None of their business, especially if it has no impact on my ability to do the work.",2,"I would be too afraid they wouldn't hire me if I told them.",5,2,3,31,"female","United States of America"
+"500-1000",1,4,3,3,3,1,1,1,1,2,1,2,1,2,"If it was relevant to the job, then yes.",1,"If was relevant to the job, then yes. But I do think that discussing mental health in a job interview is more risky (because of the negative perception it could create) than discussing physical health issues.",1,2,1,34,"male","United States of America"
+"More than 1000",1,3,3,1,1,2,1,1,1,1,2,2,1,1,"Dependent upon impact on work duties.",1,"I often do not disclose.",1,2,3,47,"F","Australia"
+"6-25",1,1,2,1,1,3,5,3,1,3,3,1,1,3,"Potential negative consequences down the road.",2,"Potential negative impact on job.",3,4,1,26,"Male","Denmark"
+"1-5",2,2,4,1,1,3,4,3,3,3,3,1,1,3,"",2,"",5,3,1,22,"Male","United States of America"
+"100-500",1,4,3,1,3,1,2,2,1,1,2,1,1,1,"",1,"",5,2,3,26,"Female","Canada"
+"1-5",1,3,2,1,1,1,5,2,1,1,2,1,1,3,"Like all interviews, I feel like not putting your ""best foot"" forward puts you at a disadvantage.",2,"I feel like this would put you out of the running for a position almost immediately. Or at least be used as a negative mark against you.",3,2,4,33,"Male","Canada"
+"More than 1000",1,3,2,3,2,2,6,2,2,1,2,2,1,3,"Fear of discrimination",2,"Fear of discrimination",3,2,4,43,"female","United States of America"
+"500-1000",2,3,3,2,2,1,5,2,1,3,2,1,1,1,"Unless it affected my ability to do my job, I would not bring it up. If it did, I would only bring it up as late as possible.",2,"I would be afraid that the entire interview would become a discussion of the issue, and the decision process would be based off whether or not the issue is serious enough to take a chance on.",1,1,2,39,"Male","United States of America"
+"26-100",1,4,3,1,3,2,3,2,1,3,3,2,1,2,"employer have incentives (to pay less taxes) to hire ppl w/ disabilities in france",1,"not sure - you usually don't know the ppl interviewing you ",3,2,1,32,"male","France"
+"6-25",1,3,2,3,2,1,2,2,2,1,2,3,1,3,"Seems like it would deter them from hiring me.",2,"Seems like it would deter them from hiring me.",3,4,3,33,"male","United States of America"
+"100-500",1,3,4,1,3,1,5,2,2,1,3,2,1,3,"Fear of discrimination as a racial minority with a physical health issue",2,"Fear of discrimination as a racial minority with a mental health issue",3,4,2,26,"Male","United States of America"
+"1-5",1,2,4,1,1,3,5,2,2,3,3,1,1,1,"Worried about how they will look at me after",2,"Cos I would really want the job they might get employ someone with mental health issues",3,4,1,22,"Male","United Kingdom"
+"6-25",1,2,1,1,1,1,5,3,1,3,1,3,2,2,"Starting a job hiding something like this can be a really bad way to get the trust of the employees. ",3,"Same response as the physical one.",1,4,4,17,"male","Brazil"
+"1-5",2,2,4,1,1,3,1,1,1,2,1,2,1,1,"As I don't suffer from anything particularly serious it's hard to imagine, but if I did I feel more as if I would be compelled to state this; as if it was likely to affect my ability to work I would want to be upfront about it. If it didn't affect my ability to work I might avoid mentioning it straight away to mitigate the chance of negative concequences",1,"See above",1,5,1,28,"Male","United Kingdom"
+"100-500",1,4,4,1,3,1,5,3,2,1,2,1,1,3,"",2,"",3,2,1,48,"m","United Kingdom"
+"100-500",1,4,3,1,3,1,2,2,1,1,2,1,1,1,"",1,"",1,1,1,27,"male","United States of America"
+"1-5",1,1,1,1,1,1,5,3,2,3,3,1,1,3,"Maybe a second or third interview, but not the first. It's not their business, unless we're both serious about working together.",2,"Same reason as physical health - it's not their business straight up, so maybe in a later interview",1,2,2,24,"Female","Australia"
+"6-25",1,3,2,1,1,2,1,2,2,2,1,1,1,2,"",3,"",1,2,2,27,"Male","United States of America"
+"1-5",1,2,1,1,1,1,2,1,1,1,2,1,1,2,"",1,"Depending on the company's culture I would be afraid that it may come off as a weakness or leave a bad impression.",1,2,1,24,"Male","United States of America"
+"1-5",1,2,1,1,1,1,1,2,2,3,3,1,2,3,"denial of job oportunity",2,"denial of job",1,1,1,29,"male","Romania"
+"26-100",1,4,3,1,1,1,5,2,1,3,2,1,1,3,"Not comfortable speaking about anything health related at work.",2,"Don't want to set a bad precedent. ",1,2,1,28,"Male","United States of America"
+"100-500",2,4,4,1,1,1,3,2,1,1,3,1,1,2,"I wouldn't want to risk leaving a current job position for one where such things could be an issue.",1,"If it got in the way of work, it if I needed some accommodation, I would, but, otherwise, it wouldn't seem worth it.",1,1,1,40,"Male","United States of America"
+"More than 1000",2,3,3,2,3,1,2,2,1,1,1,1,1,3,"Worried it may affect my chances of getting the job.",2,"Worried it would affect my chances of getting the job.",1,2,5,38,"Male","United Kingdom"
+"26-100",1,4,4,1,2,1,2,1,1,2,1,2,1,1,"",1,"",1,1,3,28,"Female","United States of America"
+"26-100",1,2,4,1,1,1,5,3,2,3,2,1,1,1,"Scared it would separate me from other interviewees",2,"Rather keep it hidden, and come forward later once they had come to know me",3,4,1,27,"male","Canada"
+"More than 1000",1,3,3,1,2,1,5,2,1,3,3,1,1,3,"Seems irrelevant.",2,"Also irrelevant to getting  a job.",1,4,1,27,"Female","United States of America"
+"500-1000",1,4,3,1,3,1,2,1,1,1,2,1,1,1,"Because it might be important for the employer in case it affects my productivity.",1,"",1,1,1,24,"Male","Russia"
+"100-500",1,3,3,2,1,1,2,2,1,1,2,1,1,1,"Only if it's something I would need accommodations for",2,"I wouldn't want stigma or prescribed ideas of what I can/can't do to affect my chances of getting hired.",1,1,4,28,"female","United States of America"
+"6-25",1,2,1,1,1,1,5,2,2,2,2,3,1,1,"I would bring it up only if it were already obvious and/or would not be likely to affect my performance.",1,"I feel that a mental health issue would not be something I'd want them to take into account as part of the hiring process, unless it were a serious enough issue that I wouldn't want to work for an employer who was not willing to make accommodations for my issue.",3,1,1,43,"Male","United States of America"
+"500-1000",1,3,2,1,2,1,4,3,2,3,3,3,1,3,"I wouldn't want it to affect my chances of getting the job.",2,"I wouldn't want it to affect my chances of getting the job. I'm already a woman and a person of color; why would I bring up something else that makes me different when ""cultural fit"" is such a big deal in this field?",3,4,1,36,"Female (props for making this a freeform field, though)","United States of America"
+"6-25",1,4,3,2,2,1,1,1,1,2,1,2,1,1,"",1,"",1,2,4,26,"male","Switzerland"
+"More than 1000",2,3,3,1,3,1,5,2,1,3,2,1,1,3,"I would wait until I have an offer.",2,"I think they would be less likely to make an offer.",3,4,1,47,"female","United States of America"
+"1-5",1,2,1,1,1,3,4,3,1,3,3,1,1,3,"Get the job first.",2,"Keeping it secret is essential to getting & holding jobs at some companies.",5,3,3,36,"M","United States of America"
+"More than 1000",1,3,2,1,3,1,2,2,1,3,3,3,1,1,"depends on the issue, afraid of presumptions",2,"more personal issue, afraid of looking like an excuse (see: why don't you just smile more?)",3,4,2,29,"Male","United States of America"
+"26-100",1,3,3,1,1,3,2,2,1,3,1,2,1,2,"I'm deaf. It'll be obvious soon enough. ",2,"I'm already deaf. I have a lot working against me in the interview process already.  ",3,4,1,34,"F","United States of America"
+"6-25",1,2,1,1,2,1,1,1,1,2,1,2,1,1,"",1,"It might be important to know how they react to such things.",1,1,1,37,"male","United Kingdom"
+"500-1000",1,2,4,1,1,1,2,2,1,3,2,1,1,3,"",2,"",1,2,2,24,"Male","United States of America"
+"6-25",1,1,1,1,1,2,2,1,1,2,1,2,1,3,"I wouldn't want to be judged against someone healthy",2,"See above",3,4,4,32,"Bigender","United Kingdom"
+"26-100",1,1,4,1,1,1,6,1,1,1,1,1,1,2,"It may affect my availability to perform my job",1,"I wouldn't because for fear of not being hired because of it, but at the same time I feel like I should It may affect my availability to perform my job",1,2,1,29,"Male","Colombia"
+"100-500",1,4,4,1,2,1,3,2,1,3,2,1,2,3,"None of their business.",2,"None of their business.",3,4,4,32,"Male","United States of America"
+"26-100",1,3,2,3,2,2,1,1,1,2,1,2,1,3,"My interview process involves checking my baggage at the door. If it's someplace I wouldn't feel comfortable bringing that type of thing up after being hired, I don't want to be interviewing there anyway. Trust.",2,"Again, check my baggage at the door. My ADHD and general anxiety are well-managed enough that most of the time, they'll never have to worry about it anyway. At the same time, I'm proactive about bringing it up at my current gig, because I don't want it to be a ""new thing"" if I'm suddenly in a bad way.",2,1,2,25,"Male","United States of America"
+"26-100",1,3,3,1,3,1,6,2,1,1,2,1,1,1,"I don't have any chronic physical illnesses, but my partner does.  If I had the same illness as them, I would feel that the interviewer would likely discount my ability to work effectively or feel that the necessary accommodations would be too significant.",2,"Uncertain about reception.  Very difficult to determine an interviewer's experience and perception of mental illness.",1,2,1,28,"Male","Canada"
+"100-500",1,2,3,2,1,1,2,1,1,1,1,1,1,2,"",1,"",1,1,1,29,"male","United Kingdom"
+"100-500",1,1,1,1,1,1,5,2,1,1,3,3,1,1,"Would depend entirely on the attitude of the person on the other side of the table",2,"Risk of a negative reaction",1,1,3,46,"Male","Germany"
+"6-25",2,4,3,1,1,1,4,3,1,1,2,3,1,2,"Physical health for the most part doesn't get in the way of my job directly.",1,"I assume they wouldn't hire someone whose primary method of work has some kind of issue.",3,4,2,30,"Male","United States of America"
+"26-100",1,2,1,1,1,1,1,1,1,1,1,2,1,1,"It depends on how relevant it would be to my work performance.",1,"Depends on likely impact on work performance.",1,2,2,36,"Male","Australia"
+"6-25",1,2,1,1,1,1,1,1,1,2,1,2,1,2,"",2,"",2,1,3,26,"Male","Ireland"
+"500-1000",1,3,2,2,2,2,2,2,1,1,2,1,1,2,"",2,"It's not relevant to the role and illegal to allow for discrimination based in such things in the UK.",1,2,1,34,"Female","United Kingdom"
+"More than 1000",1,4,3,1,3,1,6,2,1,1,3,3,1,1,"It depends on what the issue was, if it was chronic or acute, etc. (if acute, probably wouldn't even mention it. Then again, if chronic, might be concerned that it would bias against them hiring me.)",2,"I'd be worried it would bias them against hiring me.",3,4,2,28,"Male","United States of America"
+"500-1000",2,2,4,1,1,3,3,3,2,3,3,1,1,3,"The field is already too competitive to disadvantage myself. Plus, it's none of their business as long as it doesn't seriously affect my work.",2,"That would be a one way ticket out from consideration.",3,4,4,29,"male","United States of America"
+"More than 1000",1,3,2,3,3,1,3,2,1,2,1,1,2,2,"The employer needs to know that I would need support in order to do my best work for them",3,"Because my employer needs to support me in order to get the best work possible from me",1,2,4,44,"Male","Canada"
+"26-100",2,4,3,1,1,1,3,1,1,3,3,2,1,1,"It's more likely that I wouldn't think it would be relevant.",2,"I don't feel comfortable talking about mental health issues at all, even less with a stranger interviewing me.",2,1,2,29,"Male","Brazil"
+"6-25",2,3,3,1,1,1,2,1,1,1,1,1,1,1,"I don't currently have any I'm concerned about.",2,"That's sensitive, and I'd need to know them better first.",1,1,1,23,"Male","United States of America"
+"6-25",1,2,3,1,1,1,3,2,1,1,3,1,1,1,"",1,"",1,1,2,24,"male","Bulgaria"
+"More than 1000",2,4,4,1,1,1,5,3,2,3,3,3,1,3,"Not their business",2,"Not their business",3,4,5,42,"Male","Canada"
+"More than 1000",1,3,2,1,3,2,5,3,2,3,3,1,1,1,"Fear of unintentional discrimination/negative bias",2,"Fear of negative bias *and* no benefit in bringing it up ",3,4,2,29,"Female","United States of America"
+"26-100",2,4,3,1,1,1,2,1,1,1,2,2,2,2,"",1,"Afraid of niet being understood, that makes it hard to talk about it. Especially during an interview.",1,3,2,29,"Male","Netherlands"
+"More than 1000",2,4,3,1,1,1,4,3,1,3,3,3,1,1,"If I really wanted the job I wouldn't necessarily bring it up until I knew that I was actually getting the job. I realize that legally I can't be discriminated against, but the odds would be against me.",2,"Same as above.",1,2,5,34,"Female","United States of America"
+"More than 1000",2,3,3,3,2,1,2,2,1,2,2,1,1,1,"I tend to want to avoid being ""personal"" during interviews. If I felt a physical health problem had no relevance to work, I wouldn't want to discuss it. ",2,"I wouldn't trust a potential employer not to hold mental health against me. ",1,2,4,35,"Male","United States of America"
+"26-100",1,4,4,2,3,2,2,2,2,1,3,2,1,2,"I assume the candidate is at least in his second stage of the interview. Being open about our limitations is a important topic during this stage of the interview. And since you've made it trought the first, there should be no wrong answers that could cause a negative result in your interview.",2,"As the solicitant, its not my responsibitliy to do so. I dont know the company's terms and culture about this and would feel uncomfortable discussing it.",1,4,1,22,"man","Netherlands"
+"26-100",1,3,3,1,2,1,1,1,1,2,1,2,1,2,"There is no stigma against physical health issue like there is with mental health.",2,"The stigma associated with mental health colors the judgement of potential candidates.  ",1,2,3,38,"Female","United States of America"
+"1-5",1,2,3,1,2,1,1,1,1,2,1,2,1,2,"If it will affect my work, or require that I be treated differently from others, the employer needs to know about it before hiring me.",1,"Depends on the mental health issue and how I feel about the interviewer.  But just like a physical issue, if it's going to affect my employment, the employer should know about it up front. ",3,2,1,38,"f","United States of America"
+"1-5",1,2,2,1,1,3,4,3,1,3,3,3,2,1,"May not obtain job. NOTE: Was terminated for mental health snap - schizoaffective disorder type one, depressive. All I did was cry for 5 minutes...then lapsed in to confusion. Terminated next week.",2,"I have been hospitalized twice at Hines Madden Hospital. This issue is a bridge too far to cross.  Been out of full-time work since let go Jan 2010. Trying to get back in in next two years. Working part-time installing systems. Was a sys admin.",3,4,4,55,"male","United States of America"
+"100-500",1,3,2,1,3,1,1,1,1,2,1,1,1,2,"Most people understand physical health issues whereas with mental health you can never be sure ",2,"They may not be accepting",4,2,1,30,"Male","United States of America"
+"500-1000",1,3,4,1,3,1,2,2,2,2,1,1,1,3,"I have this idea that ""signs of weakness"" will always be a disadvantage in an interview",2,"same as above",3,2,4,31,"f","United States of America"
+"26-100",1,4,4,2,3,1,1,1,1,1,1,2,1,3,"I don't want to add any cause for bias until the hiring has been decided one way or another.",2,"I don't want to add any cause for bias until the hiring has been decided one way or another.",1,1,2,25,"female","United States of America"
+"26-100",2,3,2,2,2,2,3,2,1,2,1,1,2,1,"I would not want it to prevent me from getting the job.",2,"I feel like that would negatively affect my employment opportunities.",5,3,3,36,"Female","United States of America"
+"500-1000",1,3,3,2,2,2,2,2,2,1,1,2,1,1,"it depends how much I feel I trust them",2,"I don't yet know what they'd do with that information",1,2,2,43,"M","Australia"
+"More than 1000",2,3,4,1,2,1,6,2,2,1,1,3,1,1,"",2,"",3,4,1,37,"male","United States of America"
+"6-25",1,4,3,1,3,3,3,2,2,3,2,1,1,1,"It would depend on whether I thought it might impact the job.",1,"Depend on the job",1,2,1,61,"f","United States of America"
+"26-100",1,4,4,1,3,1,3,2,2,3,3,1,1,1,"",2,"",1,2,1,26,"Male","United States of America"
+"More than 1000",1,3,3,3,3,1,3,1,1,2,3,1,1,1,"",1,"",2,1,1,31,"Male","United States of America"
+"500-1000",1,3,2,3,3,2,2,2,2,1,1,2,1,3,"I don't even talk about health issues to acquaintances -- only to close family and friends",2,"Same reason as physical health -- it's very personal.",3,4,4,35,"Female","United States of America"
+"100-500",2,3,4,2,3,2,1,1,1,1,1,2,1,2,"If the health issue was severe enough to affect my work, waiting to reveal it until after job start could easily result in resentment. All cards on the table.",1,"Bit more taboo about mental health issues. At my last interview I did mention that I only worked well with interesting tasks (let's call it a light case of ADHD), but I did not problematize it.",1,1,1,43,"Male","Denmark"
+"More than 1000",1,3,2,1,1,3,4,2,1,3,3,3,1,3,"I don't want it to affect me getting the job.",2,"Same reason as above",3,4,1,39,"M","United States of America"
+"26-100",1,3,2,1,1,3,2,1,1,1,2,3,1,1,"Depends on the feel of the interview",2,"I feel that it would only hurt my chances at employment, or have no bearing at all.",1,1,2,39,"male","United States of America"
+"26-100",1,4,3,3,3,1,3,1,2,2,1,2,1,2,"It's better to be open at interviews about all health issues as it speaks to the employer's attitudes as much as anything. ",3,"Same answer - I want to know how a potential employer would react before I consider working for them.  ",2,1,1,45,"Male","United Kingdom"
+"26-100",1,3,3,1,1,1,2,1,1,2,1,2,1,1,"I don't think I'd bring up any type of health issues in an interview unless they are not offering health care, which in that case - I did bring up a few issues of physical health in one interview.",1,"It depends on whether or not it would affect my job.",2,1,1,27,"Female","United States of America"
+"26-100",1,3,2,2,2,2,1,1,1,2,1,2,1,2,"I think physical health issues are easy to empathize with and understand, so I don't think mentioning it would affect me negatively",1,"I don't think mental health issues are well understood and the negative stigma might cause my interview to end negatively",4,5,5,25,"Female","United States of America"
+"More than 1000",2,4,3,1,1,1,1,1,1,3,3,2,1,1,"for his selfcare in the environment ",1,"the same ",3,4,4,38,"m","Italy"
+"26-100",1,3,2,2,3,1,1,1,1,1,1,2,1,1,"Depends on the type of job, if it would affect my work, I would bring it up.",2,"I think there is a general feeling of ""you should be able to manage that"" via some employers and this is not where I would want to test that. I might bring up mental health coverage during an interview though.",1,1,1,24,"Female","United States of America"
+"26-100",1,3,2,2,2,1,2,1,1,1,1,2,1,3,"I prefer to keep my health information private as long as it is not actively affecting my job performance at the time of the interview.",2,"I need to establish trust with my employer before I would be willing to discuss my mental health, especially if it was not actively affecting my work performance at the time of the interview.",1,1,4,30,"Female","United States of America"
+"More than 1000",2,3,3,1,3,2,6,2,1,3,2,1,1,1,"Unless it would impact my work, it's nobody's business.  ",1,"Again, unless it somehow directly impacts my work it's nobody's business",3,2,1,38,"Male","United States of America"
+"26-100",1,4,3,1,1,1,5,2,2,3,3,1,2,1,"It depends on the severity of the issue",2,"I don't want it to reflect negatively on my ability to carry out my responsibilities",1,2,2,24,"Female","Canada"
+"100-500",1,1,1,2,3,1,2,1,1,1,2,2,1,2,"I would feel dishonest if I didn't share known physical issue",1,"Mental issue are still considered a bit of a taboo and I have trouble expressing how I feel. It will greatly depend on how I feel on the moment with the interviewer",1,2,2,31,"Male","Switzerland"
+"6-25",1,4,3,1,1,2,1,1,1,1,1,1,1,3,"Seems like it could only hurt you",2,"Would only hurt you",1,1,1,31,"Male","United States of America"
+"100-500",1,4,4,1,1,2,1,1,1,2,1,2,1,1,"It would depend on how I perceived my chances of getting an offer/second interview during that interview. If I really wanted the position, and thought that a physical health issue might deter the employer, I may choose to not bring it up. If I am asked, outright, though, I would not lie.",1,"Same as above. My desire for the job may trump my willingness to disclose a potential issue. ",2,2,2,33,"male","United States of America"
+"100-500",1,3,3,1,1,2,1,1,1,2,1,2,1,3,"Seems highly unlikely to be relevant",2,"Also seems highly likely to be irrelevant at the point that I am in an interview. ",4,5,1,30,"Female","United States of America"
+"26-100",2,4,4,1,1,1,2,1,1,2,1,2,1,2,"I would discuss it to make sure I was open and up front about myself and who I am/how I work",1,"I depends on what degree it affects my work. If it affects how I work I would want to be up front about that.",1,1,1,36,"Male","United States of America"
+"26-100",1,3,3,3,2,1,1,1,1,1,2,2,1,3,"Even though not legal, it could be a factor in hiring. Also, none of their business.",2,"See previous.",1,1,1,36,"Male","United States of America"
+"6-25",1,4,3,2,2,2,1,1,1,1,1,2,1,2,"",1,"",1,1,1,22,"female","United States of America"
+"26-100",1,4,3,1,1,2,2,1,1,1,2,1,1,2,"If it's going to affect my role, I should bring it up.",1,"Now you've got me...! I think not previously knowing said interviewers would dissuade me, not knowing how it would affect my outcome, although I would know that I should be addressing it with them.",1,5,1,30,"Male","United Kingdom"
+"More than 1000",2,4,4,1,1,1,5,2,1,3,1,3,1,1,"I would worry that a potential employer might see a physical illness as a reason I might not be able to work, or to be available for work as much as this profession demands.",2,"I think a potential employer would definitely see a mental health issue as a reason not to hire me.",5,2,3,45,"F","United States of America"
+"100-500",1,1,1,1,3,1,4,3,2,1,2,1,1,3,"It could reduce my hire-ability, even though it may not as well, why take a chance?",2,"See above note about physical discussion.",3,4,1,34,"m","United States of America"
+"6-25",1,2,1,1,1,1,1,1,1,1,1,1,1,2,"It would probably be better in the long run.",1,"Depends on the issue, if it would influence my work I would certainly mention it.",2,2,1,28,"Male","Netherlands"
+"26-100",1,4,4,3,1,1,3,1,1,1,2,2,1,2,"To be up front about any factors that may affect my work performance. ",1,"To be honest and up front about things that may affect my work performance, unless I was too embarrassed to talk about it. ",1,1,2,26,"male","Sweden"
+"100-500",2,4,3,1,1,1,5,3,1,3,2,1,1,2,"",1,"",3,4,1,25,"male","Bosnia and Herzegovina"
+"6-25",2,4,3,1,1,1,5,2,1,1,2,1,1,1,"Possibly wouldn't receive the job because of too much baggage or they make think I am a complainer ",2,"They might think I am unstable or unreliable",3,4,2,32,"Male","United States of America"
+"6-25",1,3,2,1,1,1,4,3,2,3,3,3,1,3,"I wouldn't want to bring up anything that may trigger unconscious bias and therefore hinder my chances of receiving a job",2,"Mental health issues are still a taboo subject.",5,4,1,20,"Female","United States of America"
+"6-25",1,2,1,1,1,1,6,2,2,3,3,3,1,2,"If it will directly impact my ability to perform my duties on some days, then it's only fair to be honest about it.",3,"Same as the physical. If it would impact my performance, it's only fair to be honest about it.",1,2,1,31,"Male","United States of America"
+"6-25",1,2,1,1,1,1,1,1,1,1,1,1,1,1,"It might affect their opinion of me.",2,"I feel it would definitely affect my chances at being accepted.",3,4,2,26,"Male","United States of America"
+"More than 1000",1,2,1,1,1,1,4,3,2,3,3,3,2,3,"",2,"",3,4,4,45,"m","United States of America"
+"6-25",1,1,1,2,1,2,2,2,2,2,1,1,1,3,"Less chances of getting the job, I think",2,"Less chances of getting the job, plus negative references for the future.",5,1,1,26,"female","Spain"
+"More than 1000",2,2,1,1,1,1,4,3,3,3,3,3,2,3,"I am concerned that it would count against me at interview stage.",2,"I'm almost certain it'd count against me at interview stage.",5,4,3,28,"Queer","United Kingdom"
+"6-25",1,2,3,1,1,1,3,2,2,1,2,1,1,1,"Could impact their willingness to hire, even subconsciously.",2,"Stigma.",3,2,2,37,"male","United States of America"
+"6-25",1,4,4,1,3,1,3,2,1,1,2,1,1,1,"Unsure",1,"Unsure",1,1,1,39,"Male","United States of America"
+"6-25",1,2,4,3,3,1,3,3,2,3,3,1,1,3,"Getting the job would be more important in the short term.",2,"Getting the job would be more important in the short term#",1,2,2,26,"Male","United Kingdom"
+"100-500",1,3,4,1,2,1,5,3,1,3,2,1,1,1,"I would rather not bring something up unless I was sure it would impact my job, because I am always concerned that people will find it easier to turn me down as a candidate.",2,"They are still stigmatized and without obvious mentions of acceptance by the employer beforehand I would worry that there would be hidden (or not so hidden) prejudice.  Again I would worry about being written off for the job.",3,2,4,43,"Female","United States of America"
+"26-100",1,2,2,1,1,3,4,2,1,1,2,1,1,3,"don't want it to effect willingness to give me job",2,"same reason as above",3,4,1,27,"f","Canada"
+"26-100",1,4,3,1,3,1,5,2,1,3,3,3,1,2,"Companies are more equipped to accommodate physical health issues and it looks bad if they don't. ",2,"I don't think companies are able or willing to deal with a mental health issue. I feel like bringing it up Cottle negatively affect the decision to hire me. ",1,2,1,33,"Male ","United States of America"
+"100-500",2,2,1,1,1,1,6,2,1,3,3,1,1,1,"Only would do it if I would believe it would have impact on my productivity.",2,"Not sure how the employer would see the problem there's no information available for them or on the mental problems and how to deal with it.",1,2,5,33,"Male","Brazil"
+"26-100",1,3,2,1,3,1,4,3,2,3,3,3,1,1,"It depends on the issue and how it affects the job. If it was 100% unnecessary I'd keep it to myself.",3,"I already had to do this for my current job. I almost didn't get the job. They made me an offer, I told them it would be difficult for me to travel and a few other things, and they almost revoked the offer. The only reason that they didn't revoke it was because I made it clear that there was a mental health issue (so I'm certain they felt legally compelled) which made me extremely uncomfortable and ashamed that they made me do that. I'm still mad about it even though I kind of get it from their standpoint. They even made me turn in a doctor's note that they're keeping on file. It's none of their business and barely impacts my job, but they made a huge deal out of it.",3,4,3,28,"Male","United States of America"
+"26-100",1,3,2,2,2,1,6,2,2,1,2,2,1,1,"",1,"",3,4,2,29,"male","Canada"
+"More than 1000",1,3,2,1,2,1,5,2,1,3,3,1,1,1,"I wouldn't want it to hinder my chances of getting a job if I didn't think a physical health issue was related to the job.",2,"I wouldn't want them to think less of me.",3,4,1,31,"F","United States of America"
+"More than 1000",1,3,2,1,2,1,5,2,2,1,1,2,1,1,"I understand that, while they might consciously not act differently if I had a physical issue, I'm not at all convinced that people in tech, even those who know what Cognitive Dissonance means, will actually take steps to avoid it.",2,"I understand that, while they might consciously not act differently if I had a mental health issue, I'm not at all convinced that people in tech, even those who know what Cognitive Dissonance means, will actually take steps to avoid it.  Furthermore, there's a huge stigma behind it.",1,1,3,36,"Male","United States of America"
+"1-5",1,4,3,1,1,1,3,3,3,3,3,3,1,3,"See it as potentially influencing my hirability. ",2,"Stigma could influence their desire to hire me. ",3,4,4,44,"Female","Canada"
+"26-100",1,3,2,1,2,2,2,2,1,1,2,1,1,1,"",2,"",1,2,4,28,"female","United States of America"
+"26-100",1,4,4,1,3,2,6,2,2,3,3,1,1,3,"Fear of negative repercussions",2,"I would not expect the employer to hire me if I were to bring up such a topic in an interview.",3,2,1,32,"Male","United States of America"
+"26-100",1,4,4,1,1,1,5,2,1,3,3,1,1,3,"Wouldn't want that to be counted against me when compared to other candidates.",2,"Again, wouldn't want it to be held against me compared to other candidates.",2,1,1,30,"male","United States of America"
+"100-500",1,3,2,2,2,2,1,1,1,2,1,2,1,2,"",3,"",1,1,1,42,"Male","United States of America"
+"More than 1000",2,1,1,1,1,1,2,2,1,2,1,3,1,1,"",1,"",2,5,4,24,"N/A","United Kingdom"
+"1-5",2,4,4,2,1,1,4,3,2,2,3,1,1,1,"I would if I got the impression it wouldn't count against me/the interviewer seemed empathetic to that scenario, because that condition might likely mean time away from work to address the issue and I would want to know the policies in place for employees with physical health issues, particularly for chronic illness. ",2,"It's a very personal thing, to talk about a mental health issue. It is harder to talk about because it forces me to tell you something that you otherwise might never know, unlike a physical ailment which could be visible or become visible over time without my consenting to share it. ",1,2,4,36,"F","United States of America"
+"26-100",1,1,1,1,1,1,1,1,1,1,1,1,1,1,"",1,"",1,1,1,39,"Male","United Kingdom"
+"100-500",1,4,4,1,3,1,5,2,2,3,2,1,1,1,"I'm hesitant to bring up anything that might make me seem less employable but has no actual effect on my productivity.",2,"Same as above -- hesitant to bring up anything that doesn't affect my work but might make me seem less employable.",1,2,1,26,"male","United States of America"
+"100-500",1,4,3,1,1,1,5,3,2,3,3,3,2,3,"",2,"",3,4,4,32,"M","United States of America"
+"100-500",1,3,3,1,3,1,3,1,1,1,2,1,1,2,"To be honest I guess and not to end up with suprises",1,"Might have negative influence on getting a job or not",1,2,1,28,"male","Belgium"
+"26-100",1,4,4,1,3,1,5,1,1,1,2,1,1,1,"Less stigma",2,"Would feel it could affect outcome.",1,1,2,29,"Male","United States of America"
+"More than 1000",2,4,4,1,1,1,4,3,1,3,3,3,1,1,"It depends on the physical health issue. E.g. Bad Knees vs Bad Allergies",2,"Would be afraid that it would negatively affect my potential as a hiring candidate.",3,4,4,30,"Man","United States of America"
+"100-500",1,3,2,1,2,2,1,1,1,1,1,2,1,3,"It has nothing to do with my ability to perform my role.",2,"Again, it has nothing to do with the ability to perform my role. I am not my mental illness.",2,5,3,29,"Female","United States of America"
+"26-100",1,3,2,1,3,1,3,2,1,1,2,1,1,2,"",1,"",1,2,1,30,"Male","United States of America"
+"500-1000",2,3,2,3,3,1,5,3,2,3,3,1,2,1,"",2,"",3,4,4,41,"Male","Australia"
+"More than 1000",1,3,3,1,3,1,4,3,2,1,2,3,1,3,"there are ways to ""legally"" discriminate. it doesn't take much effort to ""legally"" block a new hire for illegal reasons.",2,"there are ways to ""legally"" discriminate. it doesn't take much effort to ""legally"" block a new hire for illegal reasons.",3,4,3,45,"m","United States of America"
+"6-25",1,4,3,1,3,1,3,2,1,3,3,3,1,1,"Depends on the issue. Maybe you would need accommodations for a wheelchair.",2,"I'd fear they would think it would affect productivity. And if there are many more candidates I could easily be eliminated.",2,1,5,30,"Male","United States of America"
+"More than 1000",2,1,1,2,1,1,1,1,1,3,3,2,1,3,"",2,"",2,2,1,24,"Male (trans, FtM)","Sweden"
+"More than 1000",2,1,1,1,2,1,3,2,1,3,2,3,1,2,"honesty",1,"fear",3,4,2,52,"m","Switzerland"
+"500-1000",1,4,4,1,1,1,2,1,1,3,2,1,1,1,"",1,"",1,2,1,33,"m","Germany"
+"26-100",2,2,2,1,1,1,5,3,2,3,2,1,1,1,"People take physical illnesses or injuries seriously. You don't have to look a certain way to be believed to have a physical health issue. People can see it so they believe it. They often can't blame you for it or think you're just making it up ",2,"Are you serious right now? I would never in a million years discuss my mental health issues. I don't need my new employers judging me off the bat and having a reason to not give me the job because someone equally qualified who doesn't over share and talk about their problems is given the job instead of me. I also am lucky that work is a place where I often function better than I do at home. Personally, I do better when I don't allow myself the option to give into depressive episodes at work. But that's just my experience. I've worked at companies where my supervisor knew I was dealing with depression and addiction recovery and it didn't help me at all. He didn't understand and I made it easier for myself to slack off. At my new job I haven't told anyone and Even though I think they'd be more supportive and understanding, I feel better that I keep my personal issues out of the work place. Though I understand completely that other people who have mental health issues are not as lucky to be as functional as I am. ",3,1,3,28,"Cis female ","Germany"
+"6-25",1,3,4,1,1,1,6,1,1,2,1,2,1,3,"Although it should be protected, not convinced it wouldn't harm my chances.",2,"Although should be protected, not convinced it wouldn't harm my chances.",2,1,1,20,"Male","United States of America"
+"More than 1000",1,3,3,2,2,1,5,1,1,3,2,2,1,2,"Because it's important for them to know who they are hiring and for me to establish my needs early.",1,"Because it might just make me look stupid.",1,1,4,32,"Male","United States of America"
+"26-100",2,2,4,1,1,1,4,3,3,3,3,3,1,3,"I'm afraid I wouldn't be hired for the job, even when the physical issue would not have been relevant for my work.",1,"Same reason as above.",3,4,2,27,"Male","Netherlands"
+"100-500",1,1,3,2,1,1,3,3,2,3,3,2,1,1,"",2,"",3,4,1,34,"male","Germany"
+"500-1000",1,3,2,1,3,2,3,2,2,1,3,3,1,3,"I believe disclosing anything about physical health will stop the interviewing process; I've lost interviews before for looking unwell.",2,"This is the same as disclosing a physical illness, but much more severe; people associate instability with mental health with instability at work, and want only a perfect neurotypical programmer who will be low risk",3,2,4,28,"Male","United States of America"
+"26-100",1,3,3,1,1,2,2,2,1,3,3,1,1,1,"If it prevents me from performing in certain aspects of the job, I think the interviewer needs to know.",2,"No idea, that's not something I'd be comfortable dealing with. It's essentially as if I told them I may or may not act like a retard some day, but it ain't my fault, it's XYZ disease's fault. :-)
+
+Not a very good pitch to sell yourself",1,2,2,23,"M","Canada"
+"26-100",1,2,1,1,1,1,5,3,2,3,3,1,1,2,"If I have a physical health issue and it has the potential to interfere with my work life, I must be upfront about it.",1,"I am from India. IMO mental illness is not looked upon in an accepting way here. If I have an mental health issue, I would be skeptical to talk about it as it might affect my prospects.",3,4,5,25,"Male","India"
+"100-500",1,4,3,1,3,1,1,1,1,2,1,2,1,2,"If it was important to my health or well being I could like them to know",1,"",1,2,4,32,"Male","United States of America"
+"1-5",1,4,4,1,3,1,5,1,1,1,1,1,1,1,"It would depend on what the job duties were and how comfortable the person interviewing made me feel.",2,"Some people dont take mental health serious and might think I am incapable of doing the job.",1,1,1,39,"female","United States of America"
+"6-25",1,1,1,1,1,1,4,2,1,3,3,1,1,1,"I would have to read the room, it would  depend on how much i feel an employer expects of me.",2,"stigma",1,1,4,22,"male","United Kingdom"
+"26-100",1,3,2,2,3,1,2,2,1,3,2,2,1,1,"It might make me look like a liability ",2,"It might make me look like a liability ",3,4,3,31,"Female","United States of America"
+"26-100",1,2,3,1,3,2,4,3,2,1,2,1,1,3,"",2,"",5,1,2,31,"m","United States of America"
+"26-100",1,3,3,1,3,1,5,2,1,1,2,2,1,1,"Could be seen as a weakness, or a reason why you couldn't be as productive.",2,"Could definitely be seen as a weakness and a reason why you wouldn't be as productive as someone without the issue.",3,4,1,50,"Male","United States of America"
+"26-100",1,3,2,2,2,2,1,1,1,2,1,2,1,1,"I have some vision issues that require me to use basic assistive technology (zooming screen, mainly) and depending on what we would be doing in an interview, my needing to see something bigger or closer may come up.",2,"I worry that it would be viewed as a very severe weakness.",1,2,2,35,"Female","United States of America"
+"100-500",2,2,4,2,1,2,5,3,2,2,1,3,2,1,"Prejudice",1," Personal",1,2,3,74," Female","United States of America"
+"26-100",1,3,2,1,3,2,2,2,1,1,1,2,1,1,"Only if relevant and would need accommodation.",1,"Similarly to physical issues, only if I felt I needed accommodation.",3,2,1,24,"Male","United States of America"
+"More than 1000",2,4,3,1,3,1,4,2,2,3,2,1,1,3,"Afraid of adding something negative to the balance sheet",2,"Afraid to add something negative to the balance sheet",1,2,1,45,"Male","United States of America"
+"100-500",1,3,2,1,2,1,2,2,1,1,3,1,1,2,"",2,"None of their business as long as I feel I can perform my work ",3,2,2,41,"Female","United States of America"
+"More than 1000",2,3,3,2,2,2,5,1,1,1,1,2,1,1,"It might depend on how I think they would perceive that issue in relation to my ability to do the job.",2,"I definitely think the employer might worry about my ability to perform the job.",1,2,2,33,"Female","United States of America"
+"More than 1000",2,3,3,2,3,1,2,2,1,3,2,1,1,2,"",2,"",3,4,2,36,"male","Germany"
+"100-500",1,4,3,1,3,1,6,2,1,1,2,1,1,1,"Most likely not, if I felt that it would harm my chances of getting a job.",2,"Seems like it would only hurt chances of getting a job.",1,1,1,32,"M","United States of America"
+"More than 1000",2,3,2,1,2,2,2,2,2,2,1,2,1,1,"",2,"",1,2,2,26,"Female","United States of America"
+"6-25",2,3,2,1,1,1,6,2,1,3,3,1,1,1,"",2,"Stigma",3,4,1,35,"Male","United States of America"
+"6-25",1,3,2,1,2,2,1,1,1,1,1,2,1,2,"My physical health issues are obvious from my appearance.",2,"It would be judged as a risk.",3,2,3,27,"Male","United States of America"
+"26-100",1,2,2,1,1,1,5,1,1,1,2,1,1,2,"It could mean time off/etc so the employer needs to be informed.",3,"It could mean time off/etc and the employer should be infomred",1,2,4,43,"Male","United States of America"
+"1-5",2,2,3,1,3,3,4,3,2,3,3,3,1,3,"Who's going to hire a ""head case""?",2,"The goal is to get hired, not tossed in the bin.",3,4,4,37,"f","United States of America"
+"More than 1000",1,4,4,1,3,1,2,2,2,1,2,1,1,2,"It may affect how I work",1,"It may affect how I work but the employer may not take it seriously depending on the illness",2,1,1,22,"Female","United States of America"
+"100-500",2,3,2,3,2,2,1,1,1,1,2,2,1,1,"",1,"",1,1,2,42,"male","Germany"
+"100-500",1,2,3,1,1,1,3,2,2,3,2,1,1,3,"If it's not apparent, they don't need to know. ",2,"Stigma.",3,2,1,32,"fem","United States of America"
+"More than 1000",1,3,3,3,2,1,2,1,1,3,2,1,1,1,"",2,"My problem to work with, not theirs",3,2,4,27,"Cis male","United States of America"
+"100-500",1,4,3,2,2,1,1,1,1,1,1,2,1,1,"Only if it affected my ability to do the job",2,"Physical is more obvious",1,1,1,28,"Male","Australia"
+"More than 1000",2,3,4,2,2,2,2,2,1,3,2,2,1,1,"I would like to think that health issues should be unrelated to the hiring process, but I know this is not always the case. Thus my ""maybe"" answer.",2,"I've directly witnessed people terminated for issues related to mental health issues before. Unless required by law or an ethical issue (like a pre-interview agreement), I wouldn't disclose any mental issues. I realize that this is not the best point of view, and it's why things like OSMI are so important.",3,4,4,42,"male","United States of America"
+"100-500",1,1,1,3,3,1,1,1,1,3,2,2,1,1,"",2,"",3,2,1,40,"male","United States of America"
+"More than 1000",1,1,1,1,1,1,3,2,2,3,1,1,1,3,"Unless it would affect my ability to perform my duties my health is of no relevance to my employer.",2,"Again - unless I think it would affect my ability to do my job it is none of their business.",3,2,4,39,"Male","Australia"
+"100-500",1,4,3,1,3,1,2,1,1,1,2,3,1,3,"I barely know these people, probably, and I'd rather not give them any reasons to turn me down. I don't see an upside.",2,"I barely know these people, probably, and I'd rather not give them any reasons to turn me down. I don't see an upside.",4,5,1,26,"Male","United States of America"
+"26-100",1,4,4,1,3,1,5,2,2,3,3,1,1,3,"Shouldn't come up.  If it does, then it might bias potential employer against me.",2,"May bias employer against me.",3,4,2,45,"m","United States of America"
+"6-25",1,3,4,2,1,1,3,1,1,1,2,2,1,3,"I would be afraid that it would result in me being passed up for the position.",2,"I would be afraid that it would result in me not being chosen for the position.",1,2,2,27,"Male","Canada"
+"More than 1000",1,4,3,2,2,1,2,2,1,2,1,1,1,3,"I don't see the point in disclosure of things that should not be requested without violating employment law.",2,"See answer to question b",1,1,4,39,"male","Canada"
+"100-500",1,4,4,3,3,1,5,1,1,1,1,1,1,1,"I would if it required adaptations on the part of the employer for me to be able to take the job.",2,"Even though it's unjustified there is a stigma attached to mental health issues that is just not there for physical limitations.",1,1,2,44,"male","United States of America"
+"1-5",1,2,2,1,1,3,2,2,1,1,2,1,1,2,"there's no stigma attached to physical health, it's an ailment.",1,"some people view mental illness as weakness. i don't want my employer prejudiced against me on account of my depression.",1,2,4,21,"non-binary","United States of America"
+"100-500",2,3,3,2,3,1,6,2,1,2,2,1,1,1,"Maybe if it related to my work",1,"There's a stigma, so I'd probably leave it out if I could.",1,4,1,36,"male","United States of America"
+"500-1000",2,1,1,2,2,1,1,1,1,2,1,2,1,1,"",2,"",1,1,5,38,"Male","United Kingdom"
+"100-500",1,3,2,1,1,2,2,1,1,1,1,1,1,3,"",2,"",1,1,2,28,"Male","United States of America"
+"26-100",1,2,1,1,1,1,4,3,3,3,3,3,1,3,"That would be career suicide",2,"That would be career suicide",5,4,4,34,"male","United States of America"
+"6-25",1,2,1,1,1,1,2,1,1,1,1,2,1,3,"I wouldn't want to knowingly generate bias against me in an interview.",2,"I wouldn't want to knowingly generate bias against me in an interview.",4,2,4,31,"woman","United States of America"
+"100-500",1,2,4,1,1,3,5,2,2,1,2,1,1,3,"Fear of negative impact on prospects of employment.",2,"Fear of negative impact on prospects of employment.",5,4,1,37,"Male","Pakistan"
+"More than 1000",1,3,3,1,1,2,5,3,2,2,1,3,1,1,"Depends on the social perception of the issue.",2,"Too easy to map mental health to ability to do the job.",1,2,2,46,"Female assigned at birth ","Netherlands"
+"100-500",1,4,3,1,3,1,2,2,2,2,2,1,1,1,"The word 'cancer' terrifies everyone.",2,"If I feel it won't impact my job, I won't bring it up.",1,2,2,39,"Female","United States of America"
+"100-500",1,4,4,1,3,1,1,1,1,1,2,2,1,2,"I am privileged to be choosy with employment and would not want to work where bringing up such issues is problematic.",3,"I am privileged to be choosy with employment and would not want to work where bringing up such issues is problematic.",2,1,1,38,"Male","United States of America"
+"26-100",1,3,2,1,1,2,5,3,1,1,2,3,2,3,"Not relevant to hiring process",2,"Because you wouldn't get hired or were docked in pay",5,3,3,34,"Male","United States of America"
+"More than 1000",2,4,3,1,1,3,5,3,2,3,3,3,1,1,"",1,"",3,4,2,37,"male","Mexico"
+"100-500",2,4,4,1,3,1,6,2,1,1,1,1,1,2,"Typically more common and, in my eyes, physical health issues do not have a stigma attached to them like many mental health issues. Any kind of mental health issue tends to leave a lot of people ending up with some sort of 'label'.",1,"I'd be concerned that if I mentioned my generalised anxiety issues it may lead them to believe that I am not a confident worker (which I almost certainly am). Basically - I'd fear they wouldn't properly understand! A lot of people are incredibly ignorant to anxiety and just end up telling you 'not to worry' about parts of your day to day that may make one feel anxious etc.",2,2,1,24,"Male","United Kingdom"
+"500-1000",1,3,3,2,1,1,1,1,1,2,1,1,1,1,"I kind of feel uncomfortable saying I can't do things, although I guess I would have to in certain situations",2,"I'm lucky that I'm mostly functional even when not doing well so I wouldn't disclose until I was at the company and had a better idea of how people react to it. ",2,5,1,24,"F","United States of America"
+"6-25",2,1,2,1,1,2,5,3,1,3,3,1,2,3,"Not unless it was relevant to my job, but I do not go after jobs where that could be and I do not really have any physical health issues. I would not bring up an intention to get pregnant either (which could be considered as such).",2,"To avoid stigma.",3,4,4,23,"female","United States of America"
+"More than 1000",2,3,4,1,2,1,3,2,2,3,2,3,1,3,"Would risk not getting the job.",2,"",3,4,1,45,"Male","United States of America"
+"6-25",1,2,4,1,1,1,5,2,1,3,3,1,1,2,"",2,"",3,4,1,27,"Male","Sweden"
+"6-25",1,3,2,1,2,1,5,1,1,1,1,2,1,3,"Why risk implicit or overt bias?",2,"Why risk implicit or overt bias?",2,1,2,33,"male","United States of America"
+"100-500",1,4,3,1,3,3,2,2,1,1,2,3,1,1,"maybe they will go for recruiting a healthy person ",1,"to give them option to choose or reject me, as a whole ",1,2,3,33,"Male","Bangladesh"
+"6-25",1,3,2,1,1,2,1,1,1,2,2,1,1,3,"None of their business",2,"Not related to my qualifications or skills",1,2,1,37,"F","United States of America"
+"100-500",1,3,2,1,2,1,5,2,2,3,3,1,2,3,"unless it directly affects my ability to do the job, it is irrelevant",2,"same reason as above. it's my problem and my business alone.",3,4,3,29,"female","United States of America"
+"More than 1000",2,3,3,3,2,1,2,1,1,1,1,3,1,1,"Fear of discrimination",1,"I would bring it up if I felt the employer was knowledgeable and progressive in their approach to mental health issues, such as understanding and appreciate the many positive attributes an ADHD person brings to the table. I would not bring it up unless I was certain they embraced mental health issues.",3,2,4,43,"Male","United States of America"
+"1-5",1,2,1,3,3,1,5,1,1,3,2,1,1,1,"If I was desperate for the job, I would not want to jeopardize my candidacy. On the other hand, if the health issue was very serious and could interfere with the responsibilities of the position, I feel that the employer should probably know about it.",1,"If I was desperate for the job, I would not want to jeopardize my candidacy. On the other hand, if the health issue was very serious and could interfere with the responsibilities of the position, I feel that the employer should probably know about it.",1,2,2,28,"Male","Canada"
+"1-5",1,2,1,1,1,1,1,1,1,2,1,2,1,1,"",1,"",1,1,1,32,"M","United States of America"
+"More than 1000",1,3,3,2,3,1,6,2,1,1,1,1,1,1,"Don't currently have one, so not sure I'd have anything to bring up. Haven't had to think about it.",2,"General sense of stigma.",3,4,4,37,"Male","United States of America"
+"26-100",1,4,4,1,2,3,5,2,2,3,3,3,1,3,"That should not be a deciding factor when they choose to hire me or not. Why does my physical issue need to be pointed out if its not going to effect my job. ",2,"They absolutely do not need to know this before i start. I feel like this is a huge HR issue and the less they know the better honestly. I am very dyslexic  and  have a learning disability but it does not effect how i preform at my job",3,4,2,25,"Female","United States of America"
+"6-25",1,3,3,1,1,2,1,1,1,1,2,1,1,1,"",2,"",5,2,4,27,"Male","United States of America"
+"100-500",1,3,2,3,2,2,6,3,3,3,3,1,1,3,"discrimination ",2,"discrimination ",3,4,3,47,"female","United States of America"
+"100-500",2,3,2,2,2,2,1,1,2,1,1,3,2,3,"Why? It should make no difference.",2,"It would certainly affect the outcome of the interview.",1,2,1,51,"M","United States of America"
+"More than 1000",1,1,1,2,2,1,5,3,1,3,3,3,1,3,"",2,"",3,4,1,27,"Male","Australia"
+"26-100",1,2,4,1,1,1,2,1,2,3,2,1,1,2,"Its important to make it clear, sometimes you may have limitations which your employer must be aware. No surprises for both sides",3,"Because I don't want to cause any surprise, and I might need some days off because of it",1,1,1,26,"Male","Netherlands"
+"500-1000",1,4,4,3,2,1,2,1,1,2,1,2,1,3,"I've never had one that would be relevant.",3,"If it's relevant to the conversation, I'm happy to mention that I'm an anxious depressive and to expand as needed. I think it's important to raise the topic openly (as appropriate); it reduces stigma, and gives me an indication of the company's attitude towards mental health.",4,5,1,37,"male","United States of America"
+"1-5",1,2,4,1,1,3,5,2,1,3,3,1,1,3,"It's not pertinent to the position.",2,"It's not pertinent to the position..",1,4,2,30,"Male","United States of America"
+"More than 1000",1,3,2,2,2,2,3,2,1,1,2,3,1,2,"Generally not applicable to my job",1,"Potentially frowned upon
+",3,2,2,21,"Male","United States of America"
+"26-100",1,3,3,1,2,2,1,1,1,2,1,2,1,3,"I wouldn't feel comfortable discussing my personal health and would not want to appear weak.",2,"I would not want to appear weak or unstable.",2,1,1,29,"Male","United States of America"
+"More than 1000",2,4,4,2,2,2,2,1,1,1,1,2,2,1,"Deafness can be viewed as a physical health issue, and not many employers are willing to go out of their way to accommodate that.",3,"It's important for the employer to know about my needs so they can accommodate them.",3,4,5,23,"Male","United States of America"
+"26-100",1,3,3,1,1,1,3,3,1,3,3,3,2,3,"",2,"",3,4,3,25,"Female ","United States of America"
+"26-100",1,2,1,1,1,1,2,1,1,1,2,2,1,2,"Yes, Is important if can affect work.",1,"Yes, If can affect work",1,2,1,25,"Male","Belgium"
+"More than 1000",1,3,2,1,3,1,5,3,2,3,3,1,1,3,"Because I feel it would be a big negative.",2,"They would assume lots of things, it takes a lot of education to describe the effects of a mental illness, and requires nuance to interpret how it affects a candidates ability to do a job.",5,3,2,26,"male","United States of America"
+"500-1000",2,4,3,2,3,1,2,2,1,2,3,1,1,3,"If it was likely to affect my chances of being employed, no. My issue only occasionally impacts my ability to work",1,"Again, it depends on if it would strongly affect my ability to work",3,4,4,31,"Female","Netherlands"
+"1-5",1,1,2,1,1,3,6,3,3,3,3,1,1,1,"If it affected my ability to work, then yes. ",2,"I feel there is still pervasive stigma around mental health issues which could be used against me.",3,4,3,25,"Female","United States of America"
+"6-25",1,4,4,1,2,2,6,1,1,3,1,2,2,3,"Because I don't trust insurance companies.",2,"Because I try not to let it affect my work. ",5,1,1,40,"Female","United States of America"
+"100-500",1,4,4,1,1,1,1,2,1,1,2,1,1,3,"Unsure of how they woud react.",2,"Unsure of how they woud react.",3,4,3,37,"male","Germany"
+"26-100",1,3,2,2,2,2,2,1,1,1,2,2,2,1,"I worry it would affect my chances of employment.",1,"I worry it would affect my chances of employment",1,2,3,28,"Male","United States of America"
+"More than 1000",1,3,3,1,3,1,5,3,1,3,3,1,1,3,"I'd generally be able to cope/work despite physical health issues, but would doubt the interviewer would consider/believe that.  I wouldn't trust them to avoid bias based on health concerns.",2,"Same reasons.  Doubt that interviewer would be able to avoid bias.",3,2,1,32,"Male","United States of America"
+"26-100",1,1,4,1,1,1,4,2,1,1,2,3,1,2,"",2,"I have found their reaction to be a good indicator of whether our ideals are aligned / whether it's a good fit for me as a workplace.",5,1,3,32,"I identify as female.","Canada"
+"100-500",2,4,3,1,1,1,5,2,1,1,1,1,1,1,"This is a personal matter and I don't feel that I have to mention it if it does not impact my ability to work. ",2,"Most of employers would refuse to hire me in my opinion. ",3,2,2,34,"Male","Japan"
+"More than 1000",1,4,4,1,1,1,5,2,2,3,3,1,1,1,"To be upfront in case the ADA Act were to apply to my employment there.",2,"That is not something I would be open about unless I felt it was safe to do so, and I could not determine that during the short amount of time of an interview.",1,2,2,50,"female","United States of America"
+"More than 1000",1,4,3,3,3,2,2,1,1,1,1,2,1,2,"",3,"",2,1,1,34,"Male","Hungary"
+"100-500",1,3,3,1,1,1,6,3,2,3,2,1,1,3,"Judgement",2,"Judgement",3,4,4,29,"Male","United States of America"
+"100-500",2,4,4,1,1,1,6,3,1,3,3,2,1,2,"Physical impairments aren't traditionally stigmatized. Far less judgements and resulting talk behind backs compared to mental",2,"Stigmatized. Uncomfortable for both parties. Mental instability frowned upon in technical roles. ",3,4,1,31,"M","United States of America"
+"100-500",1,2,4,1,1,1,6,3,2,3,3,1,1,3,"",2,"",3,4,1,27,"f","United States of America"
+"26-100",1,4,3,1,3,1,2,1,1,2,1,1,1,3,"",2,"Interviewers may not be trained on how to respond to this.",1,2,1,40,"Male","United States of America"
+"6-25",2,3,2,1,1,2,2,2,1,1,3,1,1,2,"I have chronic lower back pain due to a narrow disk.  I would have no problem telling my employer about this if I felt lifting would be a part of my job.",2,"I feel like employers are not as understanding of prospective employees who might admit to battling bouts of depression or anxiety.",3,2,4,30,"Male","United States of America"
+"100-500",1,3,3,1,2,2,4,3,3,1,3,1,1,3,"it's already a contentious situation to simply ask for one day off.  i'm not comfortable asking for a sick day (i'll work from home instead).  and i would think i'd be ""throwing"" the interview to ask for a concession at that point in the working relationship, as if it would ensure i would not be called back.",2,"i believe there is a stigma around mental health issues, since they are somewhat mysterious.  So, as uncomfortable as i am about asking for a sick day, or for a physical concession, asking for a mental health concession would absolutely be out of the question for me.",5,3,2,36,"male","United States of America"
+"More than 1000",1,3,4,1,3,1,3,1,1,2,2,3,1,1,"Depends on what it is and how embarrassing it is",1,"",4,5,1,32,"Male","United States of America"
+"More than 1000",2,3,2,2,2,2,2,1,1,2,1,2,1,2,"",1,"When asked about ""weaknesses"" I am open about my anxiety and what I'm doing to work on it",2,1,1,36,"female","United States of America"
+"6-25",1,2,4,1,1,2,4,3,3,3,3,3,1,3,"because it would kill my job chances",2,"because it would kill my chances at the job",3,4,2,30,"male","Canada"
+"500-1000",1,3,2,2,2,2,3,2,1,2,2,2,1,2,"",2,"",1,2,2,32,"Male","United States of America"
+"More than 1000",2,3,3,1,1,1,3,1,2,3,3,1,1,3,"I would not bring up a physical health issue in an interview because I believe it would hinder my possibility of getting the job.",1,"I would not bring up a mental health issue, but if they brought it up, I would talk about it.",3,2,1,19,"Female","United States of America"
+"100-500",1,3,2,1,1,1,6,2,2,2,2,1,1,3,"It's illegal for them to ask in the U.S. and unless it's relevant to job performance there's no reason for me to bring it up.",2,"It's not relevant to my ability to perform the job responsibilities.",1,2,1,47,"male","United States of America"
+"100-500",1,4,3,1,1,1,6,2,1,1,1,1,1,3,"It depends on the physical health issue. There are too many companies in tech that worship the ""dev rock star"" stereotype where long hours and the sacrifice of work balance is held in higher regard. They will work devs to the bone if we allow them too. Any resistance to working too many hours is labeled as ""rebellion"". I've worked jobs where I had to strategically plan my days off because I couldn't afford to lose all my PTOs and as a result, have forced myself to go to work even while having asthma or being sick. Basically, if I'm not half dead, then I can make it to work because I need to ""save those days for when I really need it"".",2,"The stigma makes me wary of bringing up mental health issues during an initial interview. I feel like the more I get to know a job and it's people, that determines how comfortable I am with being open about my mental health. I feel like it's too risky to bring up in an interview where both parties don't know one another well enough. I have anxiety and depression, which can also include focus/motivation issues. I feel like mentioning things like this would give the impression that I'm not a good employee who can get things done. However that's not true. I am very responsible and will meet deadlines so long as I can work when I'm most productive and there are flexible schedules.",1,1,1,31,"female","United States of America"
+"100-500",1,3,2,2,1,1,1,1,1,2,1,2,1,1,"If the physical health issue required some special equipment, like a standing desk or the like, I would bring it up. Otherwise, I wouldn't deem it necessary for them to know.",1,"I would discuss a mental health issue only at an interview that is trending towards an offer, mostly to review what mental health covered their insurance provides.",4,5,1,29,"Male","United States of America"
+"26-100",1,3,2,1,2,2,1,1,1,2,1,2,1,2,"Honesty, always the best policy, even if it means I don't get the job.",3,"Same as any issue, I'm looking for employers that enjoy me exactly as I am. Not some glossed up version of myself",1,1,1,30,"Male","United States of America"
+"26-100",2,4,3,2,1,1,2,1,1,2,1,2,1,2,"I believe in total transparency. If it's not appreciated, then I know the potential employer is not for me.",3,"I am a veteran with PTSD-related issues. I believe in total transparency. If it's not appreciated, then I know the potential employer is not for me.",5,5,3,51,"male","United States of America"
+"6-25",1,2,3,1,1,1,5,2,1,3,2,1,1,1,"I would be worried about not getting hired.",2,"I would definitely be worried that it would significantly hurt my chances of getting hired.",1,2,4,26,"Female","United States of America"
+"26-100",1,4,3,1,1,1,5,2,1,3,3,1,1,1,"It could be seen as a weakness, or the potential employer could see it as a person trying to take advantage of their healthcare plan.",2,"Of fear of being regarded as weak or unable to perform job tasks. Requiring time off for ""fake"" reasons. ",3,4,1,27,"Male","Canada"
+"26-100",1,3,2,1,3,1,1,2,1,3,1,1,1,2,"An employer should know any limitations you have.",3,"Same Answer, an employer deserves to know your limitations.",2,1,1,26,"Male","United States of America"
+"100-500",2,2,3,1,1,1,3,2,1,3,2,1,1,1,"If it was something to do with a workspace like requiring a standing desk etc ",2,"Because I don't think they would hire me then ",3,4,5,30,"Female","Canada"
+"100-500",1,4,4,1,1,1,6,3,3,3,3,1,1,3,"That is none of their business and it would affect their decision regardless of policy",2,"It would affect their decision regardless of policy ",3,4,1,38,"Female","United States of America"
+"6-25",1,3,4,1,1,2,4,3,2,3,3,1,1,3,"Concerned would not get the job",2,"Concerned would not get the job",3,4,1,57,"male","United States of America"
+"100-500",1,4,3,1,3,1,6,1,1,2,1,1,1,3,"I don't feel it could help my chances in any way and could hurt my chances",2,"Same reason",1,1,1,39,"Male","United States of America"
+"6-25",1,4,4,1,3,2,2,1,1,1,2,2,1,2,"I would be uncomfortable working for anyone with whom I couldn't discuss physical health. ",1,"Having occasional depression myself, I'm well-versed in the potential negative (work-related) effects (e.g. trouble focusing, potential for oversleeping, etc.). If I knew the employer was looking for an employee upon whom a lot of responsibilities would be entrusted, I would probably not discuss my depression.",1,1,4,24,"Male","United States of America"
+"500-1000",1,3,3,3,2,1,2,2,1,1,2,2,1,1,"",1,"",1,2,1,28,"Male","United States of America"
+"6-25",1,3,4,1,1,3,3,2,1,3,3,1,1,3,"",2,"",3,4,2,43,"M","United States of America"
+"100-500",1,4,4,1,1,1,2,2,1,3,3,3,1,1,"I would only bring up the physical health issue if it would have an effect on my performance at work. ",2,"There is a stigma surrounding mental health that you are unstable as an employee if you have mental health issues.",1,1,1,22,"Male","United States of America"
+"26-100",1,3,2,1,1,3,3,3,2,1,2,3,2,1,"Let's be realistic, it would harm my career.",2,"It would harm my career",3,4,4,33,"Male","United Kingdom"
+"6-25",1,2,4,1,1,1,6,1,1,1,2,1,1,2,"xxx",2,"xxx",3,1,1,33,"male","Slovakia"
+"100-500",1,3,2,2,2,2,2,1,1,2,1,2,1,1,"Concern it could overshadow legit issues",1,"Concern it could overshadow other issues",2,5,1,37,"Male","United States of America"
+"6-25",1,4,3,1,1,1,3,2,1,1,1,3,1,1,"",2,"",1,2,2,41,"Male","United States of America"
+"More than 1000",1,3,2,2,2,1,5,2,1,2,1,2,1,1,"",1,"",4,1,1,39,"Male","United Kingdom"
+"More than 1000",1,3,2,2,2,2,1,2,1,2,1,1,2,3,"Not their place",2,"Not topical to hiring",4,5,4,36,"Male","United States of America"
+"500-1000",1,4,4,2,2,1,6,3,2,3,2,3,1,3,"",2,"",3,4,2,33,"Enby","United Kingdom"
+"More than 1000",1,3,3,1,1,2,2,2,1,2,2,1,1,3,"Private ",2,"Private",1,1,1,38,"Male","Germany"
+"26-100",1,3,3,2,2,2,1,1,1,1,1,2,1,2,"Being honest upfront shows respect for the future employer. If they see that as a stumbling block in hiring you, then it probably wouldn't have been a good fit in the long run anyways.",3,"Same reason as above.",2,2,4,28,"Male","United States of America"
+"More than 1000",1,4,4,1,3,1,2,1,1,1,1,2,1,2,"",3,"",2,1,1,28,"M","United States of America"
+"More than 1000",1,4,3,1,3,1,2,2,2,3,2,2,1,2,".",1,"Mental issues are harder to be discussed with anyone.",1,2,2,45,"m","New Zealand"
+"6-25",1,3,4,1,3,2,4,1,1,3,2,1,1,3,"Could impact the outcome of the interview.",2,"Would alter the outcome of the interview.",3,1,2,39,"male","United States of America"
+"More than 1000",2,4,4,1,3,2,1,2,2,1,1,1,1,1,"Only if it would affect my future work.",1,"Only if it is relevant for the work.",1,2,5,34,"female","Netherlands"
+"26-100",1,4,3,1,1,1,2,1,1,2,1,1,1,2,"Because there's nothing to be ashamed of.",3,"It's good to know about potential hurdles ahead of time.",1,1,1,32,"male","United States of America"
+"6-25",1,2,4,1,1,1,5,3,1,3,3,1,1,2,"",2,"",1,2,2,24,"Female","United States of America"
+"6-25",1,2,3,2,1,1,2,1,1,1,1,1,1,2,"",1,"",3,2,1,39,"m","Germany"
+"6-25",1,4,4,1,3,1,5,3,2,3,3,2,1,3,"It could negatively influence my chances of being hired.",2,"It could negatively influence my chances of being hired.",3,4,4,28,"F","United States of America"
+"26-100",1,3,3,1,1,1,5,2,1,3,2,1,1,2,"",1,"",1,4,2,28,"male","United States of America"
+"More than 1000",1,4,3,1,1,1,2,1,1,2,1,1,1,2,"I am stressed clinically diagnosed. So i should discuss that.",3,"",1,1,5,32,"Male","India"
+"More than 1000",1,3,2,2,2,2,2,2,2,2,3,3,2,3,"Not relevant to my job",2,"Depends on the health issue. A mental health issue may prevent a clearance from being issued. It is a risky option to hire someone then have to let them go if they can't get a security clearance.",1,2,1,41,"male","United States of America"
+"100-500",1,4,4,1,3,1,1,2,1,1,2,1,1,3,"It has no legal bearing on the hiring process",2,"It has no legal bearing on the hiring process",3,2,2,35,"m","United States of America"
+"100-500",1,3,4,1,1,1,5,2,1,3,2,3,1,1,"",2,"",1,2,1,29,"male","United States of America"
+"6-25",1,2,4,1,1,1,6,3,2,3,3,1,1,1,"",1,"",3,2,5,22,"Male","United Kingdom"
+"More than 1000",1,2,4,1,1,1,6,2,2,2,2,2,1,3,"It should not affect the outcome. ",2,"Same as physical : shouldn't affect outcome ",1,2,1,42,"male","Germany"
+"26-100",2,4,1,1,1,1,4,2,2,2,2,1,1,3,"",1,"",5,1,4,44,"Male","Netherlands"
+"100-500",1,3,4,2,2,1,6,2,3,2,2,2,1,2,"Better to have it out with them now rather than wait. Have spoken in the industry about burnout.",3,"It's important to know ahead of time.",1,2,4,39,"female","United States of America"
+"More than 1000",1,3,2,2,2,2,2,1,1,1,1,2,1,2,"It's relevant.",3,"It's also relevant",3,4,4,37,"m","Canada"
+"26-100",1,3,3,1,1,1,5,2,2,3,2,1,1,1,"Depends on the physical issue and/or the position being applied for.",1,"Same as before",2,1,1,32,"male","United States of America"
+"6-25",1,2,1,2,3,1,3,1,1,1,1,2,1,2,"Transparency",1,"Stigma",1,2,2,26,"Male","United Kingdom"
+"26-100",1,3,4,1,1,1,3,1,1,1,2,2,1,1,"",2,"",3,2,1,29,"male","United States of America"
+"26-100",1,4,4,1,3,1,6,3,2,3,2,1,1,3,"I don't want health issues to affect how I am represented in an interview.",2,"I do not want health issues to effect how I am perceived in an interview.",3,2,2,26,"Female","United States of America"
+"More than 1000",1,3,3,2,2,2,2,1,1,2,1,2,1,3,"Feel it would go against mr",2,"Would go against me",5,2,1,55,"Male","United Kingdom"
+"26-100",2,4,3,1,3,1,5,2,1,3,2,1,1,2,"Because it might affect my ability to get to the office in the future.",2,"Because of the stigma involved. I don't want them to think that I would not be able to do my job regardless of my physical condition.",3,2,5,27,"female","United States of America"
+"26-100",2,4,4,1,1,1,4,2,1,3,3,3,1,1,"If it was a personal matter, I'd try not to let it effect my work",2,"Embarrassing / personal issue",1,1,1,27,"male","United States of America"
+"More than 1000",2,3,3,3,2,2,5,2,1,1,2,1,1,3,"While it would be illegal to discriminate, but theres something in the back of my mind that if I say anything about it they will look for another excuse to not hire you.",2,"Same reason as for physical health issue above.",1,4,1,39,"Male","United States of America"
+"More than 1000",1,3,3,1,1,1,2,1,1,1,1,3,1,2,"I would as likely it would effect my work",3,"For the same reason.  If it effects my work, they need to know.",2,2,4,40,"male","United States of America"
+"26-100",1,2,4,1,1,1,2,1,1,1,2,1,1,1,"",1,"to get support",1,2,1,30,"male","United States of America"
+"More than 1000",2,3,2,1,2,1,2,2,1,1,2,2,1,3,"I consider this private and protected information that should only be given if absolutely needed. I want to be able to control if and when the employer is able to use this information.",2,"This would never help me get a job, and it could only be used against me negatively.",5,4,3,30,"male","United States of America"
+"100-500",1,3,4,1,2,2,1,1,1,3,1,1,1,3,"",2,"",1,1,2,31,"male","United States of America"
+"100-500",1,3,2,1,1,1,5,3,1,3,3,3,1,1,"Depends on the nature of the physical health issue, whether it was chronic and the impact on the work. In almost all cases, I would not discuss it because just increases the chance of discrimination.",2,"Discrimination.",3,4,2,38,"Male","United States of America"
+"More than 1000",2,2,2,1,1,1,2,2,1,3,3,3,1,3,"Trying to get a job",2,"Trying to get a job",3,4,1,42,"male","United States of America"
+"6-25",1,4,3,3,3,1,6,3,1,1,3,1,1,1,"Might affect if I get the job or not",1,"Same as above",1,2,5,22,"male","United States of America"
+"500-1000",1,3,2,1,3,2,4,1,1,2,2,3,1,1,"",2,"Stigma",3,2,2,36,"female","United States of America"
+"100-500",1,4,3,1,3,1,6,1,1,1,2,2,1,2,"",1,"",1,2,1,42,"Male","United States of America"
+"More than 1000",1,3,3,3,2,1,2,2,1,1,1,2,2,1,"",2,"",3,2,1,38,"Male","Sweden"
+"6-25",1,3,2,2,1,2,1,1,1,1,1,2,1,2,"I don't feel that a physical disability should be a deciding factor in someone's potential employment.  ",3,"Disclosing mental illness up front is a good way to know an employer's stance or attitude towards mental illness and would help me decide if employment at that business would be worth it for me",2,2,4,35,"Male","Canada"
+"100-500",1,3,3,1,3,2,3,2,1,1,2,3,1,2,"less stigma",1,"more stigma",2,1,1,33,"male","United States of America"
+"26-100",1,3,2,2,2,2,1,1,1,2,1,2,1,2,"?",2,"None of their business",1,1,1,30,"M","United States of America"
+"500-1000",1,3,4,1,3,1,6,2,1,1,1,2,1,1,"Risk of not getting an offer",1,"Risk of not getting an offer",3,4,2,36,"f","United States of America"
+"26-100",1,2,1,1,1,1,6,1,1,1,2,1,1,3,"no need to do so",2,"no need to do so",3,1,1,28,"m","United Kingdom"
+"More than 1000",2,3,4,1,2,1,6,2,1,3,3,3,1,1,"Not sure if it would affect my work",2,"Depends on if it would affect my work",3,2,1,46,"Male","United States of America"
+"100-500",1,3,4,3,1,1,3,2,1,1,2,1,1,3,"",2,"",3,4,2,27,"male","United States of America"
+"More than 1000",1,3,2,1,2,2,1,1,1,1,1,1,1,3,"I feel it's irrelevant.",2,"Same reason.",1,2,4,37,"female","United States of America"
+"More than 1000",1,3,2,3,3,3,2,1,1,2,1,2,1,3,"Bit knowing the environment if the new employer would make me nervous to do so",2,"Bit knowing the environment if the new employer would make me nervous to do so",1,2,1,38,"Male","United States of America"
+"100-500",1,3,2,1,1,1,6,1,1,1,2,1,1,3,"Personal health issues don't belong in the interview process, as it inherently makes the interview particularly hostile to the interviewee and their organization (because HR law, especially as relating to anti-discrimination, is a thing).",2,"Personal health issues don't belong in the interview process, as it inherently makes the interview particularly hostile to the interviewee and their organization (because HR law, especially as relating to anti-discrimination, is a thing).",2,1,1,28,"Male","United States of America"
+"100-500",2,3,2,1,3,2,5,2,1,1,1,3,1,2,"",2,"",3,2,2,32,"Male","Canada"
+"More than 1000",2,4,3,2,2,2,1,1,1,2,1,2,1,3,"I would assume that would put me lower on the list for getting the job",2,"A negative count against me for the job",3,2,1,48,"Male","United States of America"
+"More than 1000",2,3,2,2,2,2,3,1,2,1,3,2,1,1,"The interviewer might be uninformed as to the impact of my disability on my ability to do the job.",2,"There is a stigma surrounding mental health issues.  I must trust someone before sharing that info.",1,2,2,54,"Female","United States of America"
+"500-1000",2,3,2,3,2,1,2,2,1,1,1,2,1,1,"If it would require minor accommodations that would not be perceived as overly onerous.",2,"The one time I did in the past, the interviewer clearly wrote me off immediately.
+Now, I try to judge whether an organization would be a supportive environment without outing myself. It’s a lot easier to ask for accommodation after getting hired and demonstrating the ability to do the job than to give the employer a reason not to hire you in the first place.",5,1,4,38,"male","United States of America"
+"100-500",1,4,3,1,3,1,3,2,1,1,1,1,1,1,"If it was a long term issue that would require special accommodations on their part.",1,"Would be concerned at the negative stigma",1,2,1,35,"male","United States of America"
+"6-25",2,3,3,1,1,2,5,2,2,3,2,3,1,3,"I don't see the need. If I'm at the interview, it's because I am fine working there as I am.",2,"I don't see the need. If I'm at the interview, it's because I am fine working there as I am.",1,2,2,32,"Sex is male","United States of America"
+"26-100",1,3,2,1,1,1,4,3,3,1,2,2,1,1,"",1,"",1,3,3,33,"female","United States of America"
+"6-25",1,2,4,1,1,1,1,2,2,3,2,3,1,3,"",2,"",5,3,1,22,"male","Vietnam"
+"6-25",1,1,1,1,1,1,6,2,1,2,2,1,1,1,"circumstantial",1,"circumstantial ",1,2,1,28,"Male","United Kingdom"
+"100-500",1,3,2,3,3,2,2,1,1,2,1,1,1,1,"",1,"",4,5,3,31,"M","Canada"
+"500-1000",2,3,4,1,3,1,1,2,2,2,1,2,1,1,"I'd be worried that it would reflect negatively against me and possibly hinder me as a potential candidate",1,"I would be worried that it would hinder my chances as a potential candidate",3,2,1,36,"Male","Canada"
+"26-100",1,4,4,1,3,1,5,2,2,3,3,3,1,1,"I've actually had to do this for an employer who required a drug test (I was on a prescription from a doctor for a medical condition and would have tested positive for steroids), so I disclosed up front so there weren't any surprises. In general, however, I wouldn't disclose unless it was necessary.",1,"This would be more difficult because I think people do not understand and are more biased against mental health issues than physical ones, and I'd be concerned they'd find another pretext for not hiring me.",1,2,4,46,"Male","United States of America"
+"100-500",1,2,4,1,2,1,2,2,1,3,3,1,2,3,"I don't think is the place nor the time for this",2,"same as before",3,4,1,33,"Male","Germany"
+"26-100",1,3,2,2,2,2,4,3,2,3,3,3,1,3,"They might think it will negatively affect my job performance and be less likely to hire me or hire me with a good salary.",2,"I think it would very much decrease my likelihood of getting hired.",3,2,2,25,"female","United States of America"
+"6-25",1,2,1,1,1,2,5,2,2,2,2,1,1,3,"",2,"",3,1,1,26,"Male","United States of America"
+"More than 1000",1,3,3,2,2,1,2,2,1,1,1,1,1,1,"Legislation in my jurisdiction mandates certain protections for employees who need concessions due to health.",2,"Despite the legal protections, mental health in my area still suffers a significant amount stigma.",1,1,2,3,"Male","Canada"
+"100-500",1,4,4,1,2,2,6,3,2,3,3,1,1,1,"I would bring it up if it were relevant to my performance.",2,"",3,4,2,40,"M","United States of America"
+"100-500",1,3,2,2,2,2,2,1,1,2,1,2,1,2,"I wouldn't want to work for an employer who couldn't handle the fact that I (or any coworkers) might have a health issue.",3,"I wouldn't want to work for an employer who couldn't handle the fact that I (or any coworkers) might have a health issue.",2,1,1,30,"Male","United States of America"
+"500-1000",2,4,4,2,2,1,3,2,1,1,2,1,2,1,"I'd be wary of them seeing potential time out for appointments etc as a negative",2,"I think most employers would straight up discount me for that",3,1,4,34,"female","United Kingdom"
+"100-500",1,4,3,1,2,2,2,1,1,1,1,1,1,1,"",1,"",1,2,5,28,"Male","Germany"
+"100-500",1,4,3,1,3,2,6,2,1,1,2,1,1,1,"It wouldn't affect my ability to perform the work, so would be unlikely to affect the outcome of an interview",1,"It _may_ affect the outcome of an interview, so I'd be reluctant to bring it up",1,2,2,39,"M","United States of America"
+"More than 1000",1,4,3,3,3,1,2,1,1,1,1,2,1,1,"Only if it would directly affect my work, otherwise it's not their business.",1,"Only if it would directly affect my work, otherwise it's not their business.",2,2,1,22,"M","United States of America"
+"26-100",1,4,4,1,1,2,1,2,1,1,2,1,1,3,"",2,"",1,2,1,29,"M","United States of America"
+"26-100",1,2,3,2,1,2,1,1,1,1,1,2,1,1,"",2,"",1,2,2,31,"Male","Norway"
+"6-25",1,1,1,1,1,1,2,1,1,1,2,1,1,2,"I would assume I was legally protected from issues arising from discussing it.",2,"Would be worried about negative stereotypes/affecting the interviewers decision.",1,1,1,29,"Male","United Kingdom"
+"6-25",1,4,3,3,3,1,2,1,1,1,1,1,1,1,"To avoid being potentially disqualified due to that fact.",2,"To avoid being disqualified due to that fact.",1,2,2,39,"Male","United States of America"
+"100-500",1,2,4,1,1,1,4,3,2,3,3,3,2,2,"I think they would see it as temporary, maybe even view you as hardy/resilient",2,"Because the employer would use it to measure how competent/high maintenance I was",5,1,3,27,"female","United Kingdom"
+"100-500",1,3,3,3,2,3,2,2,2,1,3,1,2,3,"If the physical health issue is chronic, I would be nervous that it would make them more likely to reject the application.",2,"",5,2,4,27,"Female","United Kingdom"
+"1-5",1,1,4,1,1,3,5,3,1,1,2,2,1,3,"None of their business ",2,"Not the topic of discussion unless my mental health impaired work directly ",1,2,1,32,"M","United Kingdom"
+"500-1000",1,4,4,2,3,1,2,2,1,2,2,1,1,2,"",2,"",3,4,1,30,"Male","Sweden"
+"26-100",1,3,3,2,3,1,5,2,1,1,2,3,1,1,"If I felt it would decrease the odds of getting the position, I'd probably omit the information.",2,"The stigma of mental illness is something that I am not sure I feel most employers would be willing to look past in an interview. I'm already a woman, which some view as a burden (will she need to leave for childcare? is she as capable of this job as her male counterparts?) and adding the additional 'burden' of having a mental health issue seems like it'd stack the cards against me.",1,1,3,31,"Female","United States of America"
+"100-500",1,3,2,1,3,2,2,3,2,2,1,3,2,3,"Talking about health issues has always been responded to as though I'm asking for personal accommodation, even when I'm just trying to raise awareness for something that's widespread. Bringing it up in an interview would be putting the cart before the horse.",2,"Same reason as above basically. Except the added  knowledge of how society views people with depression and anxiety and how that portrayal could reflect on me and affect my chances of getting a job I'm qualified for.",5,3,3,26,"woman","United States of America"
+"26-100",2,4,4,2,2,1,5,2,1,1,3,2,1,1,"",1,"",1,2,1,28,"Male","Finland"
+"6-25",2,4,4,1,1,1,4,3,2,3,3,3,1,3,"Could only hurt my chances",2,"Could only hurt my chances",3,4,1,46,"Male","United States of America"
+"26-100",1,2,4,2,1,1,6,3,3,3,3,1,1,3,"Unless the issue severely stops me from working, I think mentioning it would affect my chances. ",2,"I do not think that they would understand, and it would affect their decision. ",1,2,2,36,"Male","United States of America"
+"More than 1000",2,4,3,2,2,1,4,3,1,3,3,1,1,1,"If it wasn't immediately apparent and/or it was embarassing to talk about with someone who is not family or a close friend, I wouldn't tell them.",2,"I want to be viewed as someone they can rely on and who is emotionally strong, even though that might not be the case.",2,1,1,27,"Female","United States of America"
+"100-500",2,3,2,2,1,2,5,2,2,3,2,2,1,2,"",2,"",1,4,2,24,"Male","United States of America"
+"6-25",1,3,3,1,3,1,5,2,1,2,1,2,1,1,"",2,"",3,2,1,43,"Female","Canada"
+"6-25",1,2,4,1,3,1,3,1,1,2,1,1,1,1,"I believe I would  just for the sake of transparency",1,"It would depend on my general feelings of the employer/my issue",1,2,1,23,"Male","United States of America"
+"100-500",1,3,2,1,1,1,2,2,1,3,2,1,1,3,"Not needed",2,"Personal issue",1,2,2,41,"Male","Spain"
+"More than 1000",2,3,4,2,2,2,2,2,1,3,2,2,1,3,"I would rather have our conversation and my qualifications be the focus of an interview.",2,"I would rather have our conversation and my qualifications be the focus of an interview.",1,1,4,32,"Male","United States of America"
+"26-100",1,4,4,1,3,1,1,1,1,3,2,2,1,2,"I'm an honest person.",3,"I'm an honest person.",1,2,1,33,"M","France"
+"500-1000",1,4,3,1,2,1,3,1,1,3,1,2,1,2,"If it was something actually relevant to the job I was interviewing for, of course I would bring it up.",3,"If I thought that it was relevant to the job I was interviewing for, I would bring it up.",1,2,1,31,"Male.","United States of America"
+"26-100",1,4,4,2,1,1,1,1,1,2,1,1,1,1,"",1,"",3,1,1,29,"Male","United States of America"
+"500-1000",2,3,3,2,2,3,4,3,1,1,3,3,1,3,"Immediate disqualification",2,"Immediate dismissal",3,4,2,59,"female","United States of America"
+"6-25",2,2,4,1,1,2,3,1,1,1,2,1,1,1,"",2,"",1,1,1,24,"Male","United Kingdom"
+"More than 1000",2,2,3,1,1,3,5,2,1,3,3,3,1,3,"",2,"",3,4,1,41,"Male","United States of America"
+"6-25",1,3,2,1,1,1,5,1,1,2,1,2,1,2,"If I had physical health issues, I would want to make sure there are provisions for my health needs or concerns before accepting a position with a new company.",1,"I may not bring up a mental health issue in an interview with a potential employer, because I would be afraid that it might influence their decision about whether or not to hire me. They might view me as unstable or unqualified to properly do my job.",5,3,3,28,"Female","United States of America"
+"More than 1000",2,4,4,1,1,1,1,1,1,1,2,1,1,1,"Depends on potential impact on job",1,"Again relevancy - would it impact my work",1,1,1,34,"Male","United Kingdom"
+"More than 1000",1,3,2,3,3,3,5,3,1,1,1,3,1,1,"I don't want to screw my chances at the job.",2,"I *definitely* would be afraid I'd be d/q'd from the job for mentioning this.",5,2,3,47,"cis male","United States of America"
+"26-100",1,4,4,1,1,1,3,1,1,3,3,3,1,3,"In case it affected how well they though I could do the job/reliability",2,"In case it affected how well they though I could do the job/reliability",3,2,4,30,"female","United Kingdom"
+"1-5",1,3,4,1,1,1,5,3,1,1,3,3,1,1,"If it were an issue that could be helped by an accommodation, but didn't rise to the level of a protected disability, and having the accommodation or not would swing my decision to work at the company",2,"hard to imagine it ever going well. all but the most progressive people see mental health issues as less ""real"". better to frame needs (like sleep, nutrition, doctors appointments) as required to protect physical health in some vague way",3,1,1,23,"male ","United States of America"
+"More than 1000",2,1,1,2,2,2,3,2,1,2,2,2,1,3,"A place where I need to look and sound my best doesn't seem like the time to mention that I have something ""disordered"" about me.",1,"Again, if it happens in context, maybe. But, again. In the case of something that's supposed to me trying to look my best, talking about a flaw seems unnecessary.",3,2,1,22,"Agender","United States of America"
+"More than 1000",1,3,4,1,3,2,4,2,1,3,3,3,2,2,"Pretty obvious when you're on crutches, tends to raise questions!",2,"I have a difficult enough time with my physical disabilities. Opening up my mental health issues at that time would serve no purpose",3,4,3,38,"M","United Kingdom"
+"26-100",1,3,2,2,2,2,5,1,1,1,2,1,1,3,"I would be concerned that there would be negative bias, even if unintentional.",2,"I would be very concerned about potential negative bias.",4,2,1,40,"male","United States of America"
+"100-500",2,4,2,2,2,1,5,3,2,3,1,2,1,1,"",2,"",3,4,1,47,"m","Ireland"
+"More than 1000",2,3,2,2,2,2,3,1,1,1,1,2,1,3,"I am privileged enough to know how to do prior research. I expect to find answers to my question in existing resources on the HR site.",2,"",1,4,1,32,"male","United States of America"
+"More than 1000",2,2,4,1,1,1,1,1,1,1,1,1,1,2,"Don't see it as a problem for me",1,"Stigma",1,1,1,44,"Male","Sweden"
+"6-25",1,4,3,1,1,3,2,1,1,2,2,2,1,1,"depends if it is relevant. If it's none of their business, then not.",1,"It's a weakness; and you mostly want to talk about your strenghts",1,1,1,38,"F","Netherlands"
+"100-500",1,1,2,1,1,1,2,2,1,1,2,3,1,1,"Depending on the exact nature of the issue I might think they wouldn't want to hire me",1,"Depending on the exact nature of the issue I might think they wouldn't want to hire me",3,2,2,32,"non-binary","Germany"
+"More than 1000",2,1,1,1,2,1,4,3,1,3,3,3,1,1,"",1,"",3,4,2,41,"male","United Kingdom"
+"500-1000",1,3,4,1,2,1,5,2,1,1,2,1,1,1,"Some physical health has stigma attached, other does not.",1,"I cannot explain",2,2,1,38,"m","United States of America"
+"More than 1000",1,3,3,2,2,1,4,2,1,3,3,1,2,3,"If it's an obvious disability, then there's no need to bring it up. If it's not obvious, then it isn't their concern.",2,"There's a definite stigma around mental health issues. It seems like one would be disqualified immediately.",3,4,2,30,"male","United States of America"
+"More than 1000",2,3,2,3,2,2,2,2,1,1,1,1,1,3,"I don't feel that it is their business and although they should not take it into consideration when hiring, let's be honest, they do.",2,"Same as physical: I don't feel that it is their business and although they should not take it into consideration when hiring, let's be honest, they do.",1,2,1,34,"Female","United States of America"
+"26-100",1,4,3,1,1,2,2,1,1,1,2,2,1,3,"",2,"",1,2,1,31,"male ","Germany"
+"More than 1000",1,3,2,2,2,2,1,1,1,1,1,1,1,2,"",1,"",1,2,1,27,"M","United States of America"
+"26-100",1,3,2,2,2,2,2,1,1,2,1,2,1,2,"",2,"",1,1,4,41,"f","United States of America"
+"100-500",2,3,3,1,1,1,3,3,2,3,2,3,2,3,"Bias happens. I wouldn't want it to be a factor. However, I'm overweight, and I know it's been a factor in some interviews. Can't hide that. Even though that is the only thing I have wrong with me.",2,"If I was mentally unstable or unable to work regular hours, I could bias my own interview with this information.",5,2,2,40,"Female","United States of America"
+"26-100",2,3,2,1,1,1,5,2,1,1,2,1,1,1,"",1,"",1,2,2,37,"M","United States of America"
+"26-100",1,3,2,1,1,2,3,2,1,2,1,3,1,3,"Fear and stigma associated with it.",2,"May treat me differently or not hire me",3,4,4,40,"Male","United States of America"
+"1-5",1,4,4,2,2,2,2,1,1,2,1,2,1,2,"It would have bearing on the job",3,"Same reason as physical",1,1,1,44,"m","United States of America"
+"1-5",2,2,2,2,1,3,2,1,1,2,1,3,1,1,"Only got ask",1,"Only if got ask",3,1,1,36,"Male","Mexico"
+"26-100",1,4,4,1,3,1,5,3,1,1,1,3,1,2,"I'd need to ensure that I could manage my back pain on a long term basis with a new employer without any issue in doing so.",2,"I would be certain that nobody would want to hire someone with a mental health issue. ",3,4,1,33,"Male","United Kingdom"
+"6-25",1,2,4,1,1,3,5,3,2,3,3,3,1,3,"I'd feel that it'd make me less apt for the job I'm applying in comparison to others.",2,"I'd make me look weaker and less apt.",3,4,2,26,"Male","Chile"
+"26-100",1,2,3,1,1,1,5,3,1,1,2,3,2,3,"It _could_ way into being hired, instead of skills",2,"It _could_ way into being hired, instead of skills",1,2,2,27,"Male","Netherlands"
+"1-5",1,1,1,1,2,2,1,1,1,1,1,2,1,3,"My physical health is a personal issue.  I would only discuss this with people after I have established that I can trust them.",2,"I would only discuss my mental health issues with a person after I have established that I can trust them.  I also want to show that it will not affect my job performance before I reveal any sort of personal issues.",2,1,1,28,"Female","United States of America"
+"26-100",1,4,4,1,1,3,5,2,2,3,3,1,1,1,"",2,"",1,1,5,31,"male","United Kingdom"
+"More than 1000",2,4,4,1,1,1,4,2,1,3,3,3,1,3,"I believe it would negatively influence their decision on whether to hire me or not",2,"I believe it would negatively influence their decision on whether to hire me or not",3,4,2,46,"male","Ireland"
+"26-100",1,3,2,2,2,1,3,3,1,1,3,2,1,3,"Just one more thing to filter me out ",2,"Just one more thing to filter me out",1,1,5,23,"Male","United States of America"
+"100-500",1,4,3,2,3,1,1,1,1,2,2,1,1,3,"I think it would lower my chances of getting the job and take away from all the things that I can bring to the job! ",2,"Same thing, lower chances of getting the job and fear that they would zone in on that rather than all the awesomeness I can bring ",3,4,1,25,"female ","United States of America"
+"26-100",1,2,4,2,1,1,4,1,1,2,1,2,1,2,"If it affected my work or was something obvious I would talk about it.",2,"Because I would be scared they would think that it affects my work and I'm not worth hiring.",3,1,1,26,"Female","Germany"
+"More than 1000",1,3,4,1,3,1,2,2,2,1,2,3,1,2,"There is established non-discrimination policy for disabilities or physical ability",2,"Because I fear repercussions including not being hired",3,4,2,37,"f","United States of America"
+"26-100",1,3,3,1,1,1,4,2,2,1,3,3,1,1,"I guess it would depend on what type of physical issue it was and how often it may affect my work as far as absences for treatment, etc.",2,"Mental health feels more subjective in some cases despite potentially having a diagnosis and could be viewed as detrimental to culture and performance if someone is say clinically depressed or has an anxiety disorder. Also it feels harder to explain potential absence due to a mental disorder.",5,4,4,42,"female","United States of America"
+"26-100",1,3,2,1,3,1,1,2,1,1,2,2,1,3,"Unless it would directly effect my performance in the position, the condition would not be relevant.",2,"Due to lack of understanding, without bias, how a treated mental health issue could effect work.",5,2,2,39,"male","United States of America"
+"100-500",1,4,3,1,3,1,6,1,1,2,1,2,1,3,"Would be concerned I wouldn't be considered for the position.",2,"Would be concerned I wouldn't be considered for the position.",3,4,4,35,"Male","United States of America"
+"6-25",1,4,3,3,2,2,1,1,1,1,2,2,1,1,"",1,"",2,1,1,39,"m","Canada"
+"6-25",1,3,2,1,1,2,1,1,1,3,1,2,1,3,"I imagine that would prompt the interviewers to quickly disregard my resume.",2,"I imagine that would prompt the interviewers to quickly disregard my resume.",3,1,1,30,"Male","United States of America"
+"26-100",1,4,4,1,1,1,4,3,3,3,3,3,2,3,"Risk of being discarded at a job interview.
+Risk of being neglected of a promotion.
+Risk of being fired.",2,"Risk of being discarded at a job interview.
+Risk of being neglected for a promotion.
+Risk of being fired.",3,4,4,38,"Male","Belgium"
+"100-500",1,3,2,2,2,2,3,1,1,1,1,2,1,1,"Depending on how 'safe' I'm made to feel during the interview process I might feel it might reflect badly which, if I really *needed* the job I might not want to risk.",1,"Same reason as above.",1,2,4,36,"Male","United Kingdom"
+"More than 1000",1,4,2,1,2,2,1,1,1,3,1,1,1,1,"If it's going to impede my ability to work, sure",1,"If it has an effect on my ability to do work, then yes. Otherwise, it's not their business",2,1,1,24,"female","United States of America"
+"1-5",2,1,1,2,1,2,3,1,1,2,1,2,1,1,"It depends on whether or not he physical health issue would prevent me from doing my job. If not, I would not bring it up.",2,"I know there's widespread stigma toward mental health. I would avoid discussion this in an interview (unless I didn't want the job)",1,2,1,38,"Male","United States of America"
+"26-100",1,4,4,1,1,1,2,2,1,3,3,3,1,3,"Not relevant",2,"Not relevant to my skills",1,4,2,33,"Male","United States of America"
+"More than 1000",2,3,2,2,2,1,6,1,1,1,1,2,2,1,"Although I know in some places employers are not supposed to discriminate against candidates due to ability status, some still do. If and only if it were something that would require significant accommodations or if it was a visible disability, like a wheelchair, would I bring it up.",2,"I would fear that I wouldn't get the job because people would see it as a burden that could lead to problems with my employment.",3,2,4,29,"female","United States of America"
+"6-25",1,2,1,2,1,2,1,1,1,1,2,1,1,3,"If I felt it would reduce my chance of getting the job and at the same time it would not impede my ability to *do* the job, I wouldn't mention it.",2,"Same reason, if I felt it would reduce my chance of getting the job and at the same time it would not impede my ability to *do* the job, I wouldn't mention it.",1,1,2,38,"Male","France"
+"More than 1000",1,3,2,1,2,2,3,2,1,3,2,3,1,1,"",2,"",3,2,4,40,"Female","United States of America"
+"26-100",2,2,4,1,1,3,4,3,3,3,3,3,1,3,"If I want the job, I should be at my full health, so. It's cultural thing here too.",2,"same reason",3,4,4,43,"Male","Poland"
+"More than 1000",1,3,4,1,2,1,6,3,1,3,3,1,1,3,"They would rather hire me someone who isn't sick",2,"Same reasons, I'll cost more, be less productive",3,4,3,23,"Female","Ireland"
+"1-5",1,2,4,1,3,1,1,1,1,2,1,1,1,2,"Honesty works.",3,"Again: honesty.",1,1,1,40,"male","Netherlands"
+"1-5",1,2,1,1,1,1,4,1,2,1,1,1,1,3,"Perceived poorly",2,"Bias",3,4,2,43,"F","United States of America"
+"100-500",1,2,4,1,1,1,2,2,2,2,1,1,1,1,"",1,"",5,2,4,37,"male","United Kingdom"
+"26-100",1,3,2,2,2,1,6,2,2,2,2,1,1,1,"",1,"",3,4,3,26,"nb masculine","Germany"
+"26-100",1,3,3,2,2,1,3,2,1,1,2,3,1,2,"It seems like it would be hard to hide a physical issue.",1,"I would if I felt it would be a serious impediment to both parties as it pertains to my ability to do the job. Otherwise it could feel a bit like trapping the employer.",1,2,2,34,"Male","United States of America"
+"26-100",1,4,3,2,2,2,1,1,1,1,2,2,1,3,"Because it can be seen as a weakness and they may chose another applicant over me because of it.",2,"Because it can be seen as a weakness and they may chose another applicant over me because of it.",2,1,1,24,"Female","United States of America"
+"26-100",1,2,1,1,1,1,1,1,1,1,1,1,1,1,"",2,"Don't know, feeling",1,1,1,41,"Male","Netherlands"
+"100-500",1,1,1,1,1,2,2,1,1,2,1,2,1,2,"If its is relevant.",3,"If its relevant.",1,2,1,30,"Male","Estonia"
+"More than 1000",2,3,2,2,1,2,5,2,1,1,1,3,1,2,"It wouldn't have a bearing on my employability.",1,"I feel it could have a bearing on if I got an offer of employment even though it is illegal to discriminate based on mental health issues. ",1,2,1,41,"male","United States of America"
+"More than 1000",1,3,3,2,2,1,3,2,2,3,3,1,1,2,"",2,"Interviews are largely about knowledge / mental capacity. Could be seen as a weaker mental capacity.",3,4,4,29,"M","United States of America"
+"More than 1000",2,2,1,1,2,2,1,1,1,2,1,3,1,2,"",1,"I might be reluctant in an interview as there is still a bit of a stigma...",1,2,3,33,"Male","United Kingdom"
+"26-100",1,3,3,1,1,2,2,1,1,1,1,1,2,3,"I would likely perceive that as irrelevant to the interview process.",2,"I would likely perceive that as irrelevant to the interview process.",1,1,2,30,"male","United States of America"
+"6-25",1,1,1,1,1,1,3,3,2,1,3,3,2,3,"As it may inhibit my chances of getting the position.",2,"It may inhibit my chances of getting the position.",3,4,4,30,"male","United Kingdom"
+"6-25",1,3,4,1,1,1,2,1,1,1,2,2,1,3,"I don't have anything serious enough to chance negatively affecting the outcome.",1,"It would depend on whether or not I could trust the employer to not stigmatise me as well as how desperately I needed or wanted the job. I can cover my illness fairly well and wouldn't want to harm my chances of getting the job, if necessary.",1,1,4,31,"Cis-woman","United States of America"
+"6-25",1,3,4,1,1,1,5,1,1,1,2,2,1,2,"Because it's important.",1,"Not sure.",1,2,1,52,"Male","United States of America"
+"26-100",1,3,4,1,1,1,4,3,2,1,2,3,2,1,"Depends greatly on the job involved.  I can adapt quickly to jobs involving heavy lifting, for example, but would not admit that it would probably wind me to start with.  Most physical health issues severe enough to discuss are visible, and if they are not (say I have cancer and am going to be going on chemo) I would not discuss because of huge possibility of not being hired due to potential for medical leave / lots of absence.  ",2,"Mental health issues are hugely stigmatized.  I made the mistake of letting my last employer find out that I had ADHD and an adderall prescription not really thinking about it.  The head of engineering would joke about me ""doing meth"" after that at horrible moments including me (I have no degree) interviewing a PhD candidate who had done groundbreaking work in SMP and threaded rendering at SGI in the 90s and was all around awesome.  Luckily he made a joke about not talking about the shrooms he did to lighten that one, but there were many worse situations.  I was considered one of the most valued employees because of my ability to get anything done with the LLVM compiler system.  One day I pointed out to the manager in question that he was on a higher dosage of the same medication I was on, and the stupid meth jokes got worse from there.  It's not really a light accusation to make on somebody given our country's state of drug law, something which I am something of an activist for reform of.  It was was degrading. I was also made fun of for being autistic despite that not being a disorder I have.  ",5,1,3,35,"Male","United States of America"

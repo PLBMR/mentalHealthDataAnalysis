@@ -1,2 +1,6 @@
 explanationPH
 explanationMH
+age
+gender
+country
+companySize
