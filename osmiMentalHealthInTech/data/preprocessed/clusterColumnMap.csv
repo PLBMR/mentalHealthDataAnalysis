@@ -49,7 +49,7 @@ origColName,newColName
 "Do you currently have a mental health disorder?",
 "If yes, what condition(s) have you been diagnosed with?",
 "If maybe, what condition(s) do you believe you have?",
-"Have you been diagnosed with a mental health condition by a medical professional?",
+"Have you been diagnosed with a mental health condition by a medical professional?",diagnosedWithMHD
 "If so, what condition(s) were you diagnosed with?",
 "Have you ever sought treatment for a mental health issue from a mental health professional?",
 "If you have a mental health issue, do you feel that it interferes with your work when being treated effectively?",
