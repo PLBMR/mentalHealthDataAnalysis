@@ -78,6 +78,24 @@ analyses.
 _Figure 1: Distribution of whether or not an employer provides mental health 
 benefits as part of health coverage._
 
+We see that while a sizable number of individuals have some form of mental
+health benefits as part of their health coverage, a moderate amount of
+individuals are either not sure about their coverage or do not have coverage on
+mental health. This is immediately concerning for the tech industry, as it would
+suggest that a lot of workplace health care plans are not adequate for taking
+care of mental health.
+
+![figure2](../figures/figure2.png)
+
+_Figure 2: Distribution of whether or not an employer offers resources to
+learn more about mental health concerns and options for seeking help._
+
+We see that most respondents claim their employer does not provide meaningful
+resources to educate on mental health and seek help. This again shows a trend
+that employers are typically not providing the benefits nor alternative
+resources to address mental health.
+
+
 # Model Selection
 
 # Inference
