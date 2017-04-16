@@ -78,7 +78,6 @@ analyses.
 _Figure 1: Distribution of whether or not an employer provides mental health 
 benefits as part of health coverage._
 
-boner boner boner boner 
 # Model Selection
 
 # Inference
