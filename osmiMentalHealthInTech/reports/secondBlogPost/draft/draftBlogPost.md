@@ -260,6 +260,11 @@ or rarely have coverage for mental healthcare.
 _Figure 9: Class-Conditional Probabilities on whether discussing a mental
 health disorder with one's employer would have negative consequences._
 
+We see that classes $1$ and $2$ generally believe that there won't be negative
+consequences for discussing mental health with one's employer, while class $3$
+leans towards the answers of "maybe" and "yes." Thus, this suggests that classes
+$1$ and $2$ have generally more support on mental health from their employers
+than class $3$.
 
 ![figure10](../figures/figure10.png)
 
@@ -267,11 +272,21 @@ _Figure 10: Class-Conditional Probabilities on answers to the question
 "Would you feel comfortable discussing a mental health disorder with your 
 direct supervisor(s)?"_
 
+We see that Class $2$ generally feels comfortable discussing mental health with
+their direct supervisor(s). Class $1$ seems to feel "yes" or "maybe" comfortable
+with this type of discussion, and Class $3$ generally does not seem comfortable
+discussing mental health with a supervisor. Thus, this would suggest that
+class $2$ faces high support over mental health with their direct supervisors,
+and classes $1$ and $3$ face moderate and weak support respectively.
+
 ![figure11](../figures/figure11.png)
 
 _Figure 11: Class-Conditional Probabilities on whether or not being identified
-as a pareson with a mental healt condition would hurt one's career._
+as a person with a mental health condition would hurt one's career._
 
+We see that class $3$ generally thinks that this identification would hurt their
+career, while classes $1$ and $2$ generally think that it would only "maybe"
+hurt their career or that it would not hurt their career.
 
 ## Defining the Clusters
 
