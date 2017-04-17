@@ -300,21 +300,25 @@ the respondents informed which perspective the respondent was assigned to. I
 decided to consider the following variables in predicting our cluster
 assignment:
 
-* Gender of the Respondent (see [here](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/data/preprocessed/genderCountFrame.csv) for our mapping).
+* **gender**:
+Gender of the Respondent (see [here](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/data/preprocessed/genderCountFrame.csv) for our mapping).
 
-* Age of the Respondent.
+* **age**: Age of the Respondent.
 
-* The company size of the respondent's employer.
+* **companySize**: The company size of the respondent's employer.
 
-* Whether or not the respondent works in the United States.
+* **isUSA**: Whether or not the respondent works in the United States.
 
-* Whether or not the respondent has been diagnosed with a mental health
-condition.
+* **diagnosedWithMHD**: Whether or not the respondent has been diagnosed 
+with a mental health condition.
 
 Note that these variables are very similar to our features and target variable
 used in our [previous analysis](https://medium.com/@tfluffm/data-and-mental-health-the-osmi-survey-2016-39a3d308ac2f).
 
 ### Building the Model
+
+_(Note: This section is also very technical. Feel free to skip it if you would
+like!)_
 
 Similar to our previous analysis, I decided to predict cluster assignment of
 the respondents using [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
@@ -324,8 +328,48 @@ but for multiple classes as a target variable. Since we have $3$ different
 classes to predict, it is essential that we use models that can handle multiple
 choices for outcomes.
 
+Since we have already performed a sizable data split, I found that performing
+an additional data split for our model selection in this context would be
+inappropriate. This is partially because if we do an additional data split on
+the inference set, we would only have a few hundred survey responses to select
+our final model.
+
+We fit our decision tree by splitting using a deviance criterion. We fit our
+multinomial logistic regression using a forward-backward [stepwise
+selection](https://en.wikipedia.org/wiki/Stepwise_regression) procedure over
+all linear and interaction effects of our variables.
+
+![figure12](../figures/figure12.png)
+
+_Figure 12: Our decision tree fitted on the inference set._
+
+We see that our decision tree seems to consider **isUSA**, **diagnosedWithMHD**,
+**companySize**, and **age** when considering its decision. That being said, one
+point of concern is the fact that it seems to never predict class assignment $2$
+in the data. This to some extent makes its utility rather meagre, as we have a
+whole perspective that simply is not informed by these variables.
+
+Our final multinomial logistic regression ended up including **age**,
+**gender**, **isUSA**, **companySize**, **diagnosedWithMHD**,
+and the interaction between **age** and **diagnosedWithMHD**.
+
+Upon studying the accuracy of our models, I found that the multinomial
+regression is about $52.9\%$ accurate to the data and the decision tree is about
+$54.6\%$ accurate to the data. Since I am looking to reduce overfitting and I
+would prefer a model that predicts class assignment $2$, I decided to select the
+multinomial logistic regression in this context.
 
 ### Studying the Model
+
+For those who skipped the technical details of our previous section, we
+developed a multinomial regression to predict our class assignment using
+**gender**, **isUSA**, **companySize**, **diagnosedWithMHD**, and the
+interaction between **age** and **diagnosedWithMHD**.
+
+As discussed before, our model's accuracy on the inference set is around
+$52.9\%$. This is a generally poor fit, as we are performing only slightly
+better than if we predicted class assignment $3$ for all of our respondents
+(see Figure 7).
 
 # Discussion
 
