@@ -290,7 +290,42 @@ hurt their career or that it would not hurt their career.
 
 ## Defining the Clusters
 
+**FIX THIS SECTION UP**
+
 ## Predicting the Clusters
+
+After defining our classes into three perspectives on the mental health
+landscape in the workplace, I decided that I wanted to see what demographics of
+the respondents informed which perspective the respondent was assigned to. I
+decided to consider the following variables in predicting our cluster
+assignment:
+
+* Gender of the Respondent (see [here](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/data/preprocessed/genderCountFrame.csv) for our mapping).
+
+* Age of the Respondent.
+
+* The company size of the respondent's employer.
+
+* Whether or not the respondent works in the United States.
+
+* Whether or not the respondent has been diagnosed with a mental health
+condition.
+
+Note that these variables are very similar to our features and target variable
+used in our [previous analysis](https://medium.com/@tfluffm/data-and-mental-health-the-osmi-survey-2016-39a3d308ac2f).
+
+### Building the Model
+
+Similar to our previous analysis, I decided to predict cluster assignment of
+the respondents using [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
+and [multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression).
+A multinomial regression is essentially a [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+but for multiple classes as a target variable. Since we have $3$ different
+classes to predict, it is essential that we use models that can handle multiple
+choices for outcomes.
+
+
+### Studying the Model
 
 # Discussion
 
