@@ -216,7 +216,7 @@ to $18$ questions into different perspectives. Now that we have this model, it
 is essential to interpret our model parameters in order to define what these
 perspective clusters are in our dataset.
 
-## Defining the Clusters
+## Exploring the Clusters
 
 ![figure7](../figures/figure7.png)
 
@@ -232,6 +232,48 @@ We see that the largest class in our dataset is class $3$, with classes $1$ and
 $2$ being smaller groups. We see that a random respondent has close to equal
 chance of being either class $1$ or $2$.
 
+I then studied the tables of class-conditional probabilities for answers to the
+$18$ questions we clustered upon. I have left most of this analysis in my
+[inference notebook](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/analysis/clusterAnalysis/clusterAnalysis_inference.ipynb),
+But I think it would be useful to discuss some of these tables to make a claim
+about the perspectives defined by our clusters.
+
+![figure8](../figures/figure8.png)
+
+_Figure 8: Class-Conditional Probabilities on whether or not a respondent's
+employer provides mental health benefits as part of healthcare coverage._
+
+In order to interpret this table, consider each row to represent a distribution
+of answers given a class assignment to a respondent. For instance, given that a
+respondent is assigned to class $1$, we are predicting that there is a $27.2\%$
+chance that they would respond "No" to this question and a $11.7\%$ chance that
+they would respond "Yes" to this question.
+
+We see that Class $2$ primarily answers "Yes" on this question, while Classes
+$1$ and $3$ generally emphasizes the other possible answers. Thus, class $2$
+looks to represent individuals who are often have coverage for mental 
+healthcare while classes $1$ and $3$ represent individuals who either uncommonly
+or rarely have coverage for mental healthcare.
+
+![figure9](../figures/figure9.png)
+
+_Figure 9: Class-Conditional Probabilities on whether discussing a mental
+health disorder with one's employer would have negative consequences._
+
+
+![figure10](../figures/figure10.png)
+
+_Figure 10: Class-Conditional Probabilities on answers to the question
+"Would you feel comfortable discussing a mental health disorder with your 
+direct supervisor(s)?"_
+
+![figure11](../figures/figure11.png)
+
+_Figure 11: Class-Conditional Probabilities on whether or not being identified
+as a pareson with a mental healt condition would hurt one's career._
+
+
+## Defining the Clusters
 
 ## Predicting the Clusters
 
