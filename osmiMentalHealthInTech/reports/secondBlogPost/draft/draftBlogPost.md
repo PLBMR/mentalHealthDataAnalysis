@@ -141,15 +141,20 @@ For building a model around mental health in the workplace, I chose around $19$
 questions that I felt were relevant to this topic. This includes questions such
 as:
 
-*  
-* INSERT QUESTION HERE
+* Does your employer provide mental health benefits as part of healthcare
+coverage?
 
-* INSERT QUESTION HERE
+* Do you know the options for mental health care available under your 
+employer-provided coverage?
 
-* INSERT QUESTION HERE
+* Would you feel comfortable discussing a mental health disorder with your 
+direct supervisor(s)?
 
-I have listed all $19$ questions in [my git respository for the project](
-INSERT LINK HERE).
+* Do you feel that being identified as a person with a mental health issue 
+would hurt your career?
+
+I have listed all $18$ questions in [my git respository for the project](
+https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/data/preprocessed/variablesForClustering.txt).
 
 (_Note: The rest of this section is rather technical. It is reasonable to skip
 over it!_)
@@ -158,26 +163,25 @@ over it!_)
 
 In the context of our survey, the LCM works as such:
 
-* We have $19$ questions in the survey on mental health in the workplace. Each
-individual submits answers $a_1,a_2,...,a_{19}$ to these questions respectively.
+* We have $18$ questions in the survey on mental health in the workplace. Each
+individual submits answers $a_1,a_2,...,a_{18}$ to these questions respectively.
 
 * There are $k$ perspectives on mental health in the workplace. Each perspective
 $i$ carries an answer distribution $D_i.$ Hence, there are $D_1,D_2,...,D_k$
 distributions, and each one is associated with a particular perspective.
 
-* Our LCM assumes that each answer group $(a_1,a_2,...,a_{19})$
+* Our LCM assumes that each answer group $(a_1,a_2,...,a_{18})$
 comes from an answer distribution of a particular perspective. For instance, if
-an individuals answers $(a_1,a_2,...,a_{19}) \sim D_1$, then these answers come
-from perspective $1$.
+an individual's answers are $(a_1,a_2,...,a_{18}) \sim D_1$, then these 
+answers come from perspective $1$.
 
 * Our objective is to find the perspective assignment that best fits the
 answers given by the respondents. The method we use to find this perspective
-assignment is referred to as the [expected maximization algorithm](INSERT LINK
-HERE).
+assignment is referred to as the [expected maximization algorithm](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm).
 
 This objective that measures how well we fit the answers given by respondents
-is referred to as the [Likelihood](INSERT LINK HERE). The likelihood measures
-how likely our model generated the answers found.
+is referred to as the [Likelihood](https://en.wikipedia.org/wiki/Likelihood_function).
+The likelihood measures how likely our model generated the answers found.
 
 ## Selection Process
 
@@ -190,7 +194,7 @@ will fit this model to the inference set for interpreting aspects of our model.
 2. For selection, we will consider LCMs of between $1$ and $10$ classes. In this
 context, this is considering LCMs with up to $10$ perspectives on mental health
 in the workplace. To measure the performance of each of these models, we will
-benchmark them using five-fold [cross-validation](INSERT LINK HERE) on the
+benchmark them using five-fold [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) on the
 $\log$ of the likelihood of the data. We will choose the model with the
 highest cross-validated log-Likelihood.
 
@@ -208,13 +212,27 @@ Thus, we will select a latent class model with $3$ classes/perspectives.
 # Inference
 
 To recap, we chose a latent class model with $3$ classes to cluster the answers
-to $19$ questions into different perspectives. Now that we have this model, it
+to $18$ questions into different perspectives. Now that we have this model, it
 is essential to interpret our model parameters in order to define what these
 perspective clusters are in our dataset.
 
 ## Defining the Clusters
 
-!
+![figure7](../figures/figure7.png)
+
+_Figure 7: The prior probabilities on our classes/perspectives discovered by our
+LCM_
+
+We can interpret each of these probabilities as the chance that a randomly
+picked respondent is assigned to a particular class. Thus, if we were to pull
+a respondent at random, there is a $26.1\%$ chance of that respondent being from
+class $1$.
+
+We see that the largest class in our dataset is class $3$, with classes $1$ and
+$2$ being smaller groups. We see that a random respondent has close to equal
+chance of being either class $1$ or $2$.
+
+
 ## Predicting the Clusters
 
 # Discussion
