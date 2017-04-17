@@ -95,13 +95,126 @@ resources to educate on mental health and seek help. This again shows a trend
 that employers are typically not providing the benefits nor alternative
 resources to address mental health.
 
+![figure3](../figures/figure3.png)
+
+_Figure 3: Distribution of answers for the question "Do you think that 
+discussing a mental health disorder with your employer would have negative
+consequences?"_
+
+We see that most individuals lean no on this question, but there are still a
+large portion of the sample that believes there will be negative consequences
+for discussing a mental health condition with their employers. What these
+negative consequences might be would be useful to capture in a future survey.
+
+![figure4](../figures/figure4.png)
+
+_Figure 4: Distribution of confort level talking about mental health with
+coworkers_
+
+We see that from the colleague-oriented side of mental health, our sample seems
+uncomfortable talking about mental health with coworkers. This suggests that
+our sample feels a sense of taboo about discussing mental health around the
+workplace beyond an employer's opinions.
+
+![figure5](../figures/figure5.png)
+
+_Figure 5: Distribution of whether or not an individual was willing to bring up
+a mental health issue with a potential employer during an interview._
+
+We see that most individuals believe that they wouldn't bring up a mental health
+issue during an interview. For the most part, this is somewhat unsurprising, as
+it might be considered not relevant to certain parts of the interview process,
+However, when you compare it to whether individuals would bring up a physical
+health issue in an interview (see [this notebook](INSERT LINK HERE), Figure 11),
+it becomes apparent that there is a greater taboo around discussing mental
+health than discussing physical health.
 
 # Model Selection
 
+Given all this evidence for a taboo around mental health in the technology
+workplace, I wanted to use a method that would take our responses on mental
+health in the workplace and segment them into interpretable narratives. I
+decided to use a [latent class model](https://en.wikipedia.org/wiki/Latent_class_model) 
+(LCM) to create this segmentation.
+
+For building a model around mental health in the workplace, I chose around $19$
+questions that I felt were relevant to this topic. This includes questions such
+as:
+
+*  
+* INSERT QUESTION HERE
+
+* INSERT QUESTION HERE
+
+* INSERT QUESTION HERE
+
+I have listed all $19$ questions in [my git respository for the project](
+INSERT LINK HERE).
+
+(_Note: The rest of this section is rather technical. It is reasonable to skip
+over it!_)
+
+## Model Explanation
+
+In the context of our survey, the LCM works as such:
+
+* We have $19$ questions in the survey on mental health in the workplace. Each
+individual submits answers $a_1,a_2,...,a_{19}$ to these questions respectively.
+
+* There are $k$ perspectives on mental health in the workplace. Each perspective
+$i$ carries an answer distribution $D_i.$ Hence, there are $D_1,D_2,...,D_k$
+distributions, and each one is associated with a particular perspective.
+
+* Our LCM assumes that each answer group $(a_1,a_2,...,a_{19})$
+comes from an answer distribution of a particular perspective. For instance, if
+an individuals answers $(a_1,a_2,...,a_{19}) \sim D_1$, then these answers come
+from perspective $1$.
+
+* Our objective is to find the perspective assignment that best fits the
+answers given by the respondents. The method we use to find this perspective
+assignment is referred to as the [expected maximization algorithm](INSERT LINK
+HERE).
+
+This objective that measures how well we fit the answers given by respondents
+is referred to as the [Likelihood](INSERT LINK HERE). The likelihood measures
+how likely our model generated the answers found.
+
+## Selection Process
+
+We perform the following steps to select our latent class model:
+
+1. We first split our dataset randomly into a selection set and an inference
+set. We will use the selection set for solely building our final model, and we
+will fit this model to the inference set for interpreting aspects of our model.
+
+2. For selection, we will consider LCMs of between $1$ and $10$ classes. In this
+context, this is considering LCMs with up to $10$ perspectives on mental health
+in the workplace. To measure the performance of each of these models, we will
+benchmark them using five-fold [cross-validation](INSERT LINK HERE) on the
+$\log$ of the likelihood of the data. We will choose the model with the
+highest cross-validated log-Likelihood.
+
+## Selection Results
+
+![figure6](../figures/figure6.png)
+
+_Figure 6: Our Cross-Validated Log-Likelihood on the number of classes
+considered._
+
+We see that the cross-validated log-likelihood increases until $3$ classes,
+falters a bit after $3$ classes, and then drops significantly after $5$ classes.
+Thus, we will select a latent class model with $3$ classes/perspectives.
+
 # Inference
+
+To recap, we chose a latent class model with $3$ classes to cluster the answers
+to $19$ questions into different perspectives. Now that we have this model, it
+is essential to interpret our model parameters in order to define what these
+perspective clusters are in our dataset.
 
 ## Defining the Clusters
 
+!
 ## Predicting the Clusters
 
 # Discussion
