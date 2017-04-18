@@ -290,7 +290,6 @@ hurt their career or that it would not hurt their career.
 
 ## Defining the Clusters
 
-**FIX THIS SECTION UP**
 
 ## Predicting the Clusters
 
@@ -441,6 +440,14 @@ men.
 
 # Discussion
 
+What is important to see is that our class model predicts that more individuals
+believe that the support systems on mental health in the workplace are poor
+than believe the support systems are moderate or strong. In fact, our model
+predicts that there are as many individuals believing the former perspective
+than the two other perspectives combined. This would suggest that the industry
+as a whole has a long way to go to completely address mental health in the
+workplace.
+
 The diagnosis effect is very strong, as it pushes individuals away from a
 perspective of feeling moderately supported and polarizes groups towards
 feeling either highly or weakly supported on mental health care. This is likely
@@ -468,7 +475,67 @@ perspectives.
 The company size effect should also be taken into account. In particular, we
 are predicting that as companies get larger, their employees are predicted to
 be more likely to feel a sense of strong support over mental health in the
-workplace.
+workplace. The likely narrative about this is that larger companies may have
+the financial resources that smaller companies don't have to better support
+mental health in the workplace. That being said, this doesn't account for some
+of the taboos that exist about mental health when considering the opinions of
+colleagues and supervisors of a worker. It's also important to note that larger
+companies may have bureaucratic structures in place that would prevent
+individuals from easily accessing these resources, which is counter to the
+predictive effect we have discovered. To study this effect in more detail, we
+may need a **companySize** variable with more granularity and a deeper
+understanding of the mental health resources provided by major companies in the
+tech industry.
+
 # Limitations
 
+There are several limitations that should be addressed:
+
+* It is possible that are LCM is not well-specified. In particular, it assumes
+that each answer to the questions clustered by an LCM are conditionally
+independent given the class assignment. It is very possible that a respondents
+answers are highly correlated with each other even within a particular
+perspective, and it might be important to consider models that account for this
+issue.
+
+* Our model to predict class assignment is currently very poor, and it generally
+overpredicts the perspective of low support over mental health in the workplace.
+It may be important to consider what other demographics might be needed to
+better inform the perspectives of individuals on this topic.
+
+* The interaction between age and diagnosis may be currently spurious. In
+particular, it isn't considering how people are diagnosed at particular ages,
+and thus perspectives may be formed at particular ages based on when they are
+diagnosed rather than just on the age itself.
+
 # Future Work
+
+There are some components to consider for further analysis:
+
+* Having more demographics to predict our class assignment would be useful for
+improving this analysis. Most notably, marital status or having children may
+make one more sensitive to the mental health resources available. Education
+and parental background may also impact these perspectives.
+
+* There is some language data on individual's perspectives on mental health in
+the industry. While I left it out of this analysis to prevent over-complication,
+it might be useful to mine this language data for further narratives about
+the issue.
+
+* It might also be useful to compare the cluster assignment of the $2014$ survey
+to the current survey in order to study how perspectives on this issue change
+over time.
+
+___
+
+ _I would like to thank [OSMI](https://osmihelp.org) for creating this survey. 
+ If you appreciate the work being done at OSMI, feel free to [donate](https://www.crowdrise.com/open-sourcing-mental-illness/fundraiser/osmi)!_
+
+_I would also like to thank [Christina Keelan](https://twitter.com/ChristinaKeelan)
+for supporting me to continue the analysis of the OSMI survey._
+
+_If you are interested in further studying my analysis, feel free to check out 
+my code and assets [here](https://github.com/PLBMR/mentalHealthDataAnalysis/tree/master/osmiMentalHealthInTech). You can check out my whole set of projects on my GitHub profile ([PLBMR](https://github.com/PLBMR))._
+
+_If you have any questions about the analysis, feel free to leave a comment 
+below!_
