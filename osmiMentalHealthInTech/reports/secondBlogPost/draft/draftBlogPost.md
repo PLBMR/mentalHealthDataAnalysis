@@ -371,8 +371,104 @@ $52.9\%$. This is a generally poor fit, as we are performing only slightly
 better than if we predicted class assignment $3$ for all of our respondents
 (see Figure 7).
 
+![figure13](../figures/figure13.png)
+
+_Figure 13: The confusion matrix for our model._
+
+We see that our model is doing an extremely poor job at predicting class
+assignment $2$ as it looks like we are getting $\frac{4}{122 + 4 + 10}
+\approx 2.9\%$ of our predictions correct for class assignment $2$. In
+particular, it seems as though our model is overpredicting class $3$ for most of
+our observations. This is likely due to our classes being imbalanced, since
+the class $3$ label occurs much more often in our dataset than class $1$ and $2$
+observations.
+
+![figure14](../figures/figure14.png)
+
+_Figure 14: Our Coefficient Table for our multinomial classifier_
+
+We see that our location effect predicts that those working in the USA are much
+more likely to be in class $2$ and slightly more likely to be in class $3$ than
+those working outside of the United States. We also see that a diagnosis is
+predicted to have a slight polarizing effect on perspectives, as we are 
+predicting that it will severely increase assignment to classes $2$ and $3$
+over class $1$. We also see that as company size grows larger, the likelihood of
+being assigned to class $2$ is predicted to increase, which suggests that as
+companies grow bigger, it is predicted that employees find that more of a 
+support system for mental health exists in the workplace.
+
+What also becomes clear is a very important gender effect. We see that women
+are predicted to be $e^{.313} = 1.367$ times more likely to be assigned class $3$
+than men. This means that a given woman is predicted to on average be $36.7\%$
+more likely to be in class $3$ than an equivalent man. When we see that the
+gender effect for women on class assignment $2$ is quite small, the implication
+of this is that women are much more likely to feel a lack of good support
+systems over mental health in the workplace than men.
+
+The age effect is rather interesting. Consider a case where an individual is
+not diagnosed with a mental health condition. An additional year of age is
+predicted to multiplicatively increase the probability of an assignment to
+classes $2$ and $3$ by $e^{.0666} = 1.069$ and $e^{.0597} = 1.0615$
+respectively. This means that each additional year is predicted to increase
+the chance of these assignments by about $6.9\%$ and $6.2\%$ respectively. This
+would suggest that as non-diagnosed individuals get older, there is a
+dichotomizing effect. They either find there is a strong support system that
+exists for mental health in the workplace or they find that there is a weak 
+support system.
+
+Let's do some point comparisons based on some relevant demographics. We will 
+limit this part of the analysis to US workers at large companies. We will start 
+by studying individuals of average age.
+
+![figure15](../figures/figure15.png)
+
+_Figure 15: Class Assignment Predictions for US workers at large firms of
+average age in our survey._
+
+We see that across the board, our model overwhelmingly predicts a class
+assignment of $3$ for this age group. Thus, for average-age US workers at large
+firms, we are predicting that they are likely to feel weak support over mental
+health in the workplace. We also see that those who are diagnosed with a
+mental health condition are predicted to be much less likely to be in class
+$1$ than their equivalent non-diagnosed counterparts. This confirms some of the
+dichotomizing aspects of mental health conditions on perspectives of support.
+
+We see the gender effect between men and women is noticeable in this context.
+In particular, diagnosed women in this demographic are predicted to be
+${.44 - .36}{.44} \approx 18.18\%$ less likely to be in class $2$ and
+${.59 - .51}{.51} = 15.68\%$ more likely to be in class $3$ than equivalent
+men. 
+
 # Discussion
 
+The diagnosis effect is very strong, as it pushes individuals away from a
+perspective of feeling moderately supported and polarizes groups towards
+feeling either highly or weakly supported on mental health care. This is likely
+due to the fact that being diagnosed with a mental health condition makes you
+more attuned to the mental health resources available in your environment. In
+this sense, it could be that a mental health diagnosis makes one more sensitive
+to the resources and support available in the workplace, which could drive a
+non-neutral opinion about a company's mental health landscape. This may be
+important for companies to tap into when responding to feedback about mental
+health support systems in the workplace.
+
+Just like in our previous analysis, the gender effect is rather key to study.
+This gender effect suggests that women are more likely to find mental
+health support systems to be weak than men. Also like our previous analysis,
+there are perhaps two explanations to this effect. There is the possibility that
+women are given fewer support systems over mental health than men. That being
+said, there is also the possibility that women are more sensitive to the mental
+health resources available in a workplace than men. The later explanation could
+potentially be supported by the fact that in our previous analysis, we found
+that women are more likely to claim a mental health diagnosis than men. It would
+be interesting to study this effect further using adjustments to our model and
+studying the causal mechanisms that link diagnosis and gender with these
+perspectives.
+
+The company size effect should also be taken into account. In particular, we
+are predicting that as companies get larger, their employees are predicted to
+be more likely to feel a sense of strong support over mental health in the
+workplace.
 # Limitations
 
 # Future Work
