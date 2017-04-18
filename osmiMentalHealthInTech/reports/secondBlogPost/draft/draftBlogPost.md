@@ -290,6 +290,25 @@ hurt their career or that it would not hurt their career.
 
 ## Defining the Clusters
 
+It is apparent to me that Class $1$ represents individuals with a high amount of
+mental health benefits, moderate employer respect over mental health conditions,
+moderate to high colleague respect over mental health conditions, and a 
+perception of low career damage over mental health conditions. 
+Class $2$ contains individuals with high employer-provided mental health 
+benefits, high employer respect over mental health conditions, high colleague 
+respect over mental health conditions, and a perception of moderate career 
+damage over mental health conditions. Class $3$ contains individuals with 
+moderate employer-provided mental health benefits, low employer and colleague 
+respect over mental health conditions, and a perception of high career damage 
+over mental health conditions.
+
+In this extent, Class $1$ represents a group of individuals who perceive 
+moderate support in the workplace over mental health conditions, Class $2$ 
+represents a group of individuals who perceive high support in the workplace 
+over mental health conditions, and Class $3$ represents a group of individuals 
+who perceive low support in the workplace over mental health conditions. Given 
+that Class $3$ is the biggest cluster and Class $2$ is the smallest cluster of 
+the model, this measure is slightly concerning.
 
 ## Predicting the Clusters
 
