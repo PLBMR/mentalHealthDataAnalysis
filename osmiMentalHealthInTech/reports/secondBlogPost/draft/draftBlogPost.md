@@ -392,7 +392,7 @@ better than if we predicted class assignment $3$ for all of our respondents
 
 _Figure 13: The confusion matrix for our model._
 
-We see that our model is doing an extremely poor job at predicting class
+Our model is doing an extremely poor job at predicting class
 assignment $2$ as it looks like we are getting $\frac{4}{122 + 4 + 10}
 \approx 2.9\%$ of our predictions correct for class assignment $2$. In
 particular, it seems as though our model is overpredicting class $3$ for most of
@@ -404,36 +404,35 @@ observations.
 
 _Figure 14: Our Coefficient Table for our multinomial classifier_
 
-We see that our location effect predicts that those working in the USA are much
+We see our location effect predicts those working in the USA are much
 more likely to be in class $2$ and slightly more likely to be in class $3$ than
-those working outside of the United States. We also see that a diagnosis is
+those working outside of the United States. We also see a diagnosis is
 predicted to have a slight polarizing effect on perspectives, as we are 
-predicting that it will severely increase assignment to classes $2$ and $3$
+predicting it will severely increase assignment to classes $2$ and $3$
 over class $1$. We also see that as company size grows larger, the likelihood of
 being assigned to class $2$ is predicted to increase, which suggests that as
-companies grow bigger, it is predicted that employees find that more of a 
+companies grow bigger, it is predicted that employees find more of a 
 support system for mental health exists in the workplace.
 
-What also becomes clear is a very important gender effect. We see that women
+What also becomes clear is a very important gender effect. We see women
 are predicted to be $e^{.313} = 1.367$ times more likely to be assigned class $3$
-than men. This means that a given woman is predicted to on average be $36.7\%$
+than men. This means that a given woman is predicted to be on average $36.7\%$
 more likely to be in class $3$ than an equivalent man. When we see that the
 gender effect for women on class assignment $2$ is quite small, the implication
-of this is that women are much more likely to feel a lack of good support
+of this is women are much more likely to feel a lack of good support
 systems over mental health in the workplace than men.
 
 The age effect is rather interesting. Consider a case where an individual is
 not diagnosed with a mental health condition. An additional year of age is
 predicted to multiplicatively increase the probability of an assignment to
 classes $2$ and $3$ by $e^{.0666} = 1.069$ and $e^{.0597} = 1.0615$
-respectively. This means that each additional year is predicted to increase
+respectively. This means each additional year is predicted to increase
 the chance of these assignments by about $6.9\%$ and $6.2\%$ respectively. This
 would suggest that as non-diagnosed individuals get older, there is a
-dichotomizing effect. They either find there is a strong support system that
-exists for mental health in the workplace or they find that there is a weak 
-support system.
+dichotomizing effect. They either find there is a strong support system existing
+for mental health in the workplace or they find there is a weak support system.
 
-Let's do some point comparisons based on some relevant demographics. We will 
+Let's make some point comparisons based on some relevant demographics. We will 
 limit this part of the analysis to US workers at large companies. We will start 
 by studying individuals of average age.
 
@@ -444,24 +443,24 @@ average age in our survey._
 
 We see that across the board, our model overwhelmingly predicts a class
 assignment of $3$ for this age group. Thus, for average-age US workers at large
-firms, we are predicting that they are likely to feel weak support over mental
-health in the workplace. We also see that those who are diagnosed with a
+firms, we are predicting they are likely to feel weak support over mental
+health in the workplace. We also see those who are diagnosed with a
 mental health condition are predicted to be much less likely to be in class
 $1$ than their equivalent non-diagnosed counterparts. This confirms some of the
 dichotomizing aspects of mental health conditions on perspectives of support.
 
 We see the gender effect between men and women is noticeable in this context.
 In particular, diagnosed women in this demographic are predicted to be
-${.44 - .36}{.44} \approx 18.18\%$ less likely to be in class $2$ and
-${.59 - .51}{.51} = 15.68\%$ more likely to be in class $3$ than equivalent
+$\frac{.44 - .36}{.44} \approx 18.18\%$ less likely to be in class $2$ and
+$\frac{.59 - .51}{.51} = 15.68\%$ more likely to be in class $3$ than equivalent
 men. 
 
 # Discussion
 
 What is important to see is that our class model predicts that more individuals
-believe that the support systems on mental health in the workplace are poor
+believe the support systems on mental health in the workplace are poor
 than believe the support systems are moderate or strong. In fact, our model
-predicts that there are as many individuals believing the former perspective
+predicts there are as many individuals believing the former perspective
 than the two other perspectives combined. This would suggest that the industry
 as a whole has a long way to go to completely address mental health in the
 workplace.
@@ -478,16 +477,16 @@ important for companies to tap into when responding to feedback about mental
 health support systems in the workplace.
 
 Just like in our previous analysis, the gender effect is rather key to study.
-This gender effect suggests that women are more likely to find mental
+This gender effect suggests women are more likely to find mental
 health support systems to be weak than men. Also like our previous analysis,
 there are perhaps two explanations to this effect. There is the possibility that
 women are given fewer support systems over mental health than men. That being
 said, there is also the possibility that women are more sensitive to the mental
-health resources available in a workplace than men. The later explanation could
+health resources available in a workplace than men. The latter explanation could
 potentially be supported by the fact that in our previous analysis, we found
-that women are more likely to claim a mental health diagnosis than men. It would
+women are more likely to claim a mental health diagnosis than men. It would
 be interesting to study this effect further using adjustments to our model and
-studying the causal mechanisms that link diagnosis and gender with these
+studying the causal mechanisms which link diagnosis and gender with these
 perspectives.
 
 The company size effect should also be taken into account. In particular, we
@@ -495,7 +494,7 @@ are predicting that as companies get larger, their employees are predicted to
 be more likely to feel a sense of strong support over mental health in the
 workplace. The likely narrative about this is that larger companies may have
 the financial resources that smaller companies don't have to better support
-mental health in the workplace. That being said, this doesn't account for some
+mental health in the workplace. This doesn't account for some
 of the taboos that exist about mental health when considering the opinions of
 colleagues and supervisors of a worker. It's also important to note that larger
 companies may have bureaucratic structures in place that would prevent
@@ -509,9 +508,9 @@ tech industry.
 
 There are several limitations that should be addressed:
 
-* It is possible that are LCM is not well-specified. In particular, it assumes
-that each answer to the questions clustered by an LCM are conditionally
-independent given the class assignment. It is very possible that a respondents
+* It is possible that our LCM is not well-specified. In particular, it assumes
+each answer to the questions clustered by an LCM are conditionally
+independent given the class assignment. It is very possible a respondent's
 answers are highly correlated with each other even within a particular
 perspective, and it might be important to consider models that account for this
 issue.
@@ -526,6 +525,9 @@ particular, it isn't considering how people are diagnosed at particular ages,
 and thus perspectives may be formed at particular ages based on when they are
 diagnosed rather than just on the age itself.
 
+* It will be important to account for the nuances of those who are self-employed
+in future analyses. Simply leaving them out of the analysis does not give us a
+full picture of mental health support systems.
 # Future Work
 
 There are some components to consider for further analysis:
