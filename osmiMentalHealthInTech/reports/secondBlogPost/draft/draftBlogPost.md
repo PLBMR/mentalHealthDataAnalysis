@@ -179,7 +179,7 @@ answers given by the respondents. The method we use to find this perspective
 assignment is referred to as the [expected maximization algorithm](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm).
 
 This objective measuring how well we fit the answers given by respondents
-is referred to as the [Likelihood](https://en.wikipedia.org/wiki/Likelihood_function).
+is referred to as the [likelihood](https://en.wikipedia.org/wiki/Likelihood_function).
 The likelihood measures how likely our model generated the answers found.
 
 ## Selection Process
@@ -195,7 +195,7 @@ context, this is considering LCMs with up to $10$ perspectives on mental health
 in the workplace. To measure the performance of each of these models, we will
 benchmark them using five-fold [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)) on the
 $\log$ of the likelihood of the data. We will choose the model with the
-highest cross-validated log-Likelihood.
+highest cross-validated log-likelihood.
 
 ## Selection Results
 
@@ -204,7 +204,7 @@ highest cross-validated log-Likelihood.
 _Figure 6: Our Cross-Validated Log-Likelihood on the number of classes
 considered._
 
-We see that the cross-validated log-likelihood increases until $3$ classes,
+We see the cross-validated log-likelihood increases until $3$ classes,
 falters a bit after $3$ classes, and then drops significantly after $5$ classes.
 Thus, we will select a latent class model with $3$ classes/perspectives.
 
@@ -222,19 +222,19 @@ perspective clusters are in our dataset.
 _Figure 7: The prior probabilities on our classes/perspectives discovered by our
 LCM_
 
-We can interpret each of these probabilities as the chance that a randomly
+We can interpret each of these probabilities as the chance a randomly
 picked respondent is assigned to a particular class. Thus, if we were to pull
 a respondent at random, there is a $26.1\%$ chance of that respondent being from
 class $1$.
 
-We see that the largest class in our dataset is class $3$, with classes $1$ and
+The largest class in our dataset is class $3$, with classes $1$ and
 $2$ being smaller groups. We see that a random respondent has close to equal
 chance of being either class $1$ or $2$.
 
 I then studied the tables of class-conditional probabilities for answers to the
 $18$ questions we clustered upon. I have left most of this analysis in my
 [inference notebook](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/analysis/clusterAnalysis/clusterAnalysis_inference.ipynb),
-But I think it would be useful to discuss some of these tables to make a claim
+But it would be useful to discuss some of these tables to make a claim
 about the perspectives defined by our clusters.
 
 ![figure8](../figures/figure8.png)
@@ -242,15 +242,15 @@ about the perspectives defined by our clusters.
 _Figure 8: Class-Conditional Probabilities on whether or not a respondent's
 employer provides mental health benefits as part of healthcare coverage._
 
-In order to interpret this table, consider each row to represent a distribution
-of answers given a class assignment to a respondent. For instance, given that a
-respondent is assigned to class $1$, we are predicting that there is a $27.2\%$
-chance that they would respond "No" to this question and a $11.7\%$ chance that
+To interpret this table, consider each row to represent a distribution
+of answers given a class assignment to a respondent. For instance, given a
+respondent is assigned to class $1$, we are predicting there is a $27.2\%$
+chance that they would respond "No" to this question and a $11.7\%$ chance
 they would respond "Yes" to this question.
 
-We see that Class $2$ primarily answers "Yes" on this question, while Classes
+We see class $2$ primarily answers "Yes" to this question, while Classes
 $1$ and $3$ generally emphasizes the other possible answers. Thus, class $2$
-looks to represent individuals who are often have coverage for mental 
+looks to represent individuals who often have coverage for mental 
 healthcare while classes $1$ and $3$ represent individuals who either uncommonly
 or rarely have coverage for mental healthcare.
 
@@ -259,10 +259,10 @@ or rarely have coverage for mental healthcare.
 _Figure 9: Class-Conditional Probabilities on whether discussing a mental
 health disorder with one's employer would have negative consequences._
 
-We see that classes $1$ and $2$ generally believe that there won't be negative
+We see classes $1$ and $2$ generally believe there will not be negative
 consequences for discussing mental health with one's employer, while class $3$
-leans towards the answers of "maybe" and "yes." Thus, this suggests that classes
-$1$ and $2$ have generally more support on mental health from their employers
+leans towards the answers of "maybe" and "yes." Thus, this suggests classes
+$1$ and $2$ generally have more support on mental health from their employers
 than class $3$.
 
 ![figure10](../figures/figure10.png)
@@ -271,10 +271,10 @@ _Figure 10: Class-Conditional Probabilities on answers to the question
 "Would you feel comfortable discussing a mental health disorder with your 
 direct supervisor(s)?"_
 
-We see that Class $2$ generally feels comfortable discussing mental health with
+We see class $2$ generally feels comfortable discussing mental health with
 their direct supervisor(s). Class $1$ seems to feel "yes" or "maybe" comfortable
-with this type of discussion, and Class $3$ generally does not seem comfortable
-discussing mental health with a supervisor. Thus, this would suggest that
+with this type of discussion, and class $3$ generally does not seem comfortable
+discussing mental health with a supervisor. This would suggest
 class $2$ faces high support over mental health with their direct supervisors,
 and classes $1$ and $3$ face moderate and weak support respectively.
 
@@ -283,13 +283,13 @@ and classes $1$ and $3$ face moderate and weak support respectively.
 _Figure 11: Class-Conditional Probabilities on whether or not being identified
 as a person with a mental health condition would hurt one's career._
 
-We see that class $3$ generally thinks that this identification would hurt their
-career, while classes $1$ and $2$ generally think that it would only "maybe"
-hurt their career or that it would not hurt their career.
+We see class $3$ generally thinks this identification would hurt their
+career, while classes $1$ and $2$ generally think it would only "maybe"
+hurt their career or it would not hurt their career.
 
 ## Defining the Clusters
 
-It is apparent to me that Class $1$ represents individuals with a high amount of
+It is apparent that class $1$ represents individuals with a high amount of
 mental health benefits, moderate employer respect over mental health conditions,
 moderate to high colleague respect over mental health conditions, and a 
 perception of low career damage over mental health conditions. 
@@ -301,18 +301,18 @@ moderate employer-provided mental health benefits, low employer and colleague
 respect over mental health conditions, and a perception of high career damage 
 over mental health conditions.
 
-In this extent, Class $1$ represents a group of individuals who perceive 
-moderate support in the workplace over mental health conditions, Class $2$ 
+In this extent, class $1$ represents a group of individuals who perceive 
+moderate support in the workplace over mental health conditions, class $2$ 
 represents a group of individuals who perceive high support in the workplace 
-over mental health conditions, and Class $3$ represents a group of individuals 
-who perceive low support in the workplace over mental health conditions. Given 
-that Class $3$ is the biggest cluster and Class $2$ is the smallest cluster of 
+over mental health conditions, and class $3$ represents a group of individuals 
+who perceive low support in the workplace over mental health conditions. Since
+class $3$ is the biggest cluster and class $2$ is the smallest cluster of 
 the model, this measure is slightly concerning.
 
 ## Predicting the Clusters
 
 After defining our classes into three perspectives on the mental health
-landscape in the workplace, I decided that I wanted to see what demographics of
+landscape in the workplace, I decided I wanted to see what demographics of
 the respondents informed which perspective the respondent was assigned to. I
 decided to consider the following variables in predicting our cluster
 assignment:
@@ -347,7 +347,7 @@ choices for outcomes.
 
 Since we have already performed a sizable data split, I found that performing
 an additional data split for our model selection in this context would be
-inappropriate. This is partially because if we do an additional data split on
+inappropriate. If we do an additional data split on
 the inference set, we would only have a few hundred survey responses to select
 our final model.
 
@@ -360,21 +360,21 @@ all linear and interaction effects of our variables.
 
 _Figure 12: Our decision tree fitted on the inference set._
 
-We see that our decision tree seems to consider **isUSA**, **diagnosedWithMHD**,
-**companySize**, and **age** when considering its decision. That being said, one
-point of concern is the fact that it seems to never predict class assignment $2$
-in the data. This to some extent makes its utility rather meagre, as we have a
+Our decision tree examines **isUSA**, **diagnosedWithMHD**, **companySize**,
+and **age** when considering its decision. One
+point of concern is the fact that it seems never to predict class assignment $2$
+in the data. To some extent, this makes its utility rather meager, as we have a
 whole perspective that simply is not informed by these variables.
 
 Our final multinomial logistic regression ended up including **age**,
 **gender**, **isUSA**, **companySize**, **diagnosedWithMHD**,
 and the interaction between **age** and **diagnosedWithMHD**.
 
-Upon studying the accuracy of our models, I found that the multinomial
+Upon studying the accuracy of our models, I found the multinomial
 regression is about $52.9\%$ accurate to the data and the decision tree is about
 $54.6\%$ accurate to the data. Since I am looking to reduce overfitting and I
-would prefer a model that predicts class assignment $2$, I decided to select the
-multinomial logistic regression in this context.
+would prefer a model which predicts class assignment $2$, I decided to select
+the multinomial logistic regression in this context.
 
 ### Studying the Model
 
