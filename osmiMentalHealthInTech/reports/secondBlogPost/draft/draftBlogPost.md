@@ -4,25 +4,25 @@ _By [Michael Rosenberg](mailto:rosenberg.michael.m@gmail.com)_
 
 # Introduction
 
-Hi everyone! After performing a data analysis on the [Open Sourcing Mental
+Hi, everyone! After performing a data analysis on the [Open Sourcing Mental
 Illness](https://osmihelp.org) (OSMI) survey [previously](
 https://medium.com/@tfluffm/data-and-mental-health-the-osmi-survey-2016-39a3d308ac2f), 
-I got a lot of good feedback on my techniques and decisions
+I received a lot of good feedback on my techniques and decisions
 within the data science community and the mental health landscape. I appreciate
 all of your thoughts and opinions, and I hope to stay involved in the
 conversation related to data and mental health.
 
 After looking over other components of the [OSMI Survey on Mental Health](
 https://osmihelp.org/projects/research), I recognized some other components of
-the dataset that could be mined for meaningful results. In particular, I 
-recognized that there were many assets of the survey that took into account the 
+the dataset that could be mined for meaningful results. In particular, there 
+were many assets of the survey that took into account the 
 opinions of respondents towards the mental health landscape in the industry. 
 Using this opinion data, I was able to construct the analysis here today.
 
 As discussed in my previous analysis, I have some ground rules:
 
-* If you would like clarification in this analysis, please leave a comment 
-below! I want to be as clear as I can when writing a report.
+* If you would like clarification of this analysis, please leave a comment 
+below! I want to be as clear as possible in a report.
 
 * If you have any questions on techniques used or components studied, 
 also leave a comment! I really appreciate conversations on data-mining 
@@ -33,12 +33,12 @@ With that being said, let's dive into the data.
 # The Dataset
 
 I spent some time in my previous analysis describing the OSMI Survey in detail.
-Hence, I would recommend that you read through
+Hence, I would recommend you read through
 [that section](https://medium.com/@tfluffm/data-and-mental-health-the-osmi-survey-2016-39a3d308ac2f)
 of the previous analysis if you want the full details on the survey.
 
-As mentioned earlier, the OSMI Survey contains several questions pertaining to
-how respondent perceive mental health support in the workplace. Some of these
+As mentioned earlier, the OSMI Survey contains several questions about
+how respondents perceive mental health support in the workplace. Some of these
 questions pertain to:
 
 * Whether or not an employer provides coverage for mental health conditions in
@@ -49,11 +49,11 @@ the workplace healthcare plan.
 * Whether one's colleagues (e.g. team members, direct supervisors) are
 supportive of mental health in the workplace.
 
-* If one believes that mental health conditions are regarded as taboo in the
+* If one believes mental health conditions are regarded as taboo in the
 industry as a whole.
 
 I am interested in whether or not there is a set of patterns to the answers of
-these questions that might indicate narratives about mental health in the
+these questions which might indicate narratives about mental health in the
 technology industry. In particular, I wonder if there are clusters
 of respondents that each have a different perspective on how mental health is
 dealt with in the workplace. Once I have discovered these perspective clusters,
@@ -62,27 +62,26 @@ in some meaningful manner.
 
 # Data Exploration
 
-One of the key limitations we have to deal with is that individuals who are
+One of the key limitations we have is that individuals who are
 self-employed do not fill out most of the information related to their 
-employer or colleagues. Thus, in order to analyze this dataset, we must remove
+employer or colleagues. Thus, to analyze this dataset, we must remove
 self-employed persons from the analysis. This drops our number of observations
-from 1433 to 1146, which is a sizable drop. That being said, self-employment is
+from 1433 to 1146, which is a sizable drop. Self-employment is
 a very different style of work than the typical salaried individuals working for
 companies. In this sense, including them in the analysis will lead to
-complicated interpretations of our results. Thus, while it does lead to a loss
-of data points, self-employed individuals should only be considered in future
-analyses.
+complicated interpretations of our results. We will only consider this group in
+future analyses.
 
 ![figure1](../figures/figure1.png)
 
 _Figure 1: Distribution of whether or not an employer provides mental health 
 benefits as part of health coverage._
 
-We see that while a sizable number of individuals have some form of mental
-health benefits as part of their health coverage, a moderate amount of
+While a sizable number of individuals have some form of mental
+health benefits as part of their health coverage, a moderate number of
 individuals are either not sure about their coverage or do not have coverage on
 mental health. This is immediately concerning for the tech industry, as it would
-suggest that a lot of workplace health care plans are not adequate for taking
+suggest that many workplace health care plans are not adequate for taking
 care of mental health.
 
 ![figure2](../figures/figure2.png)
@@ -90,7 +89,7 @@ care of mental health.
 _Figure 2: Distribution of whether or not an employer offers resources to
 learn more about mental health concerns and options for seeking help._
 
-We see that most respondents claim their employer does not provide meaningful
+We see most respondents claim their employer does not provide meaningful
 resources to educate on mental health and seek help. This again shows a trend
 that employers are typically not providing the benefits nor alternative
 resources to address mental health.
@@ -101,33 +100,33 @@ _Figure 3: Distribution of answers for the question "Do you think that
 discussing a mental health disorder with your employer would have negative
 consequences?"_
 
-We see that most individuals lean no on this question, but there are still a
-large portion of the sample that believes there will be negative consequences
-for discussing a mental health condition with their employers. What these
-negative consequences might be would be useful to capture in a future survey.
+We see most individuals lean towards "no" on this question, but there are still 
+a significant portion of the sample which believes there will be negative 
+consequences for discussing a mental health condition with their employers. What
+these negative consequences might be would be useful to capture in a future 
+survey.
 
 ![figure4](../figures/figure4.png)
 
-_Figure 4: Distribution of confort level talking about mental health with
+_Figure 4: Distribution of comfort level talking about mental health with
 coworkers_
 
-We see that from the colleague-oriented side of mental health, our sample seems
-uncomfortable talking about mental health with coworkers. This suggests that
-our sample feels a sense of taboo about discussing mental health around the
-workplace beyond an employer's opinions.
+We see from the colleague-oriented side of mental health, our sample seems
+uncomfortable talking about mental health with coworkers. There may exist taboos
+about discussing mental health around one's team members.
 
 ![figure5](../figures/figure5.png)
 
 _Figure 5: Distribution of whether or not an individual was willing to bring up
 a mental health issue with a potential employer during an interview._
 
-We see that most individuals believe that they wouldn't bring up a mental health
+We see most individuals believe that they wouldn't bring up a mental health
 issue during an interview. For the most part, this is somewhat unsurprising, as
-it might be considered not relevant to certain parts of the interview process,
+it might be considered not relevant to certain parts of the interview process.
 However, when you compare it to whether individuals would bring up a physical
-health issue in an interview (see [this notebook](INSERT LINK HERE), Figure 11),
-it becomes apparent that there is a greater taboo around discussing mental
-health than discussing physical health.
+health issue in an interview (see [this notebook](https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/analysis/clusterAnalysis/clusterAnalysis_eda.ipynb), 
+Figure 11), it becomes apparent that there is a greater taboo around discussing 
+mental health than discussing physical health.
 
 # Model Selection
 
@@ -138,7 +137,7 @@ decided to use a [latent class model](https://en.wikipedia.org/wiki/Latent_class
 (LCM) to create this segmentation.
 
 For building a model around mental health in the workplace, I chose around $19$
-questions that I felt were relevant to this topic. This includes questions such
+questions I felt were relevant to this topic; including questions such
 as:
 
 * Does your employer provide mental health benefits as part of healthcare
@@ -153,7 +152,7 @@ direct supervisor(s)?
 * Do you feel that being identified as a person with a mental health issue 
 would hurt your career?
 
-I have listed all $18$ questions in [my git respository for the project](
+I have listed all $18$ questions in [my Git repository for the project](
 https://github.com/PLBMR/mentalHealthDataAnalysis/blob/master/osmiMentalHealthInTech/data/preprocessed/variablesForClustering.txt).
 
 (_Note: The rest of this section is rather technical. It is reasonable to skip
@@ -170,7 +169,7 @@ individual submits answers $a_1,a_2,...,a_{18}$ to these questions respectively.
 $i$ carries an answer distribution $D_i.$ Hence, there are $D_1,D_2,...,D_k$
 distributions, and each one is associated with a particular perspective.
 
-* Our LCM assumes that each answer group $(a_1,a_2,...,a_{18})$
+* Our LCM assumes each answer group $(a_1,a_2,...,a_{18})$
 comes from an answer distribution of a particular perspective. For instance, if
 an individual's answers are $(a_1,a_2,...,a_{18}) \sim D_1$, then these 
 answers come from perspective $1$.
@@ -179,7 +178,7 @@ answers come from perspective $1$.
 answers given by the respondents. The method we use to find this perspective
 assignment is referred to as the [expected maximization algorithm](https://en.wikipedia.org/wiki/Expectation–maximization_algorithm).
 
-This objective that measures how well we fit the answers given by respondents
+This objective measuring how well we fit the answers given by respondents
 is referred to as the [Likelihood](https://en.wikipedia.org/wiki/Likelihood_function).
 The likelihood measures how likely our model generated the answers found.
 
