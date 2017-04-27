@@ -528,6 +528,7 @@ diagnosed rather than just on the age itself.
 * It will be important to account for the nuances of those who are self-employed
 in future analyses. Simply leaving them out of the analysis does not give us a
 full picture of mental health support systems.
+
 # Future Work
 
 There are some components to consider for further analysis:
@@ -551,8 +552,10 @@ ___
  _I would like to thank [OSMI](https://osmihelp.org) for creating this survey. 
  If you appreciate the work being done at OSMI, feel free to [donate](https://www.crowdrise.com/open-sourcing-mental-illness/fundraiser/osmi)!_
 
-_I would also like to thank [Christina Keelan](https://twitter.com/ChristinaKeelan)
-for supporting me to continue the analysis of the OSMI survey._
+_I would like to thank [Christina Keelan](https://twitter.com/ChristinaKeelan)
+and [Joe Ferguson](mailto:joe@osmihelp.org) for supporting me to continue the 
+analysis of the OSMI survey. I would also like to thank [Kara Ferguson](mailto:karamferg@gmail.com)
+for helping to edit and revise this analysis._
 
 _If you are interested in further studying my analysis, feel free to check out 
 my code and assets [here](https://github.com/PLBMR/mentalHealthDataAnalysis/tree/master/osmiMentalHealthInTech). You can check out my whole set of projects on my GitHub profile ([PLBMR](https://github.com/PLBMR))._
