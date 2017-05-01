@@ -3,7 +3,7 @@ oldName_2016,oldName_2014,newName
 "What is your age?","Age",age
 "What is your gender?","Gender",gender
 "What country do you work in?","Country",workCountry
-"What US state or territory do you work in?",,workState
-"Which of the following best describes your work position?",,workPosString
-roleType,,roleType
-"How many employees does your company or organization have?",,companySize
+"What US state or territory do you work in?","Not Used",workState
+"Which of the following best describes your work position?","Not Used",workPosString
+roleType,"Not Used",roleType
+"How many employees does your company or organization have?","How many employees does your company or organization have?",companySize

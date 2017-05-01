@@ -93,7 +93,8 @@ def processColNameFile(colNameFilename,yearConsidered): #helper for processing
         oldName = colNameFrame["oldName_" + str(yearConsidered)].iloc[i]
         newName = colNameFrame["newName"].iloc[i]
         #then make map
-        colMap[oldName] = newName
+        if (oldName != "Not Used"):
+            colMap[oldName] = newName
     return colMap
 
 def renameAndPrepareExport(dataFrame,nameDict):
@@ -105,12 +106,22 @@ def renameAndPrepareExport(dataFrame,nameDict):
     dataFrame = dataFrame.loc[:,exportCols]
     return dataFrame
 
+def encodeDiagnosis(procFrame,diagnosisEncodeVarname):
+    #helper for encoding the diagnosedWithMHD in the procFrame
+    procFrame["diagnosedWithMHD"] = 0
+    procFrame.loc[procFrame[diagnosisEncodeVarname] == "Yes",
+                  "diagnosedWithMHD"] = 1
+    return procFrame
+
 def processData(rawFrame,genderMap,nameDict,ageVarname,genderVarname,
-                roleTypeNeeded = True): 
+                roleTypeNeeded = True,diagnosisEncodeVarname = ""): 
     #helper that processes our raw data to become the canonical dataset for 
     #a given year
     procFrame = rawFrame
     #first get rid of odd ages
+    if (diagnosisEncodeVarname != ""):
+        procFrame = encodeDiagnosis(procFrame,
+                                    diagnosisEncodeVarname)#need to encode this
     procFrame = cutoffAges(procFrame,ageVarname)
     #map gender
     procFrame = mapGender(procFrame,genderMap,genderVarname)
@@ -123,11 +134,21 @@ def processData(rawFrame,genderMap,nameDict,ageVarname,genderVarname,
     procFrame = renameAndPrepareExport(procFrame,nameDict)
     return procFrame
 
+def mergeDataFrames(dataFrameOne,dataFrameTwo):
+    #helper to  merge two of our dataframes together appropriately
+    #get set intersection of columns
+    sharedColumns = set(dataFrameOne.columns) & set(dataFrameTwo.columns)
+    slicedDFOne = dataFrameOne[list(sharedColumns)]
+    slicedDFTwo = dataFrameTwo[list(sharedColumns)]
+    #then append each
+    procFrame = slicedDFOne.append(slicedDFTwo,ignore_index = True)
+    return procFrame
+
 #main process
 
 if __name__ == "__main__":
     rawDataFilename = "../data/raw/osmi-survey-2016_data.csv"
-    genderMapFilename = "../data/preprocessed/genderCountFrame.csv"
+    genderMapFilename = "../data/preprocessed/genderCountFrame_2016.csv"
     colNameFilename = "../data/preprocessed/nameMap.csv"
     #prepare auxilary componnents
     genderMapDict = processGenderFile(genderMapFilename)
