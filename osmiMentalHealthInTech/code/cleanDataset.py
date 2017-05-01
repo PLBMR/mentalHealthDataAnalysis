@@ -13,6 +13,7 @@ def cutoffAges(dataFrame,ageVarname): #helper that cuts ages of respondents off
     #at a reasonable level to remove the possibility of outliers
     ageCutoff = 100 #not considering ages above 100
     dataFrame = dataFrame[dataFrame[ageVarname] <= ageCutoff]
+    dataFrame = dataFrame[dataFrame[ageVarname] > 0]
     return dataFrame
 
 def processGenderFile(genderMapFilename):
@@ -108,9 +109,9 @@ def renameAndPrepareExport(dataFrame,nameDict):
 
 def encodeDiagnosis(procFrame,diagnosisEncodeVarname):
     #helper for encoding the diagnosedWithMHD in the procFrame
-    procFrame["diagnosedWithMHD"] = 0
+    procFrame["diagnosedWithMHD"] = "No"
     procFrame.loc[procFrame[diagnosisEncodeVarname] == "Yes",
-                  "diagnosedWithMHD"] = 1
+                  "diagnosedWithMHD"] = "Yes"
     return procFrame
 
 def processData(rawFrame,genderMap,nameDict,ageVarname,genderVarname,
