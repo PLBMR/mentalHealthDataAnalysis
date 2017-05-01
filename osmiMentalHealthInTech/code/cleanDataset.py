@@ -9,10 +9,10 @@ import csv
 
 #helpers
 
-def cutoffAges(dataFrame): #helper that cuts ages of respondents off at a
-    #reasonable level to remove the possibility of outliers
+def cutoffAges(dataFrame,ageVarname): #helper that cuts ages of respondents off 
+    #at a reasonable level to remove the possibility of outliers
     ageCutoff = 100 #not considering ages above 100
-    dataFrame = dataFrame[dataFrame["What is your age?"] <= ageCutoff]
+    dataFrame = dataFrame[dataFrame[ageVarname] <= ageCutoff]
     return dataFrame
 
 def processGenderFile(genderMapFilename):
@@ -39,12 +39,12 @@ def processGenderFile(genderMapFilename):
     #then return
     return genderMap
 
-def mapGender(dataFrame,genderMap):
+def mapGender(dataFrame,genderMap,genderVarname):
     #helper for mapping gender in our data frame
-    genderVec = dataFrame["What is your gender?"]
-    dataFrame["What is your gender?"] = genderVec.map(genderMap)
+    genderVec = dataFrame[genderVarname]
+    dataFrame[genderVarname] = genderVec.map(genderMap)
     #drop null observations
-    dataFrame = dataFrame[dataFrame["What is your gender?"].notnull()]
+    dataFrame = dataFrame[dataFrame[genderVarname].notnull()]
     return dataFrame
 
 def recodeWorkplaceSize(dataFrame):
@@ -84,13 +84,13 @@ def buildRoleType(dataFrame):
                             findRoleType)
     return dataFrame
 
-def processColNameFile(colNameFilename): #helper for processing our map for
-    #column names
+def processColNameFile(colNameFilename,yearConsidered): #helper for processing 
+    #our map for column names
     colNameFrame = pd.read_csv(colNameFilename)
     colMap = {} #we will build this
     for i in xrange(colNameFrame.shape[0]):
         #get old name
-        oldName = colNameFrame["oldName"].iloc[i]
+        oldName = colNameFrame["oldName_" + str(yearConsidered)].iloc[i]
         newName = colNameFrame["newName"].iloc[i]
         #then make map
         colMap[oldName] = newName
@@ -105,15 +105,18 @@ def renameAndPrepareExport(dataFrame,nameDict):
     dataFrame = dataFrame.loc[:,exportCols]
     return dataFrame
 
-def processData(rawFrame,genderMap,nameDict): #helper that processes our raw 
-    #data to become the canonical dataset for modeling purposes
+def processData(rawFrame,genderMap,nameDict,ageVarname,genderVarname,
+                roleTypeNeeded = True): 
+    #helper that processes our raw data to become the canonical dataset for 
+    #a given year
     procFrame = rawFrame
     #first get rid of odd ages
-    procFrame = cutoffAges(procFrame)
+    procFrame = cutoffAges(procFrame,ageVarname)
     #map gender
-    procFrame = mapGender(procFrame,genderMap)
+    procFrame = mapGender(procFrame,genderMap,genderVarname)
     #recode job descriptions
-    procFrame = buildRoleType(procFrame)
+    if (roleTypeNeeded):
+        procFrame = buildRoleType(procFrame)
     #recode size of workplace
     procFrame = recodeWorkplaceSize(procFrame)
     #then rename some columns and set export
@@ -128,9 +131,11 @@ if __name__ == "__main__":
     colNameFilename = "../data/preprocessed/nameMap.csv"
     #prepare auxilary componnents
     genderMapDict = processGenderFile(genderMapFilename)
-    nameMapDict = processColNameFile(colNameFilename)
+    yearConsidered = 2016
+    nameMapDict = processColNameFile(colNameFilename,yearConsidered)
     #then run process
     rawDataFrame = pd.read_csv(rawDataFilename)
-    procDataFrame = processData(rawDataFrame,genderMapDict,nameMapDict)
+    procDataFrame = processData(rawDataFrame,genderMapDict,nameMapDict,
+                                "What is your age?","What is your gender?")
     #then export
     procDataFrame.to_csv("../data/processed/procDataset.csv",index = False)

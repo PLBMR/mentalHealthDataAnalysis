@@ -41,7 +41,7 @@ technical,,100-500,Back-end Developer,29,Yes,M,United Kingdom
 non-technical,,More than 1000,Support|Other,44,No,M,Canada
 both,Georgia,Self-Employed,One-person shop|Back-end Developer|DevOps/SysAdmin,34,No,M,United States of America
 non-technical,Minnesota,100-500,Other,40,No,M,United States of America
-non-technical,,More than 1000,Supervisor/Team Lead|Other,46,No,W,Netherlands
+non-technical,,More than 1000,Supervisor/Team Lead|Other,46,No,O,Netherlands
 technical,,Self-Employed,DevOps/SysAdmin|Back-end Developer,28,No,M,Lithuania
 technical,Georgia,More than 1000,Back-end Developer,41,No,M,United States of America
 both,Kentucky,6-25,Supervisor/Team Lead|Back-end Developer|Front-end Developer,33,Yes,M,United States of America
@@ -102,7 +102,7 @@ technical,California,100-500,Back-end Developer,28,Yes,W,United States of Americ
 technical,Washington,500-1000,DevOps/SysAdmin,40,No,M,United States of America
 technical,Pennsylvania,100-500,Back-end Developer,23,Yes,M,United States of America
 technical,North Carolina,6-25,Back-end Developer,30,No,M,United States of America
-technical,Illinois,26-100,Designer,28,No,W,United States of America
+technical,Illinois,26-100,Designer,28,No,O,United States of America
 both,,26-100,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,27,No,M,Netherlands
 both,Indiana,Self-Employed,One-person shop|Front-end Developer|Back-end Developer,31,Yes,M,United States of America
 technical,North Carolina,26-100,Back-end Developer,39,No,W,United States of America
@@ -1170,7 +1170,7 @@ both,North Carolina,More than 1000,Supervisor/Team Lead|Back-end Developer|DevOp
 technical,,26-100,Front-end Developer,43,No,M,United Kingdom
 technical,,Self-Employed,Back-end Developer,35,Yes,M,Ireland
 both,Nebraska,Self-Employed,Back-end Developer|Support|Supervisor/Team Lead,32,Yes,M,United States of America
-both,,More than 1000,Back-end Developer|One-person shop,24,No,O,Sweden
+both,,More than 1000,Back-end Developer|One-person shop,24,No,M,Sweden
 technical,California,More than 1000,Back-end Developer|Front-end Developer,33,Yes,M,United States of America
 technical,,1-5,Front-end Developer|Back-end Developer|DevOps/SysAdmin,28,No,M,Finland
 non-technical,,More than 1000,Dev Evangelist/Advocate,48,Yes,M,Germany
