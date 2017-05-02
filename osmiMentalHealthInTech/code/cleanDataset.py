@@ -54,7 +54,7 @@ def recodeWorkplaceSize(dataFrame):
     employeeString = ("How many employees does your company or "
                         + "organization have?")
     dataFrame.loc[dataFrame[employeeString].isnull(),
-                    employeeString] = "Self-Employed"
+                    employeeString] = "1-5" #essentially a self-employment
     return dataFrame
 
 def findRoleType(workString):

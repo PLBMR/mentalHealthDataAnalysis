@@ -2,13 +2,13 @@ companySize,diagnosedWithMHD,gender,age,year,workCountry
 26-100,Yes,M,39,2016,United Kingdom
 6-25,Yes,M,29,2016,United States of America
 6-25,No,M,38,2016,United Kingdom
-Self-Employed,Yes,M,43,2016,United Kingdom
+1-5,Yes,M,43,2016,United Kingdom
 6-25,Yes,W,43,2016,United States of America
 More than 1000,No,M,42,2016,United Kingdom
 26-100,No,M,30,2016,United States of America
 More than 1000,Yes,W,37,2016,United States of America
 26-100,Yes,W,44,2016,United States of America
-Self-Employed,Yes,M,30,2016,United States of America
+1-5,Yes,M,30,2016,United States of America
 26-100,Yes,M,28,2016,United States of America
 100-500,Yes,M,34,2016,United States of America
 100-500,Yes,W,30,2016,United States of America
@@ -17,13 +17,13 @@ Self-Employed,Yes,M,30,2016,United States of America
 100-500,Yes,M,52,2016,United States of America
 26-100,Yes,W,32,2016,Canada
 500-1000,No,M,34,2016,United Kingdom
-Self-Employed,Yes,W,25,2016,United States of America
+1-5,Yes,W,25,2016,United States of America
 100-500,Yes,M,31,2016,United States of America
 6-25,No,M,26,2016,United States of America
 More than 1000,No,M,35,2016,United States of America
 26-100,No,M,25,2016,Germany
 1-5,Yes,M,33,2016,Canada
-Self-Employed,No,M,38,2016,United States of America
+1-5,No,M,38,2016,United States of America
 100-500,No,M,42,2016,Germany
 26-100,Yes,M,27,2016,Netherlands
 100-500,No,M,35,2016,Germany
@@ -32,26 +32,26 @@ Self-Employed,No,M,38,2016,United States of America
 100-500,Yes,O,32,2016,Germany
 100-500,Yes,M,30,2016,United States of America
 More than 1000,No,M,31,2016,United States of America
-Self-Employed,No,M,37,2016,Czech Republic
+1-5,No,M,37,2016,Czech Republic
 26-100,No,M,36,2016,United Kingdom
 100-500,No,M,33,2016,Germany
 26-100,Yes,M,44,2016,United States of America
 100-500,No,M,29,2016,United Kingdom
 100-500,Yes,M,29,2016,United Kingdom
 More than 1000,No,M,44,2016,Canada
-Self-Employed,No,M,34,2016,United States of America
+1-5,No,M,34,2016,United States of America
 100-500,No,M,40,2016,United States of America
 More than 1000,No,O,46,2016,Netherlands
-Self-Employed,No,M,28,2016,Lithuania
+1-5,No,M,28,2016,Lithuania
 More than 1000,No,M,41,2016,United States of America
 6-25,Yes,M,33,2016,United States of America
-Self-Employed,Yes,M,32,2016,United States of America
+1-5,Yes,M,32,2016,United States of America
 6-25,No,M,45,2016,United States of America
-Self-Employed,Yes,M,43,2016,United Kingdom
+1-5,Yes,M,43,2016,United Kingdom
 6-25,Yes,W,37,2016,United States of America
 26-100,Yes,M,37,2016,Australia
 6-25,No,M,27,2016,United States of America
-Self-Employed,No,M,31,2016,Netherlands
+1-5,No,M,31,2016,Netherlands
 More than 1000,Yes,M,36,2016,United States of America
 500-1000,Yes,M,34,2016,United States of America
 More than 1000,No,W,31,2016,United States of America
@@ -62,32 +62,32 @@ More than 1000,No,W,31,2016,United States of America
 More than 1000,No,M,41,2016,France
 26-100,Yes,M,27,2016,United Kingdom
 26-100,No,M,30,2016,United States of America
-Self-Employed,No,M,29,2016,Venezuela
-Self-Employed,No,M,38,2016,United Kingdom
-Self-Employed,No,M,35,2016,Netherlands
+1-5,No,M,29,2016,Venezuela
+1-5,No,M,38,2016,United Kingdom
+1-5,No,M,35,2016,Netherlands
 6-25,Yes,W,35,2016,United States of America
 More than 1000,Yes,M,29,2016,United States of America
 100-500,No,M,28,2016,United States of America
 26-100,Yes,M,27,2016,Netherlands
-Self-Employed,No,M,39,2016,Poland
+1-5,No,M,39,2016,Poland
 100-500,No,M,28,2016,Belgium
 6-25,No,M,46,2016,United States of America
 1-5,Yes,M,40,2016,Netherlands
 26-100,No,M,37,2016,United States of America
 26-100,No,M,41,2016,Netherlands
-Self-Employed,No,M,19,2016,France
+1-5,No,M,19,2016,France
 6-25,No,W,38,2016,Netherlands
 26-100,No,M,33,2016,United States of America
 26-100,Yes,M,33,2016,United States of America
 1-5,No,M,21,2016,United Kingdom
 1-5,No,M,36,2016,Brazil
-Self-Employed,Yes,M,39,2016,Canada
+1-5,Yes,M,39,2016,Canada
 26-100,No,M,35,2016,United States of America
-Self-Employed,Yes,M,36,2016,France
+1-5,Yes,M,36,2016,France
 6-25,No,M,45,2016,United States of America
 26-100,No,M,41,2016,Canada
 26-100,Yes,M,35,2016,United Kingdom
-Self-Employed,Yes,M,30,2016,United States of America
+1-5,Yes,M,30,2016,United States of America
 26-100,Yes,W,24,2016,United States of America
 100-500,Yes,M,33,2016,Brazil
 More than 1000,Yes,M,35,2016,United States of America
@@ -97,23 +97,23 @@ More than 1000,Yes,M,35,2016,United States of America
 100-500,Yes,M,26,2016,United States of America
 26-100,No,W,36,2016,United States of America
 26-100,No,M,46,2016,United States of America
-Self-Employed,No,M,39,2016,Netherlands
+1-5,No,M,39,2016,Netherlands
 100-500,Yes,W,28,2016,United States of America
 500-1000,No,M,40,2016,United States of America
 100-500,Yes,M,23,2016,United States of America
 6-25,No,M,30,2016,United States of America
 26-100,No,O,28,2016,United States of America
 26-100,No,M,27,2016,Netherlands
-Self-Employed,Yes,M,31,2016,United States of America
+1-5,Yes,M,31,2016,United States of America
 26-100,No,W,39,2016,United States of America
 More than 1000,Yes,W,34,2016,United States of America
 6-25,Yes,M,30,2016,United States of America
-Self-Employed,Yes,M,30,2016,Denmark
+1-5,Yes,M,30,2016,Denmark
 100-500,No,M,31,2016,United States of America
 26-100,Yes,M,30,2016,United States of America
 More than 1000,No,M,32,2016,United States of America
-Self-Employed,No,M,22,2016,Czech Republic
-Self-Employed,Yes,W,37,2016,Belgium
+1-5,No,M,22,2016,Czech Republic
+1-5,Yes,W,37,2016,Belgium
 26-100,No,M,51,2016,United States of America
 26-100,Yes,M,26,2016,United States of America
 26-100,Yes,W,41,2016,United States of America
@@ -121,12 +121,12 @@ Self-Employed,Yes,W,37,2016,Belgium
 6-25,Yes,M,43,2016,United States of America
 500-1000,No,M,30,2016,United Kingdom
 26-100,No,W,24,2016,United States of America
-Self-Employed,Yes,M,30,2016,Netherlands
+1-5,Yes,M,30,2016,Netherlands
 26-100,Yes,W,28,2016,Germany
-Self-Employed,Yes,W,48,2016,United States of America
-Self-Employed,No,W,55,2016,United States of America
+1-5,Yes,W,48,2016,United States of America
+1-5,No,W,55,2016,United States of America
 1-5,No,W,36,2016,United States of America
-Self-Employed,No,M,38,2016,Netherlands
+1-5,No,M,38,2016,Netherlands
 100-500,No,M,34,2016,France
 26-100,No,W,44,2016,United States of America
 More than 1000,Yes,M,45,2016,United States of America
@@ -144,16 +144,16 @@ More than 1000,No,M,38,2016,United States of America
 500-1000,Yes,W,36,2016,United States of America
 26-100,Yes,M,21,2016,United Kingdom
 26-100,Yes,W,34,2016,United States of America
-Self-Employed,No,M,40,2016,Germany
+1-5,No,M,40,2016,Germany
 26-100,Yes,M,35,2016,United States of America
 6-25,No,M,44,2016,United States of America
 6-25,Yes,O,35,2016,Canada
 More than 1000,No,M,45,2016,United States of America
 More than 1000,Yes,M,42,2016,United States of America
-Self-Employed,Yes,M,40,2016,United States of America
-Self-Employed,Yes,W,50,2016,United States of America
+1-5,Yes,M,40,2016,United States of America
+1-5,Yes,W,50,2016,United States of America
 100-500,No,M,36,2016,United States of America
-Self-Employed,Yes,W,31,2016,United States of America
+1-5,Yes,W,31,2016,United States of America
 26-100,No,M,29,2016,United States of America
 100-500,No,M,37,2016,United States of America
 26-100,Yes,M,31,2016,United States of America
@@ -167,7 +167,7 @@ More than 1000,No,M,21,2016,United States of America
 More than 1000,No,M,37,2016,Netherlands
 More than 1000,No,W,34,2016,Netherlands
 More than 1000,No,M,40,2016,United Kingdom
-Self-Employed,No,M,25,2016,Netherlands
+1-5,No,M,25,2016,Netherlands
 More than 1000,No,M,36,2016,Germany
 26-100,No,M,25,2016,Germany
 100-500,No,M,35,2016,United States of America
@@ -190,13 +190,13 @@ More than 1000,No,M,45,2016,United States of America
 More than 1000,Yes,M,40,2016,United States of America
 500-1000,Yes,M,39,2016,United States of America
 500-1000,Yes,M,28,2016,United States of America
-Self-Employed,No,M,28,2016,Belgium
+1-5,No,M,28,2016,Belgium
 26-100,No,M,27,2016,Germany
-Self-Employed,No,M,48,2016,United Kingdom
+1-5,No,M,48,2016,United Kingdom
 More than 1000,Yes,W,49,2016,United States of America
 26-100,Yes,M,35,2016,United Kingdom
 100-500,Yes,M,35,2016,Sweden
-Self-Employed,Yes,M,38,2016,United Kingdom
+1-5,Yes,M,38,2016,United Kingdom
 500-1000,Yes,M,32,2016,United States of America
 More than 1000,Yes,M,42,2016,United States of America
 100-500,No,W,33,2016,United States of America
@@ -235,15 +235,15 @@ More than 1000,No,M,27,2016,United States of America
 500-1000,No,W,38,2016,United States of America
 More than 1000,Yes,M,49,2016,United States of America
 26-100,No,M,30,2016,United States of America
-Self-Employed,No,M,34,2016,France
+1-5,No,M,34,2016,France
 100-500,No,M,31,2016,Russia
-Self-Employed,Yes,M,29,2016,United States of America
+1-5,Yes,M,29,2016,United States of America
 100-500,No,M,31,2016,Germany
 100-500,No,M,34,2016,Germany
 6-25,No,M,28,2016,United States of America
-Self-Employed,Yes,W,35,2016,United Kingdom
+1-5,Yes,W,35,2016,United Kingdom
 500-1000,No,M,27,2016,Germany
-Self-Employed,No,M,33,2016,Germany
+1-5,No,M,33,2016,Germany
 6-25,Yes,W,37,2016,United States of America
 More than 1000,Yes,M,45,2016,United Kingdom
 6-25,Yes,W,31,2016,United States of America
@@ -253,7 +253,7 @@ More than 1000,Yes,W,33,2016,United Arab Emirates
 500-1000,Yes,W,45,2016,Canada
 26-100,Yes,W,30,2016,United States of America
 26-100,Yes,M,30,2016,United States of America
-Self-Employed,Yes,M,29,2016,United States of America
+1-5,Yes,M,29,2016,United States of America
 1-5,No,M,36,2016,Mexico
 26-100,Yes,M,28,2016,United States of America
 26-100,Yes,M,36,2016,United States of America
@@ -273,16 +273,16 @@ More than 1000,Yes,W,40,2016,United States of America
 26-100,No,M,40,2016,United States of America
 More than 1000,Yes,M,42,2016,United States of America
 26-100,No,M,36,2016,United States of America
-Self-Employed,No,M,44,2016,United Kingdom
+1-5,No,M,44,2016,United Kingdom
 500-1000,Yes,M,24,2016,United States of America
 100-500,No,M,44,2016,United States of America
 More than 1000,Yes,M,31,2016,United States of America
-Self-Employed,No,M,49,2016,United States of America
+1-5,No,M,49,2016,United States of America
 26-100,No,W,27,2016,United States of America
 More than 1000,No,M,27,2016,United States of America
 100-500,Yes,M,28,2016,United States of America
 6-25,Yes,W,20,2016,United States of America
-Self-Employed,No,M,41,2016,Germany
+1-5,No,M,41,2016,Germany
 100-500,Yes,M,38,2016,Australia
 100-500,No,M,29,2016,United States of America
 100-500,Yes,W,44,2016,United States of America
@@ -292,28 +292,28 @@ Self-Employed,No,M,41,2016,Germany
 6-25,No,M,29,2016,Netherlands
 26-100,Yes,O,26,2016,United Kingdom
 26-100,No,M,26,2016,United Kingdom
-Self-Employed,No,M,34,2016,United Kingdom
+1-5,No,M,34,2016,United Kingdom
 100-500,Yes,W,38,2016,United States of America
 100-500,Yes,M,30,2016,United Kingdom
-Self-Employed,Yes,M,34,2016,United Kingdom
+1-5,Yes,M,34,2016,United Kingdom
 More than 1000,Yes,W,47,2016,Australia
 100-500,Yes,W,33,2016,Switzerland
 More than 1000,No,M,22,2016,United Kingdom
 6-25,No,O,28,2016,United Kingdom
 500-1000,Yes,M,31,2016,United Kingdom
 1-5,Yes,M,56,2016,Australia
-Self-Employed,Yes,W,57,2016,Australia
+1-5,Yes,W,57,2016,Australia
 100-500,No,M,39,2016,United States of America
 1-5,Yes,M,21,2016,United Kingdom
 500-1000,No,W,31,2016,Russia
-Self-Employed,Yes,M,63,2016,United States of America
-Self-Employed,Yes,M,46,2016,Australia
+1-5,Yes,M,63,2016,United States of America
+1-5,Yes,M,46,2016,Australia
 6-25,Yes,W,32,2016,United Kingdom
-Self-Employed,Yes,M,35,2016,United Kingdom
+1-5,Yes,M,35,2016,United Kingdom
 100-500,No,M,34,2016,United Kingdom
 6-25,Yes,M,35,2016,United States of America
 26-100,No,M,31,2016,Norway
-Self-Employed,Yes,W,35,2016,United States of America
+1-5,Yes,W,35,2016,United States of America
 26-100,No,M,36,2016,United States of America
 26-100,Yes,M,50,2016,United States of America
 6-25,Yes,M,31,2016,United States of America
@@ -328,17 +328,17 @@ Self-Employed,Yes,W,35,2016,United States of America
 100-500,No,M,34,2016,Argentina
 26-100,No,M,25,2016,India
 26-100,No,M,35,2016,United States of America
-Self-Employed,Yes,M,37,2016,Netherlands
+1-5,Yes,M,37,2016,Netherlands
 26-100,Yes,W,38,2016,United States of America
 26-100,No,M,29,2016,Canada
 500-1000,No,M,28,2016,United Kingdom
 6-25,Yes,M,29,2016,United States of America
 More than 1000,No,M,40,2016,United States of America
 26-100,Yes,W,25,2016,United States of America
-Self-Employed,No,M,29,2016,Sweden
+1-5,No,M,29,2016,Sweden
 26-100,Yes,W,29,2016,United States of America
 1-5,Yes,M,35,2016,Netherlands
-Self-Employed,No,M,25,2016,United States of America
+1-5,No,M,25,2016,United States of America
 26-100,Yes,M,43,2016,United States of America
 6-25,No,M,26,2016,Ireland
 100-500,No,M,31,2016,Germany
@@ -351,14 +351,14 @@ More than 1000,No,M,23,2016,Italy
 500-1000,No,M,36,2016,United States of America
 100-500,No,M,22,2016,Germany
 1-5,No,M,51,2016,United States of America
-Self-Employed,No,M,39,2016,Denmark
-Self-Employed,No,M,36,2016,United States of America
+1-5,No,M,39,2016,Denmark
+1-5,No,M,36,2016,United States of America
 More than 1000,Yes,M,28,2016,United States of America
 100-500,No,M,40,2016,United States of America
 26-100,Yes,W,35,2016,United States of America
 100-500,Yes,M,38,2016,United States of America
 100-500,No,M,29,2016,United States of America
-Self-Employed,No,M,43,2016,Netherlands
+1-5,No,M,43,2016,Netherlands
 500-1000,Yes,W,31,2016,United States of America
 100-500,No,M,45,2016,United States of America
 100-500,No,M,26,2016,United States of America
@@ -371,12 +371,12 @@ Self-Employed,No,M,43,2016,Netherlands
 500-1000,No,W,35,2016,United States of America
 6-25,No,M,42,2016,Canada
 6-25,Yes,O,99,2016,United States of America
-Self-Employed,Yes,M,29,2016,United Kingdom
-Self-Employed,Yes,M,34,2016,Finland
+1-5,Yes,M,29,2016,United Kingdom
+1-5,Yes,M,34,2016,Finland
 26-100,No,M,28,2016,Canada
 500-1000,No,W,22,2016,Russia
 26-100,Yes,W,28,2016,United States of America
-Self-Employed,Yes,W,26,2016,United States of America
+1-5,Yes,W,26,2016,United States of America
 More than 1000,No,W,21,2016,Australia
 26-100,Yes,M,38,2016,Netherlands
 More than 1000,Yes,M,33,2016,United States of America
@@ -384,8 +384,8 @@ More than 1000,Yes,M,33,2016,United States of America
 26-100,Yes,M,32,2016,United States of America
 1-5,Yes,W,24,2016,Australia
 500-1000,Yes,M,35,2016,United States of America
-Self-Employed,No,M,41,2016,Turkey
-Self-Employed,No,W,38,2016,United States of America
+1-5,No,M,41,2016,Turkey
+1-5,No,W,38,2016,United States of America
 More than 1000,Yes,W,24,2016,United States of America
 100-500,Yes,M,30,2016,United States of America
 100-500,No,W,47,2016,United States of America
@@ -393,30 +393,30 @@ More than 1000,No,W,26,2016,United States of America
 100-500,Yes,M,32,2016,United States of America
 100-500,No,M,32,2016,United States of America
 500-1000,Yes,M,37,2016,United States of America
-Self-Employed,No,M,33,2016,Netherlands
+1-5,No,M,33,2016,Netherlands
 6-25,No,W,28,2016,United Kingdom
 26-100,No,M,22,2016,Netherlands
 500-1000,No,M,30,2016,United States of America
-Self-Employed,Yes,W,42,2016,United States of America
+1-5,Yes,W,42,2016,United States of America
 100-500,No,M,34,2016,United States of America
 6-25,Yes,M,32,2016,United States of America
 100-500,Yes,M,37,2016,United Kingdom
-Self-Employed,Yes,W,31,2016,United States of America
+1-5,Yes,W,31,2016,United States of America
 26-100,Yes,M,31,2016,United States of America
 26-100,No,M,26,2016,Colombia
-Self-Employed,No,M,30,2016,United States of America
+1-5,No,M,30,2016,United States of America
 100-500,Yes,M,36,2016,United States of America
 100-500,Yes,M,38,2016,United States of America
 26-100,Yes,M,24,2016,United States of America
 100-500,No,M,26,2016,United States of America
 More than 1000,Yes,M,37,2016,United States of America
 26-100,Yes,W,27,2016,United Kingdom
-Self-Employed,Yes,M,32,2016,Switzerland
+1-5,Yes,M,32,2016,Switzerland
 26-100,No,M,32,2016,Netherlands
 6-25,Yes,M,30,2016,Netherlands
 26-100,Yes,W,26,2016,Germany
-Self-Employed,Yes,W,27,2016,United Kingdom
-Self-Employed,Yes,M,27,2016,Netherlands
+1-5,Yes,W,27,2016,United Kingdom
+1-5,Yes,M,27,2016,Netherlands
 26-100,No,M,29,2016,Colombia
 26-100,Yes,O,26,2016,Germany
 100-500,No,W,23,2016,United States of America
@@ -426,12 +426,12 @@ More than 1000,Yes,M,40,2016,United States of America
 26-100,No,M,26,2016,United States of America
 More than 1000,No,M,30,2016,United States of America
 100-500,No,W,27,2016,United States of America
-Self-Employed,Yes,M,35,2016,United States of America
+1-5,Yes,M,35,2016,United States of America
 26-100,Yes,W,26,2016,United States of America
 100-500,No,M,35,2016,Australia
 26-100,No,M,29,2016,Netherlands
 100-500,No,M,34,2016,United Kingdom
-Self-Employed,No,M,27,2016,United States of America
+1-5,No,M,27,2016,United States of America
 100-500,No,M,39,2016,United Kingdom
 100-500,No,M,27,2016,United Kingdom
 500-1000,Yes,M,31,2016,Czech Republic
@@ -439,16 +439,16 @@ Self-Employed,No,M,27,2016,United States of America
 26-100,No,M,44,2016,United States of America
 100-500,No,M,27,2016,United States of America
 100-500,Yes,W,57,2016,United States of America
-Self-Employed,No,M,34,2016,United States of America
-Self-Employed,Yes,M,38,2016,United States of America
-Self-Employed,Yes,M,55,2016,United States of America
-Self-Employed,No,M,28,2016,Costa Rica
+1-5,No,M,34,2016,United States of America
+1-5,Yes,M,38,2016,United States of America
+1-5,Yes,M,55,2016,United States of America
+1-5,No,M,28,2016,Costa Rica
 More than 1000,No,M,35,2016,United States of America
 100-500,Yes,M,26,2016,United States of America
 6-25,No,W,22,2016,United States of America
 100-500,No,M,31,2016,United States of America
 26-100,No,M,31,2016,United Kingdom
-Self-Employed,No,M,40,2016,Germany
+1-5,No,M,40,2016,Germany
 More than 1000,Yes,M,26,2016,United States of America
 1-5,No,M,36,2016,United States of America
 26-100,Yes,M,33,2016,United States of America
@@ -461,12 +461,12 @@ More than 1000,Yes,W,37,2016,United States of America
 1-5,No,M,33,2016,United States of America
 1-5,Yes,W,44,2016,Canada
 6-25,Yes,M,23,2016,United States of America
-Self-Employed,No,M,30,2016,United States of America
+1-5,No,M,30,2016,United States of America
 More than 1000,Yes,M,30,2016,United States of America
 26-100,No,M,28,2016,United States of America
 26-100,No,M,39,2016,United States of America
 6-25,Yes,W,24,2016,United States of America
-Self-Employed,Yes,M,27,2016,United Kingdom
+1-5,Yes,M,27,2016,United Kingdom
 More than 1000,Yes,M,35,2016,United States of America
 6-25,No,M,23,2016,United States of America
 More than 1000,No,M,37,2016,United States of America
@@ -480,13 +480,13 @@ More than 1000,No,W,27,2016,United States of America
 100-500,No,M,28,2016,Bulgaria
 6-25,No,M,28,2016,United States of America
 100-500,Yes,M,32,2016,United States of America
-Self-Employed,No,M,43,2016,United States of America
+1-5,No,M,43,2016,United States of America
 26-100,Yes,M,34,2016,United States of America
 6-25,No,W,61,2016,United States of America
-Self-Employed,Yes,M,50,2016,United States of America
-Self-Employed,Yes,M,38,2016,India
+1-5,Yes,M,50,2016,United States of America
+1-5,Yes,M,38,2016,India
 6-25,Yes,M,51,2016,Germany
-Self-Employed,Yes,M,38,2016,Ireland
+1-5,Yes,M,38,2016,Ireland
 500-1000,Yes,M,34,2016,United States of America
 6-25,Yes,M,43,2016,United States of America
 100-500,No,W,43,2016,United States of America
@@ -496,10 +496,10 @@ Self-Employed,Yes,M,38,2016,Ireland
 100-500,Yes,M,29,2016,United States of America
 100-500,Yes,M,29,2016,United States of America
 500-1000,No,M,36,2016,Canada
-Self-Employed,No,M,33,2016,Australia
-Self-Employed,Yes,M,50,2016,Australia
+1-5,No,M,33,2016,Australia
+1-5,Yes,M,50,2016,Australia
 More than 1000,Yes,M,46,2016,United States of America
-Self-Employed,Yes,W,44,2016,New Zealand
+1-5,Yes,W,44,2016,New Zealand
 More than 1000,No,O,23,2016,United States of America
 6-25,Yes,M,41,2016,United States of America
 More than 1000,No,M,31,2016,Canada
@@ -509,42 +509,42 @@ More than 1000,No,M,31,2016,Canada
 6-25,Yes,M,33,2016,United States of America
 100-500,Yes,M,29,2016,United States of America
 More than 1000,Yes,W,33,2016,United States of America
-Self-Employed,No,M,28,2016,United States of America
+1-5,No,M,28,2016,United States of America
 More than 1000,Yes,M,28,2016,United States of America
 26-100,No,M,32,2016,United States of America
 6-25,No,W,36,2016,United States of America
 More than 1000,No,M,45,2016,United Kingdom
-Self-Employed,No,M,29,2016,United Kingdom
+1-5,No,M,29,2016,United Kingdom
 More than 1000,No,M,23,2016,France
-Self-Employed,Yes,W,54,2016,Canada
-Self-Employed,Yes,W,61,2016,United States of America
+1-5,Yes,W,54,2016,Canada
+1-5,Yes,W,61,2016,United States of America
 26-100,Yes,W,29,2016,United States of America
 26-100,Yes,M,31,2016,Australia
-Self-Employed,No,M,37,2016,United States of America
+1-5,No,M,37,2016,United States of America
 6-25,Yes,M,29,2016,Germany
-Self-Employed,No,M,28,2016,United Kingdom
+1-5,No,M,28,2016,United Kingdom
 26-100,No,M,30,2016,United Kingdom
 More than 1000,Yes,M,55,2016,United Kingdom
 6-25,Yes,W,38,2016,United States of America
 6-25,No,M,20,2016,Canada
 100-500,Yes,M,25,2016,United States of America
-Self-Employed,No,M,22,2016,Spain
-Self-Employed,Yes,M,35,2016,United Kingdom
+1-5,No,M,22,2016,Spain
+1-5,Yes,M,35,2016,United Kingdom
 26-100,Yes,M,27,2016,United States of America
 6-25,Yes,M,24,2016,United States of America
-Self-Employed,Yes,M,39,2016,Australia
+1-5,Yes,M,39,2016,Australia
 26-100,No,M,29,2016,Brazil
 26-100,Yes,W,40,2016,United States of America
 1-5,Yes,M,30,2016,United States of America
 26-100,No,M,32,2016,Canada
-Self-Employed,No,M,34,2016,Germany
+1-5,No,M,34,2016,Germany
 6-25,Yes,W,35,2016,Canada
-Self-Employed,No,M,30,2016,United States of America
+1-5,No,M,30,2016,United States of America
 6-25,No,M,36,2016,United Kingdom
 26-100,No,M,26,2016,Sweden
 500-1000,Yes,W,31,2016,Netherlands
 26-100,No,M,33,2016,South Africa
-Self-Employed,Yes,M,30,2016,United Kingdom
+1-5,Yes,M,30,2016,United Kingdom
 26-100,Yes,M,46,2016,United Kingdom
 100-500,Yes,M,32,2016,United States of America
 100-500,No,M,34,2016,United States of America
@@ -561,7 +561,7 @@ More than 1000,No,W,19,2016,United States of America
 6-25,No,M,30,2016,South Africa
 6-25,Yes,O,32,2016,United States of America
 More than 1000,No,M,22,2016,United States of America
-Self-Employed,No,M,30,2016,Poland
+1-5,No,M,30,2016,Poland
 6-25,No,M,33,2016,Slovakia
 6-25,Yes,W,48,2016,United Kingdom
 More than 1000,No,M,45,2016,Germany
@@ -572,14 +572,14 @@ More than 1000,No,M,45,2016,Germany
 More than 1000,No,M,29,2016,United States of America
 More than 1000,No,M,26,2016,United States of America
 100-500,Yes,W,35,2016,United States of America
-Self-Employed,No,M,44,2016,Austria
+1-5,No,M,44,2016,Austria
 6-25,Yes,M,45,2016,United States of America
 6-25,Yes,W,22,2016,United States of America
 100-500,No,M,34,2016,United States of America
 26-100,No,M,35,2016,United Kingdom
-Self-Employed,Yes,M,39,2016,United States of America
+1-5,Yes,M,39,2016,United States of America
 6-25,Yes,M,26,2016,Denmark
-Self-Employed,No,M,41,2016,United States of America
+1-5,No,M,41,2016,United States of America
 More than 1000,Yes,M,24,2016,Australia
 6-25,Yes,M,24,2016,United States of America
 26-100,Yes,M,34,2016,United States of America
@@ -593,34 +593,34 @@ More than 1000,Yes,W,62,2016,United States of America
 26-100,No,M,32,2016,United States of America
 More than 1000,No,M,31,2016,United States of America
 6-25,Yes,M,28,2016,United States of America
-Self-Employed,Yes,W,48,2016,United States of America
-Self-Employed,Yes,M,40,2016,United States of America
+1-5,Yes,W,48,2016,United States of America
+1-5,Yes,M,40,2016,United States of America
 26-100,Yes,M,29,2016,Norway
 26-100,No,M,33,2016,Germany
 26-100,No,M,27,2016,Finland
 26-100,No,M,24,2016,Australia
-Self-Employed,Yes,M,28,2016,Netherlands
+1-5,Yes,M,28,2016,Netherlands
 1-5,No,M,42,2016,United States of America
 26-100,No,M,28,2016,United Kingdom
 500-1000,Yes,M,40,2016,Canada
 More than 1000,Yes,W,32,2016,United States of America
-Self-Employed,Yes,M,33,2016,United States of America
-Self-Employed,Yes,M,40,2016,United States of America
+1-5,Yes,M,33,2016,United States of America
+1-5,Yes,M,40,2016,United States of America
 6-25,Yes,M,26,2016,United States of America
 100-500,Yes,W,39,2016,United States of America
 500-1000,No,M,38,2016,United Kingdom
 More than 1000,No,M,34,2016,United States of America
 26-100,Yes,M,44,2016,Netherlands
-Self-Employed,No,M,54,2016,United Kingdom
+1-5,No,M,54,2016,United Kingdom
 100-500,No,M,24,2016,Pakistan
 6-25,Yes,M,31,2016,United States of America
 More than 1000,Yes,M,47,2016,United States of America
 More than 1000,Yes,M,30,2016,Australia
-Self-Employed,No,M,34,2016,United States of America
+1-5,No,M,34,2016,United States of America
 6-25,Yes,O,29,2016,United States of America
 More than 1000,No,M,27,2016,United States of America
 More than 1000,Yes,M,29,2016,United States of America
-Self-Employed,No,W,43,2016,United States of America
+1-5,No,W,43,2016,United States of America
 100-500,Yes,O,31,2016,United States of America
 6-25,No,M,27,2016,Norway
 6-25,Yes,M,29,2016,United Kingdom
@@ -628,7 +628,7 @@ Self-Employed,No,W,43,2016,United States of America
 More than 1000,Yes,M,42,2016,United States of America
 6-25,No,W,26,2016,United States of America
 6-25,Yes,M,26,2016,Switzerland
-Self-Employed,Yes,M,34,2016,United Kingdom
+1-5,Yes,M,34,2016,United Kingdom
 100-500,No,M,24,2016,United States of America
 More than 1000,No,M,25,2016,United States of America
 6-25,No,M,22,2016,United States of America
@@ -636,18 +636,18 @@ More than 1000,No,M,25,2016,United States of America
 26-100,No,M,53,2016,United States of America
 26-100,Yes,M,32,2016,Canada
 6-25,Yes,M,32,2016,United States of America
-Self-Employed,No,M,55,2016,United States of America
+1-5,No,M,55,2016,United States of America
 6-25,No,M,27,2016,France
 6-25,No,M,34,2016,United Kingdom
 6-25,Yes,M,26,2016,United States of America
 More than 1000,Yes,M,39,2016,United Kingdom
 26-100,No,M,32,2016,United States of America
-Self-Employed,Yes,M,46,2016,United Kingdom
-Self-Employed,No,W,52,2016,United States of America
+1-5,Yes,M,46,2016,United Kingdom
+1-5,No,W,52,2016,United States of America
 500-1000,Yes,O,33,2016,United Kingdom
 26-100,No,M,58,2016,United States of America
 6-25,Yes,M,30,2016,Canada
-Self-Employed,No,M,46,2016,Sweden
+1-5,No,M,46,2016,Sweden
 More than 1000,Yes,M,45,2016,United States of America
 1-5,Yes,W,26,2016,Canada
 100-500,Yes,M,22,2016,United States of America
@@ -658,13 +658,13 @@ More than 1000,Yes,M,3,2016,Canada
 6-25,Yes,M,27,2016,United States of America
 26-100,Yes,W,25,2016,United States of America
 500-1000,Yes,M,33,2016,United Kingdom
-Self-Employed,Yes,W,26,2016,Canada
+1-5,Yes,W,26,2016,Canada
 6-25,No,W,36,2016,United States of America
 6-25,No,M,26,2016,United Kingdom
 6-25,No,M,34,2016,United States of America
 26-100,Yes,M,34,2016,United States of America
 More than 1000,Yes,M,25,2016,United States of America
-Self-Employed,No,W,33,2016,United States of America
+1-5,No,W,33,2016,United States of America
 26-100,No,W,27,2016,Canada
 26-100,No,W,24,2016,Canada
 More than 1000,Yes,W,47,2016,United States of America
@@ -672,13 +672,13 @@ More than 1000,Yes,W,47,2016,United States of America
 More than 1000,Yes,O,35,2016,United States of America
 100-500,Yes,M,30,2016,United States of America
 More than 1000,No,M,42,2016,United States of America
-Self-Employed,Yes,W,36,2016,United States of America
+1-5,Yes,W,36,2016,United States of America
 100-500,No,M,31,2016,United States of America
 100-500,Yes,W,28,2016,United States of America
 26-100,Yes,W,36,2016,United States of America
 6-25,Yes,W,36,2016,United States of America
 26-100,Yes,M,32,2016,Canada
-Self-Employed,No,M,42,2016,United States of America
+1-5,No,M,42,2016,United States of America
 100-500,No,W,41,2016,United States of America
 26-100,No,M,36,2016,Sweden
 26-100,Yes,M,23,2016,United States of America
@@ -692,11 +692,11 @@ More than 1000,Yes,W,54,2016,United States of America
 26-100,No,M,33,2016,United States of America
 More than 1000,Yes,M,38,2016,United Kingdom
 More than 1000,No,M,38,2016,Ireland
-Self-Employed,No,W,38,2016,United States of America
+1-5,No,W,38,2016,United States of America
 1-5,No,W,22,2016,Brazil
-Self-Employed,Yes,W,33,2016,United States of America
+1-5,Yes,W,33,2016,United States of America
 More than 1000,No,W,27,2016,Canada
-Self-Employed,No,W,55,2016,United States of America
+1-5,No,W,55,2016,United States of America
 6-25,Yes,M,66,2016,United States of America
 1-5,No,M,25,2016,United States of America
 26-100,No,M,22,2016,Netherlands
@@ -704,52 +704,52 @@ Self-Employed,No,W,55,2016,United States of America
 100-500,No,M,33,2016,New Zealand
 6-25,No,M,27,2016,Sweden
 6-25,Yes,M,44,2016,United States of America
-Self-Employed,No,M,38,2016,Bulgaria
+1-5,No,M,38,2016,Bulgaria
 6-25,No,M,32,2016,United States of America
 500-1000,No,W,59,2016,United States of America
-Self-Employed,No,M,43,2016,Sweden
-Self-Employed,Yes,W,55,2016,Germany
+1-5,No,M,43,2016,Sweden
+1-5,Yes,W,55,2016,Germany
 More than 1000,Yes,M,32,2016,United States of America
 More than 1000,No,M,41,2016,United Kingdom
 1-5,Yes,W,38,2016,United States of America
-Self-Employed,Yes,M,46,2016,United States of America
+1-5,Yes,M,46,2016,United States of America
 More than 1000,Yes,M,43,2016,United Kingdom
 100-500,Yes,W,29,2016,United States of America
-Self-Employed,No,M,42,2016,United States of America
+1-5,No,M,42,2016,United States of America
 100-500,No,W,25,2016,United States of America
 26-100,Yes,M,49,2016,Afghanistan
 26-100,Yes,M,36,2016,United States of America
-Self-Employed,No,M,30,2016,United Kingdom
+1-5,No,M,30,2016,United Kingdom
 26-100,No,M,28,2016,United States of America
 More than 1000,Yes,M,37,2016,United States of America
 6-25,Yes,W,23,2016,United States of America
-Self-Employed,No,M,37,2016,United Kingdom
-Self-Employed,Yes,M,42,2016,Netherlands
+1-5,No,M,37,2016,United Kingdom
+1-5,Yes,M,42,2016,Netherlands
 More than 1000,Yes,M,32,2016,United States of America
 1-5,No,M,28,2016,Canada
 More than 1000,Yes,M,28,2016,United Kingdom
 More than 1000,Yes,M,29,2016,United States of America
 100-500,Yes,M,35,2016,United States of America
-Self-Employed,Yes,W,31,2016,United States of America
-Self-Employed,Yes,W,46,2016,United States of America
-Self-Employed,Yes,M,19,2016,United States of America
+1-5,Yes,W,31,2016,United States of America
+1-5,Yes,W,46,2016,United States of America
+1-5,Yes,M,19,2016,United States of America
 500-1000,No,M,35,2016,Sweden
 More than 1000,No,M,31,2016,United Kingdom
-Self-Employed,No,M,31,2016,United States of America
+1-5,No,M,31,2016,United States of America
 More than 1000,No,M,37,2016,Canada
 6-25,Yes,W,34,2016,United States of America
 26-100,Yes,W,39,2016,United States of America
-Self-Employed,No,W,29,2016,United States of America
+1-5,No,W,29,2016,United States of America
 100-500,Yes,W,29,2016,United States of America
 More than 1000,No,M,63,2016,United States of America
-Self-Employed,Yes,M,45,2016,Australia
-Self-Employed,No,M,35,2016,Greece
-Self-Employed,Yes,M,32,2016,United Kingdom
-Self-Employed,No,M,44,2016,United States of America
+1-5,Yes,M,45,2016,Australia
+1-5,No,M,35,2016,Greece
+1-5,Yes,M,32,2016,United Kingdom
+1-5,No,M,44,2016,United States of America
 More than 1000,Yes,O,28,2016,United Kingdom
-Self-Employed,No,M,39,2016,Ireland
-Self-Employed,No,W,55,2016,United States of America
-Self-Employed,Yes,W,33,2016,United States of America
+1-5,No,M,39,2016,Ireland
+1-5,No,W,55,2016,United States of America
+1-5,Yes,W,33,2016,United States of America
 6-25,No,M,19,2016,India
 More than 1000,No,M,40,2016,United States of America
 More than 1000,Yes,W,49,2016,United States of America
@@ -760,18 +760,18 @@ More than 1000,Yes,M,35,2016,United Kingdom
 26-100,Yes,W,42,2016,United States of America
 6-25,No,M,35,2016,Canada
 100-500,Yes,W,31,2016,United States of America
-Self-Employed,Yes,M,44,2016,United Kingdom
+1-5,Yes,M,44,2016,United Kingdom
 100-500,No,M,39,2016,United States of America
-Self-Employed,No,M,32,2016,Canada
+1-5,No,M,32,2016,Canada
 More than 1000,No,M,45,2016,New Zealand
-Self-Employed,No,M,31,2016,United States of America
-Self-Employed,Yes,W,47,2016,United States of America
+1-5,No,M,31,2016,United States of America
+1-5,Yes,W,47,2016,United States of America
 26-100,No,M,29,2016,United States of America
 6-25,Yes,M,20,2016,United States of America
 100-500,No,M,34,2016,United States of America
 500-1000,Yes,O,33,2016,United Kingdom
-Self-Employed,No,W,56,2016,United States of America
-Self-Employed,No,M,35,2016,Canada
+1-5,No,W,56,2016,United States of America
+1-5,No,M,35,2016,Canada
 100-500,Yes,M,31,2016,United States of America
 More than 1000,Yes,M,36,2016,United States of America
 100-500,No,M,30,2016,United States of America
@@ -780,12 +780,12 @@ More than 1000,Yes,W,44,2016,United States of America
 More than 1000,No,M,46,2016,United States of America
 100-500,Yes,W,33,2016,United States of America
 500-1000,Yes,W,32,2016,United States of America
-Self-Employed,Yes,M,45,2016,Other
+1-5,Yes,M,45,2016,Other
 6-25,No,M,26,2016,United States of America
-Self-Employed,No,W,32,2016,United States of America
+1-5,No,W,32,2016,United States of America
 More than 1000,No,M,28,2016,United States of America
-Self-Employed,No,M,44,2016,United States of America
-Self-Employed,No,M,42,2016,United Kingdom
+1-5,No,M,44,2016,United States of America
+1-5,No,M,42,2016,United Kingdom
 More than 1000,No,M,30,2016,United States of America
 6-25,Yes,W,28,2016,United States of America
 100-500,Yes,M,31,2016,Canada
@@ -793,38 +793,38 @@ More than 1000,No,M,30,2016,United States of America
 26-100,No,M,33,2016,United States of America
 More than 1000,Yes,W,43,2016,United States of America
 100-500,No,M,28,2016,Australia
-Self-Employed,No,O,42,2016,United States of America
+1-5,No,O,42,2016,United States of America
 100-500,Yes,M,38,2016,United States of America
 6-25,Yes,M,30,2016,United States of America
-Self-Employed,Yes,W,51,2016,United States of America
+1-5,Yes,W,51,2016,United States of America
 26-100,No,W,48,2016,United States of America
-Self-Employed,No,M,39,2016,New Zealand
+1-5,No,M,39,2016,New Zealand
 6-25,No,M,28,2016,Australia
 100-500,Yes,M,37,2016,United States of America
 More than 1000,No,M,33,2016,United States of America
 6-25,No,M,21,2016,Australia
 26-100,Yes,M,25,2016,United States of America
-Self-Employed,No,M,15,2016,Canada
+1-5,No,M,15,2016,Canada
 100-500,Yes,M,40,2016,United States of America
 100-500,Yes,W,30,2016,Canada
-Self-Employed,No,M,27,2016,Romania
+1-5,No,M,27,2016,Romania
 1-5,No,M,25,2016,India
 More than 1000,No,M,38,2016,Germany
 100-500,No,M,24,2016,United Kingdom
 6-25,No,M,23,2016,United Kingdom
-Self-Employed,Yes,W,39,2016,United Kingdom
+1-5,Yes,W,39,2016,United Kingdom
 6-25,No,M,26,2016,United States of America
 More than 1000,No,M,43,2016,United Kingdom
 6-25,No,M,30,2016,New Zealand
-Self-Employed,Yes,M,35,2016,Germany
+1-5,Yes,M,35,2016,Germany
 26-100,No,M,40,2016,United Kingdom
 26-100,No,W,33,2016,United Kingdom
-Self-Employed,No,M,35,2016,Brunei
+1-5,No,M,35,2016,Brunei
 6-25,No,M,22,2016,United Kingdom
 100-500,Yes,M,28,2016,United States of America
 More than 1000,Yes,M,39,2016,United States of America
 100-500,No,M,33,2016,United States of America
-Self-Employed,No,W,25,2016,United Kingdom
+1-5,No,W,25,2016,United Kingdom
 6-25,No,M,37,2016,United States of America
 500-1000,Yes,W,41,2016,France
 More than 1000,Yes,W,30,2016,United States of America
@@ -835,24 +835,24 @@ More than 1000,No,M,42,2016,United States of America
 26-100,Yes,M,24,2016,United States of America
 6-25,No,M,39,2016,United States of America
 6-25,No,M,34,2016,United States of America
-Self-Employed,No,M,32,2016,United States of America
-Self-Employed,Yes,M,25,2016,United Kingdom
+1-5,No,M,32,2016,United States of America
+1-5,Yes,M,25,2016,United Kingdom
 26-100,No,M,43,2016,Poland
 6-25,No,M,39,2016,United States of America
-Self-Employed,Yes,M,35,2016,United States of America
+1-5,Yes,M,35,2016,United States of America
 26-100,Yes,M,34,2016,United States of America
 More than 1000,No,M,38,2016,United Kingdom
 100-500,Yes,W,26,2016,United States of America
 6-25,No,M,24,2016,Bulgaria
 More than 1000,Yes,W,27,2016,United States of America
 6-25,No,M,25,2016,United States of America
-Self-Employed,No,M,37,2016,United States of America
+1-5,No,M,37,2016,United States of America
 More than 1000,No,M,33,2016,Canada
 26-100,Yes,M,34,2016,United States of America
 26-100,Yes,M,27,2016,Canada
 100-500,Yes,M,33,2016,United States of America
 6-25,Yes,M,50,2016,United States of America
-Self-Employed,Yes,W,54,2016,United States of America
+1-5,Yes,W,54,2016,United States of America
 More than 1000,Yes,W,32,2016,Canada
 6-25,No,M,39,2016,Canada
 6-25,No,M,36,2016,United States of America
@@ -863,67 +863,67 @@ More than 1000,No,M,48,2016,United States of America
 6-25,Yes,M,31,2016,United States of America
 1-5,No,M,32,2016,United States of America
 100-500,No,M,32,2016,United States of America
-Self-Employed,Yes,M,31,2016,United States of America
+1-5,Yes,M,31,2016,United States of America
 1-5,Yes,W,28,2016,United States of America
 More than 1000,Yes,M,28,2016,United Kingdom
 26-100,Yes,W,33,2016,United States of America
-Self-Employed,Yes,M,33,2016,United States of America
-Self-Employed,Yes,M,59,2016,United States of America
-Self-Employed,Yes,M,33,2016,United States of America
+1-5,Yes,M,33,2016,United States of America
+1-5,Yes,M,59,2016,United States of America
+1-5,Yes,M,33,2016,United States of America
 100-500,Yes,M,37,2016,United States of America
 6-25,Yes,W,27,2016,Germany
 More than 1000,No,M,39,2016,United States of America
-Self-Employed,No,M,50,2016,Germany
+1-5,No,M,50,2016,Germany
 More than 1000,No,W,34,2016,United States of America
-Self-Employed,No,M,50,2016,Germany
+1-5,No,M,50,2016,Germany
 6-25,No,W,31,2016,Other
 More than 1000,Yes,M,39,2016,United States of America
 26-100,Yes,M,46,2016,United States of America
 More than 1000,No,M,28,2016,United States of America
 26-100,No,M,32,2016,France
-Self-Employed,Yes,W,65,2016,United States of America
-Self-Employed,Yes,M,37,2016,United States of America
-Self-Employed,No,W,41,2016,United States of America
-Self-Employed,Yes,M,38,2016,United States of America
+1-5,Yes,W,65,2016,United States of America
+1-5,Yes,M,37,2016,United States of America
+1-5,No,W,41,2016,United States of America
+1-5,Yes,M,38,2016,United States of America
 26-100,Yes,M,51,2016,United States of America
 500-1000,No,M,29,2016,United States of America
-Self-Employed,No,M,37,2016,Canada
-Self-Employed,No,M,31,2016,Canada
+1-5,No,M,37,2016,Canada
+1-5,No,M,31,2016,Canada
 1-5,No,M,32,2016,Iran
-Self-Employed,Yes,M,31,2016,Sweden
+1-5,Yes,M,31,2016,Sweden
 More than 1000,No,M,52,2016,Switzerland
-Self-Employed,Yes,M,31,2016,Switzerland
-Self-Employed,No,W,38,2016,United Kingdom
+1-5,Yes,M,31,2016,Switzerland
+1-5,No,W,38,2016,United Kingdom
 More than 1000,Yes,M,35,2016,United States of America
-Self-Employed,No,M,29,2016,United States of America
-Self-Employed,No,M,63,2016,United States of America
-Self-Employed,Yes,W,47,2016,United States of America
-Self-Employed,Yes,M,43,2016,Austria
+1-5,No,M,29,2016,United States of America
+1-5,No,M,63,2016,United States of America
+1-5,Yes,W,47,2016,United States of America
+1-5,Yes,M,43,2016,Austria
 26-100,No,M,38,2016,Ireland
 6-25,No,M,27,2016,United States of America
 6-25,No,W,40,2016,United States of America
 500-1000,No,M,32,2016,South Africa
-Self-Employed,No,W,43,2016,United States of America
+1-5,No,W,43,2016,United States of America
 100-500,Yes,W,28,2016,Germany
-Self-Employed,No,M,46,2016,United Kingdom
+1-5,No,M,46,2016,United Kingdom
 More than 1000,No,M,42,2016,United States of America
 1-5,Yes,M,31,2016,United States of America
-Self-Employed,Yes,W,37,2016,United States of America
+1-5,Yes,W,37,2016,United States of America
 6-25,Yes,M,35,2016,Canada
-Self-Employed,No,W,30,2016,United States of America
+1-5,No,W,30,2016,United States of America
 26-100,Yes,M,35,2016,Australia
 26-100,Yes,M,24,2016,United States of America
 6-25,No,M,23,2016,India
-Self-Employed,Yes,W,39,2016,United Kingdom
+1-5,Yes,W,39,2016,United Kingdom
 6-25,No,M,38,2016,France
-Self-Employed,Yes,M,28,2016,United Kingdom
-Self-Employed,No,M,30,2016,United Kingdom
-Self-Employed,No,M,38,2016,United Kingdom
+1-5,Yes,M,28,2016,United Kingdom
+1-5,No,M,30,2016,United Kingdom
+1-5,No,M,38,2016,United Kingdom
 26-100,No,M,33,2016,France
 26-100,No,M,35,2016,United Kingdom
-Self-Employed,No,M,54,2016,United Kingdom
+1-5,No,M,54,2016,United Kingdom
 100-500,No,W,30,2016,Germany
-Self-Employed,No,W,32,2016,United Kingdom
+1-5,No,W,32,2016,United Kingdom
 500-1000,No,M,28,2016,United States of America
 6-25,Yes,M,39,2016,Germany
 1-5,Yes,O,21,2016,United States of America
@@ -936,29 +936,29 @@ More than 1000,No,M,30,2016,United States of America
 100-500,No,M,31,2016,Bulgaria
 100-500,Yes,M,32,2016,United States of America
 26-100,Yes,W,45,2016,United Kingdom
-Self-Employed,No,M,29,2016,Switzerland
+1-5,No,M,29,2016,Switzerland
 26-100,No,M,27,2016,United States of America
 26-100,No,W,28,2016,United Kingdom
 500-1000,No,M,38,2016,United States of America
 500-1000,Yes,M,38,2016,United States of America
 More than 1000,Yes,M,34,2016,Hungary
-Self-Employed,Yes,M,36,2016,Netherlands
+1-5,Yes,M,36,2016,Netherlands
 6-25,No,M,23,2016,France
 100-500,Yes,W,40,2016,United States of America
-Self-Employed,Yes,M,39,2016,United States of America
+1-5,Yes,M,39,2016,United States of America
 26-100,Yes,M,28,2016,United States of America
 6-25,No,M,33,2016,United States of America
-Self-Employed,Yes,M,32,2016,United States of America
+1-5,Yes,M,32,2016,United States of America
 More than 1000,Yes,M,32,2016,United States of America
 More than 1000,Yes,M,27,2016,United States of America
 100-500,Yes,M,33,2016,Israel
 100-500,No,M,34,2016,Japan
-Self-Employed,Yes,W,38,2016,India
+1-5,Yes,W,38,2016,India
 More than 1000,No,M,35,2016,United States of America
 26-100,No,M,39,2016,United States of America
 More than 1000,No,M,35,2016,United States of America
 100-500,No,M,34,2016,United States of America
-Self-Employed,Yes,W,44,2016,United States of America
+1-5,Yes,W,44,2016,United States of America
 500-1000,No,M,42,2016,United States of America
 6-25,No,M,30,2016,United States of America
 26-100,No,M,55,2016,United States of America
@@ -979,13 +979,13 @@ More than 1000,Yes,M,32,2016,United Kingdom
 100-500,No,M,30,2016,United States of America
 26-100,No,M,33,2016,United States of America
 6-25,No,M,22,2016,United States of America
-Self-Employed,Yes,M,35,2016,United States of America
+1-5,Yes,M,35,2016,United States of America
 26-100,No,M,26,2016,United States of America
 100-500,No,M,34,2016,United States of America
-Self-Employed,No,M,40,2016,United States of America
+1-5,No,M,40,2016,United States of America
 100-500,Yes,M,37,2016,Bulgaria
 1-5,No,M,43,2016,Switzerland
-Self-Employed,Yes,M,20,2016,United States of America
+1-5,Yes,M,20,2016,United States of America
 500-1000,Yes,W,30,2016,United States of America
 More than 1000,No,M,32,2016,United States of America
 More than 1000,No,M,35,2016,United States of America
@@ -996,17 +996,17 @@ More than 1000,No,M,30,2016,United States of America
 100-500,Yes,M,38,2016,United States of America
 26-100,No,M,30,2016,Brazil
 26-100,Yes,M,26,2016,Netherlands
-Self-Employed,Yes,M,27,2016,Germany
+1-5,Yes,M,27,2016,Germany
 1-5,No,M,24,2016,United States of America
 100-500,No,M,35,2016,United States of America
 More than 1000,Yes,M,38,2016,Sweden
 100-500,Yes,O,36,2016,United States of America
-Self-Employed,Yes,M,34,2016,United Kingdom
+1-5,Yes,M,34,2016,United Kingdom
 26-100,Yes,M,35,2016,United States of America
 6-25,No,M,25,2016,United States of America
 100-500,Yes,W,32,2016,Sweden
 100-500,No,W,32,2016,United States of America
-Self-Employed,Yes,M,37,2016,United States of America
+1-5,Yes,M,37,2016,United States of America
 100-500,No,M,28,2016,Germany
 500-1000,No,W,34,2016,United Kingdom
 More than 1000,Yes,W,40,2016,United States of America
@@ -1015,7 +1015,7 @@ More than 1000,Yes,M,45,2016,United States of America
 More than 1000,Yes,M,30,2016,United States of America
 More than 1000,No,W,47,2016,United Kingdom
 100-500,No,M,48,2016,United Kingdom
-Self-Employed,No,M,44,2016,United States of America
+1-5,No,M,44,2016,United States of America
 More than 1000,Yes,M,29,2016,United States of America
 More than 1000,No,M,52,2016,United States of America
 100-500,No,W,34,2016,Sweden
@@ -1023,46 +1023,46 @@ More than 1000,No,M,52,2016,United States of America
 More than 1000,No,M,27,2016,United States of America
 More than 1000,No,M,30,2016,Russia
 6-25,No,M,40,2016,United Kingdom
-Self-Employed,No,M,26,2016,United States of America
-Self-Employed,No,M,36,2016,United Kingdom
+1-5,No,M,26,2016,United States of America
+1-5,No,M,36,2016,United Kingdom
 26-100,No,M,35,2016,United Kingdom
 More than 1000,No,W,43,2016,United Kingdom
 26-100,Yes,W,36,2016,United Kingdom
 100-500,No,W,32,2016,United States of America
-Self-Employed,No,W,36,2016,Ireland
+1-5,No,W,36,2016,Ireland
 More than 1000,Yes,M,38,2016,New Zealand
 More than 1000,No,M,35,2016,United States of America
 100-500,Yes,W,35,2016,Australia
 More than 1000,Yes,M,45,2016,United States of America
-Self-Employed,No,M,47,2016,New Zealand
+1-5,No,M,47,2016,New Zealand
 100-500,No,M,27,2016,United States of America
 26-100,Yes,M,26,2016,United States of America
-Self-Employed,Yes,M,51,2016,Australia
+1-5,Yes,M,51,2016,Australia
 26-100,Yes,M,25,2016,Ecuador
 100-500,No,M,41,2016,South Africa
 More than 1000,No,M,34,2016,United States of America
 100-500,No,M,43,2016,Sweden
 26-100,Yes,M,33,2016,United Kingdom
-Self-Employed,No,M,37,2016,Australia
+1-5,No,M,37,2016,Australia
 26-100,Yes,W,27,2016,United Kingdom
-Self-Employed,Yes,W,54,2016,United States of America
+1-5,Yes,W,54,2016,United States of America
 More than 1000,No,M,38,2016,Italy
 More than 1000,Yes,M,42,2016,Germany
 26-100,No,M,30,2016,United Kingdom
 500-1000,Yes,M,43,2016,Australia
-Self-Employed,Yes,M,33,2016,Netherlands
+1-5,Yes,M,33,2016,Netherlands
 1-5,No,W,37,2016,Australia
 100-500,Yes,M,25,2016,United States of America
 More than 1000,Yes,M,27,2016,Australia
-Self-Employed,Yes,M,27,2016,Canada
+1-5,Yes,M,27,2016,Canada
 More than 1000,Yes,M,27,2016,United States of America
-Self-Employed,No,M,35,2016,Germany
+1-5,No,M,35,2016,Germany
 6-25,No,M,24,2016,United Kingdom
 100-500,Yes,O,31,2016,Switzerland
 26-100,No,M,31,2016,Germany
 More than 1000,No,M,32,2016,United States of America
 More than 1000,Yes,M,33,2016,Australia
-Self-Employed,Yes,M,56,2016,United States of America
+1-5,Yes,M,56,2016,United States of America
 More than 1000,No,M,43,2016,United States of America
 More than 1000,Yes,M,49,2016,Australia
 26-100,No,M,35,2016,Bulgaria
@@ -1070,41 +1070,41 @@ More than 1000,Yes,M,53,2016,Canada
 100-500,Yes,M,45,2016,United States of America
 100-500,No,M,40,2016,United States of America
 More than 1000,No,M,52,2016,United States of America
-Self-Employed,Yes,M,30,2016,United Kingdom
+1-5,Yes,M,30,2016,United Kingdom
 More than 1000,Yes,M,41,2016,New Zealand
-Self-Employed,Yes,M,31,2016,Netherlands
+1-5,Yes,M,31,2016,Netherlands
 100-500,No,M,31,2016,Switzerland
-Self-Employed,No,O,24,2016,United States of America
+1-5,No,O,24,2016,United States of America
 100-500,Yes,M,44,2016,Australia
 More than 1000,Yes,M,37,2016,United States of America
 6-25,Yes,M,22,2016,Brazil
 26-100,Yes,W,31,2016,United States of America
 26-100,No,W,36,2016,Bulgaria
-Self-Employed,Yes,M,28,2016,Romania
+1-5,Yes,M,28,2016,Romania
 500-1000,No,W,25,2016,United States of America
-Self-Employed,No,M,49,2016,United States of America
+1-5,No,M,49,2016,United States of America
 1-5,Yes,W,22,2016,United States of America
-Self-Employed,Yes,M,43,2016,United States of America
-Self-Employed,Yes,M,33,2016,United States of America
+1-5,Yes,M,43,2016,United States of America
+1-5,Yes,M,33,2016,United States of America
 500-1000,Yes,W,36,2016,United States of America
 26-100,Yes,W,26,2016,United States of America
 More than 1000,Yes,M,43,2016,United States of America
-Self-Employed,No,M,21,2016,United States of America
+1-5,No,M,21,2016,United States of America
 More than 1000,Yes,M,39,2016,Australia
 More than 1000,Yes,M,46,2016,United Kingdom
 1-5,No,M,32,2016,United Kingdom
-Self-Employed,No,M,31,2016,United Kingdom
-Self-Employed,Yes,W,39,2016,United Kingdom
+1-5,No,M,31,2016,United Kingdom
+1-5,Yes,W,39,2016,United Kingdom
 100-500,Yes,M,44,2016,Sweden
 More than 1000,Yes,M,36,2016,United States of America
 More than 1000,No,W,31,2016,United Kingdom
-Self-Employed,Yes,O,30,2016,United States of America
+1-5,Yes,O,30,2016,United States of America
 100-500,Yes,M,36,2016,United States of America
-Self-Employed,No,M,31,2016,United States of America
+1-5,No,M,31,2016,United States of America
 1-5,No,M,23,2016,Canada
 26-100,Yes,M,23,2016,Canada
-Self-Employed,Yes,W,30,2016,United States of America
-Self-Employed,No,M,34,2016,Canada
+1-5,Yes,W,30,2016,United States of America
+1-5,No,M,34,2016,Canada
 6-25,No,W,49,2016,United States of America
 6-25,No,M,25,2016,Bosnia and Herzegovina
 6-25,No,M,39,2016,United Kingdom
@@ -1120,7 +1120,7 @@ More than 1000,No,M,37,2016,Germany
 100-500,Yes,M,51,2016,United States of America
 More than 1000,Yes,M,26,2016,United States of America
 26-100,No,M,24,2016,United States of America
-Self-Employed,Yes,W,33,2016,United States of America
+1-5,Yes,W,33,2016,United States of America
 26-100,Yes,W,32,2016,United States of America
 6-25,No,M,57,2016,United States of America
 More than 1000,Yes,M,39,2016,United States of America
@@ -1134,9 +1134,9 @@ More than 1000,Yes,W,26,2016,United States of America
 More than 1000,Yes,M,34,2016,United States of America
 More than 1000,Yes,W,46,2016,United States of America
 More than 1000,Yes,W,31,2016,United States of America
-Self-Employed,Yes,M,42,2016,Ireland
+1-5,Yes,M,42,2016,Ireland
 More than 1000,No,M,30,2016,United States of America
-Self-Employed,Yes,O,26,2016,United States of America
+1-5,Yes,O,26,2016,United States of America
 1-5,Yes,M,29,2016,Austria
 100-500,Yes,M,31,2016,United States of America
 26-100,Yes,M,40,2016,United States of America
@@ -1168,15 +1168,15 @@ More than 1000,Yes,M,46,2016,Ireland
 More than 1000,Yes,M,49,2016,United States of America
 More than 1000,Yes,M,34,2016,United States of America
 26-100,No,M,43,2016,United Kingdom
-Self-Employed,Yes,M,35,2016,Ireland
-Self-Employed,Yes,M,32,2016,United States of America
+1-5,Yes,M,35,2016,Ireland
+1-5,Yes,M,32,2016,United States of America
 More than 1000,No,M,24,2016,Sweden
 More than 1000,Yes,M,33,2016,United States of America
 1-5,No,M,28,2016,Finland
 More than 1000,Yes,M,48,2016,Germany
 26-100,Yes,W,33,2016,United States of America
 100-500,No,M,40,2016,United States of America
-Self-Employed,Yes,M,22,2016,United States of America
+1-5,Yes,M,22,2016,United States of America
 100-500,Yes,W,22,2016,United States of America
 100-500,Yes,W,23,2016,United States of America
 More than 1000,Yes,M,33,2016,Germany
@@ -1185,13 +1185,13 @@ More than 1000,Yes,M,32,2016,United States of America
 26-100,Yes,M,43,2016,United States of America
 More than 1000,No,M,49,2016,United States of America
 More than 1000,No,M,44,2016,Sweden
-Self-Employed,No,M,29,2016,United States of America
+1-5,No,M,29,2016,United States of America
 26-100,No,M,27,2016,Canada
 6-25,No,M,30,2016,United States of America
 1-5,No,W,43,2016,United States of America
 26-100,Yes,W,30,2016,United States of America
 26-100,Yes,W,33,2016,United States of America
-Self-Employed,Yes,W,27,2016,United States of America
+1-5,Yes,W,27,2016,United States of America
 6-25,No,W,26,2016,United States of America
 100-500,Yes,M,47,2016,Ireland
 6-25,No,M,30,2016,United States of America
@@ -1206,17 +1206,17 @@ More than 1000,Yes,M,38,2016,United States of America
 26-100,No,W,27,2016,United States of America
 500-1000,Yes,W,31,2016,United States of America
 26-100,No,W,30,2016,United Kingdom
-Self-Employed,No,M,34,2016,United Kingdom
+1-5,No,M,34,2016,United Kingdom
 26-100,No,M,26,2016,United States of America
 100-500,Yes,W,27,2016,United Kingdom
 26-100,No,M,29,2016,United States of America
-Self-Employed,No,W,37,2016,Canada
-Self-Employed,Yes,W,49,2016,United States of America
+1-5,No,W,37,2016,Canada
+1-5,Yes,W,49,2016,United States of America
 More than 1000,No,M,39,2016,United States of America
-Self-Employed,No,M,42,2016,China
+1-5,No,M,42,2016,China
 500-1000,Yes,M,28,2016,United States of America
-Self-Employed,No,M,33,2016,United States of America
-Self-Employed,No,W,30,2016,United Kingdom
+1-5,No,M,33,2016,United States of America
+1-5,No,W,30,2016,United Kingdom
 26-100,Yes,M,70,2016,United States of America
 6-25,Yes,M,25,2016,Germany
 26-100,Yes,M,45,2016,United Kingdom
@@ -1225,7 +1225,7 @@ More than 1000,Yes,W,63,2016,United States of America
 26-100,Yes,M,39,2016,United States of America
 6-25,Yes,W,31,2016,United States of America
 26-100,No,M,34,2016,United States of America
-Self-Employed,Yes,M,44,2016,United Kingdom
+1-5,Yes,M,44,2016,United Kingdom
 500-1000,No,M,45,2016,Ireland
 100-500,Yes,M,43,2016,United States of America
 26-100,No,M,29,2016,United States of America
@@ -1235,7 +1235,7 @@ Self-Employed,Yes,M,44,2016,United Kingdom
 26-100,Yes,W,30,2016,United States of America
 26-100,Yes,M,28,2016,United States of America
 More than 1000,No,M,28,2016,United States of America
-Self-Employed,Yes,M,39,2016,Switzerland
+1-5,Yes,M,39,2016,Switzerland
 6-25,No,M,22,2016,United Kingdom
 26-100,No,M,31,2016,United States of America
 26-100,No,M,29,2016,United Kingdom
@@ -1243,91 +1243,91 @@ Self-Employed,Yes,M,39,2016,Switzerland
 100-500,No,M,37,2016,Germany
 100-500,No,M,42,2016,United States of America
 6-25,Yes,M,31,2016,United Kingdom
-Self-Employed,Yes,M,34,2016,United States of America
-Self-Employed,Yes,W,49,2016,United States of America
+1-5,Yes,M,34,2016,United States of America
+1-5,Yes,W,49,2016,United States of America
 26-100,No,M,29,2016,Canada
 More than 1000,Yes,M,40,2016,United States of America
 26-100,Yes,W,46,2016,Netherlands
-Self-Employed,Yes,W,31,2016,United States of America
+1-5,Yes,W,31,2016,United States of America
 100-500,No,M,43,2016,Denmark
-Self-Employed,No,M,45,2016,Germany
+1-5,No,M,45,2016,Germany
 6-25,No,M,32,2016,United Kingdom
-Self-Employed,Yes,M,38,2016,United States of America
+1-5,Yes,M,38,2016,United States of America
 More than 1000,Yes,M,40,2016,Netherlands
 26-100,Yes,M,38,2016,Germany
 100-500,Yes,M,32,2016,United Kingdom
 More than 1000,No,M,37,2016,Mexico
-Self-Employed,Yes,M,24,2016,Sweden
-Self-Employed,No,W,25,2016,United States of America
+1-5,Yes,M,24,2016,Sweden
+1-5,No,W,25,2016,United States of America
 6-25,No,M,24,2016,United States of America
 More than 1000,No,W,34,2016,United States of America
-Self-Employed,Yes,M,55,2016,United States of America
+1-5,Yes,M,55,2016,United States of America
 100-500,Yes,M,32,2016,United States of America
 1-5,No,M,29,2016,Romania
 More than 1000,No,M,20,2016,United States of America
 More than 1000,No,M,41,2016,United States of America
 6-25,Yes,W,33,2016,United States of America
 26-100,Yes,M,25,2016,United States of America
-Self-Employed,No,M,29,2016,United Kingdom
+1-5,No,M,29,2016,United Kingdom
 More than 1000,Yes,O,24,2016,United States of America
 100-500,Yes,M,39,2016,United States of America
 500-1000,No,M,39,2016,United Kingdom
-Self-Employed,No,M,44,2016,United Kingdom
-Self-Employed,Yes,W,30,2016,Netherlands
+1-5,No,M,44,2016,United Kingdom
+1-5,Yes,W,30,2016,Netherlands
 6-25,No,M,31,2016,Denmark
 1-5,Yes,M,37,2016,United Kingdom
 6-25,Yes,M,42,2016,United Kingdom
-Self-Employed,No,M,35,2016,Canada
+1-5,No,M,35,2016,Canada
 26-100,Yes,M,30,2016,United States of America
 More than 1000,No,M,30,2016,Canada
 26-100,No,M,33,2016,United States of America
 More than 1000,No,M,31,2016,United States of America
 More than 1000,Yes,W,39,2016,United States of America
 26-100,No,M,27,2016,Germany
-Self-Employed,Yes,M,34,2016,United Kingdom
+1-5,Yes,M,34,2016,United Kingdom
 6-25,No,M,31,2016,United States of America
 More than 1000,Yes,W,30,2016,United States of America
 26-100,Yes,M,34,2016,United States of America
 6-25,No,O,20,2016,Canada
-Self-Employed,Yes,M,39,2016,United States of America
+1-5,Yes,M,39,2016,United States of America
 More than 1000,Yes,W,50,2016,United States of America
 1-5,No,M,22,2016,United States of America
 100-500,No,M,41,2016,Spain
 26-100,No,M,37,2016,Germany
 100-500,Yes,M,32,2016,United States of America
-Self-Employed,Yes,M,26,2016,Austria
+1-5,Yes,M,26,2016,Austria
 6-25,No,M,38,2016,Netherlands
-Self-Employed,No,M,21,2016,United Kingdom
+1-5,No,M,21,2016,United Kingdom
 6-25,Yes,M,27,2016,United States of America
 1-5,Yes,W,37,2016,United States of America
-Self-Employed,No,M,45,2016,United Kingdom
-Self-Employed,No,M,26,2016,United States of America
+1-5,No,M,45,2016,United Kingdom
+1-5,No,M,26,2016,United States of America
 6-25,No,W,30,2016,United States of America
 More than 1000,Yes,M,21,2016,United States of America
 More than 1000,Yes,M,21,2016,United States of America
-Self-Employed,No,M,29,2016,Germany
+1-5,No,M,29,2016,Germany
 More than 1000,No,M,46,2016,United States of America
 500-1000,Yes,M,28,2016,United States of America
-Self-Employed,Yes,W,37,2016,United States of America
+1-5,Yes,W,37,2016,United States of America
 More than 1000,No,M,44,2016,United States of America
-Self-Employed,Yes,W,45,2016,United States of America
+1-5,Yes,W,45,2016,United States of America
 1-5,No,W,35,2016,United States of America
 26-100,Yes,M,39,2016,United States of America
 More than 1000,Yes,W,37,2016,United States of America
 100-500,No,M,35,2016,United States of America
 More than 1000,Yes,W,29,2016,United States of America
-Self-Employed,Yes,W,49,2016,United States of America
+1-5,Yes,W,49,2016,United States of America
 26-100,Yes,M,21,2016,United States of America
 26-100,Yes,W,26,2016,United States of America
 100-500,Yes,M,35,2016,Germany
 100-500,Yes,M,56,2016,United States of America
-Self-Employed,Yes,W,53,2016,United States of America
-Self-Employed,Yes,W,48,2016,United States of America
+1-5,Yes,W,53,2016,United States of America
+1-5,Yes,W,48,2016,United States of America
 26-100,No,M,24,2016,United Kingdom
 More than 1000,No,M,37,2016,Ireland
 26-100,Yes,W,27,2016,United States of America
 1-5,Yes,W,39,2016,United States of America
-Self-Employed,No,M,31,2016,Finland
+1-5,No,M,31,2016,Finland
 100-500,No,M,34,2016,United States of America
 More than 1000,Yes,M,33,2016,United Kingdom
 1-5,No,M,22,2016,United Kingdom
@@ -1342,14 +1342,14 @@ More than 1000,Yes,W,29,2016,United States of America
 6-25,Yes,W,27,2016,Chile
 More than 1000,No,M,23,2016,United States of America
 More than 1000,No,W,24,2016,United States of America
-Self-Employed,Yes,M,22,2016,Guatemala
+1-5,Yes,M,22,2016,Guatemala
 1-5,No,M,28,2016,United Kingdom
 6-25,Yes,M,22,2016,United States of America
 26-100,No,M,32,2016,United States of America
 6-25,Yes,W,35,2016,United States of America
 26-100,Yes,M,26,2016,United States of America
 More than 1000,Yes,W,31,2016,United Kingdom
-Self-Employed,Yes,M,32,2016,United States of America
+1-5,Yes,M,32,2016,United States of America
 100-500,Yes,M,37,2016,Pakistan
 6-25,Yes,M,24,2016,United Kingdom
 26-100,No,M,33,2016,United States of America
@@ -1359,17 +1359,17 @@ More than 1000,No,W,22,2016,United States of America
 26-100,No,M,30,2016,United States of America
 26-100,Yes,M,29,2016,United States of America
 100-500,No,M,22,2016,United States of America
-Self-Employed,Yes,W,24,2016,United States of America
-Self-Employed,No,W,29,2016,United States of America
+1-5,Yes,W,24,2016,United States of America
+1-5,No,W,29,2016,United States of America
 More than 1000,Yes,M,30,2016,United States of America
-Self-Employed,No,M,25,2016,United States of America
+1-5,No,M,25,2016,United States of America
 More than 1000,No,M,39,2016,United States of America
-Self-Employed,No,M,31,2016,Serbia
-Self-Employed,Yes,M,25,2016,United States of America
+1-5,No,M,31,2016,Serbia
+1-5,Yes,M,25,2016,United States of America
 500-1000,No,M,39,2016,United States of America
 More than 1000,Yes,W,31,2016,United States of America
 100-500,No,M,35,2016,United States of America
-Self-Employed,Yes,O,31,2016,United States of America
+1-5,Yes,O,31,2016,United States of America
 More than 1000,Yes,M,23,2016,United States of America
 More than 1000,Yes,M,30,2016,United States of America
 6-25,No,M,28,2016,France
@@ -1377,7 +1377,7 @@ More than 1000,Yes,W,23,2016,Ireland
 26-100,Yes,W,26,2016,United States of America
 26-100,Yes,W,24,2016,United States of America
 More than 1000,No,M,32,2016,United States of America
-Self-Employed,Yes,M,35,2016,United States of America
+1-5,Yes,M,35,2016,United States of America
 100-500,No,M,30,2016,Estonia
 26-100,Yes,M,32,2016,United States of America
 6-25,Yes,M,35,2016,United States of America
@@ -1391,7 +1391,7 @@ More than 1000,Yes,M,37,2016,United Kingdom
 More than 1000,Yes,O,22,2016,United States of America
 26-100,Yes,M,33,2016,United Kingdom
 1-5,Yes,M,23,2016,United States of America
-Self-Employed,Yes,M,29,2016,Brazil
+1-5,Yes,M,29,2016,Brazil
 26-100,Yes,M,28,2016,United States of America
 More than 1000,Yes,M,30,2016,United States of America
 100-500,Yes,M,28,2016,United States of America
@@ -1399,11 +1399,11 @@ More than 1000,Yes,M,30,2016,United States of America
 More than 1000,Yes,M,37,2016,United States of America
 26-100,Yes,M,30,2016,United States of America
 6-25,Yes,M,27,2016,India
-Self-Employed,Yes,M,29,2016,Canada
+1-5,Yes,M,29,2016,Canada
 More than 1000,Yes,M,28,2016,Poland
 6-25,Yes,W,26,2016,Ireland
 100-500,Yes,M,29,2016,United States of America
-Self-Employed,No,M,34,2016,Germany
+1-5,No,M,34,2016,Germany
 100-500,Yes,M,36,2016,United Kingdom
 26-100,Yes,M,38,2016,Belgium
 6-25,Yes,W,22,2016,United States of America
@@ -1415,7 +1415,7 @@ More than 1000,Yes,W,24,2016,United States of America
 26-100,Yes,M,31,2016,Netherlands
 26-100,Yes,M,39,2016,United Kingdom
 More than 1000,Yes,M,41,2016,United States of America
-Self-Employed,No,M,29,2016,United Kingdom
+1-5,No,M,29,2016,United Kingdom
 26-100,No,M,37,2016,Estonia
 26-100,No,M,30,2016,United States of America
 100-500,No,M,24,2016,Canada
@@ -1423,8 +1423,8 @@ Self-Employed,No,M,29,2016,United Kingdom
 100-500,No,M,24,2016,Canada
 100-500,Yes,W,26,2016,Canada
 500-1000,Yes,W,38,2016,United States of America
-Self-Employed,No,W,34,2016,United States of America
-Self-Employed,Yes,M,56,2016,Afghanistan
+1-5,No,W,34,2016,United States of America
+1-5,Yes,M,56,2016,Afghanistan
 100-500,Yes,M,52,2016,United States of America
 100-500,Yes,W,30,2016,United States of America
 100-500,No,O,25,2016,Canada

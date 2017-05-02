@@ -1,0 +1,2684 @@
+companySize,diagnosedWithMHD,gender,age,year,workCountry,isUSA,isUK,isCA
+26-100,1,M,39,2016,United Kingdom,0,1,0
+6-25,1,M,29,2016,United States of America,1,0,0
+6-25,0,M,38,2016,United Kingdom,0,1,0
+1-5,1,M,43,2016,United Kingdom,0,1,0
+6-25,1,W,43,2016,United States of America,1,0,0
+More than 1000,0,M,42,2016,United Kingdom,0,1,0
+26-100,0,M,30,2016,United States of America,1,0,0
+More than 1000,1,W,37,2016,United States of America,1,0,0
+26-100,1,W,44,2016,United States of America,1,0,0
+1-5,1,M,30,2016,United States of America,1,0,0
+26-100,1,M,28,2016,United States of America,1,0,0
+100-500,1,M,34,2016,United States of America,1,0,0
+100-500,1,W,30,2016,United States of America,1,0,0
+100-500,0,M,44,2016,Canada,0,0,1
+100-500,1,M,35,2016,United States of America,1,0,0
+100-500,1,M,52,2016,United States of America,1,0,0
+26-100,1,W,32,2016,Canada,0,0,1
+500-1000,0,M,34,2016,United Kingdom,0,1,0
+1-5,1,W,25,2016,United States of America,1,0,0
+100-500,1,M,31,2016,United States of America,1,0,0
+6-25,0,M,26,2016,United States of America,1,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+26-100,0,M,25,2016,Germany,0,0,0
+1-5,1,M,33,2016,Canada,0,0,1
+1-5,0,M,38,2016,United States of America,1,0,0
+100-500,0,M,42,2016,Germany,0,0,0
+26-100,1,M,27,2016,Netherlands,0,0,0
+100-500,0,M,35,2016,Germany,0,0,0
+500-1000,0,W,34,2016,United Kingdom,0,1,0
+6-25,1,O,32,2016,United Kingdom,0,1,0
+100-500,1,O,32,2016,Germany,0,0,0
+100-500,1,M,30,2016,United States of America,1,0,0
+More than 1000,0,M,31,2016,United States of America,1,0,0
+1-5,0,M,37,2016,Czech Republic,0,0,0
+26-100,0,M,36,2016,United Kingdom,0,1,0
+100-500,0,M,33,2016,Germany,0,0,0
+26-100,1,M,44,2016,United States of America,1,0,0
+100-500,0,M,29,2016,United Kingdom,0,1,0
+100-500,1,M,29,2016,United Kingdom,0,1,0
+More than 1000,0,M,44,2016,Canada,0,0,1
+1-5,0,M,34,2016,United States of America,1,0,0
+100-500,0,M,40,2016,United States of America,1,0,0
+More than 1000,0,O,46,2016,Netherlands,0,0,0
+1-5,0,M,28,2016,Lithuania,0,0,0
+More than 1000,0,M,41,2016,United States of America,1,0,0
+6-25,1,M,33,2016,United States of America,1,0,0
+1-5,1,M,32,2016,United States of America,1,0,0
+6-25,0,M,45,2016,United States of America,1,0,0
+1-5,1,M,43,2016,United Kingdom,0,1,0
+6-25,1,W,37,2016,United States of America,1,0,0
+26-100,1,M,37,2016,Australia,0,0,0
+6-25,0,M,27,2016,United States of America,1,0,0
+1-5,0,M,31,2016,Netherlands,0,0,0
+More than 1000,1,M,36,2016,United States of America,1,0,0
+500-1000,1,M,34,2016,United States of America,1,0,0
+More than 1000,0,W,31,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+100-500,0,M,32,2016,Canada,0,0,1
+6-25,0,W,40,2016,United States of America,1,0,0
+100-500,0,M,40,2016,United States of America,1,0,0
+More than 1000,0,M,41,2016,France,0,0,0
+26-100,1,M,27,2016,United Kingdom,0,1,0
+26-100,0,M,30,2016,United States of America,1,0,0
+1-5,0,M,29,2016,Venezuela,0,0,0
+1-5,0,M,38,2016,United Kingdom,0,1,0
+1-5,0,M,35,2016,Netherlands,0,0,0
+6-25,1,W,35,2016,United States of America,1,0,0
+More than 1000,1,M,29,2016,United States of America,1,0,0
+100-500,0,M,28,2016,United States of America,1,0,0
+26-100,1,M,27,2016,Netherlands,0,0,0
+1-5,0,M,39,2016,Poland,0,0,0
+100-500,0,M,28,2016,Belgium,0,0,0
+6-25,0,M,46,2016,United States of America,1,0,0
+1-5,1,M,40,2016,Netherlands,0,0,0
+26-100,0,M,37,2016,United States of America,1,0,0
+26-100,0,M,41,2016,Netherlands,0,0,0
+1-5,0,M,19,2016,France,0,0,0
+6-25,0,W,38,2016,Netherlands,0,0,0
+26-100,0,M,33,2016,United States of America,1,0,0
+26-100,1,M,33,2016,United States of America,1,0,0
+1-5,0,M,21,2016,United Kingdom,0,1,0
+1-5,0,M,36,2016,Brazil,0,0,0
+1-5,1,M,39,2016,Canada,0,0,1
+26-100,0,M,35,2016,United States of America,1,0,0
+1-5,1,M,36,2016,France,0,0,0
+6-25,0,M,45,2016,United States of America,1,0,0
+26-100,0,M,41,2016,Canada,0,0,1
+26-100,1,M,35,2016,United Kingdom,0,1,0
+1-5,1,M,30,2016,United States of America,1,0,0
+26-100,1,W,24,2016,United States of America,1,0,0
+100-500,1,M,33,2016,Brazil,0,0,0
+More than 1000,1,M,35,2016,United States of America,1,0,0
+6-25,0,M,26,2016,United Kingdom,0,1,0
+6-25,0,M,17,2016,Brazil,0,0,0
+6-25,1,W,29,2016,United States of America,1,0,0
+100-500,1,M,26,2016,United States of America,1,0,0
+26-100,0,W,36,2016,United States of America,1,0,0
+26-100,0,M,46,2016,United States of America,1,0,0
+1-5,0,M,39,2016,Netherlands,0,0,0
+100-500,1,W,28,2016,United States of America,1,0,0
+500-1000,0,M,40,2016,United States of America,1,0,0
+100-500,1,M,23,2016,United States of America,1,0,0
+6-25,0,M,30,2016,United States of America,1,0,0
+26-100,0,O,28,2016,United States of America,1,0,0
+26-100,0,M,27,2016,Netherlands,0,0,0
+1-5,1,M,31,2016,United States of America,1,0,0
+26-100,0,W,39,2016,United States of America,1,0,0
+More than 1000,1,W,34,2016,United States of America,1,0,0
+6-25,1,M,30,2016,United States of America,1,0,0
+1-5,1,M,30,2016,Denmark,0,0,0
+100-500,0,M,31,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+More than 1000,0,M,32,2016,United States of America,1,0,0
+1-5,0,M,22,2016,Czech Republic,0,0,0
+1-5,1,W,37,2016,Belgium,0,0,0
+26-100,0,M,51,2016,United States of America,1,0,0
+26-100,1,M,26,2016,United States of America,1,0,0
+26-100,1,W,41,2016,United States of America,1,0,0
+100-500,1,W,39,2016,United States of America,1,0,0
+6-25,1,M,43,2016,United States of America,1,0,0
+500-1000,0,M,30,2016,United Kingdom,0,1,0
+26-100,0,W,24,2016,United States of America,1,0,0
+1-5,1,M,30,2016,Netherlands,0,0,0
+26-100,1,W,28,2016,Germany,0,0,0
+1-5,1,W,48,2016,United States of America,1,0,0
+1-5,0,W,55,2016,United States of America,1,0,0
+1-5,0,W,36,2016,United States of America,1,0,0
+1-5,0,M,38,2016,Netherlands,0,0,0
+100-500,0,M,34,2016,France,0,0,0
+26-100,0,W,44,2016,United States of America,1,0,0
+More than 1000,1,M,45,2016,United States of America,1,0,0
+6-25,1,M,45,2016,United States of America,1,0,0
+500-1000,1,M,30,2016,United States of America,1,0,0
+More than 1000,1,M,34,2016,United States of America,1,0,0
+More than 1000,0,M,37,2016,United States of America,1,0,0
+More than 1000,0,M,38,2016,United States of America,1,0,0
+26-100,1,M,31,2016,United States of America,1,0,0
+26-100,0,M,33,2016,United States of America,1,0,0
+100-500,1,W,29,2016,United States of America,1,0,0
+100-500,1,M,35,2016,United States of America,1,0,0
+1-5,1,W,42,2016,Canada,0,0,1
+26-100,0,W,26,2016,United States of America,1,0,0
+500-1000,1,W,36,2016,United States of America,1,0,0
+26-100,1,M,21,2016,United Kingdom,0,1,0
+26-100,1,W,34,2016,United States of America,1,0,0
+1-5,0,M,40,2016,Germany,0,0,0
+26-100,1,M,35,2016,United States of America,1,0,0
+6-25,0,M,44,2016,United States of America,1,0,0
+6-25,1,O,35,2016,Canada,0,0,1
+More than 1000,0,M,45,2016,United States of America,1,0,0
+More than 1000,1,M,42,2016,United States of America,1,0,0
+1-5,1,M,40,2016,United States of America,1,0,0
+1-5,1,W,50,2016,United States of America,1,0,0
+100-500,0,M,36,2016,United States of America,1,0,0
+1-5,1,W,31,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+100-500,0,M,37,2016,United States of America,1,0,0
+26-100,1,M,31,2016,United States of America,1,0,0
+More than 1000,0,M,42,2016,Canada,0,0,1
+500-1000,0,M,25,2016,United States of America,1,0,0
+6-25,1,M,27,2016,United States of America,1,0,0
+More than 1000,1,W,41,2016,United States of America,1,0,0
+100-500,0,W,41,2016,United States of America,1,0,0
+More than 1000,0,W,55,2016,United States of America,1,0,0
+More than 1000,0,M,21,2016,United States of America,1,0,0
+More than 1000,0,M,37,2016,Netherlands,0,0,0
+More than 1000,0,W,34,2016,Netherlands,0,0,0
+More than 1000,0,M,40,2016,United Kingdom,0,1,0
+1-5,0,M,25,2016,Netherlands,0,0,0
+More than 1000,0,M,36,2016,Germany,0,0,0
+26-100,0,M,25,2016,Germany,0,0,0
+100-500,0,M,35,2016,United States of America,1,0,0
+6-25,0,M,37,2016,United States of America,1,0,0
+More than 1000,0,M,45,2016,United States of America,1,0,0
+6-25,1,M,26,2016,United States of America,1,0,0
+26-100,0,M,23,2016,United States of America,1,0,0
+26-100,1,W,22,2016,United States of America,1,0,0
+26-100,1,W,46,2016,United States of America,1,0,0
+6-25,0,M,31,2016,United Kingdom,0,1,0
+100-500,1,M,27,2016,United States of America,1,0,0
+6-25,0,M,37,2016,United Kingdom,0,1,0
+100-500,0,M,37,2016,United Kingdom,0,1,0
+1-5,1,O,26,2016,Netherlands,0,0,0
+500-1000,0,M,23,2016,Netherlands,0,0,0
+26-100,1,M,40,2016,United States of America,1,0,0
+1-5,0,M,29,2016,Denmark,0,0,0
+100-500,1,M,37,2016,United States of America,1,0,0
+100-500,0,W,34,2016,United States of America,1,0,0
+More than 1000,1,M,40,2016,United States of America,1,0,0
+500-1000,1,M,39,2016,United States of America,1,0,0
+500-1000,1,M,28,2016,United States of America,1,0,0
+1-5,0,M,28,2016,Belgium,0,0,0
+26-100,0,M,27,2016,Germany,0,0,0
+1-5,0,M,48,2016,United Kingdom,0,1,0
+More than 1000,1,W,49,2016,United States of America,1,0,0
+26-100,1,M,35,2016,United Kingdom,0,1,0
+100-500,1,M,35,2016,Sweden,0,0,0
+1-5,1,M,38,2016,United Kingdom,0,1,0
+500-1000,1,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,42,2016,United States of America,1,0,0
+100-500,0,W,33,2016,United States of America,1,0,0
+26-100,0,M,35,2016,United Kingdom,0,1,0
+500-1000,0,M,24,2016,Russia,0,0,0
+500-1000,1,O,29,2016,United States of America,1,0,0
+100-500,0,M,29,2016,United States of America,1,0,0
+6-25,0,M,24,2016,United Kingdom,0,1,0
+500-1000,0,M,30,2016,Sweden,0,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+6-25,1,M,44,2016,United States of America,1,0,0
+100-500,0,M,37,2016,United Kingdom,0,1,0
+500-1000,0,M,28,2016,Germany,0,0,0
+100-500,1,M,42,2016,United States of America,1,0,0
+1-5,1,W,30,2016,United Kingdom,0,1,0
+100-500,0,M,36,2016,Russia,0,0,0
+500-1000,0,M,30,2016,Russia,0,0,0
+6-25,0,M,29,2016,United States of America,1,0,0
+500-1000,0,M,25,2016,United States of America,1,0,0
+26-100,0,M,25,2016,Belgium,0,0,0
+500-1000,0,M,24,2016,Russia,0,0,0
+More than 1000,0,M,25,2016,Russia,0,0,0
+26-100,1,M,31,2016,Denmark,0,0,0
+26-100,0,M,37,2016,Canada,0,0,1
+100-500,0,M,35,2016,United States of America,1,0,0
+6-25,1,W,26,2016,Spain,0,0,0
+100-500,0,M,31,2016,United Kingdom,0,1,0
+500-1000,0,W,29,2016,United States of America,1,0,0
+26-100,1,M,33,2016,France,0,0,0
+26-100,0,M,30,2016,India,0,0,0
+26-100,0,M,30,2016,United States of America,1,0,0
+100-500,1,W,29,2016,United States of America,1,0,0
+26-100,1,W,25,2016,United States of America,1,0,0
+More than 1000,0,M,27,2016,United States of America,1,0,0
+500-1000,0,M,26,2016,Germany,0,0,0
+500-1000,0,W,38,2016,United States of America,1,0,0
+More than 1000,1,M,49,2016,United States of America,1,0,0
+26-100,0,M,30,2016,United States of America,1,0,0
+1-5,0,M,34,2016,France,0,0,0
+100-500,0,M,31,2016,Russia,0,0,0
+1-5,1,M,29,2016,United States of America,1,0,0
+100-500,0,M,31,2016,Germany,0,0,0
+100-500,0,M,34,2016,Germany,0,0,0
+6-25,0,M,28,2016,United States of America,1,0,0
+1-5,1,W,35,2016,United Kingdom,0,1,0
+500-1000,0,M,27,2016,Germany,0,0,0
+1-5,0,M,33,2016,Germany,0,0,0
+6-25,1,W,37,2016,United States of America,1,0,0
+More than 1000,1,M,45,2016,United Kingdom,0,1,0
+6-25,1,W,31,2016,United States of America,1,0,0
+More than 1000,0,M,36,2016,United States of America,1,0,0
+500-1000,1,M,30,2016,United States of America,1,0,0
+More than 1000,1,W,33,2016,United Arab Emirates,0,0,0
+500-1000,1,W,45,2016,Canada,0,0,1
+26-100,1,W,30,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+1-5,1,M,29,2016,United States of America,1,0,0
+1-5,0,M,36,2016,Mexico,0,0,0
+26-100,1,M,28,2016,United States of America,1,0,0
+26-100,1,M,36,2016,United States of America,1,0,0
+500-1000,1,W,37,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+26-100,1,M,25,2016,United States of America,1,0,0
+26-100,0,W,34,2016,United States of America,1,0,0
+More than 1000,0,M,37,2016,Canada,0,0,1
+More than 1000,1,W,40,2016,United States of America,1,0,0
+100-500,0,M,32,2016,United States of America,1,0,0
+26-100,0,M,38,2016,United Kingdom,0,1,0
+26-100,1,W,31,2016,United States of America,1,0,0
+26-100,0,W,28,2016,United States of America,1,0,0
+100-500,1,W,27,2016,United Kingdom,0,1,0
+26-100,1,W,28,2016,United States of America,1,0,0
+6-25,1,M,26,2016,Germany,0,0,0
+26-100,0,M,40,2016,United States of America,1,0,0
+More than 1000,1,M,42,2016,United States of America,1,0,0
+26-100,0,M,36,2016,United States of America,1,0,0
+1-5,0,M,44,2016,United Kingdom,0,1,0
+500-1000,1,M,24,2016,United States of America,1,0,0
+100-500,0,M,44,2016,United States of America,1,0,0
+More than 1000,1,M,31,2016,United States of America,1,0,0
+1-5,0,M,49,2016,United States of America,1,0,0
+26-100,0,W,27,2016,United States of America,1,0,0
+More than 1000,0,M,27,2016,United States of America,1,0,0
+100-500,1,M,28,2016,United States of America,1,0,0
+6-25,1,W,20,2016,United States of America,1,0,0
+1-5,0,M,41,2016,Germany,0,0,0
+100-500,1,M,38,2016,Australia,0,0,0
+100-500,0,M,29,2016,United States of America,1,0,0
+100-500,1,W,44,2016,United States of America,1,0,0
+500-1000,0,M,31,2016,United States of America,1,0,0
+6-25,1,M,54,2016,United States of America,1,0,0
+500-1000,0,M,33,2016,Germany,0,0,0
+6-25,0,M,29,2016,Netherlands,0,0,0
+26-100,1,O,26,2016,United Kingdom,0,1,0
+26-100,0,M,26,2016,United Kingdom,0,1,0
+1-5,0,M,34,2016,United Kingdom,0,1,0
+100-500,1,W,38,2016,United States of America,1,0,0
+100-500,1,M,30,2016,United Kingdom,0,1,0
+1-5,1,M,34,2016,United Kingdom,0,1,0
+More than 1000,1,W,47,2016,Australia,0,0,0
+100-500,1,W,33,2016,Switzerland,0,0,0
+More than 1000,0,M,22,2016,United Kingdom,0,1,0
+6-25,0,O,28,2016,United Kingdom,0,1,0
+500-1000,1,M,31,2016,United Kingdom,0,1,0
+1-5,1,M,56,2016,Australia,0,0,0
+1-5,1,W,57,2016,Australia,0,0,0
+100-500,0,M,39,2016,United States of America,1,0,0
+1-5,1,M,21,2016,United Kingdom,0,1,0
+500-1000,0,W,31,2016,Russia,0,0,0
+1-5,1,M,63,2016,United States of America,1,0,0
+1-5,1,M,46,2016,Australia,0,0,0
+6-25,1,W,32,2016,United Kingdom,0,1,0
+1-5,1,M,35,2016,United Kingdom,0,1,0
+100-500,0,M,34,2016,United Kingdom,0,1,0
+6-25,1,M,35,2016,United States of America,1,0,0
+26-100,0,M,31,2016,Norway,0,0,0
+1-5,1,W,35,2016,United States of America,1,0,0
+26-100,0,M,36,2016,United States of America,1,0,0
+26-100,1,M,50,2016,United States of America,1,0,0
+6-25,1,M,31,2016,United States of America,1,0,0
+100-500,1,M,47,2016,United States of America,1,0,0
+6-25,0,W,32,2016,Canada,0,0,1
+26-100,1,W,23,2016,Canada,0,0,1
+6-25,1,W,43,2016,Canada,0,0,1
+6-25,0,W,26,2016,Canada,0,0,1
+26-100,0,W,26,2016,Canada,0,0,1
+6-25,0,W,55,2016,Canada,0,0,1
+6-25,1,M,27,2016,Canada,0,0,1
+100-500,0,M,34,2016,Argentina,0,0,0
+26-100,0,M,25,2016,India,0,0,0
+26-100,0,M,35,2016,United States of America,1,0,0
+1-5,1,M,37,2016,Netherlands,0,0,0
+26-100,1,W,38,2016,United States of America,1,0,0
+26-100,0,M,29,2016,Canada,0,0,1
+500-1000,0,M,28,2016,United Kingdom,0,1,0
+6-25,1,M,29,2016,United States of America,1,0,0
+More than 1000,0,M,40,2016,United States of America,1,0,0
+26-100,1,W,25,2016,United States of America,1,0,0
+1-5,0,M,29,2016,Sweden,0,0,0
+26-100,1,W,29,2016,United States of America,1,0,0
+1-5,1,M,35,2016,Netherlands,0,0,0
+1-5,0,M,25,2016,United States of America,1,0,0
+26-100,1,M,43,2016,United States of America,1,0,0
+6-25,0,M,26,2016,Ireland,0,0,0
+100-500,0,M,31,2016,Germany,0,0,0
+100-500,0,W,31,2016,United States of America,1,0,0
+More than 1000,1,W,45,2016,United States of America,1,0,0
+More than 1000,0,M,23,2016,Italy,0,0,0
+6-25,0,M,39,2016,United States of America,1,0,0
+26-100,0,W,27,2016,United States of America,1,0,0
+100-500,1,M,28,2016,United States of America,1,0,0
+500-1000,0,M,36,2016,United States of America,1,0,0
+100-500,0,M,22,2016,Germany,0,0,0
+1-5,0,M,51,2016,United States of America,1,0,0
+1-5,0,M,39,2016,Denmark,0,0,0
+1-5,0,M,36,2016,United States of America,1,0,0
+More than 1000,1,M,28,2016,United States of America,1,0,0
+100-500,0,M,40,2016,United States of America,1,0,0
+26-100,1,W,35,2016,United States of America,1,0,0
+100-500,1,M,38,2016,United States of America,1,0,0
+100-500,0,M,29,2016,United States of America,1,0,0
+1-5,0,M,43,2016,Netherlands,0,0,0
+500-1000,1,W,31,2016,United States of America,1,0,0
+100-500,0,M,45,2016,United States of America,1,0,0
+100-500,0,M,26,2016,United States of America,1,0,0
+100-500,0,M,42,2016,United States of America,1,0,0
+100-500,0,W,28,2016,United States of America,1,0,0
+6-25,0,M,28,2016,United Kingdom,0,1,0
+100-500,1,W,39,2016,United States of America,1,0,0
+6-25,1,M,34,2016,United States of America,1,0,0
+26-100,1,W,28,2016,United States of America,1,0,0
+500-1000,0,W,35,2016,United States of America,1,0,0
+6-25,0,M,42,2016,Canada,0,0,1
+6-25,1,O,99,2016,United States of America,1,0,0
+1-5,1,M,29,2016,United Kingdom,0,1,0
+1-5,1,M,34,2016,Finland,0,0,0
+26-100,0,M,28,2016,Canada,0,0,1
+500-1000,0,W,22,2016,Russia,0,0,0
+26-100,1,W,28,2016,United States of America,1,0,0
+1-5,1,W,26,2016,United States of America,1,0,0
+More than 1000,0,W,21,2016,Australia,0,0,0
+26-100,1,M,38,2016,Netherlands,0,0,0
+More than 1000,1,M,33,2016,United States of America,1,0,0
+100-500,0,W,28,2016,United States of America,1,0,0
+26-100,1,M,32,2016,United States of America,1,0,0
+1-5,1,W,24,2016,Australia,0,0,0
+500-1000,1,M,35,2016,United States of America,1,0,0
+1-5,0,M,41,2016,Turkey,0,0,0
+1-5,0,W,38,2016,United States of America,1,0,0
+More than 1000,1,W,24,2016,United States of America,1,0,0
+100-500,1,M,30,2016,United States of America,1,0,0
+100-500,0,W,47,2016,United States of America,1,0,0
+More than 1000,0,W,26,2016,United States of America,1,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+100-500,0,M,32,2016,United States of America,1,0,0
+500-1000,1,M,37,2016,United States of America,1,0,0
+1-5,0,M,33,2016,Netherlands,0,0,0
+6-25,0,W,28,2016,United Kingdom,0,1,0
+26-100,0,M,22,2016,Netherlands,0,0,0
+500-1000,0,M,30,2016,United States of America,1,0,0
+1-5,1,W,42,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+6-25,1,M,32,2016,United States of America,1,0,0
+100-500,1,M,37,2016,United Kingdom,0,1,0
+1-5,1,W,31,2016,United States of America,1,0,0
+26-100,1,M,31,2016,United States of America,1,0,0
+26-100,0,M,26,2016,Colombia,0,0,0
+1-5,0,M,30,2016,United States of America,1,0,0
+100-500,1,M,36,2016,United States of America,1,0,0
+100-500,1,M,38,2016,United States of America,1,0,0
+26-100,1,M,24,2016,United States of America,1,0,0
+100-500,0,M,26,2016,United States of America,1,0,0
+More than 1000,1,M,37,2016,United States of America,1,0,0
+26-100,1,W,27,2016,United Kingdom,0,1,0
+1-5,1,M,32,2016,Switzerland,0,0,0
+26-100,0,M,32,2016,Netherlands,0,0,0
+6-25,1,M,30,2016,Netherlands,0,0,0
+26-100,1,W,26,2016,Germany,0,0,0
+1-5,1,W,27,2016,United Kingdom,0,1,0
+1-5,1,M,27,2016,Netherlands,0,0,0
+26-100,0,M,29,2016,Colombia,0,0,0
+26-100,1,O,26,2016,Germany,0,0,0
+100-500,0,W,23,2016,United States of America,1,0,0
+100-500,1,M,30,2016,United States of America,1,0,0
+More than 1000,1,M,40,2016,United States of America,1,0,0
+100-500,1,M,46,2016,United States of America,1,0,0
+26-100,0,M,26,2016,United States of America,1,0,0
+More than 1000,0,M,30,2016,United States of America,1,0,0
+100-500,0,W,27,2016,United States of America,1,0,0
+1-5,1,M,35,2016,United States of America,1,0,0
+26-100,1,W,26,2016,United States of America,1,0,0
+100-500,0,M,35,2016,Australia,0,0,0
+26-100,0,M,29,2016,Netherlands,0,0,0
+100-500,0,M,34,2016,United Kingdom,0,1,0
+1-5,0,M,27,2016,United States of America,1,0,0
+100-500,0,M,39,2016,United Kingdom,0,1,0
+100-500,0,M,27,2016,United Kingdom,0,1,0
+500-1000,1,M,31,2016,Czech Republic,0,0,0
+26-100,0,M,26,2016,United Kingdom,0,1,0
+26-100,0,M,44,2016,United States of America,1,0,0
+100-500,0,M,27,2016,United States of America,1,0,0
+100-500,1,W,57,2016,United States of America,1,0,0
+1-5,0,M,34,2016,United States of America,1,0,0
+1-5,1,M,38,2016,United States of America,1,0,0
+1-5,1,M,55,2016,United States of America,1,0,0
+1-5,0,M,28,2016,Costa Rica,0,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+100-500,1,M,26,2016,United States of America,1,0,0
+6-25,0,W,22,2016,United States of America,1,0,0
+100-500,0,M,31,2016,United States of America,1,0,0
+26-100,0,M,31,2016,United Kingdom,0,1,0
+1-5,0,M,40,2016,Germany,0,0,0
+More than 1000,1,M,26,2016,United States of America,1,0,0
+1-5,0,M,36,2016,United States of America,1,0,0
+26-100,1,M,33,2016,United States of America,1,0,0
+500-1000,1,W,24,2016,United States of America,1,0,0
+6-25,0,M,22,2016,Vietnam,0,0,0
+6-25,1,M,33,2016,United States of America,1,0,0
+More than 1000,1,W,37,2016,United States of America,1,0,0
+6-25,0,M,29,2016,United States of America,1,0,0
+1-5,0,M,38,2016,United States of America,1,0,0
+1-5,0,M,33,2016,United States of America,1,0,0
+1-5,1,W,44,2016,Canada,0,0,1
+6-25,1,M,23,2016,United States of America,1,0,0
+1-5,0,M,30,2016,United States of America,1,0,0
+More than 1000,1,M,30,2016,United States of America,1,0,0
+26-100,0,M,28,2016,United States of America,1,0,0
+26-100,0,M,39,2016,United States of America,1,0,0
+6-25,1,W,24,2016,United States of America,1,0,0
+1-5,1,M,27,2016,United Kingdom,0,1,0
+More than 1000,1,M,35,2016,United States of America,1,0,0
+6-25,0,M,23,2016,United States of America,1,0,0
+More than 1000,0,M,37,2016,United States of America,1,0,0
+6-25,0,M,35,2016,United States of America,1,0,0
+26-100,0,M,27,2016,United States of America,1,0,0
+1-5,0,W,27,2016,United States of America,1,0,0
+More than 1000,0,W,27,2016,United States of America,1,0,0
+6-25,1,M,42,2016,United States of America,1,0,0
+6-25,0,M,32,2016,United States of America,1,0,0
+6-25,1,M,26,2016,Finland,0,0,0
+100-500,0,M,28,2016,Bulgaria,0,0,0
+6-25,0,M,28,2016,United States of America,1,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+1-5,0,M,43,2016,United States of America,1,0,0
+26-100,1,M,34,2016,United States of America,1,0,0
+6-25,0,W,61,2016,United States of America,1,0,0
+1-5,1,M,50,2016,United States of America,1,0,0
+1-5,1,M,38,2016,India,0,0,0
+6-25,1,M,51,2016,Germany,0,0,0
+1-5,1,M,38,2016,Ireland,0,0,0
+500-1000,1,M,34,2016,United States of America,1,0,0
+6-25,1,M,43,2016,United States of America,1,0,0
+100-500,0,W,43,2016,United States of America,1,0,0
+6-25,1,M,44,2016,United States of America,1,0,0
+100-500,1,M,35,2016,United States of America,1,0,0
+26-100,0,M,50,2016,United States of America,1,0,0
+100-500,1,M,29,2016,United States of America,1,0,0
+100-500,1,M,29,2016,United States of America,1,0,0
+500-1000,0,M,36,2016,Canada,0,0,1
+1-5,0,M,33,2016,Australia,0,0,0
+1-5,1,M,50,2016,Australia,0,0,0
+More than 1000,1,M,46,2016,United States of America,1,0,0
+1-5,1,W,44,2016,New Zealand,0,0,0
+More than 1000,0,O,23,2016,United States of America,1,0,0
+6-25,1,M,41,2016,United States of America,1,0,0
+More than 1000,0,M,31,2016,Canada,0,0,1
+1-5,1,M,55,2016,United States of America,1,0,0
+26-100,0,M,34,2016,United States of America,1,0,0
+6-25,0,W,28,2016,United States of America,1,0,0
+6-25,1,M,33,2016,United States of America,1,0,0
+100-500,1,M,29,2016,United States of America,1,0,0
+More than 1000,1,W,33,2016,United States of America,1,0,0
+1-5,0,M,28,2016,United States of America,1,0,0
+More than 1000,1,M,28,2016,United States of America,1,0,0
+26-100,0,M,32,2016,United States of America,1,0,0
+6-25,0,W,36,2016,United States of America,1,0,0
+More than 1000,0,M,45,2016,United Kingdom,0,1,0
+1-5,0,M,29,2016,United Kingdom,0,1,0
+More than 1000,0,M,23,2016,France,0,0,0
+1-5,1,W,54,2016,Canada,0,0,1
+1-5,1,W,61,2016,United States of America,1,0,0
+26-100,1,W,29,2016,United States of America,1,0,0
+26-100,1,M,31,2016,Australia,0,0,0
+1-5,0,M,37,2016,United States of America,1,0,0
+6-25,1,M,29,2016,Germany,0,0,0
+1-5,0,M,28,2016,United Kingdom,0,1,0
+26-100,0,M,30,2016,United Kingdom,0,1,0
+More than 1000,1,M,55,2016,United Kingdom,0,1,0
+6-25,1,W,38,2016,United States of America,1,0,0
+6-25,0,M,20,2016,Canada,0,0,1
+100-500,1,M,25,2016,United States of America,1,0,0
+1-5,0,M,22,2016,Spain,0,0,0
+1-5,1,M,35,2016,United Kingdom,0,1,0
+26-100,1,M,27,2016,United States of America,1,0,0
+6-25,1,M,24,2016,United States of America,1,0,0
+1-5,1,M,39,2016,Australia,0,0,0
+26-100,0,M,29,2016,Brazil,0,0,0
+26-100,1,W,40,2016,United States of America,1,0,0
+1-5,1,M,30,2016,United States of America,1,0,0
+26-100,0,M,32,2016,Canada,0,0,1
+1-5,0,M,34,2016,Germany,0,0,0
+6-25,1,W,35,2016,Canada,0,0,1
+1-5,0,M,30,2016,United States of America,1,0,0
+6-25,0,M,36,2016,United Kingdom,0,1,0
+26-100,0,M,26,2016,Sweden,0,0,0
+500-1000,1,W,31,2016,Netherlands,0,0,0
+26-100,0,M,33,2016,South Africa,0,0,0
+1-5,1,M,30,2016,United Kingdom,0,1,0
+26-100,1,M,46,2016,United Kingdom,0,1,0
+100-500,1,M,32,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+100-500,1,M,41,2016,United States of America,1,0,0
+100-500,0,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,47,2016,United States of America,1,0,0
+100-500,0,M,29,2016,United States of America,1,0,0
+100-500,1,M,36,2016,United States of America,1,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+100-500,0,M,29,2016,United States of America,1,0,0
+1-5,0,M,22,2016,United Kingdom,0,1,0
+More than 1000,1,W,32,2016,United States of America,1,0,0
+More than 1000,0,W,19,2016,United States of America,1,0,0
+6-25,0,M,30,2016,South Africa,0,0,0
+6-25,1,O,32,2016,United States of America,1,0,0
+More than 1000,0,M,22,2016,United States of America,1,0,0
+1-5,0,M,30,2016,Poland,0,0,0
+6-25,0,M,33,2016,Slovakia,0,0,0
+6-25,1,W,48,2016,United Kingdom,0,1,0
+More than 1000,0,M,45,2016,Germany,0,0,0
+26-100,1,M,28,2016,United Kingdom,0,1,0
+100-500,0,M,44,2016,United States of America,1,0,0
+6-25,0,M,31,2016,United States of America,1,0,0
+26-100,1,W,31,2016,United States of America,1,0,0
+More than 1000,0,M,29,2016,United States of America,1,0,0
+More than 1000,0,M,26,2016,United States of America,1,0,0
+100-500,1,W,35,2016,United States of America,1,0,0
+1-5,0,M,44,2016,Austria,0,0,0
+6-25,1,M,45,2016,United States of America,1,0,0
+6-25,1,W,22,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+26-100,0,M,35,2016,United Kingdom,0,1,0
+1-5,1,M,39,2016,United States of America,1,0,0
+6-25,1,M,26,2016,Denmark,0,0,0
+1-5,0,M,41,2016,United States of America,1,0,0
+More than 1000,1,M,24,2016,Australia,0,0,0
+6-25,1,M,24,2016,United States of America,1,0,0
+26-100,1,M,34,2016,United States of America,1,0,0
+26-100,0,M,36,2016,Australia,0,0,0
+500-1000,1,M,41,2016,Australia,0,0,0
+More than 1000,1,M,21,2016,United States of America,1,0,0
+100-500,1,M,33,2016,Bangladesh,0,0,0
+More than 1000,0,M,32,2016,India,0,0,0
+More than 1000,1,W,62,2016,United States of America,1,0,0
+26-100,1,M,37,2016,United States of America,1,0,0
+26-100,0,M,32,2016,United States of America,1,0,0
+More than 1000,0,M,31,2016,United States of America,1,0,0
+6-25,1,M,28,2016,United States of America,1,0,0
+1-5,1,W,48,2016,United States of America,1,0,0
+1-5,1,M,40,2016,United States of America,1,0,0
+26-100,1,M,29,2016,Norway,0,0,0
+26-100,0,M,33,2016,Germany,0,0,0
+26-100,0,M,27,2016,Finland,0,0,0
+26-100,0,M,24,2016,Australia,0,0,0
+1-5,1,M,28,2016,Netherlands,0,0,0
+1-5,0,M,42,2016,United States of America,1,0,0
+26-100,0,M,28,2016,United Kingdom,0,1,0
+500-1000,1,M,40,2016,Canada,0,0,1
+More than 1000,1,W,32,2016,United States of America,1,0,0
+1-5,1,M,33,2016,United States of America,1,0,0
+1-5,1,M,40,2016,United States of America,1,0,0
+6-25,1,M,26,2016,United States of America,1,0,0
+100-500,1,W,39,2016,United States of America,1,0,0
+500-1000,0,M,38,2016,United Kingdom,0,1,0
+More than 1000,0,M,34,2016,United States of America,1,0,0
+26-100,1,M,44,2016,Netherlands,0,0,0
+1-5,0,M,54,2016,United Kingdom,0,1,0
+100-500,0,M,24,2016,Pakistan,0,0,0
+6-25,1,M,31,2016,United States of America,1,0,0
+More than 1000,1,M,47,2016,United States of America,1,0,0
+More than 1000,1,M,30,2016,Australia,0,0,0
+1-5,0,M,34,2016,United States of America,1,0,0
+6-25,1,O,29,2016,United States of America,1,0,0
+More than 1000,0,M,27,2016,United States of America,1,0,0
+More than 1000,1,M,29,2016,United States of America,1,0,0
+1-5,0,W,43,2016,United States of America,1,0,0
+100-500,1,O,31,2016,United States of America,1,0,0
+6-25,0,M,27,2016,Norway,0,0,0
+6-25,1,M,29,2016,United Kingdom,0,1,0
+6-25,0,M,29,2016,United Kingdom,0,1,0
+More than 1000,1,M,42,2016,United States of America,1,0,0
+6-25,0,W,26,2016,United States of America,1,0,0
+6-25,1,M,26,2016,Switzerland,0,0,0
+1-5,1,M,34,2016,United Kingdom,0,1,0
+100-500,0,M,24,2016,United States of America,1,0,0
+More than 1000,0,M,25,2016,United States of America,1,0,0
+6-25,0,M,22,2016,United States of America,1,0,0
+100-500,1,M,33,2016,United States of America,1,0,0
+26-100,0,M,53,2016,United States of America,1,0,0
+26-100,1,M,32,2016,Canada,0,0,1
+6-25,1,M,32,2016,United States of America,1,0,0
+1-5,0,M,55,2016,United States of America,1,0,0
+6-25,0,M,27,2016,France,0,0,0
+6-25,0,M,34,2016,United Kingdom,0,1,0
+6-25,1,M,26,2016,United States of America,1,0,0
+More than 1000,1,M,39,2016,United Kingdom,0,1,0
+26-100,0,M,32,2016,United States of America,1,0,0
+1-5,1,M,46,2016,United Kingdom,0,1,0
+1-5,0,W,52,2016,United States of America,1,0,0
+500-1000,1,O,33,2016,United Kingdom,0,1,0
+26-100,0,M,58,2016,United States of America,1,0,0
+6-25,1,M,30,2016,Canada,0,0,1
+1-5,0,M,46,2016,Sweden,0,0,0
+More than 1000,1,M,45,2016,United States of America,1,0,0
+1-5,1,W,26,2016,Canada,0,0,1
+100-500,1,M,22,2016,United States of America,1,0,0
+6-25,0,M,21,2016,United States of America,1,0,0
+More than 1000,1,M,3,2016,Canada,0,0,1
+500-1000,0,M,34,2016,United States of America,1,0,0
+26-100,0,W,25,2016,United States of America,1,0,0
+6-25,1,M,27,2016,United States of America,1,0,0
+26-100,1,W,25,2016,United States of America,1,0,0
+500-1000,1,M,33,2016,United Kingdom,0,1,0
+1-5,1,W,26,2016,Canada,0,0,1
+6-25,0,W,36,2016,United States of America,1,0,0
+6-25,0,M,26,2016,United Kingdom,0,1,0
+6-25,0,M,34,2016,United States of America,1,0,0
+26-100,1,M,34,2016,United States of America,1,0,0
+More than 1000,1,M,25,2016,United States of America,1,0,0
+1-5,0,W,33,2016,United States of America,1,0,0
+26-100,0,W,27,2016,Canada,0,0,1
+26-100,0,W,24,2016,Canada,0,0,1
+More than 1000,1,W,47,2016,United States of America,1,0,0
+26-100,0,M,37,2016,United States of America,1,0,0
+More than 1000,1,O,35,2016,United States of America,1,0,0
+100-500,1,M,30,2016,United States of America,1,0,0
+More than 1000,0,M,42,2016,United States of America,1,0,0
+1-5,1,W,36,2016,United States of America,1,0,0
+100-500,0,M,31,2016,United States of America,1,0,0
+100-500,1,W,28,2016,United States of America,1,0,0
+26-100,1,W,36,2016,United States of America,1,0,0
+6-25,1,W,36,2016,United States of America,1,0,0
+26-100,1,M,32,2016,Canada,0,0,1
+1-5,0,M,42,2016,United States of America,1,0,0
+100-500,0,W,41,2016,United States of America,1,0,0
+26-100,0,M,36,2016,Sweden,0,0,0
+26-100,1,M,23,2016,United States of America,1,0,0
+More than 1000,1,W,54,2016,United States of America,1,0,0
+26-100,0,W,34,2016,United States of America,1,0,0
+6-25,0,M,36,2016,Netherlands,0,0,0
+1-5,0,M,27,2016,United States of America,1,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+6-25,1,M,21,2016,Germany,0,0,0
+1-5,0,M,44,2016,United States of America,1,0,0
+26-100,0,M,33,2016,United States of America,1,0,0
+More than 1000,1,M,38,2016,United Kingdom,0,1,0
+More than 1000,0,M,38,2016,Ireland,0,0,0
+1-5,0,W,38,2016,United States of America,1,0,0
+1-5,0,W,22,2016,Brazil,0,0,0
+1-5,1,W,33,2016,United States of America,1,0,0
+More than 1000,0,W,27,2016,Canada,0,0,1
+1-5,0,W,55,2016,United States of America,1,0,0
+6-25,1,M,66,2016,United States of America,1,0,0
+1-5,0,M,25,2016,United States of America,1,0,0
+26-100,0,M,22,2016,Netherlands,0,0,0
+26-100,0,M,29,2016,Brazil,0,0,0
+100-500,0,M,33,2016,New Zealand,0,0,0
+6-25,0,M,27,2016,Sweden,0,0,0
+6-25,1,M,44,2016,United States of America,1,0,0
+1-5,0,M,38,2016,Bulgaria,0,0,0
+6-25,0,M,32,2016,United States of America,1,0,0
+500-1000,0,W,59,2016,United States of America,1,0,0
+1-5,0,M,43,2016,Sweden,0,0,0
+1-5,1,W,55,2016,Germany,0,0,0
+More than 1000,1,M,32,2016,United States of America,1,0,0
+More than 1000,0,M,41,2016,United Kingdom,0,1,0
+1-5,1,W,38,2016,United States of America,1,0,0
+1-5,1,M,46,2016,United States of America,1,0,0
+More than 1000,1,M,43,2016,United Kingdom,0,1,0
+100-500,1,W,29,2016,United States of America,1,0,0
+1-5,0,M,42,2016,United States of America,1,0,0
+100-500,0,W,25,2016,United States of America,1,0,0
+26-100,1,M,49,2016,Afghanistan,0,0,0
+26-100,1,M,36,2016,United States of America,1,0,0
+1-5,0,M,30,2016,United Kingdom,0,1,0
+26-100,0,M,28,2016,United States of America,1,0,0
+More than 1000,1,M,37,2016,United States of America,1,0,0
+6-25,1,W,23,2016,United States of America,1,0,0
+1-5,0,M,37,2016,United Kingdom,0,1,0
+1-5,1,M,42,2016,Netherlands,0,0,0
+More than 1000,1,M,32,2016,United States of America,1,0,0
+1-5,0,M,28,2016,Canada,0,0,1
+More than 1000,1,M,28,2016,United Kingdom,0,1,0
+More than 1000,1,M,29,2016,United States of America,1,0,0
+100-500,1,M,35,2016,United States of America,1,0,0
+1-5,1,W,31,2016,United States of America,1,0,0
+1-5,1,W,46,2016,United States of America,1,0,0
+1-5,1,M,19,2016,United States of America,1,0,0
+500-1000,0,M,35,2016,Sweden,0,0,0
+More than 1000,0,M,31,2016,United Kingdom,0,1,0
+1-5,0,M,31,2016,United States of America,1,0,0
+More than 1000,0,M,37,2016,Canada,0,0,1
+6-25,1,W,34,2016,United States of America,1,0,0
+26-100,1,W,39,2016,United States of America,1,0,0
+1-5,0,W,29,2016,United States of America,1,0,0
+100-500,1,W,29,2016,United States of America,1,0,0
+More than 1000,0,M,63,2016,United States of America,1,0,0
+1-5,1,M,45,2016,Australia,0,0,0
+1-5,0,M,35,2016,Greece,0,0,0
+1-5,1,M,32,2016,United Kingdom,0,1,0
+1-5,0,M,44,2016,United States of America,1,0,0
+More than 1000,1,O,28,2016,United Kingdom,0,1,0
+1-5,0,M,39,2016,Ireland,0,0,0
+1-5,0,W,55,2016,United States of America,1,0,0
+1-5,1,W,33,2016,United States of America,1,0,0
+6-25,0,M,19,2016,India,0,0,0
+More than 1000,0,M,40,2016,United States of America,1,0,0
+More than 1000,1,W,49,2016,United States of America,1,0,0
+6-25,0,W,27,2016,Australia,0,0,0
+More than 1000,1,M,39,2016,United States of America,1,0,0
+More than 1000,1,M,35,2016,United Kingdom,0,1,0
+26-100,0,M,35,2016,United States of America,1,0,0
+26-100,1,W,42,2016,United States of America,1,0,0
+6-25,0,M,35,2016,Canada,0,0,1
+100-500,1,W,31,2016,United States of America,1,0,0
+1-5,1,M,44,2016,United Kingdom,0,1,0
+100-500,0,M,39,2016,United States of America,1,0,0
+1-5,0,M,32,2016,Canada,0,0,1
+More than 1000,0,M,45,2016,New Zealand,0,0,0
+1-5,0,M,31,2016,United States of America,1,0,0
+1-5,1,W,47,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+6-25,1,M,20,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+500-1000,1,O,33,2016,United Kingdom,0,1,0
+1-5,0,W,56,2016,United States of America,1,0,0
+1-5,0,M,35,2016,Canada,0,0,1
+100-500,1,M,31,2016,United States of America,1,0,0
+More than 1000,1,M,36,2016,United States of America,1,0,0
+100-500,0,M,30,2016,United States of America,1,0,0
+More than 1000,1,W,44,2016,United States of America,1,0,0
+1-5,1,W,23,2016,United States of America,1,0,0
+More than 1000,0,M,46,2016,United States of America,1,0,0
+100-500,1,W,33,2016,United States of America,1,0,0
+500-1000,1,W,32,2016,United States of America,1,0,0
+1-5,1,M,45,2016,Other,0,0,0
+6-25,0,M,26,2016,United States of America,1,0,0
+1-5,0,W,32,2016,United States of America,1,0,0
+More than 1000,0,M,28,2016,United States of America,1,0,0
+1-5,0,M,44,2016,United States of America,1,0,0
+1-5,0,M,42,2016,United Kingdom,0,1,0
+More than 1000,0,M,30,2016,United States of America,1,0,0
+6-25,1,W,28,2016,United States of America,1,0,0
+100-500,1,M,31,2016,Canada,0,0,1
+100-500,0,M,29,2016,United States of America,1,0,0
+26-100,0,M,33,2016,United States of America,1,0,0
+More than 1000,1,W,43,2016,United States of America,1,0,0
+100-500,0,M,28,2016,Australia,0,0,0
+1-5,0,O,42,2016,United States of America,1,0,0
+100-500,1,M,38,2016,United States of America,1,0,0
+6-25,1,M,30,2016,United States of America,1,0,0
+1-5,1,W,51,2016,United States of America,1,0,0
+26-100,0,W,48,2016,United States of America,1,0,0
+1-5,0,M,39,2016,New Zealand,0,0,0
+6-25,0,M,28,2016,Australia,0,0,0
+100-500,1,M,37,2016,United States of America,1,0,0
+More than 1000,0,M,33,2016,United States of America,1,0,0
+6-25,0,M,21,2016,Australia,0,0,0
+26-100,1,M,25,2016,United States of America,1,0,0
+1-5,0,M,15,2016,Canada,0,0,1
+100-500,1,M,40,2016,United States of America,1,0,0
+100-500,1,W,30,2016,Canada,0,0,1
+1-5,0,M,27,2016,Romania,0,0,0
+1-5,0,M,25,2016,India,0,0,0
+More than 1000,0,M,38,2016,Germany,0,0,0
+100-500,0,M,24,2016,United Kingdom,0,1,0
+6-25,0,M,23,2016,United Kingdom,0,1,0
+1-5,1,W,39,2016,United Kingdom,0,1,0
+6-25,0,M,26,2016,United States of America,1,0,0
+More than 1000,0,M,43,2016,United Kingdom,0,1,0
+6-25,0,M,30,2016,New Zealand,0,0,0
+1-5,1,M,35,2016,Germany,0,0,0
+26-100,0,M,40,2016,United Kingdom,0,1,0
+26-100,0,W,33,2016,United Kingdom,0,1,0
+1-5,0,M,35,2016,Brunei,0,0,0
+6-25,0,M,22,2016,United Kingdom,0,1,0
+100-500,1,M,28,2016,United States of America,1,0,0
+More than 1000,1,M,39,2016,United States of America,1,0,0
+100-500,0,M,33,2016,United States of America,1,0,0
+1-5,0,W,25,2016,United Kingdom,0,1,0
+6-25,0,M,37,2016,United States of America,1,0,0
+500-1000,1,W,41,2016,France,0,0,0
+More than 1000,1,W,30,2016,United States of America,1,0,0
+More than 1000,0,M,42,2016,United States of America,1,0,0
+6-25,0,M,52,2016,United States of America,1,0,0
+26-100,0,M,30,2016,United States of America,1,0,0
+500-1000,0,M,35,2016,United States of America,1,0,0
+26-100,1,M,24,2016,United States of America,1,0,0
+6-25,0,M,39,2016,United States of America,1,0,0
+6-25,0,M,34,2016,United States of America,1,0,0
+1-5,0,M,32,2016,United States of America,1,0,0
+1-5,1,M,25,2016,United Kingdom,0,1,0
+26-100,0,M,43,2016,Poland,0,0,0
+6-25,0,M,39,2016,United States of America,1,0,0
+1-5,1,M,35,2016,United States of America,1,0,0
+26-100,1,M,34,2016,United States of America,1,0,0
+More than 1000,0,M,38,2016,United Kingdom,0,1,0
+100-500,1,W,26,2016,United States of America,1,0,0
+6-25,0,M,24,2016,Bulgaria,0,0,0
+More than 1000,1,W,27,2016,United States of America,1,0,0
+6-25,0,M,25,2016,United States of America,1,0,0
+1-5,0,M,37,2016,United States of America,1,0,0
+More than 1000,0,M,33,2016,Canada,0,0,1
+26-100,1,M,34,2016,United States of America,1,0,0
+26-100,1,M,27,2016,Canada,0,0,1
+100-500,1,M,33,2016,United States of America,1,0,0
+6-25,1,M,50,2016,United States of America,1,0,0
+1-5,1,W,54,2016,United States of America,1,0,0
+More than 1000,1,W,32,2016,Canada,0,0,1
+6-25,0,M,39,2016,Canada,0,0,1
+6-25,0,M,36,2016,United States of America,1,0,0
+100-500,0,M,34,2016,Canada,0,0,1
+100-500,0,W,31,2016,United States of America,1,0,0
+More than 1000,1,M,36,2016,United States of America,1,0,0
+More than 1000,0,M,48,2016,United States of America,1,0,0
+6-25,1,M,31,2016,United States of America,1,0,0
+1-5,0,M,32,2016,United States of America,1,0,0
+100-500,0,M,32,2016,United States of America,1,0,0
+1-5,1,M,31,2016,United States of America,1,0,0
+1-5,1,W,28,2016,United States of America,1,0,0
+More than 1000,1,M,28,2016,United Kingdom,0,1,0
+26-100,1,W,33,2016,United States of America,1,0,0
+1-5,1,M,33,2016,United States of America,1,0,0
+1-5,1,M,59,2016,United States of America,1,0,0
+1-5,1,M,33,2016,United States of America,1,0,0
+100-500,1,M,37,2016,United States of America,1,0,0
+6-25,1,W,27,2016,Germany,0,0,0
+More than 1000,0,M,39,2016,United States of America,1,0,0
+1-5,0,M,50,2016,Germany,0,0,0
+More than 1000,0,W,34,2016,United States of America,1,0,0
+1-5,0,M,50,2016,Germany,0,0,0
+6-25,0,W,31,2016,Other,0,0,0
+More than 1000,1,M,39,2016,United States of America,1,0,0
+26-100,1,M,46,2016,United States of America,1,0,0
+More than 1000,0,M,28,2016,United States of America,1,0,0
+26-100,0,M,32,2016,France,0,0,0
+1-5,1,W,65,2016,United States of America,1,0,0
+1-5,1,M,37,2016,United States of America,1,0,0
+1-5,0,W,41,2016,United States of America,1,0,0
+1-5,1,M,38,2016,United States of America,1,0,0
+26-100,1,M,51,2016,United States of America,1,0,0
+500-1000,0,M,29,2016,United States of America,1,0,0
+1-5,0,M,37,2016,Canada,0,0,1
+1-5,0,M,31,2016,Canada,0,0,1
+1-5,0,M,32,2016,Iran,0,0,0
+1-5,1,M,31,2016,Sweden,0,0,0
+More than 1000,0,M,52,2016,Switzerland,0,0,0
+1-5,1,M,31,2016,Switzerland,0,0,0
+1-5,0,W,38,2016,United Kingdom,0,1,0
+More than 1000,1,M,35,2016,United States of America,1,0,0
+1-5,0,M,29,2016,United States of America,1,0,0
+1-5,0,M,63,2016,United States of America,1,0,0
+1-5,1,W,47,2016,United States of America,1,0,0
+1-5,1,M,43,2016,Austria,0,0,0
+26-100,0,M,38,2016,Ireland,0,0,0
+6-25,0,M,27,2016,United States of America,1,0,0
+6-25,0,W,40,2016,United States of America,1,0,0
+500-1000,0,M,32,2016,South Africa,0,0,0
+1-5,0,W,43,2016,United States of America,1,0,0
+100-500,1,W,28,2016,Germany,0,0,0
+1-5,0,M,46,2016,United Kingdom,0,1,0
+More than 1000,0,M,42,2016,United States of America,1,0,0
+1-5,1,M,31,2016,United States of America,1,0,0
+1-5,1,W,37,2016,United States of America,1,0,0
+6-25,1,M,35,2016,Canada,0,0,1
+1-5,0,W,30,2016,United States of America,1,0,0
+26-100,1,M,35,2016,Australia,0,0,0
+26-100,1,M,24,2016,United States of America,1,0,0
+6-25,0,M,23,2016,India,0,0,0
+1-5,1,W,39,2016,United Kingdom,0,1,0
+6-25,0,M,38,2016,France,0,0,0
+1-5,1,M,28,2016,United Kingdom,0,1,0
+1-5,0,M,30,2016,United Kingdom,0,1,0
+1-5,0,M,38,2016,United Kingdom,0,1,0
+26-100,0,M,33,2016,France,0,0,0
+26-100,0,M,35,2016,United Kingdom,0,1,0
+1-5,0,M,54,2016,United Kingdom,0,1,0
+100-500,0,W,30,2016,Germany,0,0,0
+1-5,0,W,32,2016,United Kingdom,0,1,0
+500-1000,0,M,28,2016,United States of America,1,0,0
+6-25,1,M,39,2016,Germany,0,0,0
+1-5,1,O,21,2016,United States of America,1,0,0
+6-25,0,M,31,2016,Germany,0,0,0
+More than 1000,0,M,30,2016,United States of America,1,0,0
+26-100,0,W,25,2016,United States of America,1,0,0
+6-25,0,M,26,2016,United Kingdom,0,1,0
+26-100,0,M,30,2016,United States of America,1,0,0
+500-1000,0,M,30,2016,Italy,0,0,0
+100-500,0,M,31,2016,Bulgaria,0,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+26-100,1,W,45,2016,United Kingdom,0,1,0
+1-5,0,M,29,2016,Switzerland,0,0,0
+26-100,0,M,27,2016,United States of America,1,0,0
+26-100,0,W,28,2016,United Kingdom,0,1,0
+500-1000,0,M,38,2016,United States of America,1,0,0
+500-1000,1,M,38,2016,United States of America,1,0,0
+More than 1000,1,M,34,2016,Hungary,0,0,0
+1-5,1,M,36,2016,Netherlands,0,0,0
+6-25,0,M,23,2016,France,0,0,0
+100-500,1,W,40,2016,United States of America,1,0,0
+1-5,1,M,39,2016,United States of America,1,0,0
+26-100,1,M,28,2016,United States of America,1,0,0
+6-25,0,M,33,2016,United States of America,1,0,0
+1-5,1,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,27,2016,United States of America,1,0,0
+100-500,1,M,33,2016,Israel,0,0,0
+100-500,0,M,34,2016,Japan,0,0,0
+1-5,1,W,38,2016,India,0,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+26-100,0,M,39,2016,United States of America,1,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+1-5,1,W,44,2016,United States of America,1,0,0
+500-1000,0,M,42,2016,United States of America,1,0,0
+6-25,0,M,30,2016,United States of America,1,0,0
+26-100,0,M,55,2016,United States of America,1,0,0
+26-100,1,M,46,2016,United States of America,1,0,0
+100-500,1,M,33,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United Kingdom,0,1,0
+More than 1000,0,W,31,2016,United States of America,1,0,0
+More than 1000,1,M,38,2016,Ireland,0,0,0
+100-500,0,W,30,2016,United Kingdom,0,1,0
+500-1000,1,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,32,2016,United Kingdom,0,1,0
+26-100,1,M,47,2016,United States of America,1,0,0
+6-25,0,M,39,2016,United Kingdom,0,1,0
+100-500,1,M,35,2016,United States of America,1,0,0
+100-500,1,M,36,2016,United States of America,1,0,0
+100-500,0,W,38,2016,United States of America,1,0,0
+100-500,0,M,30,2016,United States of America,1,0,0
+26-100,0,M,33,2016,United States of America,1,0,0
+6-25,0,M,22,2016,United States of America,1,0,0
+1-5,1,M,35,2016,United States of America,1,0,0
+26-100,0,M,26,2016,United States of America,1,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+1-5,0,M,40,2016,United States of America,1,0,0
+100-500,1,M,37,2016,Bulgaria,0,0,0
+1-5,0,M,43,2016,Switzerland,0,0,0
+1-5,1,M,20,2016,United States of America,1,0,0
+500-1000,1,W,30,2016,United States of America,1,0,0
+More than 1000,0,M,32,2016,United States of America,1,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+500-1000,0,M,29,2016,United States of America,1,0,0
+More than 1000,0,M,30,2016,United States of America,1,0,0
+100-500,0,M,30,2016,United States of America,1,0,0
+100-500,1,M,38,2016,United States of America,1,0,0
+26-100,0,M,30,2016,Brazil,0,0,0
+26-100,1,M,26,2016,Netherlands,0,0,0
+1-5,1,M,27,2016,Germany,0,0,0
+1-5,0,M,24,2016,United States of America,1,0,0
+100-500,0,M,35,2016,United States of America,1,0,0
+More than 1000,1,M,38,2016,Sweden,0,0,0
+100-500,1,O,36,2016,United States of America,1,0,0
+1-5,1,M,34,2016,United Kingdom,0,1,0
+26-100,1,M,35,2016,United States of America,1,0,0
+6-25,0,M,25,2016,United States of America,1,0,0
+100-500,1,W,32,2016,Sweden,0,0,0
+100-500,0,W,32,2016,United States of America,1,0,0
+1-5,1,M,37,2016,United States of America,1,0,0
+100-500,0,M,28,2016,Germany,0,0,0
+500-1000,0,W,34,2016,United Kingdom,0,1,0
+More than 1000,1,W,40,2016,United States of America,1,0,0
+More than 1000,1,M,45,2016,United States of America,1,0,0
+100-500,0,M,31,2016,Sweden,0,0,0
+More than 1000,1,M,30,2016,United States of America,1,0,0
+More than 1000,0,W,47,2016,United Kingdom,0,1,0
+100-500,0,M,48,2016,United Kingdom,0,1,0
+1-5,0,M,44,2016,United States of America,1,0,0
+More than 1000,1,M,29,2016,United States of America,1,0,0
+More than 1000,0,M,52,2016,United States of America,1,0,0
+100-500,0,W,34,2016,Sweden,0,0,0
+100-500,0,M,34,2016,Netherlands,0,0,0
+More than 1000,0,M,27,2016,United States of America,1,0,0
+More than 1000,0,M,30,2016,Russia,0,0,0
+6-25,0,M,40,2016,United Kingdom,0,1,0
+1-5,0,M,26,2016,United States of America,1,0,0
+1-5,0,M,36,2016,United Kingdom,0,1,0
+26-100,0,M,35,2016,United Kingdom,0,1,0
+More than 1000,0,W,43,2016,United Kingdom,0,1,0
+26-100,1,W,36,2016,United Kingdom,0,1,0
+100-500,0,W,32,2016,United States of America,1,0,0
+1-5,0,W,36,2016,Ireland,0,0,0
+More than 1000,1,M,38,2016,New Zealand,0,0,0
+More than 1000,0,M,35,2016,United States of America,1,0,0
+100-500,1,W,35,2016,Australia,0,0,0
+More than 1000,1,M,45,2016,United States of America,1,0,0
+1-5,0,M,47,2016,New Zealand,0,0,0
+100-500,0,M,27,2016,United States of America,1,0,0
+26-100,1,M,26,2016,United States of America,1,0,0
+1-5,1,M,51,2016,Australia,0,0,0
+26-100,1,M,25,2016,Ecuador,0,0,0
+100-500,0,M,41,2016,South Africa,0,0,0
+More than 1000,0,M,34,2016,United States of America,1,0,0
+100-500,0,M,43,2016,Sweden,0,0,0
+26-100,1,M,33,2016,United Kingdom,0,1,0
+1-5,0,M,37,2016,Australia,0,0,0
+26-100,1,W,27,2016,United Kingdom,0,1,0
+1-5,1,W,54,2016,United States of America,1,0,0
+More than 1000,0,M,38,2016,Italy,0,0,0
+More than 1000,1,M,42,2016,Germany,0,0,0
+26-100,0,M,30,2016,United Kingdom,0,1,0
+500-1000,1,M,43,2016,Australia,0,0,0
+1-5,1,M,33,2016,Netherlands,0,0,0
+1-5,0,W,37,2016,Australia,0,0,0
+100-500,1,M,25,2016,United States of America,1,0,0
+More than 1000,1,M,27,2016,Australia,0,0,0
+1-5,1,M,27,2016,Canada,0,0,1
+More than 1000,1,M,27,2016,United States of America,1,0,0
+1-5,0,M,35,2016,Germany,0,0,0
+6-25,0,M,24,2016,United Kingdom,0,1,0
+100-500,1,O,31,2016,Switzerland,0,0,0
+26-100,0,M,31,2016,Germany,0,0,0
+More than 1000,0,M,32,2016,United States of America,1,0,0
+More than 1000,1,M,33,2016,Australia,0,0,0
+1-5,1,M,56,2016,United States of America,1,0,0
+More than 1000,0,M,43,2016,United States of America,1,0,0
+More than 1000,1,M,49,2016,Australia,0,0,0
+26-100,0,M,35,2016,Bulgaria,0,0,0
+More than 1000,1,M,53,2016,Canada,0,0,1
+100-500,1,M,45,2016,United States of America,1,0,0
+100-500,0,M,40,2016,United States of America,1,0,0
+More than 1000,0,M,52,2016,United States of America,1,0,0
+1-5,1,M,30,2016,United Kingdom,0,1,0
+More than 1000,1,M,41,2016,New Zealand,0,0,0
+1-5,1,M,31,2016,Netherlands,0,0,0
+100-500,0,M,31,2016,Switzerland,0,0,0
+1-5,0,O,24,2016,United States of America,1,0,0
+100-500,1,M,44,2016,Australia,0,0,0
+More than 1000,1,M,37,2016,United States of America,1,0,0
+6-25,1,M,22,2016,Brazil,0,0,0
+26-100,1,W,31,2016,United States of America,1,0,0
+26-100,0,W,36,2016,Bulgaria,0,0,0
+1-5,1,M,28,2016,Romania,0,0,0
+500-1000,0,W,25,2016,United States of America,1,0,0
+1-5,0,M,49,2016,United States of America,1,0,0
+1-5,1,W,22,2016,United States of America,1,0,0
+1-5,1,M,43,2016,United States of America,1,0,0
+1-5,1,M,33,2016,United States of America,1,0,0
+500-1000,1,W,36,2016,United States of America,1,0,0
+26-100,1,W,26,2016,United States of America,1,0,0
+More than 1000,1,M,43,2016,United States of America,1,0,0
+1-5,0,M,21,2016,United States of America,1,0,0
+More than 1000,1,M,39,2016,Australia,0,0,0
+More than 1000,1,M,46,2016,United Kingdom,0,1,0
+1-5,0,M,32,2016,United Kingdom,0,1,0
+1-5,0,M,31,2016,United Kingdom,0,1,0
+1-5,1,W,39,2016,United Kingdom,0,1,0
+100-500,1,M,44,2016,Sweden,0,0,0
+More than 1000,1,M,36,2016,United States of America,1,0,0
+More than 1000,0,W,31,2016,United Kingdom,0,1,0
+1-5,1,O,30,2016,United States of America,1,0,0
+100-500,1,M,36,2016,United States of America,1,0,0
+1-5,0,M,31,2016,United States of America,1,0,0
+1-5,0,M,23,2016,Canada,0,0,1
+26-100,1,M,23,2016,Canada,0,0,1
+1-5,1,W,30,2016,United States of America,1,0,0
+1-5,0,M,34,2016,Canada,0,0,1
+6-25,0,W,49,2016,United States of America,1,0,0
+6-25,0,M,25,2016,Bosnia and Herzegovina,0,0,0
+6-25,0,M,39,2016,United Kingdom,0,1,0
+More than 1000,0,M,37,2016,Germany,0,0,0
+26-100,0,M,26,2016,United States of America,1,0,0
+100-500,1,M,41,2016,United States of America,1,0,0
+6-25,0,M,28,2016,Netherlands,0,0,0
+100-500,1,M,33,2016,Sweden,0,0,0
+100-500,0,W,74,2016,United States of America,1,0,0
+100-500,1,M,28,2016,Netherlands,0,0,0
+6-25,1,M,47,2016,United States of America,1,0,0
+100-500,0,M,25,2016,Bosnia and Herzegovina,0,0,0
+100-500,1,M,51,2016,United States of America,1,0,0
+More than 1000,1,M,26,2016,United States of America,1,0,0
+26-100,0,M,24,2016,United States of America,1,0,0
+1-5,1,W,33,2016,United States of America,1,0,0
+26-100,1,W,32,2016,United States of America,1,0,0
+6-25,0,M,57,2016,United States of America,1,0,0
+More than 1000,1,M,39,2016,United States of America,1,0,0
+6-25,1,W,26,2016,United States of America,1,0,0
+100-500,0,M,38,2016,United States of America,1,0,0
+1-5,1,M,33,2016,Finland,0,0,0
+6-25,0,M,30,2016,United States of America,1,0,0
+100-500,1,W,25,2016,United States of America,1,0,0
+26-100,1,M,40,2016,United States of America,1,0,0
+More than 1000,1,W,26,2016,United States of America,1,0,0
+More than 1000,1,M,34,2016,United States of America,1,0,0
+More than 1000,1,W,46,2016,United States of America,1,0,0
+More than 1000,1,W,31,2016,United States of America,1,0,0
+1-5,1,M,42,2016,Ireland,0,0,0
+More than 1000,0,M,30,2016,United States of America,1,0,0
+1-5,1,O,26,2016,United States of America,1,0,0
+1-5,1,M,29,2016,Austria,0,0,0
+100-500,1,M,31,2016,United States of America,1,0,0
+26-100,1,M,40,2016,United States of America,1,0,0
+26-100,1,M,39,2016,United States of America,1,0,0
+26-100,0,M,37,2016,United States of America,1,0,0
+26-100,0,M,27,2016,United States of America,1,0,0
+26-100,0,M,45,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+26-100,0,W,47,2016,United States of America,1,0,0
+100-500,0,M,33,2016,United States of America,1,0,0
+26-100,0,M,32,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+26-100,1,M,36,2016,United States of America,1,0,0
+6-25,0,W,35,2016,United States of America,1,0,0
+26-100,0,M,40,2016,United States of America,1,0,0
+26-100,1,M,36,2016,United States of America,1,0,0
+More than 1000,0,W,39,2016,United States of America,1,0,0
+26-100,0,M,38,2016,United States of America,1,0,0
+1-5,1,M,23,2016,United States of America,1,0,0
+500-1000,0,M,29,2016,United States of America,1,0,0
+100-500,0,M,38,2016,United States of America,1,0,0
+More than 1000,1,W,34,2016,United States of America,1,0,0
+More than 1000,1,M,28,2016,Brazil,0,0,0
+6-25,1,M,38,2016,New Zealand,0,0,0
+26-100,0,W,25,2016,United States of America,1,0,0
+More than 1000,1,W,36,2016,United States of America,1,0,0
+More than 1000,1,W,57,2016,United States of America,1,0,0
+More than 1000,1,M,46,2016,Ireland,0,0,0
+More than 1000,1,M,49,2016,United States of America,1,0,0
+More than 1000,1,M,34,2016,United States of America,1,0,0
+26-100,0,M,43,2016,United Kingdom,0,1,0
+1-5,1,M,35,2016,Ireland,0,0,0
+1-5,1,M,32,2016,United States of America,1,0,0
+More than 1000,0,M,24,2016,Sweden,0,0,0
+More than 1000,1,M,33,2016,United States of America,1,0,0
+1-5,0,M,28,2016,Finland,0,0,0
+More than 1000,1,M,48,2016,Germany,0,0,0
+26-100,1,W,33,2016,United States of America,1,0,0
+100-500,0,M,40,2016,United States of America,1,0,0
+1-5,1,M,22,2016,United States of America,1,0,0
+100-500,1,W,22,2016,United States of America,1,0,0
+100-500,1,W,23,2016,United States of America,1,0,0
+More than 1000,1,M,33,2016,Germany,0,0,0
+6-25,1,M,29,2016,Netherlands,0,0,0
+More than 1000,1,M,32,2016,United States of America,1,0,0
+26-100,1,M,43,2016,United States of America,1,0,0
+More than 1000,0,M,49,2016,United States of America,1,0,0
+More than 1000,0,M,44,2016,Sweden,0,0,0
+1-5,0,M,29,2016,United States of America,1,0,0
+26-100,0,M,27,2016,Canada,0,0,1
+6-25,0,M,30,2016,United States of America,1,0,0
+1-5,0,W,43,2016,United States of America,1,0,0
+26-100,1,W,30,2016,United States of America,1,0,0
+26-100,1,W,33,2016,United States of America,1,0,0
+1-5,1,W,27,2016,United States of America,1,0,0
+6-25,0,W,26,2016,United States of America,1,0,0
+100-500,1,M,47,2016,Ireland,0,0,0
+6-25,0,M,30,2016,United States of America,1,0,0
+6-25,0,M,39,2016,United States of America,1,0,0
+100-500,0,M,36,2016,United States of America,1,0,0
+6-25,0,M,34,2016,United Kingdom,0,1,0
+26-100,1,W,25,2016,United States of America,1,0,0
+26-100,0,M,28,2016,Finland,0,0,0
+More than 1000,1,M,38,2016,United States of America,1,0,0
+100-500,0,M,39,2016,United States of America,1,0,0
+6-25,0,M,32,2016,United States of America,1,0,0
+26-100,0,W,27,2016,United States of America,1,0,0
+500-1000,1,W,31,2016,United States of America,1,0,0
+26-100,0,W,30,2016,United Kingdom,0,1,0
+1-5,0,M,34,2016,United Kingdom,0,1,0
+26-100,0,M,26,2016,United States of America,1,0,0
+100-500,1,W,27,2016,United Kingdom,0,1,0
+26-100,0,M,29,2016,United States of America,1,0,0
+1-5,0,W,37,2016,Canada,0,0,1
+1-5,1,W,49,2016,United States of America,1,0,0
+More than 1000,0,M,39,2016,United States of America,1,0,0
+1-5,0,M,42,2016,China,0,0,0
+500-1000,1,M,28,2016,United States of America,1,0,0
+1-5,0,M,33,2016,United States of America,1,0,0
+1-5,0,W,30,2016,United Kingdom,0,1,0
+26-100,1,M,70,2016,United States of America,1,0,0
+6-25,1,M,25,2016,Germany,0,0,0
+26-100,1,M,45,2016,United Kingdom,0,1,0
+More than 1000,1,W,63,2016,United States of America,1,0,0
+26-100,0,M,40,2016,United States of America,1,0,0
+26-100,1,M,39,2016,United States of America,1,0,0
+6-25,1,W,31,2016,United States of America,1,0,0
+26-100,0,M,34,2016,United States of America,1,0,0
+1-5,1,M,44,2016,United Kingdom,0,1,0
+500-1000,0,M,45,2016,Ireland,0,0,0
+100-500,1,M,43,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+100-500,1,O,27,2016,United States of America,1,0,0
+100-500,1,M,37,2016,United States of America,1,0,0
+100-500,1,O,41,2016,United States of America,1,0,0
+26-100,1,W,30,2016,United States of America,1,0,0
+26-100,1,M,28,2016,United States of America,1,0,0
+More than 1000,0,M,28,2016,United States of America,1,0,0
+1-5,1,M,39,2016,Switzerland,0,0,0
+6-25,0,M,22,2016,United Kingdom,0,1,0
+26-100,0,M,31,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United Kingdom,0,1,0
+100-500,0,M,33,2016,Israel,0,0,0
+100-500,0,M,37,2016,Germany,0,0,0
+100-500,0,M,42,2016,United States of America,1,0,0
+6-25,1,M,31,2016,United Kingdom,0,1,0
+1-5,1,M,34,2016,United States of America,1,0,0
+1-5,1,W,49,2016,United States of America,1,0,0
+26-100,0,M,29,2016,Canada,0,0,1
+More than 1000,1,M,40,2016,United States of America,1,0,0
+26-100,1,W,46,2016,Netherlands,0,0,0
+1-5,1,W,31,2016,United States of America,1,0,0
+100-500,0,M,43,2016,Denmark,0,0,0
+1-5,0,M,45,2016,Germany,0,0,0
+6-25,0,M,32,2016,United Kingdom,0,1,0
+1-5,1,M,38,2016,United States of America,1,0,0
+More than 1000,1,M,40,2016,Netherlands,0,0,0
+26-100,1,M,38,2016,Germany,0,0,0
+100-500,1,M,32,2016,United Kingdom,0,1,0
+More than 1000,0,M,37,2016,Mexico,0,0,0
+1-5,1,M,24,2016,Sweden,0,0,0
+1-5,0,W,25,2016,United States of America,1,0,0
+6-25,0,M,24,2016,United States of America,1,0,0
+More than 1000,0,W,34,2016,United States of America,1,0,0
+1-5,1,M,55,2016,United States of America,1,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+1-5,0,M,29,2016,Romania,0,0,0
+More than 1000,0,M,20,2016,United States of America,1,0,0
+More than 1000,0,M,41,2016,United States of America,1,0,0
+6-25,1,W,33,2016,United States of America,1,0,0
+26-100,1,M,25,2016,United States of America,1,0,0
+1-5,0,M,29,2016,United Kingdom,0,1,0
+More than 1000,1,O,24,2016,United States of America,1,0,0
+100-500,1,M,39,2016,United States of America,1,0,0
+500-1000,0,M,39,2016,United Kingdom,0,1,0
+1-5,0,M,44,2016,United Kingdom,0,1,0
+1-5,1,W,30,2016,Netherlands,0,0,0
+6-25,0,M,31,2016,Denmark,0,0,0
+1-5,1,M,37,2016,United Kingdom,0,1,0
+6-25,1,M,42,2016,United Kingdom,0,1,0
+1-5,0,M,35,2016,Canada,0,0,1
+26-100,1,M,30,2016,United States of America,1,0,0
+More than 1000,0,M,30,2016,Canada,0,0,1
+26-100,0,M,33,2016,United States of America,1,0,0
+More than 1000,0,M,31,2016,United States of America,1,0,0
+More than 1000,1,W,39,2016,United States of America,1,0,0
+26-100,0,M,27,2016,Germany,0,0,0
+1-5,1,M,34,2016,United Kingdom,0,1,0
+6-25,0,M,31,2016,United States of America,1,0,0
+More than 1000,1,W,30,2016,United States of America,1,0,0
+26-100,1,M,34,2016,United States of America,1,0,0
+6-25,0,O,20,2016,Canada,0,0,1
+1-5,1,M,39,2016,United States of America,1,0,0
+More than 1000,1,W,50,2016,United States of America,1,0,0
+1-5,0,M,22,2016,United States of America,1,0,0
+100-500,0,M,41,2016,Spain,0,0,0
+26-100,0,M,37,2016,Germany,0,0,0
+100-500,1,M,32,2016,United States of America,1,0,0
+1-5,1,M,26,2016,Austria,0,0,0
+6-25,0,M,38,2016,Netherlands,0,0,0
+1-5,0,M,21,2016,United Kingdom,0,1,0
+6-25,1,M,27,2016,United States of America,1,0,0
+1-5,1,W,37,2016,United States of America,1,0,0
+1-5,0,M,45,2016,United Kingdom,0,1,0
+1-5,0,M,26,2016,United States of America,1,0,0
+6-25,0,W,30,2016,United States of America,1,0,0
+More than 1000,1,M,21,2016,United States of America,1,0,0
+More than 1000,1,M,21,2016,United States of America,1,0,0
+1-5,0,M,29,2016,Germany,0,0,0
+More than 1000,0,M,46,2016,United States of America,1,0,0
+500-1000,1,M,28,2016,United States of America,1,0,0
+1-5,1,W,37,2016,United States of America,1,0,0
+More than 1000,0,M,44,2016,United States of America,1,0,0
+1-5,1,W,45,2016,United States of America,1,0,0
+1-5,0,W,35,2016,United States of America,1,0,0
+26-100,1,M,39,2016,United States of America,1,0,0
+More than 1000,1,W,37,2016,United States of America,1,0,0
+100-500,0,M,35,2016,United States of America,1,0,0
+More than 1000,1,W,29,2016,United States of America,1,0,0
+1-5,1,W,49,2016,United States of America,1,0,0
+26-100,1,M,21,2016,United States of America,1,0,0
+26-100,1,W,26,2016,United States of America,1,0,0
+100-500,1,M,35,2016,Germany,0,0,0
+100-500,1,M,56,2016,United States of America,1,0,0
+1-5,1,W,53,2016,United States of America,1,0,0
+1-5,1,W,48,2016,United States of America,1,0,0
+26-100,0,M,24,2016,United Kingdom,0,1,0
+More than 1000,0,M,37,2016,Ireland,0,0,0
+26-100,1,W,27,2016,United States of America,1,0,0
+1-5,1,W,39,2016,United States of America,1,0,0
+1-5,0,M,31,2016,Finland,0,0,0
+100-500,0,M,34,2016,United States of America,1,0,0
+More than 1000,1,M,33,2016,United Kingdom,0,1,0
+1-5,0,M,22,2016,United Kingdom,0,1,0
+6-25,0,W,25,2016,United Kingdom,0,1,0
+More than 1000,0,M,34,2016,United Kingdom,0,1,0
+6-25,0,M,30,2016,United Kingdom,0,1,0
+26-100,1,M,37,2016,United Kingdom,0,1,0
+6-25,0,M,26,2016,Chile,0,0,0
+More than 1000,1,W,29,2016,United States of America,1,0,0
+6-25,0,M,29,2016,Chile,0,0,0
+26-100,1,M,27,2016,United Kingdom,0,1,0
+6-25,1,W,27,2016,Chile,0,0,0
+More than 1000,0,M,23,2016,United States of America,1,0,0
+More than 1000,0,W,24,2016,United States of America,1,0,0
+1-5,1,M,22,2016,Guatemala,0,0,0
+1-5,0,M,28,2016,United Kingdom,0,1,0
+6-25,1,M,22,2016,United States of America,1,0,0
+26-100,0,M,32,2016,United States of America,1,0,0
+6-25,1,W,35,2016,United States of America,1,0,0
+26-100,1,M,26,2016,United States of America,1,0,0
+More than 1000,1,W,31,2016,United Kingdom,0,1,0
+1-5,1,M,32,2016,United States of America,1,0,0
+100-500,1,M,37,2016,Pakistan,0,0,0
+6-25,1,M,24,2016,United Kingdom,0,1,0
+26-100,0,M,33,2016,United States of America,1,0,0
+100-500,1,M,28,2016,United States of America,1,0,0
+More than 1000,0,W,22,2016,United States of America,1,0,0
+100-500,1,M,46,2016,Germany,0,0,0
+26-100,0,M,30,2016,United States of America,1,0,0
+26-100,1,M,29,2016,United States of America,1,0,0
+100-500,0,M,22,2016,United States of America,1,0,0
+1-5,1,W,24,2016,United States of America,1,0,0
+1-5,0,W,29,2016,United States of America,1,0,0
+More than 1000,1,M,30,2016,United States of America,1,0,0
+1-5,0,M,25,2016,United States of America,1,0,0
+More than 1000,0,M,39,2016,United States of America,1,0,0
+1-5,0,M,31,2016,Serbia,0,0,0
+1-5,1,M,25,2016,United States of America,1,0,0
+500-1000,0,M,39,2016,United States of America,1,0,0
+More than 1000,1,W,31,2016,United States of America,1,0,0
+100-500,0,M,35,2016,United States of America,1,0,0
+1-5,1,O,31,2016,United States of America,1,0,0
+More than 1000,1,M,23,2016,United States of America,1,0,0
+More than 1000,1,M,30,2016,United States of America,1,0,0
+6-25,0,M,28,2016,France,0,0,0
+More than 1000,1,W,23,2016,Ireland,0,0,0
+26-100,1,W,26,2016,United States of America,1,0,0
+26-100,1,W,24,2016,United States of America,1,0,0
+More than 1000,0,M,32,2016,United States of America,1,0,0
+1-5,1,M,35,2016,United States of America,1,0,0
+100-500,0,M,30,2016,Estonia,0,0,0
+26-100,1,M,32,2016,United States of America,1,0,0
+6-25,1,M,35,2016,United States of America,1,0,0
+26-100,1,W,26,2016,United States of America,1,0,0
+100-500,1,W,30,2016,United States of America,1,0,0
+26-100,0,M,29,2016,United States of America,1,0,0
+More than 1000,0,M,39,2016,Canada,0,0,1
+More than 1000,1,M,37,2016,United Kingdom,0,1,0
+26-100,0,M,35,2016,United States of America,1,0,0
+1-5,1,W,25,2016,United States of America,1,0,0
+More than 1000,1,O,22,2016,United States of America,1,0,0
+26-100,1,M,33,2016,United Kingdom,0,1,0
+1-5,1,M,23,2016,United States of America,1,0,0
+1-5,1,M,29,2016,Brazil,0,0,0
+26-100,1,M,28,2016,United States of America,1,0,0
+More than 1000,1,M,30,2016,United States of America,1,0,0
+100-500,1,M,28,2016,United States of America,1,0,0
+6-25,1,W,28,2016,United States of America,1,0,0
+More than 1000,1,M,37,2016,United States of America,1,0,0
+26-100,1,M,30,2016,United States of America,1,0,0
+6-25,1,M,27,2016,India,0,0,0
+1-5,1,M,29,2016,Canada,0,0,1
+More than 1000,1,M,28,2016,Poland,0,0,0
+6-25,1,W,26,2016,Ireland,0,0,0
+100-500,1,M,29,2016,United States of America,1,0,0
+1-5,0,M,34,2016,Germany,0,0,0
+100-500,1,M,36,2016,United Kingdom,0,1,0
+26-100,1,M,38,2016,Belgium,0,0,0
+6-25,1,W,22,2016,United States of America,1,0,0
+1-5,0,M,24,2016,United States of America,1,0,0
+100-500,1,W,24,2016,United States of America,1,0,0
+500-1000,1,W,36,2016,United States of America,1,0,0
+More than 1000,1,W,24,2016,United States of America,1,0,0
+500-1000,0,M,24,2016,United States of America,1,0,0
+26-100,1,M,31,2016,Netherlands,0,0,0
+26-100,1,M,39,2016,United Kingdom,0,1,0
+More than 1000,1,M,41,2016,United States of America,1,0,0
+1-5,0,M,29,2016,United Kingdom,0,1,0
+26-100,0,M,37,2016,Estonia,0,0,0
+26-100,0,M,30,2016,United States of America,1,0,0
+100-500,0,M,24,2016,Canada,0,0,1
+100-500,1,W,22,2016,Canada,0,0,1
+100-500,0,M,24,2016,Canada,0,0,1
+100-500,1,W,26,2016,Canada,0,0,1
+500-1000,1,W,38,2016,United States of America,1,0,0
+1-5,0,W,34,2016,United States of America,1,0,0
+1-5,1,M,56,2016,Afghanistan,0,0,0
+100-500,1,M,52,2016,United States of America,1,0,0
+100-500,1,W,30,2016,United States of America,1,0,0
+100-500,0,O,25,2016,Canada,0,0,1
+6-25,1,W,37,2014,United States,1,0,0
+More than 1000,0,M,44,2014,United States,1,0,0
+6-25,0,M,32,2014,Canada,0,0,1
+26-100,1,M,31,2014,United Kingdom,0,1,0
+100-500,0,M,31,2014,United States,1,0,0
+6-25,0,M,33,2014,United States,1,0,0
+1-5,1,W,35,2014,United States,1,0,0
+1-5,0,M,39,2014,Canada,0,0,1
+100-500,1,W,42,2014,United States,1,0,0
+26-100,0,M,23,2014,Canada,0,0,1
+6-25,1,M,31,2014,United States,1,0,0
+100-500,0,M,29,2014,Bulgaria,0,0,0
+26-100,1,W,42,2014,United States,1,0,0
+500-1000,0,M,36,2014,United States,1,0,0
+6-25,0,M,27,2014,Canada,0,0,1
+26-100,1,W,29,2014,United States,1,0,0
+26-100,1,M,23,2014,United Kingdom,0,1,0
+6-25,1,M,32,2014,United States,1,0,0
+1-5,0,M,46,2014,United States,1,0,0
+6-25,0,M,36,2014,France,0,0,0
+100-500,1,M,29,2014,United States,1,0,0
+1-5,0,M,31,2014,United States,1,0,0
+26-100,1,M,46,2014,United States,1,0,0
+More than 1000,1,M,41,2014,United States,1,0,0
+26-100,1,M,33,2014,United States,1,0,0
+More than 1000,1,M,35,2014,United States,1,0,0
+1-5,0,M,33,2014,United States,1,0,0
+6-25,1,W,35,2014,United States,1,0,0
+26-100,1,M,34,2014,United States,1,0,0
+6-25,0,M,37,2014,United Kingdom,0,1,0
+6-25,0,M,32,2014,United Kingdom,0,1,0
+1-5,0,M,31,2014,United States,1,0,0
+500-1000,1,M,30,2014,United Kingdom,0,1,0
+26-100,1,M,42,2014,United States,1,0,0
+1-5,1,W,40,2014,United States,1,0,0
+6-25,1,M,27,2014,United States,1,0,0
+1-5,0,M,29,2014,Canada,0,0,1
+100-500,0,M,38,2014,Portugal,0,0,0
+100-500,0,M,50,2014,United States,1,0,0
+More than 1000,1,M,35,2014,United States,1,0,0
+6-25,1,M,24,2014,United Kingdom,0,1,0
+More than 1000,0,M,35,2014,United States,1,0,0
+1-5,1,M,27,2014,Canada,0,0,1
+6-25,0,M,18,2014,Netherlands,0,0,0
+26-100,1,M,30,2014,United States,1,0,0
+26-100,1,W,38,2014,United States,1,0,0
+26-100,0,M,28,2014,United Kingdom,0,1,0
+6-25,0,M,34,2014,United States,1,0,0
+1-5,0,M,26,2014,Canada,0,0,1
+26-100,1,M,30,2014,United States,1,0,0
+6-25,1,M,22,2014,United States,1,0,0
+100-500,0,M,33,2014,United States,1,0,0
+100-500,0,M,31,2014,United States,1,0,0
+1-5,0,M,32,2014,United States,1,0,0
+100-500,0,M,28,2014,Switzerland,0,0,0
+26-100,1,O,27,2014,United States,1,0,0
+6-25,0,M,32,2014,United States,1,0,0
+26-100,1,M,24,2014,United States,1,0,0
+26-100,0,M,26,2014,United States,1,0,0
+6-25,1,M,33,2014,Canada,0,0,1
+More than 1000,1,M,44,2014,United States,1,0,0
+26-100,1,W,26,2014,Poland,0,0,0
+100-500,0,M,27,2014,United Kingdom,0,1,0
+26-100,0,M,26,2014,France,0,0,0
+6-25,0,M,35,2014,Canada,0,0,1
+More than 1000,0,M,40,2014,United States,1,0,0
+1-5,1,W,23,2014,Australia,0,0,0
+100-500,0,M,36,2014,United States,1,0,0
+26-100,0,W,31,2014,United States,1,0,0
+1-5,0,M,34,2014,United States,1,0,0
+26-100,0,M,28,2014,France,0,0,0
+6-25,0,M,34,2014,Canada,0,0,1
+More than 1000,0,W,23,2014,United States,1,0,0
+26-100,0,M,38,2014,United Kingdom,0,1,0
+More than 1000,0,M,33,2014,United States,1,0,0
+1-5,0,M,19,2014,United Kingdom,0,1,0
+More than 1000,0,M,25,2014,United States,1,0,0
+1-5,0,M,31,2014,United States,1,0,0
+26-100,1,M,32,2014,United States,1,0,0
+6-25,0,M,28,2014,Germany,0,0,0
+100-500,0,M,38,2014,United States,1,0,0
+26-100,0,M,23,2014,United Kingdom,0,1,0
+26-100,0,M,30,2014,Canada,0,0,1
+1-5,1,W,27,2014,United States,1,0,0
+More than 1000,0,M,33,2014,United States,1,0,0
+26-100,0,M,31,2014,United States,1,0,0
+6-25,1,M,39,2014,United Kingdom,0,1,0
+500-1000,1,W,34,2014,United States,1,0,0
+26-100,1,W,29,2014,United States,1,0,0
+500-1000,0,M,32,2014,United States,1,0,0
+500-1000,0,M,31,2014,United States,1,0,0
+26-100,1,M,40,2014,United States,1,0,0
+26-100,0,M,34,2014,United States,1,0,0
+26-100,0,O,18,2014,Russia,0,0,0
+26-100,1,W,25,2014,Canada,0,0,1
+26-100,0,M,29,2014,United States,1,0,0
+26-100,0,M,24,2014,United States,1,0,0
+6-25,1,M,31,2014,Mexico,0,0,0
+6-25,1,M,33,2014,United States,1,0,0
+1-5,1,M,30,2014,United States,1,0,0
+26-100,1,W,26,2014,Canada,0,0,1
+100-500,0,W,44,2014,United States,1,0,0
+26-100,0,M,25,2014,United States,1,0,0
+26-100,1,M,33,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+6-25,0,M,35,2014,United States,1,0,0
+26-100,1,M,35,2014,United States,1,0,0
+6-25,1,M,28,2014,Brazil,0,0,0
+6-25,0,M,34,2014,United States,1,0,0
+26-100,1,M,32,2014,United States,1,0,0
+500-1000,1,M,22,2014,United States,1,0,0
+26-100,1,M,28,2014,United States,1,0,0
+6-25,1,M,45,2014,United States,1,0,0
+100-500,0,M,32,2014,United States,1,0,0
+More than 1000,0,M,28,2014,United States,1,0,0
+6-25,0,M,26,2014,United Kingdom,0,1,0
+1-5,0,M,21,2014,United Kingdom,0,1,0
+6-25,0,M,27,2014,Canada,0,0,1
+1-5,1,M,18,2014,United States,1,0,0
+26-100,0,M,35,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+26-100,0,M,25,2014,United States,1,0,0
+6-25,1,M,33,2014,United States,1,0,0
+6-25,0,M,36,2014,United States,1,0,0
+100-500,1,M,27,2014,Canada,0,0,1
+500-1000,0,M,27,2014,United States,1,0,0
+6-25,0,M,27,2014,United Kingdom,0,1,0
+100-500,1,M,32,2014,United States,1,0,0
+6-25,0,M,31,2014,United Kingdom,0,1,0
+6-25,1,M,19,2014,Slovenia,0,0,0
+More than 1000,1,M,33,2014,United States,1,0,0
+1-5,0,M,32,2014,United States,1,0,0
+26-100,0,M,27,2014,United States,1,0,0
+26-100,0,M,38,2014,Costa Rica,0,0,0
+26-100,1,M,24,2014,Canada,0,0,1
+26-100,0,M,39,2014,United Kingdom,0,1,0
+6-25,0,M,28,2014,United Kingdom,0,1,0
+More than 1000,1,M,39,2014,United States,1,0,0
+6-25,0,W,29,2014,United States,1,0,0
+6-25,0,M,22,2014,Austria,0,0,0
+100-500,1,M,38,2014,United States,1,0,0
+More than 1000,1,M,37,2014,United Kingdom,0,1,0
+26-100,0,M,35,2014,United States,1,0,0
+More than 1000,0,W,30,2014,United States,1,0,0
+100-500,1,M,37,2014,United States,1,0,0
+6-25,0,M,24,2014,United Kingdom,0,1,0
+6-25,0,M,23,2014,United States,1,0,0
+100-500,1,M,30,2014,Ireland,0,0,0
+100-500,0,W,29,2014,United States,1,0,0
+1-5,0,M,19,2014,Canada,0,0,1
+26-100,0,M,32,2014,United States,1,0,0
+6-25,0,M,28,2014,Poland,0,0,0
+6-25,0,M,36,2014,United States,1,0,0
+More than 1000,1,M,37,2014,United Kingdom,0,1,0
+26-100,1,M,25,2014,United States,1,0,0
+More than 1000,1,M,27,2014,United States,1,0,0
+26-100,0,M,26,2014,United States,1,0,0
+26-100,1,M,27,2014,United States,1,0,0
+26-100,1,M,25,2014,United States,1,0,0
+More than 1000,1,M,36,2014,United Kingdom,0,1,0
+500-1000,1,W,25,2014,United States,1,0,0
+More than 1000,0,M,31,2014,United States,1,0,0
+6-25,0,M,26,2014,United States,1,0,0
+1-5,1,W,33,2014,United States,1,0,0
+1-5,0,W,27,2014,United Kingdom,0,1,0
+26-100,0,M,34,2014,United States,1,0,0
+6-25,0,M,42,2014,United States,1,0,0
+1-5,0,M,23,2014,Ireland,0,0,0
+100-500,0,M,24,2014,United Kingdom,0,1,0
+More than 1000,1,M,26,2014,United Kingdom,0,1,0
+6-25,1,M,31,2014,United Kingdom,0,1,0
+More than 1000,1,M,22,2014,India,0,0,0
+6-25,0,W,23,2014,United States,1,0,0
+More than 1000,1,W,34,2014,Canada,0,0,1
+26-100,0,M,31,2014,United States,1,0,0
+100-500,0,M,28,2014,United Kingdom,0,1,0
+6-25,1,W,32,2014,United States,1,0,0
+1-5,1,W,45,2014,United States,1,0,0
+6-25,0,M,33,2014,United States,1,0,0
+6-25,0,M,29,2014,Mexico,0,0,0
+6-25,0,W,26,2014,India,0,0,0
+26-100,0,W,28,2014,United Kingdom,0,1,0
+More than 1000,1,M,45,2014,United States,1,0,0
+More than 1000,1,M,43,2014,United States,1,0,0
+500-1000,0,M,37,2014,United States,1,0,0
+6-25,0,M,24,2014,United Kingdom,0,1,0
+6-25,0,M,26,2014,France,0,0,0
+1-5,0,M,23,2014,United Kingdom,0,1,0
+More than 1000,1,W,35,2014,United States,1,0,0
+1-5,1,W,38,2014,South Africa,0,0,0
+26-100,1,M,28,2014,United States,1,0,0
+26-100,0,M,28,2014,Russia,0,0,0
+6-25,1,M,35,2014,United States,1,0,0
+100-500,0,W,32,2014,Germany,0,0,0
+6-25,0,M,31,2014,Italy,0,0,0
+500-1000,0,W,35,2014,United States,1,0,0
+More than 1000,0,M,26,2014,United States,1,0,0
+6-25,0,M,27,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United Kingdom,0,1,0
+26-100,1,W,27,2014,United States,1,0,0
+500-1000,1,W,34,2014,United States,1,0,0
+6-25,1,M,41,2014,United States,1,0,0
+1-5,0,M,37,2014,Ireland,0,0,0
+100-500,0,M,34,2014,Austria,0,0,0
+100-500,1,M,32,2014,United Kingdom,0,1,0
+6-25,1,M,21,2014,Canada,0,0,1
+26-100,1,M,30,2014,United States,1,0,0
+26-100,0,M,24,2014,United States,1,0,0
+100-500,0,M,26,2014,Bulgaria,0,0,0
+26-100,0,W,40,2014,United States,1,0,0
+26-100,0,M,37,2014,United Kingdom,0,1,0
+1-5,1,M,26,2014,United Kingdom,0,1,0
+6-25,1,W,32,2014,United States,1,0,0
+100-500,1,W,32,2014,United States,1,0,0
+1-5,1,W,27,2014,United States,1,0,0
+6-25,1,M,30,2014,Germany,0,0,0
+6-25,0,M,31,2014,Canada,0,0,1
+500-1000,1,W,29,2014,United States,1,0,0
+26-100,0,M,41,2014,United States,1,0,0
+6-25,0,W,34,2014,United States,1,0,0
+26-100,0,M,33,2014,United Kingdom,0,1,0
+6-25,0,M,28,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United States,1,0,0
+26-100,0,M,23,2014,United States,1,0,0
+1-5,0,M,24,2014,United States,1,0,0
+1-5,0,M,32,2014,United States,1,0,0
+1-5,0,M,34,2014,Australia,0,0,0
+6-25,0,M,24,2014,United States,1,0,0
+1-5,1,M,26,2014,United Kingdom,0,1,0
+26-100,1,M,36,2014,United States,1,0,0
+500-1000,1,M,41,2014,United States,1,0,0
+More than 1000,1,M,38,2014,United Kingdom,0,1,0
+26-100,0,M,38,2014,United States,1,0,0
+26-100,0,M,30,2014,Netherlands,0,0,0
+26-100,0,M,25,2014,United Kingdom,0,1,0
+26-100,1,M,37,2014,Canada,0,0,1
+6-25,0,M,34,2014,United Kingdom,0,1,0
+More than 1000,1,W,37,2014,United States,1,0,0
+6-25,1,W,28,2014,Canada,0,0,1
+6-25,0,M,22,2014,Sweden,0,0,0
+1-5,1,M,34,2014,United States,1,0,0
+26-100,1,M,33,2014,United States,1,0,0
+6-25,0,M,25,2014,South Africa,0,0,0
+More than 1000,0,M,27,2014,United States,1,0,0
+More than 1000,1,M,40,2014,United States,1,0,0
+6-25,1,M,21,2014,United States,1,0,0
+6-25,0,M,29,2014,United Kingdom,0,1,0
+1-5,1,M,32,2014,United States,1,0,0
+500-1000,1,W,29,2014,United States,1,0,0
+26-100,1,M,23,2014,United States,1,0,0
+100-500,0,M,28,2014,United States,1,0,0
+100-500,1,M,31,2014,United States,1,0,0
+100-500,0,M,27,2014,United Kingdom,0,1,0
+6-25,0,M,24,2014,United States,1,0,0
+6-25,0,M,29,2014,Canada,0,0,1
+6-25,1,W,23,2014,United Kingdom,0,1,0
+6-25,0,M,42,2014,United States,1,0,0
+1-5,0,M,24,2014,United Kingdom,0,1,0
+6-25,1,M,25,2014,Australia,0,0,0
+6-25,1,W,27,2014,United States,1,0,0
+6-25,0,M,27,2014,Canada,0,0,1
+100-500,1,M,30,2014,United States,1,0,0
+6-25,1,M,29,2014,Poland,0,0,0
+6-25,0,M,43,2014,Canada,0,0,1
+6-25,0,M,32,2014,United States,1,0,0
+26-100,1,M,41,2014,United States,1,0,0
+1-5,1,M,32,2014,United Kingdom,0,1,0
+26-100,1,W,37,2014,United States,1,0,0
+6-25,0,M,32,2014,United States,1,0,0
+1-5,0,M,30,2014,Ireland,0,0,0
+100-500,1,W,23,2014,United States,1,0,0
+More than 1000,0,M,30,2014,United States,1,0,0
+26-100,0,M,34,2014,United Kingdom,0,1,0
+26-100,1,M,38,2014,United States,1,0,0
+100-500,0,M,33,2014,Canada,0,0,1
+26-100,0,M,34,2014,United States,1,0,0
+6-25,0,M,28,2014,Colombia,0,0,0
+100-500,1,M,28,2014,United States,1,0,0
+100-500,0,M,23,2014,United States,1,0,0
+6-25,1,M,22,2014,Australia,0,0,0
+6-25,0,M,27,2014,Portugal,0,0,0
+6-25,1,M,18,2014,United States,1,0,0
+26-100,1,M,35,2014,United States,1,0,0
+100-500,0,M,25,2014,Canada,0,0,1
+6-25,1,M,27,2014,United Kingdom,0,1,0
+More than 1000,1,W,26,2014,United States,1,0,0
+26-100,0,M,18,2014,United States,1,0,0
+1-5,1,W,38,2014,United States,1,0,0
+More than 1000,1,W,26,2014,United States,1,0,0
+1-5,0,M,30,2014,Switzerland,0,0,0
+More than 1000,0,M,35,2014,United States,1,0,0
+More than 1000,1,M,45,2014,United States,1,0,0
+More than 1000,0,M,32,2014,United States,1,0,0
+More than 1000,1,M,56,2014,United States,1,0,0
+500-1000,0,W,24,2014,United States,1,0,0
+26-100,1,W,30,2014,United States,1,0,0
+More than 1000,0,M,60,2014,United States,1,0,0
+More than 1000,1,M,33,2014,United States,1,0,0
+More than 1000,0,M,37,2014,United States,1,0,0
+More than 1000,1,W,23,2014,United States,1,0,0
+More than 1000,1,W,31,2014,United States,1,0,0
+100-500,0,M,26,2014,United States,1,0,0
+100-500,1,W,28,2014,United States,1,0,0
+More than 1000,1,W,37,2014,United States,1,0,0
+6-25,1,M,26,2014,Canada,0,0,1
+26-100,1,O,30,2014,United States,1,0,0
+26-100,0,M,26,2014,United States,1,0,0
+26-100,0,M,25,2014,United States,1,0,0
+100-500,0,M,27,2014,United States,1,0,0
+6-25,1,M,25,2014,Canada,0,0,1
+100-500,1,M,35,2014,United States,1,0,0
+1-5,1,M,36,2014,United States,1,0,0
+More than 1000,1,M,26,2014,United States,1,0,0
+More than 1000,0,M,27,2014,United States,1,0,0
+6-25,0,M,30,2014,United States,1,0,0
+100-500,0,M,29,2014,United States,1,0,0
+More than 1000,0,M,25,2014,United States,1,0,0
+More than 1000,1,W,22,2014,United States,1,0,0
+26-100,0,M,29,2014,Latvia,0,0,0
+100-500,1,M,41,2014,United States,1,0,0
+More than 1000,1,M,29,2014,United States,1,0,0
+500-1000,0,M,32,2014,United States,1,0,0
+More than 1000,1,W,24,2014,United States,1,0,0
+6-25,1,M,25,2014,United States,1,0,0
+More than 1000,0,M,25,2014,United States,1,0,0
+More than 1000,0,W,30,2014,United States,1,0,0
+More than 1000,1,M,25,2014,United States,1,0,0
+1-5,0,M,30,2014,United States,1,0,0
+1-5,1,M,33,2014,Germany,0,0,0
+26-100,0,M,24,2014,United States,1,0,0
+More than 1000,1,M,25,2014,Canada,0,0,1
+100-500,0,M,31,2014,United States,1,0,0
+1-5,1,M,45,2014,Ireland,0,0,0
+6-25,0,M,29,2014,Romania,0,0,0
+26-100,0,M,46,2014,United States,1,0,0
+26-100,1,M,30,2014,United Kingdom,0,1,0
+More than 1000,0,W,29,2014,United States,1,0,0
+More than 1000,0,M,24,2014,United States,1,0,0
+26-100,0,M,29,2014,United States,1,0,0
+26-100,0,M,35,2014,United States,1,0,0
+26-100,0,W,33,2014,United States,1,0,0
+More than 1000,0,M,27,2014,United States,1,0,0
+More than 1000,0,M,36,2014,United States,1,0,0
+1-5,0,M,33,2014,United Kingdom,0,1,0
+26-100,1,W,25,2014,United States,1,0,0
+100-500,1,M,23,2014,United States,1,0,0
+More than 1000,1,M,54,2014,United States,1,0,0
+More than 1000,0,M,22,2014,United States,1,0,0
+More than 1000,1,O,25,2014,United States,1,0,0
+6-25,0,M,29,2014,Belgium,0,0,0
+More than 1000,1,M,27,2014,United States,1,0,0
+6-25,0,M,30,2014,United Kingdom,0,1,0
+More than 1000,1,M,26,2014,United States,1,0,0
+6-25,0,W,25,2014,Sweden,0,0,0
+500-1000,1,M,31,2014,United States,1,0,0
+26-100,1,M,33,2014,United States,1,0,0
+More than 1000,1,M,34,2014,United States,1,0,0
+100-500,1,M,34,2014,United States,1,0,0
+1-5,0,M,29,2014,United States,1,0,0
+6-25,0,W,33,2014,United States,1,0,0
+26-100,1,M,34,2014,Germany,0,0,0
+100-500,1,M,26,2014,United States,1,0,0
+More than 1000,1,M,32,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United States,1,0,0
+More than 1000,0,M,35,2014,United States,1,0,0
+100-500,1,M,36,2014,United States,1,0,0
+100-500,1,M,21,2014,United States,1,0,0
+6-25,1,M,21,2014,United Kingdom,0,1,0
+More than 1000,0,W,22,2014,United States,1,0,0
+More than 1000,1,M,41,2014,United States,1,0,0
+More than 1000,1,M,55,2014,United States,1,0,0
+26-100,1,W,32,2014,United States,1,0,0
+26-100,1,W,21,2014,United States,1,0,0
+26-100,1,M,45,2014,United States,1,0,0
+More than 1000,1,W,27,2014,United States,1,0,0
+26-100,1,W,25,2014,United States,1,0,0
+More than 1000,1,W,34,2014,United States,1,0,0
+More than 1000,1,W,26,2014,United States,1,0,0
+500-1000,1,M,41,2014,Canada,0,0,1
+More than 1000,1,M,27,2014,United States,1,0,0
+26-100,1,M,31,2014,United States,1,0,0
+26-100,1,M,25,2014,Germany,0,0,0
+6-25,1,M,26,2014,United States,1,0,0
+More than 1000,1,W,27,2014,United States,1,0,0
+500-1000,0,M,42,2014,New Zealand,0,0,0
+1-5,1,O,29,2014,United States,1,0,0
+6-25,1,W,25,2014,United States,1,0,0
+More than 1000,1,W,33,2014,Sweden,0,0,0
+More than 1000,1,W,40,2014,United States,1,0,0
+More than 1000,0,M,31,2014,United States,1,0,0
+26-100,1,M,26,2014,Canada,0,0,1
+500-1000,0,W,24,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+26-100,0,M,48,2014,United Kingdom,0,1,0
+6-25,0,M,35,2014,United Kingdom,0,1,0
+100-500,0,W,32,2014,United States,1,0,0
+100-500,1,M,29,2014,Canada,0,0,1
+6-25,1,M,26,2014,United States,1,0,0
+26-100,1,M,28,2014,United States,1,0,0
+More than 1000,0,M,23,2014,United States,1,0,0
+100-500,1,M,35,2014,United States,1,0,0
+26-100,1,M,29,2014,Germany,0,0,0
+6-25,0,M,26,2014,United States,1,0,0
+26-100,1,M,33,2014,United States,1,0,0
+More than 1000,0,M,33,2014,United States,1,0,0
+6-25,0,M,22,2014,Brazil,0,0,0
+500-1000,0,W,30,2014,Spain,0,0,0
+More than 1000,1,M,33,2014,United States,1,0,0
+More than 1000,1,W,31,2014,United States,1,0,0
+More than 1000,0,M,21,2014,United States,1,0,0
+More than 1000,1,O,31,2014,United Kingdom,0,1,0
+100-500,1,W,26,2014,United States,1,0,0
+6-25,0,M,30,2014,United States,1,0,0
+100-500,1,O,30,2014,Germany,0,0,0
+6-25,0,M,23,2014,India,0,0,0
+6-25,0,M,34,2014,Finland,0,0,0
+1-5,1,M,55,2014,United States,1,0,0
+1-5,1,M,28,2014,Germany,0,0,0
+26-100,0,M,26,2014,Uruguay,0,0,0
+6-25,1,M,28,2014,New Zealand,0,0,0
+6-25,1,M,32,2014,United Kingdom,0,1,0
+More than 1000,1,W,28,2014,United States,1,0,0
+6-25,0,M,21,2014,United States,1,0,0
+100-500,1,M,24,2014,United States,1,0,0
+More than 1000,0,W,26,2014,United States,1,0,0
+More than 1000,0,M,23,2014,United States,1,0,0
+More than 1000,0,W,24,2014,United States,1,0,0
+100-500,0,M,28,2014,Canada,0,0,1
+6-25,1,W,24,2014,United States,1,0,0
+1-5,1,M,33,2014,United States,1,0,0
+26-100,0,M,34,2014,United States,1,0,0
+26-100,1,W,27,2014,United States,1,0,0
+6-25,0,M,28,2014,United States,1,0,0
+More than 1000,0,M,26,2014,United States,1,0,0
+100-500,0,M,20,2014,Australia,0,0,0
+26-100,1,W,23,2014,United States,1,0,0
+1-5,1,M,29,2014,United States,1,0,0
+6-25,0,M,26,2014,United Kingdom,0,1,0
+More than 1000,0,M,36,2014,United States,1,0,0
+More than 1000,1,M,41,2014,United States,1,0,0
+100-500,0,W,33,2014,United States,1,0,0
+6-25,1,M,23,2014,Canada,0,0,1
+More than 1000,0,M,39,2014,United States,1,0,0
+More than 1000,0,M,34,2014,United States,1,0,0
+100-500,1,W,26,2014,United States,1,0,0
+26-100,1,M,24,2014,United States,1,0,0
+More than 1000,1,M,37,2014,Canada,0,0,1
+6-25,1,M,43,2014,United States,1,0,0
+More than 1000,0,O,40,2014,United States,1,0,0
+More than 1000,1,M,30,2014,United States,1,0,0
+6-25,1,M,34,2014,United States,1,0,0
+100-500,1,M,27,2014,United States,1,0,0
+More than 1000,0,M,36,2014,United States,1,0,0
+6-25,0,M,27,2014,Brazil,0,0,0
+100-500,0,M,35,2014,Netherlands,0,0,0
+6-25,0,M,32,2014,United Kingdom,0,1,0
+500-1000,0,M,37,2014,United States,1,0,0
+26-100,0,M,29,2014,United Kingdom,0,1,0
+500-1000,0,W,33,2014,United States,1,0,0
+6-25,0,M,28,2014,United States,1,0,0
+26-100,0,W,26,2014,United States,1,0,0
+6-25,1,M,27,2014,United States,1,0,0
+26-100,1,M,38,2014,United Kingdom,0,1,0
+More than 1000,1,M,57,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United Kingdom,0,1,0
+6-25,0,M,26,2014,France,0,0,0
+100-500,1,W,42,2014,Netherlands,0,0,0
+100-500,1,M,31,2014,United States,1,0,0
+More than 1000,1,M,58,2014,United States,1,0,0
+6-25,0,M,29,2014,United States,1,0,0
+More than 1000,1,W,39,2014,United Kingdom,0,1,0
+6-25,0,M,34,2014,United States,1,0,0
+More than 1000,1,M,57,2014,United States,1,0,0
+6-25,1,M,27,2014,Germany,0,0,0
+26-100,1,M,23,2014,Germany,0,0,0
+500-1000,0,M,18,2014,Finland,0,0,0
+100-500,0,W,30,2014,United States,1,0,0
+26-100,0,M,23,2014,United States,1,0,0
+More than 1000,1,M,43,2014,United States,1,0,0
+1-5,1,W,18,2014,United Kingdom,0,1,0
+6-25,1,M,29,2014,United States,1,0,0
+6-25,0,M,48,2014,United States,1,0,0
+26-100,1,M,43,2014,Germany,0,0,0
+26-100,1,W,28,2014,United States,1,0,0
+1-5,1,M,30,2014,United States,1,0,0
+6-25,0,M,26,2014,Israel,0,0,0
+6-25,0,M,33,2014,Italy,0,0,0
+More than 1000,0,M,31,2014,United States,1,0,0
+100-500,0,M,30,2014,United States,1,0,0
+26-100,0,M,27,2014,Israel,0,0,0
+1-5,1,W,24,2014,United States,1,0,0
+26-100,0,M,25,2014,United States,1,0,0
+More than 1000,1,W,23,2014,United States,1,0,0
+More than 1000,1,M,36,2014,United States,1,0,0
+1-5,1,W,25,2014,United States,1,0,0
+More than 1000,1,M,54,2014,United Kingdom,0,1,0
+6-25,0,M,34,2014,Netherlands,0,0,0
+26-100,1,W,38,2014,United States,1,0,0
+More than 1000,0,M,40,2014,Ireland,0,0,0
+26-100,0,M,32,2014,United Kingdom,0,1,0
+More than 1000,0,M,25,2014,Germany,0,0,0
+100-500,1,W,35,2014,United States,1,0,0
+More than 1000,1,M,46,2014,United States,1,0,0
+100-500,0,M,42,2014,United States,1,0,0
+6-25,1,M,32,2014,United Kingdom,0,1,0
+More than 1000,1,M,47,2014,United States,1,0,0
+More than 1000,0,M,22,2014,United States,1,0,0
+500-1000,1,W,33,2014,United States,1,0,0
+6-25,0,W,25,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+26-100,0,M,39,2014,United States,1,0,0
+More than 1000,1,M,38,2014,United States,1,0,0
+6-25,0,M,43,2014,United States,1,0,0
+500-1000,1,M,46,2014,United States,1,0,0
+More than 1000,1,W,38,2014,United States,1,0,0
+6-25,1,M,33,2014,Germany,0,0,0
+26-100,1,M,34,2014,United Kingdom,0,1,0
+More than 1000,0,M,62,2014,United States,1,0,0
+More than 1000,0,W,23,2014,United States,1,0,0
+More than 1000,0,M,35,2014,United States,1,0,0
+26-100,0,M,25,2014,Bosnia and Herzegovina,0,0,0
+1-5,1,M,36,2014,United States,1,0,0
+500-1000,1,W,41,2014,United States,1,0,0
+1-5,0,M,24,2014,Austria,0,0,0
+26-100,1,M,51,2014,New Zealand,0,0,0
+6-25,1,M,29,2014,United States,1,0,0
+100-500,1,W,31,2014,Canada,0,0,1
+6-25,0,M,27,2014,United Kingdom,0,1,0
+100-500,1,M,31,2014,Australia,0,0,0
+1-5,0,W,27,2014,Hungary,0,0,0
+6-25,0,M,23,2014,Sweden,0,0,0
+26-100,0,M,21,2014,Canada,0,0,1
+6-25,1,W,27,2014,Australia,0,0,0
+26-100,1,M,39,2014,United States,1,0,0
+More than 1000,1,M,26,2014,United States,1,0,0
+6-25,0,M,27,2014,United Kingdom,0,1,0
+500-1000,1,W,22,2014,United States,1,0,0
+100-500,1,W,26,2014,United States,1,0,0
+100-500,1,W,31,2014,United States,1,0,0
+6-25,0,M,32,2014,United Kingdom,0,1,0
+100-500,1,W,28,2014,United States,1,0,0
+100-500,1,O,28,2014,United Kingdom,0,1,0
+6-25,0,W,23,2014,United Kingdom,0,1,0
+26-100,0,M,30,2014,United Kingdom,0,1,0
+More than 1000,1,M,36,2014,United States,1,0,0
+More than 1000,0,M,21,2014,United States,1,0,0
+26-100,0,M,30,2014,Germany,0,0,0
+500-1000,0,W,25,2014,United States,1,0,0
+6-25,1,M,32,2014,New Zealand,0,0,0
+1-5,1,W,29,2014,Canada,0,0,1
+26-100,1,O,21,2014,United Kingdom,0,1,0
+100-500,1,W,27,2014,New Zealand,0,0,0
+More than 1000,1,W,32,2014,Canada,0,0,1
+More than 1000,0,M,34,2014,Australia,0,0,0
+26-100,0,M,33,2014,United States,1,0,0
+6-25,1,M,22,2014,Netherlands,0,0,0
+More than 1000,0,M,24,2014,United States,1,0,0
+6-25,0,M,65,2014,United States,1,0,0
+100-500,1,M,27,2014,United States,1,0,0
+More than 1000,0,M,33,2014,Australia,0,0,0
+26-100,1,M,36,2014,United States,1,0,0
+26-100,0,M,40,2014,Canada,0,0,1
+More than 1000,1,M,28,2014,United States,1,0,0
+500-1000,1,M,39,2014,United States,1,0,0
+More than 1000,1,M,32,2014,United States,1,0,0
+More than 1000,0,M,31,2014,United States,1,0,0
+100-500,1,M,38,2014,United States,1,0,0
+1-5,1,M,23,2014,United States,1,0,0
+More than 1000,1,M,42,2014,United States,1,0,0
+500-1000,0,W,27,2014,United States,1,0,0
+26-100,1,W,26,2014,United States,1,0,0
+26-100,0,M,50,2014,United States,1,0,0
+26-100,0,M,37,2014,United States,1,0,0
+26-100,0,M,23,2014,United States,1,0,0
+6-25,0,M,33,2014,United States,1,0,0
+26-100,0,M,29,2014,Canada,0,0,1
+26-100,1,M,34,2014,United States,1,0,0
+More than 1000,1,M,41,2014,United States,1,0,0
+100-500,0,M,50,2014,United States,1,0,0
+More than 1000,1,M,29,2014,Canada,0,0,1
+6-25,0,M,35,2014,United States,1,0,0
+1-5,0,M,27,2014,Singapore,0,0,0
+26-100,0,W,40,2014,United States,1,0,0
+100-500,1,M,27,2014,Australia,0,0,0
+26-100,0,W,29,2014,United States,1,0,0
+6-25,1,M,31,2014,United States,1,0,0
+6-25,1,M,43,2014,United States,1,0,0
+26-100,1,M,34,2014,United States,1,0,0
+26-100,1,M,29,2014,United States,1,0,0
+1-5,1,M,19,2014,Canada,0,0,1
+More than 1000,1,M,41,2014,United States,1,0,0
+100-500,0,M,29,2014,United States,1,0,0
+100-500,0,M,23,2014,United States,1,0,0
+100-500,1,W,24,2014,United States,1,0,0
+26-100,0,M,31,2014,United States,1,0,0
+500-1000,0,M,43,2014,United States,1,0,0
+100-500,1,M,31,2014,United States,1,0,0
+100-500,0,M,29,2014,United States,1,0,0
+6-25,0,M,35,2014,United States,1,0,0
+100-500,1,M,33,2014,United States,1,0,0
+1-5,1,W,30,2014,United States,1,0,0
+More than 1000,0,M,27,2014,United States,1,0,0
+100-500,0,M,32,2014,United States,1,0,0
+1-5,0,M,50,2014,United States,1,0,0
+26-100,0,M,24,2014,United States,1,0,0
+26-100,0,M,27,2014,United States,1,0,0
+1-5,0,M,27,2014,Australia,0,0,0
+6-25,1,M,32,2014,United States,1,0,0
+6-25,0,M,42,2014,United States,1,0,0
+More than 1000,0,M,37,2014,United States,1,0,0
+26-100,0,M,30,2014,Singapore,0,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+6-25,1,M,30,2014,United States,1,0,0
+26-100,0,M,35,2014,United States,1,0,0
+100-500,1,M,35,2014,United States,1,0,0
+26-100,0,M,38,2014,Netherlands,0,0,0
+100-500,1,M,22,2014,United Kingdom,0,1,0
+100-500,0,M,24,2014,Germany,0,0,0
+1-5,0,M,22,2014,Netherlands,0,0,0
+26-100,1,W,31,2014,United States,1,0,0
+More than 1000,1,W,23,2014,United States,1,0,0
+100-500,1,W,31,2014,United States,1,0,0
+500-1000,1,W,28,2014,United States,1,0,0
+100-500,1,O,37,2014,Canada,0,0,1
+6-25,1,M,34,2014,United States,1,0,0
+26-100,0,O,32,2014,Canada,0,0,1
+26-100,1,M,28,2014,United States,1,0,0
+100-500,1,W,24,2014,United Kingdom,0,1,0
+6-25,1,M,56,2014,United States,1,0,0
+6-25,0,M,31,2014,Germany,0,0,0
+100-500,1,W,34,2014,United States,1,0,0
+100-500,1,M,35,2014,Germany,0,0,0
+26-100,0,M,28,2014,Germany,0,0,0
+6-25,1,M,36,2014,Poland,0,0,0
+26-100,1,M,30,2014,United Kingdom,0,1,0
+1-5,0,M,35,2014,United States,1,0,0
+1-5,1,M,49,2014,Japan,0,0,0
+26-100,0,M,36,2014,Germany,0,0,0
+26-100,0,M,35,2014,Germany,0,0,0
+More than 1000,1,W,29,2014,Australia,0,0,0
+26-100,0,M,57,2014,United States,1,0,0
+100-500,1,W,31,2014,Belgium,0,0,0
+6-25,0,M,37,2014,Ireland,0,0,0
+26-100,1,M,25,2014,Ireland,0,0,0
+26-100,0,M,30,2014,Australia,0,0,0
+100-500,0,W,26,2014,Australia,0,0,0
+6-25,0,W,22,2014,Netherlands,0,0,0
+More than 1000,0,M,39,2014,United States,1,0,0
+100-500,1,M,29,2014,United Kingdom,0,1,0
+1-5,1,M,54,2014,United Kingdom,0,1,0
+500-1000,0,W,34,2014,Australia,0,0,0
+500-1000,1,M,32,2014,United States,1,0,0
+6-25,0,M,25,2014,Nigeria,0,0,0
+1-5,0,M,29,2014,Poland,0,0,0
+1-5,0,M,32,2014,Germany,0,0,0
+More than 1000,1,M,30,2014,United Kingdom,0,1,0
+6-25,0,M,31,2014,Germany,0,0,0
+More than 1000,0,W,20,2014,Switzerland,0,0,0
+1-5,0,M,27,2014,United Kingdom,0,1,0
+More than 1000,0,M,32,2014,United States,1,0,0
+1-5,0,M,26,2014,Ireland,0,0,0
+More than 1000,0,M,30,2014,Italy,0,0,0
+26-100,1,M,30,2014,Ireland,0,0,0
+1-5,0,M,22,2014,India,0,0,0
+More than 1000,0,M,24,2014,Ireland,0,0,0
+26-100,0,M,26,2014,Netherlands,0,0,0
+100-500,0,M,43,2014,France,0,0,0
+26-100,0,M,26,2014,Russia,0,0,0
+6-25,0,M,23,2014,United States,1,0,0
+100-500,0,M,26,2014,Canada,0,0,1
+100-500,0,W,26,2014,Israel,0,0,0
+26-100,0,M,35,2014,Canada,0,0,1
+26-100,1,M,28,2014,United States,1,0,0
+26-100,0,M,22,2014,India,0,0,0
+6-25,1,W,29,2014,United States,1,0,0
+1-5,0,M,29,2014,Germany,0,0,0
+1-5,1,M,45,2014,United States,1,0,0
+26-100,1,M,33,2014,Bulgaria,0,0,0
+More than 1000,1,M,38,2014,United States,1,0,0
+26-100,1,W,19,2014,United States,1,0,0
+More than 1000,1,W,29,2014,Canada,0,0,1
+6-25,0,W,21,2014,United Kingdom,0,1,0
+More than 1000,1,W,23,2014,India,0,0,0
+More than 1000,1,W,33,2014,United States,1,0,0
+100-500,1,M,49,2014,United States,1,0,0
+26-100,0,M,28,2014,United States,1,0,0
+6-25,1,W,27,2014,United Kingdom,0,1,0
+6-25,1,M,23,2014,Canada,0,0,1
+1-5,0,M,29,2014,Netherlands,0,0,0
+26-100,0,M,30,2014,Germany,0,0,0
+More than 1000,0,W,28,2014,Canada,0,0,1
+6-25,0,M,32,2014,United Kingdom,0,1,0
+26-100,1,M,32,2014,United Kingdom,0,1,0
+100-500,0,M,37,2014,France,0,0,0
+More than 1000,0,W,39,2014,United States,1,0,0
+500-1000,0,M,31,2014,France,0,0,0
+6-25,0,M,29,2014,United States,1,0,0
+100-500,0,M,30,2014,United States,1,0,0
+1-5,1,M,33,2014,United States,1,0,0
+100-500,1,M,37,2014,United States,1,0,0
+26-100,1,M,23,2014,United States,1,0,0
+26-100,1,M,43,2014,United States,1,0,0
+100-500,1,M,32,2014,United Kingdom,0,1,0
+26-100,0,M,26,2014,United States,1,0,0
+1-5,1,M,32,2014,United States,1,0,0
+26-100,0,W,37,2014,United States,1,0,0
+26-100,1,M,29,2014,United States,1,0,0
+6-25,0,M,34,2014,United Kingdom,0,1,0
+6-25,0,M,27,2014,France,0,0,0
+100-500,0,M,30,2014,United States,1,0,0
+6-25,0,M,29,2014,United States,1,0,0
+1-5,1,M,32,2014,United States,1,0,0
+500-1000,0,M,25,2014,Germany,0,0,0
+6-25,0,M,37,2014,United States,1,0,0
+6-25,0,M,29,2014,Netherlands,0,0,0
+26-100,0,M,27,2014,United States,1,0,0
+6-25,0,M,33,2014,United Kingdom,0,1,0
+More than 1000,1,M,30,2014,Canada,0,0,1
+1-5,0,M,29,2014,Canada,0,0,1
+6-25,1,M,25,2014,United States,1,0,0
+1-5,1,M,33,2014,United States,1,0,0
+100-500,0,M,31,2014,South Africa,0,0,0
+6-25,0,M,21,2014,Germany,0,0,0
+26-100,1,M,30,2014,Switzerland,0,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+1-5,1,M,43,2014,Croatia,0,0,0
+6-25,1,M,37,2014,United Kingdom,0,1,0
+26-100,0,M,24,2014,France,0,0,0
+6-25,0,M,29,2014,United States,1,0,0
+26-100,0,M,31,2014,United States,1,0,0
+100-500,0,M,5,2014,United States,1,0,0
+100-500,0,M,33,2014,United Kingdom,0,1,0
+More than 1000,0,M,43,2014,United States,1,0,0
+26-100,1,M,33,2014,United Kingdom,0,1,0
+6-25,0,M,27,2014,United Kingdom,0,1,0
+More than 1000,1,M,36,2014,United States,1,0,0
+26-100,1,M,37,2014,Australia,0,0,0
+6-25,0,M,32,2014,Belgium,0,0,0
+100-500,1,M,39,2014,United Kingdom,0,1,0
+26-100,1,M,31,2014,United States,1,0,0
+100-500,1,M,36,2014,United States,1,0,0
+26-100,1,M,30,2014,United States,1,0,0
+6-25,0,M,28,2014,Canada,0,0,1
+6-25,0,M,32,2014,Italy,0,0,0
+6-25,1,M,35,2014,United States,1,0,0
+26-100,1,M,19,2014,Canada,0,0,1
+26-100,0,M,33,2014,Norway,0,0,0
+More than 1000,0,M,42,2014,Germany,0,0,0
+100-500,1,M,37,2014,United States,1,0,0
+6-25,0,M,40,2014,Thailand,0,0,0
+More than 1000,0,M,36,2014,United States,1,0,0
+26-100,1,W,29,2014,United States,1,0,0
+26-100,1,W,38,2014,United States,1,0,0
+More than 1000,1,M,26,2014,United States,1,0,0
+26-100,0,M,34,2014,Germany,0,0,0
+More than 1000,1,M,21,2014,United States,1,0,0
+1-5,0,M,31,2014,Canada,0,0,1
+26-100,1,W,37,2014,United States,1,0,0
+1-5,1,M,37,2014,Ireland,0,0,0
+1-5,1,M,38,2014,Ireland,0,0,0
+100-500,1,W,27,2014,United States,1,0,0
+6-25,0,M,39,2014,Netherlands,0,0,0
+1-5,1,W,33,2014,United States,1,0,0
+26-100,0,M,27,2014,United Kingdom,0,1,0
+6-25,1,W,36,2014,United States,1,0,0
+26-100,0,M,28,2014,United Kingdom,0,1,0
+500-1000,1,M,39,2014,United Kingdom,0,1,0
+1-5,1,M,33,2014,United States,1,0,0
+More than 1000,0,M,32,2014,United Kingdom,0,1,0
+More than 1000,0,M,28,2014,United Kingdom,0,1,0
+6-25,1,M,37,2014,United Kingdom,0,1,0
+100-500,1,M,39,2014,Canada,0,0,1
+6-25,0,M,43,2014,United States,1,0,0
+More than 1000,1,O,32,2014,United Kingdom,0,1,0
+More than 1000,0,W,27,2014,United States,1,0,0
+6-25,0,W,31,2014,United Kingdom,0,1,0
+26-100,1,M,43,2014,United Kingdom,0,1,0
+6-25,1,M,33,2014,United States,1,0,0
+More than 1000,1,M,34,2014,United Kingdom,0,1,0
+1-5,0,M,33,2014,United States,1,0,0
+6-25,0,M,25,2014,United States,1,0,0
+More than 1000,1,M,25,2014,United States,1,0,0
+1-5,0,M,32,2014,United Kingdom,0,1,0
+26-100,1,M,25,2014,United States,1,0,0
+100-500,0,M,37,2014,Netherlands,0,0,0
+More than 1000,1,M,39,2014,Switzerland,0,0,0
+100-500,0,M,29,2014,United Kingdom,0,1,0
+More than 1000,1,M,33,2014,United States,1,0,0
+6-25,1,W,37,2014,United States,1,0,0
+100-500,1,W,35,2014,United States,1,0,0
+More than 1000,1,W,22,2014,United States,1,0,0
+26-100,0,M,38,2014,United States,1,0,0
+100-500,1,W,32,2014,United States,1,0,0
+26-100,0,M,28,2014,Brazil,0,0,0
+26-100,0,M,27,2014,Switzerland,0,0,0
+100-500,1,W,35,2014,United States,1,0,0
+100-500,0,M,29,2014,United States,1,0,0
+6-25,1,M,23,2014,United States,1,0,0
+26-100,0,M,39,2014,United States,1,0,0
+More than 1000,0,W,30,2014,United States,1,0,0
+26-100,0,M,32,2014,United Kingdom,0,1,0
+26-100,1,W,28,2014,United States,1,0,0
+100-500,1,W,40,2014,United States,1,0,0
+6-25,0,W,36,2014,United States,1,0,0
+26-100,0,M,27,2014,United States,1,0,0
+More than 1000,0,M,41,2014,United States,1,0,0
+6-25,0,M,29,2014,United Kingdom,0,1,0
+100-500,1,M,29,2014,United Kingdom,0,1,0
+1-5,1,M,35,2014,United States,1,0,0
+6-25,1,M,28,2014,United States,1,0,0
+1-5,0,W,36,2014,United Kingdom,0,1,0
+26-100,0,W,39,2014,United States,1,0,0
+500-1000,1,M,39,2014,United States,1,0,0
+1-5,1,M,44,2014,United States,1,0,0
+6-25,1,O,26,2014,Germany,0,0,0
+1-5,1,M,35,2014,Denmark,0,0,0
+100-500,1,W,40,2014,United States,1,0,0
+1-5,1,M,35,2014,Denmark,0,0,0
+More than 1000,0,M,38,2014,United States,1,0,0
+More than 1000,0,M,34,2014,United States,1,0,0
+More than 1000,0,M,43,2014,United States,1,0,0
+26-100,0,W,48,2014,United States,1,0,0
+26-100,0,M,20,2014,United States,1,0,0
+1-5,0,M,40,2014,United States,1,0,0
+6-25,1,W,29,2014,United Kingdom,0,1,0
+1-5,1,M,35,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+100-500,0,M,40,2014,United States,1,0,0
+6-25,1,M,29,2014,Sweden,0,0,0
+100-500,1,W,29,2014,United States,1,0,0
+1-5,1,M,34,2014,United States,1,0,0
+500-1000,1,M,44,2014,United Kingdom,0,1,0
+6-25,1,W,24,2014,United States,1,0,0
+100-500,0,W,47,2014,United States,1,0,0
+More than 1000,0,M,43,2014,United Kingdom,0,1,0
+More than 1000,0,M,36,2014,United States,1,0,0
+More than 1000,1,M,43,2014,United States,1,0,0
+6-25,0,M,36,2014,United Kingdom,0,1,0
+100-500,1,W,31,2014,United States,1,0,0
+More than 1000,0,M,35,2014,United States,1,0,0
+26-100,0,M,33,2014,United States,1,0,0
+26-100,0,M,37,2014,Italy,0,0,0
+100-500,1,M,34,2014,United States,1,0,0
+1-5,1,M,36,2014,Netherlands,0,0,0
+1-5,1,M,40,2014,United States,1,0,0
+More than 1000,0,M,40,2014,United States,1,0,0
+1-5,1,M,42,2014,United States,1,0,0
+26-100,0,M,23,2014,United States,1,0,0
+6-25,0,M,21,2014,United Kingdom,0,1,0
+6-25,0,M,26,2014,Canada,0,0,1
+6-25,0,M,31,2014,United States,1,0,0
+More than 1000,0,M,25,2014,United States,1,0,0
+More than 1000,0,M,51,2014,United States,1,0,0
+6-25,0,M,24,2014,United States,1,0,0
+100-500,0,M,33,2014,United States,1,0,0
+6-25,1,M,32,2014,United Kingdom,0,1,0
+6-25,1,M,32,2014,United Kingdom,0,1,0
+1-5,1,M,26,2014,United Kingdom,0,1,0
+100-500,0,M,23,2014,United States,1,0,0
+6-25,1,M,33,2014,United States,1,0,0
+More than 1000,1,M,46,2014,United States,1,0,0
+6-25,0,M,34,2014,United Kingdom,0,1,0
+6-25,1,M,35,2014,United States,1,0,0
+1-5,0,M,39,2014,United States,1,0,0
+1-5,0,M,32,2014,Germany,0,0,0
+More than 1000,0,M,43,2014,Mexico,0,0,0
+More than 1000,1,M,56,2014,United States,1,0,0
+100-500,1,W,32,2014,United Kingdom,0,1,0
+26-100,0,M,41,2014,United Kingdom,0,1,0
+More than 1000,0,M,39,2014,United States,1,0,0
+500-1000,0,M,37,2014,United States,1,0,0
+6-25,1,M,30,2014,United States,1,0,0
+26-100,0,M,31,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+More than 1000,0,W,23,2014,United Kingdom,0,1,0
+26-100,1,M,31,2014,United States,1,0,0
+26-100,1,M,29,2014,United States,1,0,0
+26-100,0,M,30,2014,United States,1,0,0
+500-1000,0,M,37,2014,United States,1,0,0
+1-5,0,M,36,2014,United States,1,0,0
+26-100,1,M,35,2014,United States,1,0,0
+500-1000,0,M,41,2014,United States,1,0,0
+6-25,1,M,31,2014,United Kingdom,0,1,0
+500-1000,0,M,38,2014,United Kingdom,0,1,0
+100-500,0,M,26,2014,India,0,0,0
+More than 1000,0,M,39,2014,United States,1,0,0
+6-25,0,M,42,2014,United States,1,0,0
+1-5,1,M,32,2014,United States,1,0,0
+100-500,0,M,29,2014,United States,1,0,0
+100-500,0,M,30,2014,United States,1,0,0
+500-1000,1,M,40,2014,United States,1,0,0
+100-500,0,M,51,2014,United States,1,0,0
+More than 1000,0,M,33,2014,United States,1,0,0
+1-5,1,M,34,2014,Germany,0,0,0
+1-5,0,M,50,2014,United States,1,0,0
+26-100,0,M,24,2014,United States,1,0,0
+26-100,1,M,25,2014,United States,1,0,0
+26-100,1,M,43,2014,United Kingdom,0,1,0
+1-5,1,W,25,2014,United States,1,0,0
+1-5,0,M,24,2014,United Kingdom,0,1,0
+1-5,0,M,51,2014,United States,1,0,0
+More than 1000,1,M,49,2014,United States,1,0,0
+More than 1000,0,M,30,2014,United States,1,0,0
+More than 1000,1,W,25,2014,United States,1,0,0
+500-1000,1,M,36,2014,United States,1,0,0
+More than 1000,1,M,48,2014,United States,1,0,0
+6-25,1,M,48,2014,Australia,0,0,0
+6-25,1,M,53,2014,United States,1,0,0
+6-25,1,W,24,2014,United Kingdom,0,1,0
+26-100,1,M,33,2014,United States,1,0,0
+6-25,1,W,25,2014,Canada,0,0,1
+26-100,1,M,30,2014,United Kingdom,0,1,0
+1-5,0,M,30,2014,United States,1,0,0
+1-5,1,M,34,2014,United Kingdom,0,1,0
+More than 1000,0,M,31,2014,United States,1,0,0
+More than 1000,1,W,22,2014,United States,1,0,0
+6-25,0,M,28,2014,United States,1,0,0
+26-100,1,M,35,2014,United States,1,0,0
+26-100,1,M,28,2014,United States,1,0,0
+More than 1000,1,M,42,2014,New Zealand,0,0,0
+500-1000,0,M,33,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+500-1000,0,M,43,2014,United States,1,0,0
+26-100,0,M,29,2014,United States,1,0,0
+100-500,0,M,25,2014,United States,1,0,0
+100-500,0,M,31,2014,United States,1,0,0
+6-25,1,W,35,2014,United States,1,0,0
+1-5,0,M,34,2014,United States,1,0,0
+100-500,1,M,43,2014,United States,1,0,0
+100-500,1,M,38,2014,United States,1,0,0
+More than 1000,1,M,26,2014,United States,1,0,0
+1-5,1,M,38,2014,United Kingdom,0,1,0
+6-25,1,M,42,2014,United States,1,0,0
+6-25,1,M,33,2014,Netherlands,0,0,0
+More than 1000,1,M,32,2014,United States,1,0,0
+6-25,1,M,44,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United States,1,0,0
+More than 1000,1,M,40,2014,United States,1,0,0
+500-1000,1,W,31,2014,United States,1,0,0
+100-500,0,M,32,2014,United States,1,0,0
+More than 1000,1,M,28,2014,United States,1,0,0
+26-100,1,M,39,2014,United States,1,0,0
+More than 1000,0,M,45,2014,United States,1,0,0
+More than 1000,1,M,43,2014,United States,1,0,0
+More than 1000,1,M,35,2014,United States,1,0,0
+6-25,1,M,40,2014,United States,1,0,0
+26-100,1,M,34,2014,Netherlands,0,0,0
+26-100,1,M,24,2014,United Kingdom,0,1,0
+1-5,1,M,61,2014,South Africa,0,0,0
+6-25,1,W,36,2014,United States,1,0,0
+6-25,0,M,38,2014,United States,1,0,0
+26-100,1,M,33,2014,Germany,0,0,0
+More than 1000,0,M,30,2014,United States,1,0,0
+1-5,1,M,34,2014,Netherlands,0,0,0
+More than 1000,1,M,26,2014,United States,1,0,0
+More than 1000,0,M,33,2014,United Kingdom,0,1,0
+6-25,0,M,32,2014,United Kingdom,0,1,0
+6-25,0,M,25,2014,Germany,0,0,0
+26-100,1,M,35,2014,Germany,0,0,0
+1-5,0,M,24,2014,United Kingdom,0,1,0
+More than 1000,1,M,55,2014,United Kingdom,0,1,0
+1-5,1,M,33,2014,United Kingdom,0,1,0
+1-5,1,W,26,2014,United Kingdom,0,1,0
+6-25,0,M,25,2014,United Kingdom,0,1,0
+100-500,0,M,45,2014,United Kingdom,0,1,0
+1-5,1,W,33,2014,United Kingdom,0,1,0
+More than 1000,0,M,43,2014,United States,1,0,0
+6-25,1,M,30,2014,United Kingdom,0,1,0
+6-25,1,M,40,2014,United States,1,0,0
+More than 1000,0,M,49,2014,United States,1,0,0
+6-25,0,M,29,2014,Germany,0,0,0
+500-1000,0,M,26,2014,Germany,0,0,0
+More than 1000,0,M,38,2014,United States,1,0,0
+500-1000,0,M,27,2014,France,0,0,0
+6-25,0,M,26,2014,Belgium,0,0,0
+26-100,1,M,28,2014,United Kingdom,0,1,0
+1-5,1,M,40,2014,United States,1,0,0
+1-5,1,W,37,2014,Canada,0,0,1
+26-100,1,W,34,2014,United Kingdom,0,1,0
+100-500,1,M,28,2014,United States,1,0,0
+26-100,0,M,27,2014,Canada,0,0,1
+6-25,1,M,29,2014,United Kingdom,0,1,0
+500-1000,0,W,39,2014,United Kingdom,0,1,0
+6-25,0,M,28,2014,United Kingdom,0,1,0
+26-100,0,M,23,2014,United States,1,0,0
+1-5,1,O,8,2014,"Bahamas, The",0,0,0
+1-5,0,M,38,2014,United Kingdom,0,1,0
+6-25,0,M,19,2014,United Kingdom,0,1,0
+26-100,1,W,30,2014,United States,1,0,0
+1-5,0,M,28,2014,United Kingdom,0,1,0
+26-100,1,M,20,2014,India,0,0,0
+1-5,0,M,35,2014,United Kingdom,0,1,0
+100-500,1,M,39,2014,United States,1,0,0
+More than 1000,0,W,31,2014,United States,1,0,0
+500-1000,0,M,32,2014,United Kingdom,0,1,0
+6-25,0,M,27,2014,Sweden,0,0,0
+6-25,1,M,25,2014,United States,1,0,0
+6-25,1,M,42,2014,United States,1,0,0
+100-500,1,M,34,2014,United States,1,0,0
+26-100,1,W,26,2014,United States,1,0,0
+1-5,1,M,35,2014,United Kingdom,0,1,0
+500-1000,0,M,34,2014,United Kingdom,0,1,0
+100-500,1,M,38,2014,United States,1,0,0
+100-500,0,M,34,2014,United States,1,0,0
+6-25,1,M,39,2014,United States,1,0,0
+100-500,0,W,44,2014,United States,1,0,0
+More than 1000,0,M,40,2014,United States,1,0,0
+1-5,0,W,33,2014,United States,1,0,0
+More than 1000,0,W,24,2014,United States,1,0,0
+26-100,0,W,38,2014,United States,1,0,0
+More than 1000,0,M,31,2014,United States,1,0,0
+100-500,0,M,23,2014,Israel,0,0,0
+6-25,0,W,26,2014,United States,1,0,0
+More than 1000,1,W,46,2014,United States,1,0,0
+26-100,1,M,30,2014,United States,1,0,0
+26-100,0,M,25,2014,United States,1,0,0
+26-100,0,M,19,2014,Canada,0,0,1
+500-1000,1,W,30,2014,United States,1,0,0
+6-25,0,M,32,2014,United States,1,0,0
+6-25,0,M,32,2014,United Kingdom,0,1,0
+26-100,0,M,37,2014,United States,1,0,0
+6-25,1,M,42,2014,United States,1,0,0
+More than 1000,0,W,25,2014,United States,1,0,0
+1-5,0,M,19,2014,United States,1,0,0
+100-500,0,W,40,2014,United States,1,0,0
+More than 1000,0,M,34,2014,United States,1,0,0
+6-25,0,M,26,2014,United States,1,0,0
+6-25,1,M,31,2014,United States,1,0,0
+More than 1000,0,M,40,2014,United States,1,0,0
+26-100,1,W,31,2014,United States,1,0,0
+100-500,0,M,36,2014,United States,1,0,0
+6-25,0,M,35,2014,Canada,0,0,1
+26-100,1,M,26,2014,Australia,0,0,0
+More than 1000,0,M,44,2014,United States,1,0,0
+1-5,0,W,34,2014,United States,1,0,0
+6-25,0,M,35,2014,United States,1,0,0
+26-100,1,W,28,2014,United States,1,0,0
+6-25,0,M,33,2014,United States,1,0,0
+More than 1000,1,M,40,2014,United States,1,0,0
+6-25,1,M,26,2014,United States,1,0,0
+More than 1000,1,W,29,2014,United Kingdom,0,1,0
+100-500,1,W,26,2014,Canada,0,0,1
+6-25,1,M,33,2014,Italy,0,0,0
+100-500,0,M,28,2014,Brazil,0,0,0
+1-5,1,M,41,2014,United States,1,0,0
+1-5,1,M,39,2014,United Kingdom,0,1,0
+More than 1000,1,W,26,2014,United States,1,0,0
+26-100,0,W,23,2014,United States,1,0,0
+More than 1000,1,M,35,2014,Switzerland,0,0,0
+1-5,0,M,36,2014,United States,1,0,0
+More than 1000,0,M,42,2014,United States,1,0,0
+500-1000,1,M,39,2014,United States,1,0,0
+6-25,0,M,27,2014,United States,1,0,0
+6-25,0,M,33,2014,United States,1,0,0
+More than 1000,1,M,31,2014,Canada,0,0,1
+6-25,1,W,28,2014,United States,1,0,0
+More than 1000,1,W,29,2014,United States,1,0,0
+100-500,1,M,27,2014,United States,1,0,0
+1-5,0,M,44,2014,United States,1,0,0
+6-25,1,M,25,2014,United States,1,0,0
+6-25,1,M,24,2014,Germany,0,0,0
+6-25,1,M,25,2014,South Africa,0,0,0
+6-25,0,M,34,2014,United States,1,0,0
+More than 1000,0,M,26,2014,United States,1,0,0
+26-100,0,M,48,2014,United States,1,0,0
+26-100,0,M,34,2014,Greece,0,0,0
+6-25,1,W,39,2014,United States,1,0,0
+More than 1000,0,M,43,2014,United States,1,0,0
+More than 1000,0,M,41,2014,United States,1,0,0
+More than 1000,0,M,25,2014,United States,1,0,0
+100-500,1,M,31,2014,United States,1,0,0
+More than 1000,1,M,40,2014,United States,1,0,0
+1-5,1,M,43,2014,United States,1,0,0
+More than 1000,1,W,27,2014,United States,1,0,0
+26-100,1,W,37,2014,United States,1,0,0
+1-5,1,M,32,2014,Netherlands,0,0,0
+1-5,1,M,25,2014,United States,1,0,0
+1-5,1,M,29,2014,Netherlands,0,0,0
+More than 1000,1,W,30,2014,United States,1,0,0
+26-100,1,W,34,2014,Canada,0,0,1
+1-5,1,M,32,2014,United Kingdom,0,1,0
+6-25,0,M,37,2014,Germany,0,0,0
+More than 1000,1,M,41,2014,Germany,0,0,0
+More than 1000,0,M,38,2014,United States,1,0,0
+26-100,1,M,32,2014,United States,1,0,0
+100-500,1,W,28,2014,United States,1,0,0
+1-5,0,M,11,2014,United States,1,0,0
+100-500,0,M,43,2014,United States,1,0,0
+100-500,1,M,32,2014,United States,1,0,0
+More than 1000,1,M,25,2014,United States,1,0,0
+100-500,1,M,37,2014,United States,1,0,0
+1-5,1,M,36,2014,United States,1,0,0
+6-25,1,M,24,2014,United States,1,0,0
+More than 1000,1,M,40,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+500-1000,0,M,43,2014,United States,1,0,0
+6-25,0,M,29,2014,United States,1,0,0
+100-500,0,M,26,2014,United States,1,0,0
+1-5,1,W,33,2014,Canada,0,0,1
+6-25,0,W,35,2014,United States,1,0,0
+6-25,0,M,45,2014,United States,1,0,0
+6-25,1,M,25,2014,United States,1,0,0
+26-100,1,M,50,2014,France,0,0,0
+26-100,1,M,26,2014,Australia,0,0,0
+More than 1000,1,W,33,2014,United States,1,0,0
+6-25,0,M,30,2014,India,0,0,0
+6-25,1,M,33,2014,Croatia,0,0,0
+6-25,1,M,29,2014,France,0,0,0
+6-25,0,M,37,2014,Germany,0,0,0
+1-5,1,M,25,2014,United States,1,0,0
+More than 1000,0,M,40,2014,United States,1,0,0
+26-100,0,M,24,2014,Canada,0,0,1
+100-500,1,M,40,2014,United Kingdom,0,1,0
+6-25,1,M,46,2014,United States,1,0,0
+More than 1000,1,M,38,2014,United States,1,0,0
+1-5,0,M,34,2014,United States,1,0,0
+1-5,1,M,32,2014,United Kingdom,0,1,0
+More than 1000,1,M,44,2014,United Kingdom,0,1,0
+100-500,1,W,33,2014,United Kingdom,0,1,0
+26-100,1,W,45,2014,United States,1,0,0
+6-25,0,M,35,2014,United States,1,0,0
+1-5,1,M,26,2014,Germany,0,0,0
+26-100,1,W,20,2014,United States,1,0,0
+6-25,0,M,37,2014,Netherlands,0,0,0
+More than 1000,0,M,28,2014,United States,1,0,0
+26-100,1,W,42,2014,United States,1,0,0
+26-100,0,M,32,2014,United Kingdom,0,1,0
+More than 1000,1,W,36,2014,United States,1,0,0
+26-100,0,M,27,2014,New Zealand,0,0,0
+26-100,0,M,27,2014,New Zealand,0,0,0
+More than 1000,1,M,27,2014,United Kingdom,0,1,0
+26-100,1,M,25,2014,United Kingdom,0,1,0
+6-25,0,M,41,2014,United Kingdom,0,1,0
+6-25,1,M,23,2014,Germany,0,0,0
+More than 1000,1,M,21,2014,United Kingdom,0,1,0
+26-100,1,M,26,2014,Moldova,0,0,0
+More than 1000,0,M,29,2014,Sweden,0,0,0
+More than 1000,0,M,28,2014,Belgium,0,0,0
+More than 1000,0,W,27,2014,United Kingdom,0,1,0
+More than 1000,0,M,23,2014,Israel,0,0,0
+26-100,0,W,26,2014,United States,1,0,0
+1-5,1,M,38,2014,United Kingdom,0,1,0
+More than 1000,1,M,39,2014,United Kingdom,0,1,0
+More than 1000,1,M,35,2014,United States,1,0,0
+6-25,0,M,32,2014,United States,1,0,0
+More than 1000,1,M,32,2014,United States,1,0,0
+6-25,0,M,26,2014,United Kingdom,0,1,0
+100-500,1,M,38,2014,Canada,0,0,1
+26-100,0,W,34,2014,United Kingdom,0,1,0
+26-100,1,M,39,2014,United States,1,0,0
+6-25,0,M,32,2014,Canada,0,0,1
+1-5,0,M,37,2014,Netherlands,0,0,0
+6-25,1,M,31,2014,United Kingdom,0,1,0
+6-25,1,M,30,2014,United States,1,0,0
+More than 1000,0,M,51,2014,Singapore,0,0,0
+26-100,1,M,29,2014,United States,1,0,0
+100-500,0,M,31,2014,United Kingdom,0,1,0
+26-100,0,M,31,2014,India,0,0,0
+6-25,1,M,26,2014,United States,1,0,0
+100-500,1,W,46,2014,United States,1,0,0
+More than 1000,0,M,32,2014,United States,1,0,0
+26-100,1,M,29,2014,United States,1,0,0
+More than 1000,0,M,34,2014,Poland,0,0,0
+6-25,0,M,26,2014,Colombia,0,0,0
+More than 1000,1,W,32,2014,United States,1,0,0
+More than 1000,0,M,29,2014,United States,1,0,0
+More than 1000,0,M,30,2014,United States,1,0,0
+26-100,1,W,40,2014,United States,1,0,0
+1-5,1,M,23,2014,United Kingdom,0,1,0
+26-100,0,M,20,2014,Georgia,0,0,0
+6-25,0,M,38,2014,United States,1,0,0
+100-500,1,W,26,2014,United States,1,0,0
+26-100,0,M,29,2014,United States,1,0,0
+1-5,0,M,40,2014,China,0,0,0
+26-100,1,W,25,2014,Bulgaria,0,0,0
+26-100,1,W,32,2014,United States,1,0,0
+More than 1000,1,M,38,2014,United States,1,0,0
+500-1000,1,W,72,2014,United States,1,0,0
+1-5,1,W,35,2014,United States,1,0,0
+6-25,1,W,28,2014,United States,1,0,0
+100-500,0,W,27,2014,United States,1,0,0
+1-5,0,W,56,2014,United States,1,0,0
+26-100,1,M,38,2014,United States,1,0,0
+26-100,0,W,31,2014,Belgium,0,0,0
+6-25,1,M,40,2014,United States,1,0,0
+100-500,1,M,44,2014,United States,1,0,0
+More than 1000,0,M,34,2014,Canada,0,0,1
+26-100,0,M,37,2014,United Kingdom,0,1,0
+26-100,0,M,38,2014,Italy,0,0,0
+26-100,0,M,27,2014,Germany,0,0,0
+500-1000,1,W,34,2014,Ireland,0,0,0
+1-5,0,W,35,2014,Ireland,0,0,0
+6-25,1,M,34,2014,Ireland,0,0,0
+26-100,1,M,32,2014,United States,1,0,0
+100-500,0,M,25,2014,Ireland,0,0,0
+100-500,1,M,28,2014,Australia,0,0,0
+6-25,1,W,28,2014,United States,1,0,0
+1-5,1,M,31,2014,Brazil,0,0,0
+100-500,0,M,24,2014,United Kingdom,0,1,0
+1-5,1,M,34,2014,Ireland,0,0,0
+6-25,1,M,32,2014,Ireland,0,0,0
+26-100,0,M,34,2014,United Kingdom,0,1,0
+1-5,1,M,23,2014,United States,1,0,0
+100-500,0,M,33,2014,Czech Republic,0,0,0
+26-100,1,M,29,2014,Singapore,0,0,0
+1-5,0,M,24,2014,Ireland,0,0,0
+More than 1000,0,M,45,2014,Ireland,0,0,0
+More than 1000,1,W,34,2014,United Kingdom,0,1,0
+More than 1000,0,M,31,2014,Philippines,0,0,0
+26-100,1,M,33,2014,United States,1,0,0
+6-25,0,M,28,2014,Netherlands,0,0,0
+More than 1000,0,M,27,2014,United Kingdom,0,1,0
+26-100,0,M,42,2014,Ireland,0,0,0
+6-25,0,M,28,2014,Netherlands,0,0,0
+More than 1000,1,M,38,2014,United States,1,0,0
+26-100,1,M,46,2014,United States,1,0,0
+100-500,1,M,46,2014,United States,1,0,0
+1-5,1,W,41,2014,Netherlands,0,0,0
+26-100,0,M,23,2014,United Kingdom,0,1,0
+More than 1000,1,M,24,2014,Ireland,0,0,0
+26-100,1,W,23,2014,Ireland,0,0,0
+More than 1000,0,M,39,2014,Netherlands,0,0,0
+More than 1000,0,W,32,2014,Ireland,0,0,0
+26-100,1,M,25,2014,United States,1,0,0
+6-25,0,M,39,2014,Greece,0,0,0
+6-25,1,W,23,2014,United Kingdom,0,1,0
+6-25,1,M,24,2014,United Kingdom,0,1,0
+More than 1000,1,M,25,2014,United Kingdom,0,1,0
+6-25,1,M,23,2014,United Kingdom,0,1,0
+6-25,1,O,24,2014,United Kingdom,0,1,0
+26-100,1,M,23,2014,Canada,0,0,1
+More than 1000,1,M,60,2014,United States,1,0,0
+26-100,0,M,28,2014,Ireland,0,0,0
+More than 1000,1,M,28,2014,United States,1,0,0
+500-1000,0,M,30,2014,Netherlands,0,0,0
+100-500,1,M,31,2014,Germany,0,0,0
+6-25,1,M,31,2014,Poland,0,0,0
+26-100,1,M,28,2014,Ireland,0,0,0
+More than 1000,1,W,43,2014,United States,1,0,0
+More than 1000,0,W,32,2014,United Kingdom,0,1,0
+100-500,1,M,22,2014,Australia,0,0,0
+100-500,0,M,32,2014,United States,1,0,0
+6-25,1,M,36,2014,Finland,0,0,0
+26-100,1,W,41,2014,United States,1,0,0
+26-100,1,M,30,2014,United States,1,0,0
+26-100,1,M,30,2014,United States,1,0,0
+100-500,1,M,36,2014,South Africa,0,0,0
+100-500,1,M,29,2014,United States,1,0,0
+More than 1000,0,M,36,2014,United States,1,0,0
+26-100,1,M,26,2014,United Kingdom,0,1,0
+26-100,1,M,32,2014,United States,1,0,0
+More than 1000,1,M,34,2014,United States,1,0,0
+100-500,0,W,46,2014,United States,1,0,0
+26-100,1,M,25,2014,United States,1,0,0
