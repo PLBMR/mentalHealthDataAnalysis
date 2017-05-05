@@ -4,6 +4,45 @@ Last Updated: 4/18/2017 6:08 PM
 -Insurance Status, Use of Mental Health Services, and Unmet Need for Mental 
     Health Care in the United States
     --References
-        ---
+        ---13-15: attitudinal barriers
+        ---17: high uninsured rate among people with mental disorders
+        ---14: NSDUH
+        ---19: talks about weighted response rate of NSDUH
+        ---21-22: discusses effectiveness of SAMHSA's models
     --Data
+        ---National Survey on Drug Use and Health (NSDUH)
+            ----"Provides nationally representative estimates of drug use and
+                mental illness for the civilian, noninstitutionalized US
+                population"
+            ----All completed a K6 scale that measures psychological distress
+            ----Completed WHODAS that assesses functional impairment
+            ----SAMHSA built prediction models using K6 and WHODAS to estimate
+                mental illness and serious mental illness
+            ----For barriers, respondents could choose from six structural and
+                eight attitudinal barriers
     --Main Results
+        ---Studied NSDUH to:
+            ----find what proportion of all adults and adults with mental
+                illness receive mental helath treatment and perceive an unmet
+                need for reatment
+            ----what factors are associated with receiving mental health
+                treatment and perceiving an unmet need?
+            ----what barriers to treatment are encountered by adults with mental
+                illness to report an unmet need for treatment?
+            ----how do these patterns and barriers differ by insurance status?
+        ---Used 2011 NSDUH, although we are now up to 2015
+        ---"All logistic regression models were run separately for adults with
+            any mental illness and with serious mental illness"
+        ---Table 1 shows some interesting summary statistics
+    --Questions:
+        ---What is a weighted response rate?
+        ---What is a Kessler-6 (K6) scale?
+        ---How effective are SAMHSA's prediction models? are these models in the
+            public domain?
+        --Is the survey panelized?
+        --What is a design-based F-statistic? How is it different from a typical
+            F-statistic?
+    --Opinion:
+        ---I could use better methods
+        ---I could consider some time-varying factors of NSDUH
+        ---Might want to reproduce their tables in an analysis
