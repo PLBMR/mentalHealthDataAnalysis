@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE codeBook
+SYSTEM "http://www.icpsr.umich.edu/files/DDI/Version2-1.dtd">
+    <codeBook>
+        <docDscr>
+            <citation>
+                <titlStmt>
+                    <titl>National Mental Health Services Survey (N-MHSS), 2015</titl>
+                    <IDNo>50016</IDNo>
+                </titlStmt>
+                <prodStmt>
+                    <producer abbr="ICPSR">
+                        <ExtLink URI="http://www.icpsr.umich.edu/images/icpsr-logo.gif" title="ICPSR Logo" role="image"/>
+                        Inter-university Consortium for Political and Social Research
+                        <ExtLink URI="http://www.icpsr.umich.edu/" title="URL of ICPSR Web Site" />
+                    </producer>
+                </prodStmt>
+                <verStmt>
+                    <version date="2017-05-25"></version>
+                </verStmt>
+                <holdings URI="http://www.icpsr.umich.edu/xmldocs/STUDY/50015.xml"></holdings>
+            </citation>
+        </docDscr>
+        <stdyDscr>
+            <citation>
+                <titlStmt>
+                    <titl>National Mental Health Services Survey (N-MHSS), 2015</titl>
+                    <altTitl>N-MHSS, 2015</altTitl>
+                    <IDNo agency="ICPSR">50016</IDNo>
+                </titlStmt>
+                <rspStmt>
+                    <AuthEnty affiliation="United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality">United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality</AuthEnty>
+                </rspStmt>
+                <prodStmt>
+                    <copyright>
+                        Some instruments administered as part of this
+                        study may contain contents from copyrighted
+                        instruments. Reproductions of the instruments
+                        are provided solely as documentation for
+                        the analysis of the data associated with this
+                        collection. Please contact the data producers for
+                        information on permissions to use the instruments
+                        for other purposes.
+                    </copyright>
+                    <prodDate>Please see full citation.</prodDate>
+                    <fundAg>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality</fundAg>
+                </prodStmt>
+                <distStmt>
+                    <distrbtr abbr="ICPSR" affiliation="Institute for Social Research, University of Michigan" URI="http://www.icpsr.umich.edu">
+                        <ExtLink URI="http://www.icpsr.umich.edu/images/icpsr-logo.gif" title="Logo" />
+                        Inter-university Consortium for Political and Social Research
+                        <ExtLink URI="http://www.icpsr.umich.edu/" title="URL" />
+                    </distrbtr>
+                    <distDate date="2017-05-25">2017-05-25</distDate>
+                </distStmt>
+		<serStmt>
+                   <serName ID="Series500">National Mental Health Services Survey (N-MHSS) Series</serName>
+		</serStmt>
+                 <verStmt>
+                    <version date="2017-05-25">2017-05-25</version>
+                </verStmt>
+                
+                <biblCit>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality. National Mental Health Services Survey (N-MHSS), 2015. ICPSR50015-v2. Ann Arbor, MI: Inter-university Consortium for Political and Social Research[distributor], 2015-04-03. http://doi.org/10.3886/ICPSR50015.v2</biblCit>
+            </citation>
+            <stdyInfo>
+                    <subject>
+                        <keyword vocab="thesaurus">mental health</keyword>
+                        <keyword vocab="thesaurus">mental health services</keyword>
+                        <keyword vocab="thesaurus">treatment facilities</keyword>
+                        <keyword vocab="thesaurus">treatment programs</keyword>
+                        <topcClas source="archive" vocab="ICPSR subject classifications">ICPSR IX. Health Care and Health Facilities</topcClas>
+                        <topcClas source="archive" vocab="SAMHDA subject classifications">SAMHDA XXIV. National Mental Health Services Survey (N-MHSS)</topcClas>
+                    </subject>
+                    <abstract><![CDATA[<p>The <em>National Mental Health Services Survey (N-MHSS)</em> is an annual survey designed to collect statistical information on the numbers and characteristics of all known mental health treatment facilities within the 50 States, the District of Columbia, and the U.S. territories. In every other year, beginning in 2015, the survey also collects statistical information on the numbers and demographic characteristics of persons served in these treatment facilities as of a specified survey reference date. </p>
+<p>The N-MHSS is the only source of national and State-level data on the mental health service delivery system reported by both publicly-operated and privately-operated specialty mental health treatment facilities, including: public psychiatric hospitals; private psychiatric hospitals, non-federal general hospitals with separate psychiatric units; U.S. Department of Veterans Affairs medical centers; residential treatment centers for children; residential treatment centers for adults; outpatient or day treatment or partial hospitalization mental health facilities; and multi-setting (non-hospital) mental health facilities.
+</p>
+<p>The N-MHSS complements the information collected through SAMHSA's survey of substance abuse treatment facilities, the <em>National Survey of Substance Abuse Treatment Services (N-SSATS)</em>. Treatment facility Information from the N-MHSS is used to populate the mental health component of SAMHSA's online Behavioral Health Treatment Services Locator. <ExtLink URI="http://findtreatment.samhsa.gov/" /></p>]]></abstract>
+                    <sumDscr>
+                        <timePrd event="single" date="2015" cycle="P1"> </timePrd>
+                        <collDate event="start" date="2015-04" cycle="P1"> </collDate>
+                        <collDate event="end"   date="2016-01" cycle="P1"> </collDate>
+                        <nation>Please see geographic coverage.</nation>
+                        <geogCover>United States</geogCover>
+                        <universe>The 2015 N-MHSS survey universe included 17,486 facilities across the United States and its jurisdictions. Most facilities in the 2015 N-MHSS frame were identified from the updated database produced after fielding the 2010, 2012, and 2014 N-MHSS, supplemented by the 2015 mental health augmentation and new facilities that states requested be added to the I-BHS.</universe>
+                        <dataKind>survey data</dataKind>
+                    </sumDscr>
+            </stdyInfo>
+            <method>
+                <dataColl>
+                    <sampProc><p>The following types of mental health treatment facilities were included in the 2015 N-MHSS; psychiatric hospitals, non-federal general hospitals with a separate psychiatric unit, VA medical centers, outpatient or day treatment or partial hospitalization mental health facilities, residential treatment centers (RTCs) for children, residential treatment centers (RTCs) for adults, and multi-setting (multi-service, non-hospital) mental health facilities.</p>
+<p>The following types of facilities were excluded from the sample; Department of Defense military treatment facilities, Indian Health Services-administered or tribally-operated facilities, private practitioners or small group practices not licensed as a mental health clinic or center, and jails or prisons.</p></sampProc>
+                    <collMode>mail questionnaire</collMode>
+                    <collMode>telephone interview</collMode>
+                    <collMode>web-based survey</collMode>
+                    <cleanOps>Performed consistency checks.</cleanOps>
+                    <cleanOps>Created variable labels and/or value labels.</cleanOps>
+                    <cleanOps>Standardized missing values.</cleanOps>
+                    <cleanOps>Created online analysis version with question text.</cleanOps>
+                    <cleanOps>Performed recodes and/or calculated derived variables.</cleanOps>
+                    <cleanOps>Checked for undocumented or out-of-range codes.</cleanOps>
+                </dataColl>
+                <notes>As with any data collection effort, certain procedural considerations and data limitations must be taken into account when interpreting data from the 2015 N-MHSS. Some general issues are listed below. Considerations and limitations of specific data items are discussed where the data are presented.</notes>
+                <notes>Multiple responses were allowed for certain questionnaire items (e.g., services provided in non-English languages and type of payment or insurance accepted for mental health treatment services). Tabulations of data for these items include the total number of facilities reporting each response category.</notes>
+                <notes>N-MHSS collects data about facilities, not individual clients. Data on clients represent an aggregate of clients in treatment for each reporting facility.</notes>
+                <notes>The N-MHSS is a voluntary survey and while every effort is made to obtain responses from all known mental health treatment facilities, some facilities did not respond. There was no adjustment for the 8.1 percent facility non-response.</notes>
+                
+            </method>
+            <dataAccs>
+                <setAvail media="online">
+                    <accsPlac URI="http://www.icpsr.umich.edu">Ann Arbor, Mi.:  Inter-university Consortium for Political and Social Research</accsPlac>
+                    <notes>Stata system file(s), rda Data file(s), sav Data file(s), stc Data file(s), tsv Data file(s), Data file(s), and electronic documentation.</notes>
+                </setAvail>
+                <useStmt>
+                    <specPerm>Additional special permissions, where applicable, are described in the restrictions field.</specPerm>
+
+		<conditions>
+		    <![CDATA[
+		    <p>Please read the Terms of Use below. If you agree to them, click on the "I Agree" button to proceed. If you do not agree, you can click on the "I Do Not Agree" button to exit this page.</p><p>These data are distributed under the following terms of use. By continuing past this point to the data retrieval process, you signify your agreement to comply with the requirements as stated below:</p><h2>Privacy of RESEARCH SUBJECTS</h2><p>Any intentional identification of a RESEARCH SUBJECT (whether an individual or an organization) or unauthorized disclosure of his or her confidential information violates the PROMISE OF CONFIDENTIALITY given to the providers of the information. Disclosure of confidential information may also be punishable under federal law. Therefore, users of data agree:</p><ul><li><p>To use these datasets solely for research or statistical purposes and not for re-identification of specific RESEARCH SUBJECTS.</p></li><li><p>To make no use of the identity of any RESEARCH SUBJECT discovered inadvertently and to report any such discovery to CBHSQ and SAMHDA ( <a href="mailto:samhda-support@icpsr.umich.edu">samhda-support@icpsr.umich.edu</a>)</p></li></ul><h2>Citing Data</h2><p>You agree to reference the recommended bibliographic citation in any of your publications that use SAMHSA data. Authors of publications that use SAMHSA data are required to send citations of their published works to ICPSR for inclusion in a database of related publications (<a href="mailto:bibliography@icpsr.umich.edu">bibliography@icpsr.umich.edu</a>).</p><h2>Disclaimer</h2><p>You acknowledge that SAMHSA and ICPSR will bear no responsibility for your use of the data or for your interpretations or inferences based upon such uses.</p><h2>Violations</h2><p>If SAMHSA or ICPSR determines that this terms of use agreement has been violated, then possible sanctions could include:</p><ul><li><p>Report of the violation to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of the user's institution. A range of sanctions are available to institutions including revocation of tenure and termination.</p></li><li><p>If the confidentiality of human subjects has been violated, then report of the violation may be made to the Federal Office for Human Research Protections. This may result in an investigation of the user's institution, which can result in institution-wide sanctions including the suspension of all research grants.</p></li> <li><p>Report of the violation of federal law to the United States Attorney General for possible prosecution.</p></li><li><p>Court awarded payments of damages to any individual(s)/organization(s) harmed by the breach of confidential data.</p></li></ul> <h2>Definitions</h2><dl><dt>CBHSQ</dt><dd>Center for Behavioral Health Statistics and Quality</dd><dt>ICPSR</dt><dd>Inter-university Consortium for Political and Social Research</dd><dt>Promise of confidentiality</dt><dd>A promise to a respondent or research participant that the information the respondent provides will not be disseminated in identifiable form without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. In most cases, federal law protects the confidentiality of the respondent's identity as referenced in the Promise of Confidentiality. Under this condition, names and other identifying information regarding respondents would be confidential.</dd><dt>Research subject</dt><dd>A person or organization that participates in a research study. A research subject may also be called a respondent. A respondent is generally a survey respondent or informant, experimental or observational subject, focus group participant, or any other person providing information to a study.</dd> <dt>SAMHDA</dt><dd>Substance Abuse and Mental Health Data Archive</dd><dt>SAMHSA</dt><dd>Substance Abuse and Mental Health Services Administration</dd></dl>
+		    ]]>
+		    <p>AVAILABLE.  This study is freely available to the general public.</p>
+		</conditions>
+
+		<disclaimer>The original collector of the data, ICPSR,
+		and the relevant funding agency bear no responsibility
+		for use of the data or for interpretations or inferences
+		based upon such uses.  </disclaimer>
+                    </useStmt>
+            </dataAccs>
+            <othrStdyMat>
+                <othRefs>
+                    <citation>
+                        <titlStmt>
+                            <titl>National Mental Health Services Survey (N-MHSS), 2015</titl>
+                        </titlStmt>
+                        <holdings>SDA Component</holdings>
+                    </citation>
+                </othRefs>
+            </othrStdyMat>
+        </stdyDscr>
+        <fileDscr ID="F1">
+            <fileTxt ID="Part1">
+                <fileName>National Mental Health Services Survey (N-MHSS), 2015</fileName>
+                <fileType>DELIMITED DOC RDATA SAS SPSS STATA</fileType>
+            </fileTxt>
+            <notes>39510</notes>
+        </fileDscr>
+    </codeBook>

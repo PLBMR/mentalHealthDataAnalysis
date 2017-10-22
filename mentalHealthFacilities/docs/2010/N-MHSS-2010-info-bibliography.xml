@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE records SYSTEM "http://www.icpsr.umich.edu/files/dtd/RSXML.dtd">
+<records>
+		 <record>
+			<rec-number>118366</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Green-Hennessy, Sharon</author>
+						<author>Hennessy, Kevin D.</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Predictors of seclusion or restraint use within residential treatment centers for children and adolescents</title> 
+		        	<secondary-title>Psychiatric Quarterly</secondary-title>
+			</titles>
+			<dates>
+				<year>2015</year>
+				<pub-dates>
+					<date>2015</date>
+				</pub-dates>
+			</dates>
+			<isbn>0033-2720</isbn>
+			<electronic-resource-num>10.1007/s11126-015-9352-8</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1007/s11126-015-9352-8</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>119861</rec-number>
+			<ref-type name="Journal Article"></ref-type>
+			<contributors>
+				<authors>
+						<author>Kuramoto-Crawford, S. Janet</author>
+						<author>Smith, Kelley E.</author>
+						<author>McKeon, Richard</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Characteristics of U.S. mental health facilities that offer suicide prevention services</title> 
+		        	<secondary-title>PS, Political Science and Politics</secondary-title>
+			</titles>
+			<dates>
+				<year>2015</year>
+				<pub-dates>
+					<date>in press 2015</date>
+				</pub-dates>
+			</dates>
+			<isbn>1049-0965</isbn>
+			<electronic-resource-num>10.1176/appi.ps.201400335</electronic-resource-num>
+				<urls>
+						<web-urls>
+								<url>http://doi.org/10.1176/appi.ps.201400335</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>114997</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Substance Abuse and Mental Health Services Administration</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Mental Health Services Survey (N-MHSS): 2010. Data on Mental Health Treatment Facilities</title> 
+			</titles>
+			<issue>(SMA) 14-4837</issue>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>2014</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.samhsa.gov/data/DASIS/NMHSS2010_Web.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>116020</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Center for Behavioral Health Statistics and Quality</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Introduction to the National Mental Health Services Survey, 2010</title> 
+		        	<secondary-title>N-MHSS Report</secondary-title>
+			</titles>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>Jul 29, 2014</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://samhsa.gov/data/2K14/NMHSS178/sr178-nmhss-introduction-2014.pdf</url>
+						</pdf-urls>
+						<web-urls>
+								<url>http://samhsa.gov/data/2K14/NMHSS178/sr178-nmhss-introduction-2014.htm</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>116306</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Center for Behavioral Health Statistics and Quality</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>More than Half of Mental Health Facilities Offer 
+Suicide Prevention Services</title> 
+		        	<secondary-title>N-MHSS Report</secondary-title>
+			</titles>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>Sep 8, 2014</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.pdf</url>
+						</pdf-urls>
+						<web-urls>
+								<url>http://www.samhsa.gov/data/sites/default/files/N-MHSS-Spot152-SuicidePrev2014/N-MHSS-Spot152-SuicidePrev2014.htm</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>118371</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Center for Behavioral Health Statistics and Quality</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Highlights of the National Mental Health Services Survey, 2010</title> 
+		        	<secondary-title>N-MHSS Report</secondary-title>
+			</titles>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>Aug 7, 2014</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.samhsa.gov/data/sites/default/files/NMHSS-SR191-2010Highlights2014/NMHSS-SR191-2010Highlights2014.pdf</url>
+						</pdf-urls>
+						<web-urls>
+								<url>http://www.samhsa.gov/data/sites/default/files/NMHSS-SR191-2010Highlights2014/NMHSS-SR191-2010Highlights2014.htm</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>117157</rec-number>
+			<ref-type name="Report"></ref-type>
+			<contributors>
+				<authors>
+						<author>Substance Abuse and Mental Health Services Administration</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>About 1 in 4 Mental Health Treatment Facilities Offered Services to Quit Smoking</title> 
+		        	<secondary-title>N-MHSS Report</secondary-title>
+			</titles>
+			<dates>
+				<year>2014</year>
+				<pub-dates>
+					<date>Nov 25, 2014</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Rockville, MD</pub-location>
+			<publisher>Substance Abuse and Mental Health Services Administration</publisher>
+				<urls>
+						<pdf-urls>
+							<url>http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.pdf</url>
+						</pdf-urls>
+						<web-urls>
+								<url>http://www.samhsa.gov/data/sites/default/files/Spot148_NMHSS_Smoking_Cessation/NMHSS-Spot148-QuitSmoking-2014.htm
+</url>
+						</web-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>107418</rec-number>
+			<ref-type name="Conference Proceedings"></ref-type>
+			<contributors>
+				<authors>
+						<author>Salvucci, Sameena Maryam</author>
+						<author>Grau, Eric</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Exploring Nonresponse Bias in a National Health Expenditures Survey of Institutions</title> 
+		        	<secondary-title>2011 Joint Statistical Meeting</secondary-title>
+			</titles>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>Jul-Aug 2011</date>
+				</pub-dates>
+			</dates>
+				<meeting-place>Miami Beach, FL</meeting-place>
+		</record>
+		 <record>
+			<rec-number>107079</rec-number>
+			<ref-type name="Conference Proceedings"></ref-type>
+			<contributors>
+				<authors>
+						<author>Baker, Joseph</author>
+						<author>Gentile, Claudia</author>
+						<author>Markesich,  Jason</author>
+						<author>Marsh, Shawn</author>
+						<author>Weiner, Rebecca</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Ensuring Data Quality: Monitoring Accuracy and Consistency Among Telephone Interview Monitors</title> 
+		        	<secondary-title>66th Annual Conference of the American Association for Public Opinion Research</secondary-title>
+			</titles>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>May 2011</date>
+				</pub-dates>
+			</dates>
+			<publisher>American Association for Public Opinion Research</publisher>
+				<meeting-place>Phoenix, AZ</meeting-place>
+				<urls>
+						<pdf-urls>
+							<url>http://www.amstat.org/sections/srms/proceedings/y2011/Files/400187.pdf</url>
+						</pdf-urls>
+				</urls>
+		</record>
+		 <record>
+			<rec-number>107080</rec-number>
+			<ref-type name="Document"></ref-type>
+			<contributors>
+				<authors>
+						<author>Substance Abuse and Mental Health Services Administration</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>National Mental Health Services Survey (N-MHSS) Supporting Statement</title> 
+			</titles>
+			<dates>
+				<year>2011</year>
+				<pub-dates>
+					<date>2011</date>
+				</pub-dates>
+			</dates>
+			<pub-location>Washington, DC</pub-location>
+			<publisher>Office of Management and Budget, Office of Information and Regulatory Affairs</publisher>
+		</record>
+		 <record>
+			<rec-number>107392</rec-number>
+			<ref-type name="Electronic Source"></ref-type>
+			<contributors>
+				<authors>
+						<author>Whaley, James</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>Aging and Disability in America [blog]</title> 
+			</titles>
+			<dates>
+				<year>2009</year>
+				<pub-dates>
+					<date>Jul 6, 2009</date>
+				</pub-dates>
+			</dates>
+				<urls>
+						<web-urls>
+								<url>http://agenamerica.blogspot.com/2009/07/2010-national-mental-health-services.html</url>
+						</web-urls>
+				</urls>
+		</record>
+</records>

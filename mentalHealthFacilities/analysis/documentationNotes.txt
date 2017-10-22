@@ -1,0 +1,7 @@
+Documentation Notes
+Description: Contains my notes on the documentation for this dataset.
+Last Updated: 9/30/2017 4:03 PM EST
+-2015
+    --Had an 8.1% non-response rate.
+    --Missing value imputation from 2014 (cold-desk imputation)
+    --
