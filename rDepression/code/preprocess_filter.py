@@ -28,8 +28,8 @@ def processData(rawFrame):
 #main process
 
 if __name__ == "__main__":
-    rawFrame = pd.read_csv("../data/raw/allRDepressionData.csv")
-    idFrame, sentDict = processData(rawFrame)
+    rawCommentFrame = pd.read_csv("../data/raw/allRDepressionComments.csv")
+    idFrame, sentDict = processData(rawCommentFrame)
     idFrame.to_csv("../data/preprocessed/idFrame.csv",index = False)
     indentNum = 4
     json.dump(sentDict,open("../data/preprocessed/sentDict.json","wb"),
