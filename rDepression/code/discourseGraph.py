@@ -77,4 +77,4 @@ if __name__ == "__main__":
         newDiscourseGraph.build(givenThreadID,threadFrame,commentFrame)
         discourseGraphList.append(newDiscourseGraph)
     pkl.dump(discourseGraphList,open(
-                        "../data/preprocessed/testingDiscourseGraphs","wb"))
+                    "../data/preprocessed/testingDiscourseGraphs.pkl","wb"))
